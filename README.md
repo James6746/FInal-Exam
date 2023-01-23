@@ -73,3 +73,23 @@
 
 25. “Kamayib boruvchi chekli naflilik”:
 ###Tovarlarning qo'shimcha birligini iste'mol qilishdan olinadigan qoniqishning kamayib borishini anglatadi.
+
+26. Agar tovarning bozordagi muvozanatli narxi iste’molchilarning zarar ko‘rishiga olib kelsa:
+###Davlat tovarning maksimal narxini o'rnatadi
+
+27. Tovar narxining pasayishiga quyidagi omillardan qaysi biri ta’sir ko‘rsatgan?
+###Ishlab chiqarish resurslari narxining pasayganligi
+
+28. Talabning bir omilli funksiyasi qaysi formulada to‘g‘ri berilgan:
+###Qd = f(P)
+
+29. Talabning ko‘p omilli funksiyasi qaysi formulada to‘g‘ri berilgan:
+###Qd = f(P, R, Z, W, Po', Pt, N...)
+
+30. Talabning to‘g‘ri chiziqli tenglamasi qaysi formulada to‘g‘ri berilgan:
+###Qd = a - bP
+
+31. Talab egri chizig‘i nimani anglatadi:
+###Iste'molchilarning turli baholar darajasida sotib olishi mumkin bo'lgan miqdorini anglatadi
+
+32.
