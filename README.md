@@ -1388,4 +1388,1900 @@ B) Diskontlangan pul oqimlarini;
 V) Sof joriy qiymatni;
 G)* Aktivlarning qaytim normasini.
 
+==================================================================================================================================================
+
+
+№1
+
+Qiyinlik darajasi - 2
+Mikroiqtisodiyot nimani o'rganadi:
+iqtisodiy tizimni ifodalovchi alohida xo’jalik subyektlarini batafsil o’rganadi
+daromad, bandlik va ishlab chiqarishning umumiy yoki umumiy darajalarida ishlaydi
+iqtisodiy tizimning alohida segmentlari haqidagi batafsil ma'lumotlarni o'rganadi
+keng yondashuvga asoslanadi
+
+
+№2
+
+Qiyinlik darajasi - 2
+Mukammal va monopolistik raqobat bozorlari o'rtasidagi farq nima?
+Bozorda xaridorlar va sotuvchilar ko'p
+Differensiyalangan mahsulotlar ishlab chiqariladi
+Har bir firma o'z mahsulotiga gorizontal talab egri chizig'iga duch keladi.
+Bir hil mahsulotlar ishlab chiqariladi
+
+
+№3
+
+Qiyinlik darajasi - 2
+Almashtirish effekti nima?
+tovarning nisbiy narxi tushganda unga talab miqdorining oshishi
+tovar narxining pasayishi natijasida tovarga talab miqdorining oshishi
+tovarning nisbiy narxi oshganida unga talab miqdorining oshishi
+tovarning nisbiy narxi tushganda unga talab miqdorining kamayishi
+
+
+№4
+
+Qiyinlik darajasi - 2
+Faqat tovar ishlab chiqarishni tavsiflovchi xususiyatlarni tanlang:
+mahsulotni o'z iste'moli uchun emas, balki sotish uchun ishlab chiqarish
+ijtimoiy mehnat taqsimoti
+mehnatni universallashtirish
+mehnat mahsuli emas, balki inson uchun foydali bo'lgan tovar
+
+
+№5
+
+Qiyinlik darajasi - 2
+Tovar nima?
+narsa boshqa narsaga yoki pulga almashtirilgan
+foydalanish qiymati yoki foydasi bo'lgan narsa
+inson mehnatining mahsuli bo'lgan narsa
+mehnat mahsuli emas, balki inson uchun foydali bo'lgan tovar
+
+
+№6
+
+Qiyinlik darajasi - 2
+Quyidagilardan qaysi biri mutlaq likvidlikka ega?
+Pul
+Aksiya
+Ko `chmas mulk
+Obligatsiyalar
+
+
+№7
+
+Qiyinlik darajasi - 2
+Mulk nima?
+narsalarni o'zlashtirishga nisbatan odamlarning bir-biriga munosabati
+insonning narsaga munosabati
+narsaning o'zi
+ko `chmas mulk
+
+
+№8
+
+Qiyinlik darajasi - 2
+Ushbu belgilarning qaysi biri faqat bozor iqtisodiyotini tavsiflaydi?
+ishlab chiqaruvchilarning iqtisodiy izolyatsiyasi
+iqtisodiy hokimiyat markazlashgan
+iqtisodiy kuch iqtisodiy sub'ektlar o'rtasida taqsimlangan
+asosiy xo’jalik sub’ekti davlat hisoblanadi
+
+№9
+
+Qiyinlik darajasi - 2
+Bozor nima?
+talab va taklifning o'zaro ta'siri, sotuvchilar va xaridorlar o'rtasidagi munosabatlar, mahsulot tovar bo'lgan ayirboshlashning iqtisodiy tizimi
+talab va taklifning o'zaro ta'siri
+sotuvchilar va xaridorlar o'rtasidagi munosabatlar
+mahsulot tovar bo'lgan iqtisodiy ayirboshlash tizimi
+№10
+
+Qiyinlik darajasi - 2
+ taklif qonuni nima?
+taklif etilayotgan mahsulot miqdori va narxi o'rtasidagi to’g’ri proporcional bog'liqlik
+narx va taklif miqdori o'rtasidagi fikr-mulohaza
+talab va taklifning o'zaro ta'siri
+sotuvchilar va xaridorlar o'rtasidagi munosabatlar
+
+
+№11
+
+Qiyinlik darajasi - 2
+Quyidagi holatlarning qaysi birida ko'rsatilgan tovarning taklif egri chizig'i siljimaydi?
+bug'doy narxining oshishi uni sotish hajmining oshishiga olib keldi
+o'rikning yaxshi hosili sotuvchilarni ko'paytirdi
+kameralar narxining pasayishi fotografik plyonkalarni etkazib berishni oshirdi
+spirtli ichimliklarni sotish bo'yicha soliqni kamaytirish ularning taklifini oshirdi
+
+№12
+
+Qiyinlik darajasi - 2
+Tadbirkorlik kapitalini shakllantirishning ichki manbalariga quyidagilar kirmaydi:
+kredit olish
+aktivlarni sotish
+cho'kish fondi
+qat'iy foyda
+№13
+
+Qiyinlik darajasi - 2
+Ushbu so'zlarning qaysi biri "iqtisodiy" so'zi bilan eng yaqin bog'liq?
+Eng kam
+Ozod
+Boy
+Samarali
+
+
+№14
+
+Qiyinlik darajasi - 2
+Iqtisodiy muammolar mavjudligini tushuntiruvchi ikkita sababni tanlang:
+odamlarning cheksiz ehtiyojlari va cheklangan resurslar
+davlatning iqtisodiyotga ta'siri va Yer aholisining o'sishi
+ishsizlik va inflyatsiya
+kapital qo'yilmalarni amalga oshirish uchun cheklangan resurslar
+
+
+№15
+
+Qiyinlik darajasi - 2
+Iqtisodchilar modellarni yaratishda ular:
+vaziyatni soddalashtiradigan takliflarni ishlab chiqishadi
+barcha mavjud ma'lumotlarni o'z ichiga oladi
+matematik modellardan foydalanish kerak
+vaziyatni murakkablashtiradigan taxminlarni ishlab chiqish
+
+
+№16
+
+Qiyinlik darajasi - 2
+Foydalilik funksiya nima?
+Bog’liklik, unga ko'ra turli xil tovarlar to'plamiga qiymat beriladigan, iste'molchining etarli darajada afzalliklari
+tovarlar to'plamining tarkibiy qismlari va ularni sotib olish xarajatlari o'rtasidagi munosabatlar
+iste'molchi sotib olishi mumkin bo'lgan barcha tovarlar to'plamining yig'indisi
+bitta tovar miqdori va umumiy foydalilikka mos keladigan boshqa tovarlar o'rtasidagi munosabat
+
+№17
+
+Qiyinlik darajasi - 2
+Umumiy foyda qachon oshadi?
+Agar foyda oshsa yoki tushsa, lekin u qo'shimcha bo'lib qoladi
+agar marjinal foydalilik oshsa
+agar marjinal foydalilik tushib qolsa
+agar marjinal foydalilik salbiy bo'lsa
+
+№ 18
+
+Qiyinlik darajasi - 2
+Ushbu jami foydalilik qiymatlari ro'yxatidan qaysi biri kamayadigan marjinal foydalilik qonunini ko'rsatadi?
+20,28,34,38
+20,30,40,50
+20,40,80,160
+20,35,55,80
+№19
+
+Qiyinlik darajasi - 2
+Mikroiqtisodiyot nima qiladi?
+iqtisodiy tizimni ifodalovchi alohida xo’jalik subyektlarini batafsil o’rganadi
+daromad, bandlik va ishlab chiqarishning umumiy yoki umumiy darajalarida ishlaydi
+iqtisodiy tizimning alohida segmentlari haqidagi batafsil ma'lumotlarni o'rganadi
+biznes iqtisodiyotini o'rganadi
+
+№20
+
+Qiyinlik darajasi - 2
+Quyidagilardan qaysi biri bozor narxidan kam bo'lmagan marjinal daromadga ega?
+mukammal raqobatchilardan
+monopolistik raqobatchilardan
+monopolistlardan
+kartelda qatnashmaydigan oligopolistlar
+
+№21
+
+Qiyinlik darajasi - 2
+Individual iste'molchi uchun befarqlik egri chizig'ining o'rni va qiyaligi nima bilan izohlanadi?
+faqat uning afzalligi
+uning afzalliklari va daromadlari
+imtiyozlar, daromad darajasi va sotib olingan tovarlar narxi
+faqat narxlar va sotib olingan tovarlar
+№22
+
+Qiyinlik darajasi - 2
+Oligopoliya - bu bozor tuzilishi, unda:
+bir nechta raqobatdosh firmalar
+bir hil mahsulot ishlab chiqaradigan ko'plab raqobatdosh firmalar
+tabaqalashtirilgan mahsulot ishlab chiqaradigan ko'plab raqobatdosh firmalar
+faqat bitta yirik kompaniya
+
+
+№23
+
+Qiyinlik darajasi - 2
+Agar iste'molning istalgan darajasida ikkita tovar o'rtasidagi o'rinbosarlikning chegaraviy darajasi 2/3 bo'lsa, qanday xulosaga kelish mumkin?
+ikkala tovar ham mukammal to'ldiruvchidir
+ikkala tovar ham mukammal o'rnini bosuvchidir
+tovarlarning befarqlik egri chizig'i pastga qarab MRS bilan tavsiflanadi
+tovarlarning befarqlik egri chizig'i kelib chiqishidan tashqariga egri
+
+
+№24
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish imkoniyatlari egri chizig'i qachon to'g'ri chiziq bo'ladi?
+iqtisodiy resurslarning mutlaq almashtirilishi sharoitida
+cheksiz resurslar bilan
+cheklangan resurslar bilan bu mumkin emas.
+Cheksiz kapital bilan
+
+
+№25
+
+Qiyinlik darajasi - 2
+Pul kapitali egasi qanday shaklda daromad oladi?
+Foiz
+ish haqi
+yetib keldi
+tadbirkorlik daromadi
+
+
+№26
+
+Qiyinlik darajasi - 2
+Iqtisodiy tizim quyidagi savollarni hal qiladi?
+nima, qanday va kim uchun ishlab chiqarish
+nima, qaerda, kim uchun
+qachon, nima uchun va kim
+ishsizlik va inflyatsiya sabablari nimada
+
+
+№27
+
+Qiyinlik darajasi - 2
+Alternativ xarajatlar- bu
+ushbu mahsulotni ishlab chiqarishni bir birlikka ko'paytirish uchun qurbon qilinishi kerak bo'lgan boshqa mahsulot miqdori.
+ishlab chiqarish birligini ishlab chiqarishning murakkabligi
+mahsulot birligini ishlab chiqarishning umumiy qiymati
+muqobil texnologik jarayondan foydalangan holda mahsulot birligini ishlab chiqarish xarajatlari
+№28
+
+Qiyinlik darajasi - 2
+Alternativ xarajatlarini oshirish qonuni, agar KVP mavjud bo'lsa, amal qiladimi?
+konveks shakli
+to'g'ri chiziq
+konkav shakli
+har qanday shakl
+
+№29
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish imkoniyatlari chizig’ida bir turdagi mahsulot ishlab chiqarishni ko'paytirish .......
+boshqa turdagi mahsulot ishlab chiqarishning kamayishi bilan
+boshqa mahsulot ishlab chiqarishning ko'payishi bilan
+boshqa turdagi mahsulot ishlab chiqarishning doimiy hajmi bilan
+bu variantlardan har biri mumkin
+
+
+№30
+
+Qiyinlik darajasi - 2
+Asbob-uskuna qaysi ishlab chiqarish omili hisoblanadi?
+ishlab chiqarish vositalariga
+aylanma kapitalga
+tovarlarga
+mehnat ob'ektlariga
+
+
+№31
+
+Qiyinlik darajasi - 2
+Taklif egri chizig'i qachon o'ngga siljishini aniqlang?
+o'rnini bosuvchi mahsulot narxining oshishi
+bu mahsulotning narxi pasayganda
+ishlab chiqaruvchi firmalarga subsidiyalar berishda
+ushbu mahsulotni sotuvchilar sonining ko'payishi bilan
+
+
+№32
+
+Qiyinlik darajasi - 2
+Tovarga bo'lgan talabning narxga nisbatan elastik emas, agar talab narxga nisbatan elastiklik............ bo'lsa
+1 dan kam
+2 dan ortiq
+1 dan katta, lekin 2 dan kichik
+2 dan kam
+
+№33
+
+Qiyinlik darajasi - 2
+Talabning o'zaro elastikligi ............ tavsiflaydi
+bir tovarga talab miqdorining o’zgarishi boshqa tovar narxining o'zgarishi bilan bog’liq
+boshqa mahsulot narxining o'zgarishi uchun bir mahsulot narxi
+bir tovar narxining boshqa tovar taklifining o'zgarishiga
+boshqa tovarga bo'lgan talabning o'zgarishi uchun bir tovarga bo'lgan talab miqdori
+№34
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish omillari deganda nima tushuniladi?
+mehnat, yer, kapital
+ishlab chiqarish xarajatlari va mahsulot rentabelligi
+asosiy va aylanma kapital
+ko'chmas mulk va pul aktivlari
+
+
+№35
+
+Qiyinlik darajasi - 2
+Iqtisodiy tizimning ekstensiv rivojlanishining manbalarini belgilang?
+ishlab chiqarish omillari hajmining oshishi
+ixtirolar va ilmiy ishlanmalar
+yangi texnologiyalar
+xodimlarning malakasini oshirish
+
+
+№36
+
+Qiyinlik darajasi - 2
+Iqtisodiy tizimning intensiv rivojlanish manbalarini belgilang?
+yangi progressiv texnologiyalar
+yangi foydali qazilmalar konlari
+yangi yerlarni o'zlashtirish
+ishlab chiqarish omillari hajmining oshishi
+
+
+№37
+
+Qiyinlik darajasi - 2
+Qaysi atama odamlarning tovarlar va xizmatlar uchun to'lash qobiliyatini va tayyorligini aks ettiradi?
+Talab
+Kerak
+Kerakmas
+Kreditga layoqatlilik
+
+
+№38
+
+Qiyinlik darajasi - 2
+Muayyan mahsulotga bo'lgan talabning bozor hajmining o'zgarishiga sabab 
+yuqoridagi barcha omillar
+iste'molchi daromadi
+iste'molchilarning didi va afzalliklari
+resurslar narxlari
+
+
+№39
+
+Qiyinlik darajasi - 2
+Quyidagi omillardan qaysi biri marjinal xarajatlarga bevosita ta'sir qiladi?
+umumiy xarajatlar
+o'zgaruvchan xarajatlar
+o'rtacha konstantalar
+doimiy xarajatlar
+
+
+№40
+
+Qiyinlik darajasi - 2
+Chiziqli taklif funkciyasining o'ngga parallel siljishi nimani anglatadi?
+taklifning ortishi
+taklifning ma'lum bir necha marta kamayishi
+taklifning kamayishi
+taklifni o'zgartirish quyidagi javoblarda qamrab olinmagan
+
+
+№41
+
+Qiyinlik darajasi - 2
+Muvozanat nuqtasida talab va taklif ma'lum bo'lgan mukammal raqobat bozorida sotish hajmi?
+Maksimal
+Eng kam
+agar narx muvozanat narxidan past bo'lsa, oshirilishi mumkin
+narx muvozanat narxidan yuqori o'rnatilgan bo'lsa, oshirilishi mumkin
+
+
+№42
+
+Qiyinlik darajasi - 2
+Taklif egri chizig'i chapga siljish sababi?
+ishlab chiqaruvchilar sonining qisqarishi
+ishlab chiqarish omillaridan birining narxining pasayishi
+xaridorlar daromadining o'sishi
+ishlab chiqaruvchilarga subsidiyalarni oshirish
+
+
+№43
+
+Qiyinlik darajasi - 2
+Mahsulot taklifining bir vaqtning o'zida o'sishi, unga bo'lgan talabning pasayishi, albatta, nimaga olib keladi?
+muvozanat bahosining pasayishi
+sotishning pasayishi
+sotish hajmining oshishi
+muvozanat bahosining oshishi
+
+
+№44
+
+Qiyinlik darajasi - 2
+Qanday sharoitlarda firma joriy davrda ishlab chiqarishni doimiy narxda oshirishi mumkinligini aniqlang
+agar ma'lum narx darajasiga talab va taklif bir xil miqdorda oshsa
+agar uning mahsulotlariga talab oshsa
+mahsulot yetkazib berish ko'paysa
+agar talab ortib, taklif kamaysa
+
+№45
+
+Qiyinlik darajasi - 2
+Agar mahsulot narxining o'zgarishiga qaramay, umumiy daromad o'zgarmasa, narxga nisbatan elastiklik koeffitsienti?
+1 ga teng
+0 ga teng
+1 dan ortiq
+1 dan kam
+
+
+№46
+
+Qiyinlik darajasi - 2
+Talabning narxga nisbatan elastikligi qanday o'lchanadi?
+miqdorning nisbiy o'zgarishi narxning nisbiy o'zgarishiga bo'linadi
+talab miqdorining o'zgarishi narxning o'zgarishiga bo'linadi
+narxning o'zgarishi talab miqdorining o'zgarishiga bo'linadi
+talab egri chizig'ining qiyaligi
+
+
+№47
+
+Qiyinlik darajasi - 2
+AJ ning bitta akciya egasi......
+sherik 
+Qarz beruvchi
+Qarzdor
+boshqarish
+
+
+№48
+
+Qiyinlik darajasi - 2
+Muayyan kompaniyaning obligatsiyalari egasi uning ......... hisoblanadi
+Qarz beruvchi
+qarzdor
+sherik egasi
+menejer
+№49
+
+Qiyinlik darajasi - 2
+Asosiy vositalarning amortizatsiyasi – bu.....
+asosiy fondlar qiymatini ishlab chiqarilgan mahsulot tannarxiga o'tkazish jarayoni
+asosiy vositalarning amortizatsiyasi
+asosiy vositalarni tiklash
+asosiy vositalarni saqlash xarajatlari
+
+№50
+
+Qiyinlik darajasi - 2
+Amortizatsiya xarajatlari nimalarga sarflanadi?
+eskirgan o'rnini bosadigan mashina va uskunalar sotib olish
+xom ashyo va mashinalarni sotib olish
+ish haqini to'lash
+mashina va uskunalar ijarasi
+
+№51
+
+Qiyinlik darajasi - 2
+Doimiy xarajatlar nima?
+mahsulot ishlab chiqarilmagan taqdirda ham yuzaga keladigan xarajatlar
+firmaning yalpi xarajatlari
+ma'lum miqdordagi mahsulot ishlab chiqarish uchun firma uchun minimal xarajatlar
+mahsulotlarni sotish bilan bog'liq xarajatlar
+
+
+№52
+
+Qiyinlik darajasi - 2
+Taklif etilgan ta'riflardan qaysi biri "marjinal xarajat" tushunchasi uchun eng yaxshisidir?
+qo'shimcha mahsulot birligini ishlab chiqarish xarajatlari
+bozordagi narxlarning 1% ga umumiy o'sishi bilan bog'liq qo'shimcha xarajatlar
+qo'shimcha mahsulot birliklarini ishlab chiqarish uchun zarur bo'lgan o'rtacha o'zgaruvchan xarajatlardan ortiq xarajatlar miqdori
+bozordagi narxlarning 1% ga umumiy pasayishi natijasida kelib chiqadigan qo'shimcha xarajatlar
+
+№53
+
+Qiyinlik darajasi - 2
+Mahsulotlarning rentabelligi -bu ...........
+sotishdan tushgan foydaning sotishdan tushgan daromadga nisbati
+balans foydasining sotilgan mahsulot hajmiga nisbati
+kitob foydasining korxona mulkining o'rtacha qiymatiga nisbati
+kitob foydasining asosiy fondlar va tovar-moddiy zaxiralarning o'rtacha qiymatiga nisbati
+
+№54
+
+Qiyinlik darajasi - 2
+«Korxona rentabelligi» tushunchasi o‘z ichiga ......... oladi
+kapital qiymatining foizi sifatida o'lchanadigan nisbiy daromad
+korxona tomonidan olingan foyda
+foydaning asosiy fondlar va aylanma mablag'larning o'rtacha qiymatiga nisbati
+1 so'm uchun balans foydasi. sotilgan mahsulot hajmi
+
+
+№55
+
+Qiyinlik darajasi - 2
+Kompaniyaning foydasini qanday hisoblash mumkin?
+daromad minus umumiy xarajatlar
+daromad minus soliqlar va amortizatsiya
+daromad minus ish haqi
+daromad minus xom ashyo va materiallar tannarxi
+
+
+№56
+
+Qiyinlik darajasi - 2
+Quyidagi mulohazalardan qaysi biri to‘g‘ri?
+kompaniya, buhgalterlik foyda olishiga qaramay,salbiy iqtisodiy foydaga ega bo’lishi mumkin
+Iqtisodiy foyda har doim buxgalteriya foydasidan oshadi
+iqtisodiy foyda normal va boo yig'indisidir. yetib keldi
+yuqoridagi barcha bayonotlar yolg'ondir
+
+№57
+
+Qiyinlik darajasi - 2
+Quyidagilardan qaysi biri marjinal daromad deyiladi?
+qo'shimcha mahsulot birligini sotishdan tushgan yalpi daromadning o'sishi
+barcha mahsulotlarni sotishdan tushgan tushum
+ushbu mahsulot birligiga hisoblangan daromad
+Iqtisodiy foyda har doim buxgalteriya foydasidan oshadi
+№58
+
+Qiyinlik darajasi - 2
+Quyidagilardan qaysi biri mukammal raqobat uchun shart emas?
+ishlab chiqarishning xilma-xilligi
+bozorga kirish erkinligi
+ko'p sonli sotuvchilar va xaridorlar
+bozordan chiqish erkinligi
+
+
+№59
+
+Qiyinlik darajasi - 2
+Monopolistik raqobat nima bilan tavsiflanadi?
+bozorda faoliyat yurituvchi firmalar turli xil mahsulotlar ishlab chiqaradi
+firmalar bozorga kira olmaydi va undan chiqa olmaydi
+Bozorda cheklangan miqdordagi firmalar mavjud
+bozorga kirish erkinligi
+
+
+№60
+
+Qiyinlik darajasi - 2
+Agar sanoatda ishlab chiqarish bozorni nazorat qiluvchi bir necha firmalar o'rtasida taqsimlangan bo'lsa, unda bunday bozor tuzilmasi ... deyiladi?
+oligopoliya
+mukammal raqobat
+monopolistik raqobat
+monopoliya
+
+
+№61
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish mehnati darajasini ........... tavsiflaydi?
+bir ishchiga to'g'ri keladigan ishlab chiqarish
+kapital unumdorligi, kapital zichligi
+kapital-mehnat nisbati
+Foyda
+
+
+№62
+
+Qiyinlik darajasi - 2
+Yuridik ma’noda investitsiya deganda nima tushuniladi?
+kapital qo'yilmalar
+pul mablag'lari
+maqsadli bank depozitlari
+Aksiya
+
+
+№63
+
+Qiyinlik darajasi - 2
+Uzoq muddatda ishlab chiqarishning barcha omillari qanday hisobga olinadi?
+O'zgaruvchilar
+Doimiy
+umumiy iqtisodiy xarajatlar
+yo'qotilgan foyda
+
+
+№64
+
+Qiyinlik darajasi - 2
+Qaysi ko'rsatkich rentabellik darajasini baholashda ishtirok etmaydi?
+mehnat xarajatlari
+Foyda
+asosiy ishlab chiqarish fondlarining tannarxi
+aylanma kapital qiymati
+
+
+№65
+
+Qiyinlik darajasi - 2
+Qaysi ko'rsatkichni minimallashtirish rentabellik darajasining oshishiga olib keladi?
+xarajatlarni minimallashtirish
+daromadlarni minimallashtirish
+narxlarni minimallashtirish
+ishlab chiqarish hajmini minimallashtirish
+
+№66
+
+Qiyinlik darajasi - 2
+Umumiy foydalilik nima?
+ma'lum miqdordagi tovarlarni iste'mol qilish orqali erishilgan foydalilik darajasi
+ma'lum bir tovardan barcha mumkin bo'lgan foydalanishning foydalari yig'indisi
+iste'molchi erishmoqchi bo'lgan foydalilik darajasi
+iste'molchining daromadi tufayli yuqoriga ko'tarilishiga to'sqinlik qiladigan foydalilik darajasi
+№67
+
+Qiyinlik darajasi - 2
+ishlab chiqarish funktsiyasi?
+resurslarning ma'lum kombinatsiyasidan foydalangan holda mahsulotning maksimal miqdori
+ishlab chiqarishning ma'lum bir hajmi uchun qanday xarajatlar talab etiladi
+berilgan resurs narxlarida firma uchun eng foydali mahsulot
+resurslarning ma'lum kombinatsiyasidan foydalanish mumkin bo'lgan mahsulotning minimal miqdori
+
+
+№67
+
+Qiyinlik darajasi - 2
+Har qanday ishlab chiqarishda umumiy xarajatlar qanday aniqlanadi
+ATC*Q
+ATC-AVC
+AVC*Q
+o'rtacha yashirin xarajatlar + o'rtacha o'zgaruvchan xarajatlar
+
+
+№68
+
+Qiyinlik darajasi - 2
+Mehnatning marjinal mahsuloti nima?
+mehnat sarfini 1 birlikka oshirish orqali olingan mahsulot hajmini oshirish.
+jami ishlab chiqarishning mehnat sarfiga nisbati
+mehnat xarajatlarining turli hajmlaridagi mahsulot hajmi
+belgilangan omillar hajmi
+
+№69
+
+Qiyinlik darajasi - 2
+Taklif narxi -bu
+sotuvchilar bozorda ma'lum miqdordagi tovarni taklif qilishga tayyor bo'lgan minimal narx
+bozorda ma'lum miqdordagi tovarlarni taklif qilishga tayyor bo'lgan maksimal narx
+sotuvchilar o'z tovarlarini bozorda sotadigan minimal narx
+maksimal va minimal savdo narxlarining o'rtacha arifmetik qiymati
+
+
+№70
+
+Qiyinlik darajasi - 2
+doimiy xarajatlarni topish uchun?
+umumiy xarajatlardan o'zgaruvchilarni ayirish
+o'rtacha umumiy xarajatlardan o'rtacha o'zgaruvchan xarajatlarni ayirish
+jami xarajatlardan o'zgaruvchilarni ayirish va ishlab chiqarishga bo'lish
+doimiy xarajatlardan o'zgaruvchilarni ayirish
+
+
+№71
+
+Qiyinlik darajasi - 2
+To'liq raqobatbardosh firma uchun talab egri chizig'i .......ga mos
+marjinal va o'rtacha daromad egri chizig'i
+umumiy daromad egri chizig'i
+umumiy xarajatlar egri chizig'i
+marjinal xarajatlar egri chizig'i
+№72
+
+Qiyinlik darajasi - 2
+Ishlab chiqarishni yo'lga qo'yishga qaror qilgandan so'ng, foydani ko'paytiruvchi har qanday firma qancha miqdorda mahsulot ishlab chiqarishi kerak?
+MR=MC
+ATR = ATC
+o'rtacha xarajat minimal
+umumiy daromad maksimal
+
+
+№73
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish samarali, agar?
+barcha mavjud resurslardan to'liq foydalanilsa
+mehnat resurslaridan to'liq foydalanishni ta'minlaydi
+ishlab chiqarish resurslaridan to'liq foydalanish
+tabiiy resurslardan to'liq foydalanishni ta'minlaydi
+
+
+№74
+
+Qiyinlik darajasi - 2
+Raqobat-bu 
+barcha javoblar to'g'ri
+ishlab chiqaruvchilar eng yuqori foyda uchun kurashadilar
+eng yaxshi natijalarga erishish uchun iqtisodiy raqobatbardoshlik
+xaridorlarning tovarlarni arzon narxlarda sotib olish huquqi uchun kurashi
+№75
+
+Qiyinlik darajasi - 2
+Bir xil mahsulotni turli xaridorlarga turli narxlarda sotish-bu
+narx diskriminatsiyasi
+ilmiy va texnik raqobat
+narxlarni kamsitmaslik
+sanoat-ishlab chiqarish raqobati
+
+
+№76
+
+Qiyinlik darajasi - 2
+Monopoliya-bu
+faqat bitta yirik firma bor
+sanoatga kirishda deyarli aniqlab bo'lmaydigan to'siqlar mavjud
+kam sonli raqobatchi firmalar mavjud
+narx nazorati yo'q
+
+
+№77
+
+Qiyinlik darajasi - 2
+Mahsulot bozori muvozanatda, agar?
+barcha javoblar to'g'ri
+tovarga talab miqdori taklif qilingan miqdorga teng
+Bozorda ortiqcha yoki kamchilik yo'q
+ma'lum bir narxda, xaridorlarning ma'lum miqdordagi tovarni sotib olish niyatlari va sotuvchilarning bir xil miqdordagi tovarni sotish niyatlari.
+
+
+№78
+
+Qiyinlik darajasi - 2
+Asosiy kapitalning elementlari tomonidan iste'mol qiymatini yo'qotish - bu 
+moddiy eskirish
+1-turdagi eskirish
+2-turdagi eskirish
+barcha javoblar noto'g'ri
+
+
+№79
+
+Qiyinlik darajasi - 2
+Iqtisodiy modelni yaratishda ilmiy abstraksiya usulidan foydalanish 
+muammoni hal qilishni osonlashtiradi
+modelni realistik qiladi
+barcha ekzogen parametrlarni hisobga olishga olib keladi
+barcha mavjud resurslardan to'liq foydalanish
+
+
+№80
+
+Qiyinlik darajasi - 2
+Hodisalarni tarkibiy qismlarga aqliy ravishda parchalash va ularni bir-biridan ajratib turadigan o'ziga xoslikni aniqlash uchun uning individual tomonlarini taqsimlash metodi-bu…..
+tahlil
+iqtisodiy tajriba
+sintez
+chegirma
+
+
+№81
+
+Qiyinlik darajasi - 2
+Agar iqtisodiyot yaxlit tizim sifatida o'rganilsa, bu …….. tahlildir
+makroiqtisodiy
+mikroiqtisodiy
+ijobiy
+normativ
+
+
+№82
+
+Qiyinlik darajasi - 2
+Iqtisodiy nazariya o'z tadqiqot doirasiga ……… kiritadi
+barcha iqtisodiy tizimlarni
+faqat bozor iqtisodiyot
+rejali iqtisodiyotdan tashqari barcha tizimlar
+o'tish iqtisodiyotidan tashqari barcha tizimlar
+
+
+№83
+
+Qiyinlik darajasi - 2
+narxlar darajasi va ishsizlikning umumiy darajasini qaysi fan o‘rganadi
+makroiqtisodiyot
+mikroiqtisodiyot
+ijobiy iqtisodiy nazariya
+normativ iqtisodiy nazariya
+
+
+№84
+
+Qiyinlik darajasi - 2
+Iqtisodiy tahlilda farazdan foydalanish
+muammoni hal qilishni osonlashtiradi
+modelni ko'proq qiladi realistik
+tahlilga kiritiladigan savollar sonini oshiradi
+nazariya yoki modelning ichki mantiqini o'zgartiradi
+
+
+№85
+
+Qiyinlik darajasi - 2
+Iqtisodiy faoliyat bosqichlarning to'g'ri ketma-ketligini belgilang 
+ishlab chiqarish, ayirboshlash, jamg'arish, iste'mol qilish
+ayirboshlash, iste'mol, kompensatsiya va jamg'arish, ishlab chiqarish
+kompensatsiya va jamg'arish, ayirboshlash, iste'mol, ishlab chiqarish
+kompensatsiya va jamg'arish, iste'mol, ayirboshlash, ishlab chiqarish
+
+
+№86
+
+Qiyinlik darajasi - 2
+Birinchi marta "takror ishlab chiqarish" atamasini kim ishlatgan
+F. Kene
+Adam Smit
+A. Marshall
+P. Samuelson
+№87
+
+Qiyinlik darajasi - 2
+Kim Iqtisodiyot bo'yicha Nobel mukofoti sovrindori emas
+Jon Meynard Keyns
+Qavat Samuelson
+Vasiliy Leontiev
+A. Marshall
+
+
+№88
+
+Qiyinlik darajasi - 2
+Milliy miqyosda daromadlar va xarajatlarning aylanishi modelida …….
+daromad va xarajatlar harakati resurs bozori va tovar bozori vositachilik qiladi
+mahsuldor sinf, steril sinf va egalar sinfi paydo bo'ladi
+barcha ijtimoiy ishlab chiqarish ikki bo'limga bo'linadi: ishlab chiqarish vositalari ishlab chiqarish va iste'mol tovarlari ishlab chiqarish
+asosiy bo‘g‘ini davlatdir
+
+№89
+
+Qiyinlik darajasi - 2
+Pareto-samaradorlik - bu iqtisodiyotning holati,unda…….
+jamiyatning boshqa a'zosining ahvolini yomonlashtirmasdan turib, kamida bir kishining ehtiyojlarini qondirish darajasini oshirish mumkin emas.
+jamiyatning boshqa a'zosining mavqeini yomonlashtirmasdan, kamida bir kishining ehtiyojlarini qondirish darajasini oshirish mumkin.
+tovarlar va xizmatlar ishlab chiqarishning eng katta hajmiga erishiladi
+Tovar va xizmatlar ishlab chiqarishning eng katta hajmiga erishilmadi
+№90
+
+Qiyinlik darajasi - 2
+Oddiy takror ishlab chiqarish
+o'zgarmagan miqyosda ishlab chiqarishni qayta tiklash
+ishlab chiqarishni qisqartirilgan miqyosda qayta tiklash
+kengaytirilgan o'lchamlarda ishlab chiqarishni qayta tiklash
+Qayta tiklanmaydigan ishlab chiqarish
+
+№91
+
+Qiyinlik darajasi - 2
+Ishlab chiqarishning ekstensiv turi......
+foydalaniladigan ishlab chiqarish omillari sonining ko'payishi natijasida ishlab chiqarish quvvatlarining oshishi
+texnika va texnologiyani takomillashtirish natijasida ishlab chiqarish salohiyatini oshirish
+qo'llaniladigan ishlab chiqarish omillari sonining ko'payishi va texnika va texnologiyani takomillashtirish natijasida ishlab chiqarish quvvatlarining oshishi
+Amaldagi ishlab chiqarish omillari sonining ko'payishi va texnika va texnologiyani takomillashtirish natijasida ishlab chiqarish quvvatlarining pasayishi
+№92
+
+Qiyinlik darajasi - 2
+Intensiv omillarga qaysilari kiradi?
+ishlab chiqarishda fan-texnika taraqqiyoti yutuqlaridan foydalanish
+ishlab chiqarish quvvatlarini kengaytirish
+xodimlar sonining ko'payishi
+Xodimlar sonini qisqartirish
+№93
+
+Qiyinlik darajasi - 2
+Qishloq xo‘jaligida daromadlarni takror ishlab chiqarish va taqsimlash birinchi marta qaysi iqtisodiy maktabda tahlil qilingan? 
+fiziokratlar
+merkantilizm
+marksizm
+marjinalizm
+
+
+№94
+
+Qiyinlik darajasi - 2
+Haqiqiy tuzilmaning samaradorlik darajasi quyidagi omillarga bog'liq
+ishlab chiqarishni monopollashtirish darajasi va ijtimoiy mehnat taqsimotining rivojlanishi
+davlatning iqtisodiyotga aralashuvi darajasi
+mehnat bozorining rivojlanish darajasi
+kapitalning rivojlanish darajasi
+
+
+№95
+
+Qiyinlik darajasi - 2
+Iqtisodiy renta bo’lib hisoblanadi
+daromadning imkoniyat qiymatidan oshib ketishi
+daromadni o'tkazish
+mulkka qo'yilgan kapitaldan foydalanganlik uchun to'lov
+barcha tayyor mahsulot va xizmatlar yig'indisi
+
+
+№96
+
+Qiyinlik darajasi - 2
+Yerning narxini qanday omillar belgilaydi?
+Renta miqdori
+yerga bo'lgan talab
+yer takliflari
+Yer xajmi
+
+
+№97
+
+Qiyinlik darajasi - 2
+rentaning qaysi turi yerning tabiiy sifatdagi farq bilan bog'liq?
+Absolut renta
+differentsial ijara 1
+differensial ijara 2
+differensial ijara 1 va 2
+
+
+№98
+
+Qiyinlik darajasi - 2
+Renta differensiasiyasining sababi nimada ?
+xo'jalik ob'ekti sifatida yerga monopoliya
+xususiy mulk monopoliyasi yer
+unumdorligi va joylashuvi har xil bo'lgan yerlarning mavjudligi
+cheklangan yer
+№99
+
+Qiyinlik darajasi - 2
+Absolut yer rentasi mavjudligining sababi nimada?
+xususiy yerga egalik monopoliyasi
+xo'jalik ob'ekti sifatida erga monopoliya
+har xil sifatli erlarning mavjudligi
+cheklangan yer
+
+
+№100
+
+Qiyinlik darajasi - 2
+Differensial renta I kim tomonidan belgilanadi?
+yer egasi
+ijarachi
+davlat
+mahalliy hokimiyat organlari
+
+
+№101
+
+Qiyinlik darajasi - 2
+renta va ijara o'rtasidagi farq nimada?
+Yerga tikilgan kapitaldan foydalanganlik uchun to'lovdir
+Bu xuddi shunday
+mutlaq va differensial renta yig‘indisidir
+ijaraga ijaraga qo'shimcha ravishda bino va inshootlar ko'rinishidagi kapitaldan foydalanish summasi kiradi
+
+
+№102
+
+Qiyinlik darajasi - 2
+Quyidagi jami foydalilik qiymatlari ro'yxatidan qaysi biri kamayuvchi marjinal foydalilik qonunini ko'rsatadi:
+300; 350; 370; 380;
+300; 400; 500; 600;
+300; 550; 850; 1200;
+300; 500; 1700; 9700;
+
+
+№103
+
+Qiyinlik darajasi - 2
+Gossenning ikkinchi qonuni:
+marjinal foydaliliklarni tenglashtirish qonuni;
+ehtiyojlarni qondirish qonuni;
+marjinal foydaliliklarni tenglashtirish qonuni; ehtiyojlarni qondirish qonuni;
+Talab qonuni
+
+
+№104
+
+Qiyinlik darajasi - 2
+Iqtisodiy xarajatlar
+aniq (tashqi) va yashirin (ichki) xarajatlarni, shu jumladan normal foydani o'z ichiga oladi;
+aniq xarajatlarni o'z ichiga oladi, lekin yashirin xarajatlarni o'z ichiga olmaydi;
+yashirin xarajatlarni o'z ichiga oladi, lekin aniq xarajatlarni o'z ichiga olmaydi;
+aniq va yashirin xarajatlarni o'z ichiga olmaydi;
+№105
+
+Qiyinlik darajasi - 2
+Quyidagi ishlab chiqarish xarajatlarining qaysi biri doimiy xarajatlar ekanligini ko'rsating ( FC )
+zavod menejerining ish haqi
+elektr va suv xarajatlari
+xomashyo sotib olish xarajatlari
+ishchilarning ish haqi
+
+
+№106
+
+Qiyinlik darajasi - 2
+Quyidagi ishlab chiqarish xarajatlarining qaysi biri o‘zgaruvchan ekanligini ko‘rsating. ( VC ):
+elektr va suv xarajatlari
+binolar va jihozlarning amortizatsiyasi
+zavod menejerining ish haqi
+majburiy sug'urta to'lovlari
+
+
+№107
+
+Qiyinlik darajasi - 2
+Korxonaning xomashyoni yetkazib beruvchilardan sotib olishi
+tashqi xarajatlar
+ichki xarajatlarga
+doimiy xarajatlarga
+xarajatlarni boshqarish uchun.
+№108
+
+Qiyinlik darajasi - 2
+Ichki xarajatlarga ........ kiradi:
+korxonaga tegishli resurslarga xarajatlar;
+mahsulot ishlab chiqarish uchun xom ashyo va materiallarni sotib olish xarajatlari;
+korxona tomonidan er uchastkasini sotib olish bilan bog'liq xarajatlar;
+foydalanilgan asbob-uskunalar uchun ijara.
+
+№109
+
+Qiyinlik darajasi - 2
+Tashqi xarajatlarni tarifi:
+mahsulotlarni ishlab chiqarish uchun resurslar va xizmatlarni sotib olish bilan bog'liq xarajatlar;
+korxonaga tegishli resurslarning qiymati;
+ishlab chiqarish zahiralarini to'ldirish uchun xom ashyo va materiallarni sotib olish xarajatlari ;
+ishlab chiqarilgan mahsulotlarni sotishdan tushgan tushumlar
+
+
+№110
+
+Qiyinlik darajasi - 2
+Yalpi xarajatlar:
+doimiy va o'zgaruvchan xarajatlar.
+o'zgaruvchan xarajatlar.
+doimiy xarajatlar.
+O'rtaxarajatlar
+№111
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish omillari egalari quyidagi daromadlarni oladilar:
+ish haqi, renta, foiz, normal foyda
+soliqlar, ajratmalar, ijara to'lovlari, transfer to'lovlari;
+pensiyalar, stipendiyalar , subsidiyalar, qo'rquvsiz to'lovlar;
+Ular hech narsa olishmaydi
+
+
+№112
+
+Qiyinlik darajasi - 2
+Resursga bo’lgan yalpi talab, unga bo'lgan talabning .......... dan bog'liqligini aks ettiradi 
+resurslar narxlari
+marjinal resurslar unumdorligi
+resurs bilan ishlab chiqarilgan mahsulotlarga talab
+boshqa resurslar uchun narxlar
+
+
+№113
+
+Qiyinlik darajasi - 2
+Ishchi kuchi bu:
+insonning mehnat faoliyati uchun qobiliyatlari majmui.
+inson ruhining holati;
+tovar ishlab chiqarish vositasi;
+mehnat faoliyat;
+
+
+№114
+
+Qiyinlik darajasi - 2
+Mehnat bozoridagi narx:
+ish haqi;
+foiz;
+foyda;
+dividend.
+
+
+№115
+
+Qiyinlik darajasi - 2
+Nominal ish haqi
+hisoblangan ish haqi 
+ish haqi va boshqa manbalardan olingan pul tushumlari;
+soliqlar va boshqa to'lovlarni hisobga olmaganda ish haqi;
+foyda
+
+
+№116
+
+Qiyinlik darajasi - 2
+Real ish haqi - bu:
+nominal ish haqiga sotib olingan tovarlar va xizmatlar miqdori;
+soliqlar va boshqa to‘lovlar chegirib tashlanganidan keyin qolgan ish haqi;
+oy davomidagi oila xarajatlari miqdori;
+ish haqi va boshqa manbalardan olingan pul tushumlari;
+
+
+№117
+
+Qiyinlik darajasi - 2
+Investitsiyalar quyidagilardan iborat:
+barcha  turdagi ishlab chiqarish va noishlab chiqarish resurslariga investitsiyalar;
+ko'chmas mulk sotib olish;
+uzoq muddat foydalaniladigan tovarlar, shuningdek valyuta va oltin sotib olish.
+joriy davrda sarflanmagan daromadning bir qismi;
+
+
+№118
+
+Qiyinlik darajasi - 2
+yer ishlab chiqarish omili sifatida boshqa ishlab chiqarish omillaridan farqi:
+Yer miqdori – o’zgarmas, qat'iy, ko'paytirilmaydigan qiymat;
+inson mehnati mahsulidir.
+erkin takrorlanadi;
+Cheklanmagan taklifning haqiqiyligi;
+
+
+№119
+
+Qiyinlik darajasi - 2
+ishlab chiqarish omili sifatida yer taklifi chizig’i:
+x o'qiga nisbatan vertikal;
+x o'qiga nisbatan gorizontal;
+salbiyga ega moyillik;
+aniqlash mumkin emas.
+
+
+№120
+
+Qiyinlik darajasi - 2
+Qo'shilgan qiymat solig'i quyidagilarga nisbatan qo'llaniladi:
+Mulk soliqlari.
+Meros soliqlari.
+Korporativ daromad solig'i.
+progressivdaromad solig'i
+
+
+№121
+
+Qiyinlik darajasi - 2
+Raqobatsizlik va istisno qilmaslik quyidagilarning xususiyatlardir:
+jamoat mollari.
+ishlab chiqarish omillari.
+Sifatsiz tovarlar.
+oddiy tovarlar.
+
+
+№122
+
+Qiyinlik darajasi - 2
+Salbiy tashqi ta'sirlar mahsulotning …….. sabab bo'ladi:
+ haddan tashqari ko'p miqdorda ishlab chiqariladi va unga asossiz past narxlar belgilanadi.
+U kam miqdorda ishlab chiqariladi va unga asossiz yuqori narxlar belgilanadi.
+Ishlab chiqarilmagan.
+U haddan tashqari ishlab chiqarilgan va juda past narxga ega.
+
+
+№123
+
+Qiyinlik darajasi - 2
+Mexnat xaqi uchun marjinal xarajatlar:
+Qo'shimcha ishchini yollashda jami mehnat xarajatlarining o'sishini ifodalaydi.
+Monopolist uchun mukammal elastik.
+Bir birlik mahsuloti hajmining oshishi bilan doimiy xarajatlarning o'sishini ifodalaydi.
+Bir birlikka mahsulot hajmining oshishi bilan o'zgaruvchan xarajatlarning o'sishini ifodalaydi.
+
+№124
+
+Qiyinlik darajasi - 2
+Quyidagi mahsulotlardan qaysi biri hech qachon ishlab chiqaruvchilar karteli ostida ishlab chiqarilmagan:
+Bug'doy
+Qahva
+Shakar
+Bananlar
+№125
+
+Qiyinlik darajasi - 2
+Agar sizning firmangiz o'z narxini pasaytirsa, raqobatchilar ham shunga mos ravishda narxlarni pasaytiradi, lekin siz uni ko'tarsangiz, boshqa hech bir firma bunga ergashmaydi, degan taxmin bilan boshlaysiz. Bunda sizning kompaniyangiz:
+"siniq" talab egri chizig'iga ega.
+Sanoatdagi eng samarali.
+Sanoatdagi raqobatbardosh firmalardan biri.
+Hayot va mamot raqobatiga duch kelish.
+№126
+
+Qiyinlik darajasi - 2
+Monopolist sanoatga yangi firmalarning kirib kelishi xavfiga agressiv tarzda javob berishi mumkin:
+strategik investitsiyalarni amalga oshirish;
+Ro'yxatdagi hamma narsa to'g'ri.
+Iloji boricha bir hil mahsulot ishlab chiqarish;
+Maksimallashtirisho'z foydasi;
+
+№127
+
+Qiyinlik darajasi - 2
+Qanday raqobat strategiyasi mahsulotning o'ziga xosligiga urg’u berishni o'z ichiga oladi?
+Fokuslangan differensiasiya
+Bilimlarni boshqarish
+Xarajatlarni tejash
+Narxlar yetakchiligi
+
+
+№128
+
+Qiyinlik darajasi - 2
+Birinchi darajali narx diskriminatsiyasi:
+turli iste'molchilar uchun har bir tovar birligi uchun turli narxlarni belgilash.
+xarid hajmiga qarab turli narxlarni belgilash
+xaridorlarning turli guruhlari uchun har xil narxlarni belgilash
+bozorda firmalarning kontsentratsiya darajasi
+
+
+№129
+
+Qiyinlik darajasi - 2
+mahsulotni gorizontal differensiasiyalash:
+tovarlarning ichki sifatining o'zgarishi
+tashqi sifatlarning o'zgarishi
+iste'molchilar ko'z o'ngida mahsulotni ushbu toifadagi boshqa mahsulotlardan farqlash
+xarid hajmiga qarab turli narxlarni belgilash
+
+№130
+
+Qiyinlik darajasi - 2
+Klassik shartnoma:
+o'zaro munosabatlarning barcha shartlarini aniq va har tomonlama belgilaydigan shartnoma;
+o'zaro munosabatlar shartlarining aniq ta'rifini istisno qiladigan shartnoma
+oldi-sotdi shartnomasi va mehnat shartnomasining elementlarini birlashtirgan shartnoma.
+resurslarni etkazib beruvchilar bilan uzoq muddatli shartnomalar
+№131
+
+Qiyinlik darajasi - 2
+Oligopoliya degani:
+yuqoridagi barcha xatti-harakatlardan foydalanishi mumkin
+Oligopolistlar raqobatchilarning xatti-harakatlarini oldindan bilishga harakat qilishadi, lekin ma'lum bir iqtisodiy hamjamiyat doirasida harakat qilishadi.
+oligopolistlar bir-biri bilan til biriktiradilar
+oligopolistlar o'z raqobatchilarining xatti-harakatlarini hisobga olmaydilar va o'zlarini mukammal raqobatdagidek tutadilar
+№132
+
+Qiyinlik darajasi - 2
+Monopoliya - bu bozor tuzilishi, bu erda
+sanoatga kirishda deyarli yengib bo'lmaydigan to'siqlar mavjud
+faqat bitta xaridor
+kam sonli raqobatdosh ishlab chiqaruvchilar mavjud
+mahsulot narxi ustidan nazorat yo'q
+
+
+№133
+
+Qiyinlik darajasi - 2
+Obligatsiya egasi:
+qat'iy foiz oladigan qarz beruvchi
+kompaniyaning sherik egasi
+dividend olgan kreditor
+faqat bitta xaridor
+
+
+№134
+
+Qiyinlik darajasi - 2
+Raqobatchining mahsulotiga nisbatan yolg'on yoki tuhmat qiluvchi ma'lumotlarni tarqatish quyidagilardan iborat:
+adolatsiz raqobat
+narx bo'lmagan raqobat
+nomukammal raqobat
+nomukammal raqobat
+
+
+№135
+
+Qiyinlik darajasi - 2
+Kompaniyaning barcha egalari nomlari ko'rsatilgan hujjat qanday nomlanadi:
+nizom
+ro'yxatga olish kitobi
+allong
+sertifikat
+
+
+№136
+
+Qiyinlik darajasi - 2
+Qaysi ittifoq iqtisodiy emas:
+gildiya
+hamkorlik
+kompaniya
+AKSIADORLIK jamiyati
+
+
+№137
+
+Qiyinlik darajasi - 2
+Mulkiy javobgarlik ishtirokchining korxona kapitaliga qo'shgan ulushiga mutanosib ravishda amalga oshiriladi, degan bayonot qaysi tashkiliy-huquqiy shakl uchun to'g'ri hisoblanadi:
+aksiadorlik jamiyati
+mas'uliyati cheklangan jamiyat
+aralash hamkorlik
+Individualyangi tadbirkorlik
+№138
+
+Qiyinlik darajasi - 2
+Iqtisodiy muammolar qisman bozor, qisman hukumat tomonidan hal qilinsa, bunday iqtisodiyot:
+aralashgan.
+tabiiy
+bozor;
+iqtisodiy
+
+
+№139
+
+Qiyinlik darajasi - 2
+Muvozanat nuqtasi xarakterlanadi
+talab va taklif o'rtasidagi tenglik
+narx va hajm o'rtasidagi o'zaro ta'sir
+ma'lum bir bozor bahosidagi ortiqcha tovarlar
+Muayyan bozor bahosida tovar taqchilligi
+
+
+№140
+
+Qiyinlik darajasi - 2
+Narxlarning maximal darajasi (shifti) muvozanat narxidan pastda o'rnatilganda,……. mavjud
+kamomad
+ortiqcha taklif
+talabning o'zgarishi
+Bozor muvozanati
+№141
+
+Qiyinlik darajasi - 2
+Agar narxning 10% ga pasayishi taklifning 16% ga kamayishiga olib kelsa, u holda taklif
+elastik 
+elastik emas
+birlik elastikligi
+Nolinchi elastiklik
+
+
+№142
+
+Qiyinlik darajasi - 2
+Benzin, tamaki mahsulotlari kabi tovarlarga talab ……..
+elastik emas
+elastik
+mutlaqo elastik
+birlik elastikligi
+
+
+№143
+
+Qiyinlik darajasi - 2
+Agar talabning daromad egiluvchanligi 0 dan katta, lekin 1 dan kichik bo'lsa, u holda tovar
+Birinchi darajali hisoblanadi
+past sifatli mahsulot hisoblanadi.
+hashamatli buyumdir
+kamaydi
+№144
+
+Qiyinlik darajasi - 2
+Agar tovarlar qandaydir ehtiyojni qondirishda bir-birini qat'iy ravishda to'ldirsa, demak
+befarqlik egri chizig'i to'g'ri burchakdir
+befarqlik egri chizig'i to'g'ri chiziqqa o'xshaydi
+befarqlik egri chizig'i ijobiy qiyalikka ega
+ularda iste'molchi umuman hech narsa sarflamaydi
+
+№145
+
+Qiyinlik darajasi - 2
+Mikroiqtisodiy nazariyadagi qisqa muddatli davr - bu vaqt oralig’ida
+firma ishlab chiqarish omillarining faqat bir qismidan foydalanish hajmini o'zgartirishi mumkin;
+firma har qanday ishlab chiqarish omilidan foydalanish miqdorini o'zgartirishi mumkin
+ishlab chiqarishning barcha omillari doimiydir
+ishlab chiqarish funktsiyasi
+
+№146
+
+Qiyinlik darajasi - 2
+Izokost - bu  chiziq ……… bildiradi
+korxona tomonidan ma'lum miqdorda sarflanishi mumkin bo'lgan barcha resurslar kombinatsiyasini
+bitta mahsulot ishlab chiqarish uchun ishlatilishi mumkin bo'lgan barcha resurslar kombinatsiyasi
+resurs narxlarining ko'p kombinatsiyasi
+izokostlarning kelib chiqishiga siljishi;
+№147
+
+Qiyinlik darajasi - 2
+ Bir resursni boshqasiga almashtirish
+izokvanta bo'ylab harakatlanadi
+izokost bo'ylab harakatlanayotganda
+izokost va izokvantning aloqa nuqtasida
+izokvant va izokost mos keladi
+
+№148
+
+Qiyinlik darajasi - 2
+Eng to'liq ta'rif :  firma-bu
+bozorda bir yoki bir nechta tovarlar va xizmatlarni taklif qilish orqali o'z egalariga foyda keltirish maqsadida tashkil etilgan yagona boshqaruv ostidagi tashkilot;
+o'z faoliyatining barcha jabhalarini ta'minlaydigan shartnomalar tuzishga to'liq huquqlarga ega bo'lgan jamoaviy xarakterdagi xo'jalik birligi;
+ishlab chiqarish jarayonlari amalga oshiriladigan tashkiliy-iqtisodiy tizim, ularni keyinchalik sotish maqsadida tovarlar va xizmatlar yaratish
+korporativ mulk solig'i.
+№149
+
+Qiyinlik darajasi - 2
+Marjinal daromad -bu........ hisoblanadi
+bir birlikka sotish hajmining o'zgarishi natijasida yalpi daromadning o'zgarishi.
+mahsulot birligiga to'g'ri keladigan yalpi daromad
+sotish birligiga to'g'ri keladigan yalpi daromad
+iqtisodiy foyda va yashirin xarajatlar o'rtasidagi farq buxgalteriya foydasiga teng.
+№150
+
+Qiyinlik darajasi - 2
+Korxonaning iqtisodiy foydasi
+uzoq muddatda raqobatbardosh bozorda mavjud bo’la olmaydi
+Kompaniyaning umumiy xarajatlari uning umumiy daromadidan oshib ketganda sodir bo'ladi.
+marjinal daromad marjinal xarajatlardan oshib ketganda har doim mavjud bo'ladi
+firma maksimal foyda keltiradi
+
+№151
+
+Qiyinlik darajasi - 2
+Iqtisodiy nazariya __________ funktsiyasi bajarilmaydi.
+tavsiflovchi
+metodologik
+Bilim 
+amaliy
+
+№152
+
+Qiyinlik darajasi - 2
+Iqtisodiy jarayonning rasmiylashtirilgan tavsifi yoki uning tuzilishi uning ob'ektiv xususiyatlari va tadqiqotning sub'ektiv maqsadi bilan belgilanadigan hodisa. Bu .. 
+Iqtisodiy model
+Iqtisodiy tajriba
+Iqtisodiy muammo
+Iqtisodiy eksperiment
+№153
+
+Qiyinlik darajasi - 2
+Non va non mahsulotlari bozorini .......... o'rganadi:
+Mikroiqtisodiyot
+Makroiqtisodiyot
+Megaiqtisodiyot
+Mezoiqtisodiyot
+
+№154
+
+Qiyinlik darajasi - 2
+Ma'lum bir hodisadan noma'lum shaxsga bir yoki bir qator xususiyatlarni o'tkazish asosida bilish usuli. Bu .. ekan..
+O'xshashlik usuli
+Taqqoslash usuli
+Tarixiy usul
+Eksperimental usul
+
+
+№155
+
+Qiyinlik darajasi - 2
+Ijobiy iqtisodiy nazariya ......... o'rganadi
+iqtisodiyotda haqiqiy holat
+progressiv tendentsiyalar
+salbiy tendentsiyalar
+iqtisodiyot imkoniyatlari
+
+
+№156
+
+Qiyinlik darajasi - 2
+Mavjud vositalarga bo'lgan ehtiyoj
+Uy-joy
+Ta'lim
+Zargarlik buyumlari
+avtomobil
+
+
+№157
+
+Qiyinlik darajasi - 2
+Iqtisodiy bo'lmagan manfaatlar…
+shamol energiyasi
+raketa majmuasi
+axborot
+minerallar
+
+
+№158
+
+Qiyinlik darajasi - 2
+"Bir vaqtning o'zida iste'mol qilinadigan mahsulot miqdori oshgani sayin, har bir keyingi birlikning naflilik darajasi kamayadi." Bu naflilik darajasi pasayish qonuni kim ifodalagan
+A. Marshall
+A. Smit
+D. Rikardo
+I. Shumpeter
+№159
+
+Qiyinlik darajasi - 2
+Ko'p befarqlik egri chiziqlari qanday ataladi
+befarqlik egri chiziqlar xaritasi
+befarqlik egri chiziqlar ko’pligi
+befarqlik egri chiziqlar maydoni
+Jami befarqlik egri chiziqlar
+
+
+№160
+
+Qiyinlik darajasi - 2
+Iste'molchining muvozanat holati……
+Byudjet chizig'ining va befarqlik egri chizig/ining tegish nuqtasi
+Isokost va byudjet chizig'ining kesishish nuqtasi
+Byudjet chizig'ining va befarqlik egri chizig/ining kesishish nuqtasi
+Davlat byudjet chizig'ining kesish nuqtasi va befarqlik egri ustidagi holat
+
+
+№161
+
+Qiyinlik darajasi - 2
+Agar yangi texnologiya bozor ta'minotini oshirish imkonini bersa,...
+Taklif egri chizig’I o'ngga siljiydi
+Taklif egri chizig’I siljimaydi
+Taklif egri chizig’I chapga siljiydi
+Talab egri chizig’I o'ngga siljiydi
+
+
+№162
+
+Qiyinlik darajasi - 2
+Agar soliq va  iste'mol xarajatlarini oshirilsa,...
+Taklif egri chizig’I chapga siljiydi
+Taklif egri chizig’I o'ngga siljiydi
+Taklif egri chizig’I siljimaydi
+Talab egri chizig’I o'ngga siljiydi
+
+
+№163
+
+Qiyinlik darajasi - 2
+Qisqa muddatli davrda quyidagi omillar o'zgaruvchan:
+Ishchi kuchi
+axborot
+Tadbirkorlik qobiliyati
+Ishlab chiqarish  quvvati
+
+
+№164
+
+Qiyinlik darajasi - 2
+Bozor maydoni talab va taklifning egri chiziqlari bilan to'rtta sektorga bo'linadi . Qaysi sektor iqtisodiy faoliyati bilan farq qiladi?
+IV sektor
+II sektor
+I sektor
+III sektor
+
+
+№165
+
+Qiyinlik darajasi - 2
+Agar talab Qd = 330 –2P talab funktsiyasiga ega uy xo'jaligi tomonidan taqdim etilgan bo'lsa va taklif taklif funktsiyasi Qs = P +60 bo'lgan firma tomonidan aniqlansa, narx davlat 110 birlik belgilaganda tovar profitsiti qiymati qanchani tashkil etadi
+60
+150
+40
+20
+
+№166
+
+Qiyinlik darajasi - 2
+Agar talab funktsiyasi QD = 10-P bo'lsa va taklif funktsiyasi QS = -5 + 2P bo'lsa, muvozanat bahosi ...
+5
+9
+12
+15
+№167
+
+Qiyinlik darajasi - 2
+Agar talab funktsiyasi QD = 600-2p bo'lsa va taklif funktsiyasi Qs =300+4P bo'lsa, unda muvozanat savdo hajmi _ _ _ _ _ dona bo'ladi.
+500
+400
+300
+200
+№168
+
+Qiyinlik darajasi - 2
+Agar davlat tovar narxining 50% miqdorida xaridorga subsidiya kiritgan bo'lsa va talab va taklifning funksiyalari QD = 100-P va Qs = 2P—50 bo'lsa, unda yangi muvozanat hajmi _ _ _ _ birliklari bo'ladi.
+70
+30
+54
+120
+
+№169
+
+Qiyinlik darajasi - 2
+Agar iste'molchilar daromadlarining 2% ga pasayishi bilan ushbu mahsulotga bo'lgan talab 5% ga tushib qolsa, daromad bo'yicha talabning elastikligi koeffitsienti nechiga teng
+2,5
+3
+-3
+-2,5
+
+№170
+
+Qiyinlik darajasi - 2
+Narx boyicha elastiklik 1 ga teng bo’lganda daromad ......
+maksimal
+minimal
+1 ga teng
+0 ga teng
+№171
+
+Qiyinlik darajasi - 2
+Agar narx bo'yicha talabning elastikligi koeffitsienti ep=-1,4 bo'lsa va daromad bo'yicha talabning elastikligi koeffitsienti er=2 bo'lsa va 5%ga bahoning pasayishi va daromadning 1% ga oshishi bilan talabning elastikligi koeffitsienti necha %ga o’zgaradi.
+1%ga tushadi
+1%ga oshadi
+5% ga tushadi
+5% ga oshadi
+
+№172
+
+Qiyinlik darajasi - 2
+Aksiyadorlik jamiyatining egalari…
+aksiyadorlar
+boshqaruv a'zolari
+kuzatuv kengashi
+prezident
+
+№173
+
+Qiyinlik darajasi - 2
+Quyidagi biznes uyushmalarining qaysi biri vaqtinchalik:
+Konsortsium
+Sindikat
+kartel
+trest
+
+
+№174
+
+Qiyinlik darajasi - 2
+Resurslar, mahsulotlar va daromadlarni taqsimlash modelidagi firmalar…
+mahsulotlar bozorida mahsulot va xizmatlarni taklif etishadi
+ishtirok qilmaydi
+resurs bozorida resurslarni taklif qilishadi
+Resurs bozorida resurslarni sotib olishmaydi
+
+
+№175
+
+Qiyinlik darajasi - 2
+Ishlab chiqarish omillarining mutanosib o'zgarishiga ta'sir qilish natijasi  qanday nomlanadi:
+Masshtab effekti
+O’sish effekti
+Kengayish effekti
+Almashish effekti
+
+
+№176
+
+Qiyinlik darajasi - 2
+Q= min{L/a; K/b} ishlab chiqarish funksiyasining muallifi kim
+V. Leontiev
+A.Smit
+D.Rikardo
+A.Marshall
+
+
+№177
+
+Qiyinlik darajasi - 2
+agar TR ko'rsatkichi oshsa va AR va Mr ko'rsatkichlari kamaysa,unda Qisqa davrda ishlab chiqarishning texnik samaradorligi bosqichi...
+II bosqich
+I bosqich
+IV bosqich
+V bosqich
+
+№178
+
+Qiyinlik darajasi - 2
+Qisqa muddatda kompaniya 5 so’m o'rtacha doimiy xarajatlar bilan va 8 so’m o'rtacha o'zgaruvchi harajatlar bilan 1000 dona mahsulot ishlab chiqaradi. umumiy xarajatlarni aniqlang
+13000
+15000
+20000
+25000
+
+№179
+
+Qiyinlik darajasi - 2
+Chiqarilgan har qanday miqdorda chekli xarajatlar yig'indisi...... tengdir
+o'zgaruvchan xarajatlar yig’indisiga
+0
+doimiy va o'zgaruvchan xarajatlar yig’indisiga
+doimiy xarajatlar yig’indisiga
+
+
+№180
+
+Qiyinlik darajasi - 2
+Doimiy harajatlar o’z qiymatini o’zgarishiga ta’sir qilmaydi
+ishlab chiqarilayotgan mahsulot hajmining o'zgarishi
+Daromadning oshishi
+Soliq stavkasining o’zgarishi
+Asosiy kapital hajmining oshishi
+
+№181
+
+Qiyinlik darajasi - 2
+Tayor mahsulot elastikligi qanchalik yuqori bo’lsa,.....
+Talab ushbu mahsulotni ishlab chiqarishda foydalaniladigan resursga nisbatan moslashuvchan 
+Taklif ushbu mahsulotni ishlab chiqarishda foydalaniladigan resursga nisbatan moslashuvchan
+ushbu mahsulotni ishlab chiqarishda foydalaniladigan resursga bo'lgan talab kamroq moslashuvchan
+ushbu mahsulotni ishlab chiqarishda ishlatiladigan resursga bo'lgan talab mutlaqo noelastik
+№182
+
+Qiyinlik darajasi - 2
+Agar joriy yilda nominal ish haqi o'tgan yilga nisbatan (3% inflyatsiya bilan )     5% ga oshgan bo'lsa, real ish haqi __%ga oshdi.
+2
+3
+5
+15
+
+
+№183
+
+Qiyinlik darajasi - 2
+Agar pishloqga bo'lgan talab oshsa, sutga bo'lgan talab…
+oshadi
+O’zgarmaydi
+Noelastik bo’ladi
+tushadi
+
+№184
+
+Qiyinlik darajasi - 2
+Tovarlar va xizmatlar ishlab chiqarish uchun zarur bo'lgan ishlab chiqarish omillariga bo'lgan talab__________ talab.
+ishlab chiqarish
+Birlashgan
+tabaqalashtirilgan
+jami
+
+№185
+
+Qiyinlik darajasi - 2
+Oligopoliya bozorida .......... mumkin
+kartelning shakllanishi
+narxlarni tusurishni amalga oshirish
+ishlab chiqarish narxini va hajmini nazorat qilish
+Narx liderining shakllanishi
+№186
+
+Qiyinlik darajasi - 2
+Monopolistik raqobat bozori xarakterlanadi…
+mahsulot differentsiatsiyasi
+Narx diskriminasiyasi
+bozordan etarlicha erkin chiqish
+bozorga nisbatan murakkab kirish
+
+
+№187
+
+Qiyinlik darajasi - 2
+Mukammal raqobat bozorining o'ziga xos xususiyatlari quyidagilardir
+bozorga kirish erkinligi
+mahsulot differentsiatsiyasi
+narxlar raqobati
+Narx diskriminasiyasi
+
+
+№188
+
+Qiyinlik darajasi - 2
+Umumiy bozor muvozanatining birinchi qat'iy asosli isboti muallifi:
+A. Vald
+K. Errow
+J. Debre.
+A.Smit
+
+
+№189
+
+Qiyinlik darajasi - 2
+Agar tovarlar boshqa birovning ahvolini yomonlashtirmasdan kimningdir pozitsiyasini yaxshilash uchun qayta taqsimlanmasa, bunday taqsimot .......
+Pareto-samarali
+smit-samarali
+xiks-samarali
+Petti-samarali
+
+
+№190
+
+Qiyinlik darajasi - 2
+Bozor funksiyalarini bajarishida mahsulon narxiga kirmagan ta'sirlar ....... deydi
+Tashqi ta'sirlar
+ichki ta'sirlar
+Iqtisodiy ta'sirlar
+Iqtisodiy resurslar
+
+
+№191
+
+Qiyinlik darajasi - 2
+Tashqi ta'sirlarni kim tartibga soladi?
+davlat
+monopolist
+iste'molchi
+Hech kim
+
+
+№192
+
+Qiyinlik darajasi - 2
+Salbiy tashqi ta'sirlar?:
+suv omborining kimyoviy zavod chiqindilari bilan ifloslanishi
+soliq yukini kuchaytirish
+"ishsizlar muammosi"
+Ishlab chiqarishni ko'paytirish
+
+
+№193
+
+Qiyinlik darajasi - 2
+ovozlarning "almashinuvi va savdosi" boshqacha aytiladi…
+logrolling
+demping
+autsoring
+Transformatsiyalar 
+
+
+№195
+
+Qiyinlik darajasi - 2
+siyosiy qarorlar qabul qilish jarayonini tushuntirish uchun ........ tahlil Ijtimoiy tanlov nazariyasida keng qo'llaniladi
+Mikroiqtisodiy
+Makroiqtisodiy
+siyosiy
+ijtimoiy
+
+
+№196
+
+Qiyinlik darajasi - 2
+Agar kameralar narxi 30% ga kamaygan bo'lsa va ular uchun talab miqdori 10% ga oshgan bo'lsa, kameralarga bo'lgan talab…
+Narx bo’yicha noelastik
+Birlik elastiklik
+Daromadga nisbatan noelastik
+Narx bo’yicha elastik
+
+
+№197
+
+Qiyinlik darajasi - 2
+Qo'shimcha mahsulot birliklarini iste'mol qilishdan umumiy naflilik…
+Ma'lum bir nuqtagacha o'sadi va keyin kamayadi
+iste'mol qilinadigan tovarlar miqdori oshgani sayin kamayib boradi
+iste'mol qilingan tovarlar miqdoridan qat'i nazar, o'zgarishsiz qoladi
+iste'mol qilinadigan tovarlar soni oshgani sayin, u cheksiz oshadi
+
+
+№198
+
+Qiyinlik darajasi - 2
+Agar saqichga bo'lgan talab narx nisbatan elastik bo'lsa, unda narxning pasayishi nimaga olib keladi?
+Saqichga bo’lgan talabning oshishiga
+saqich uchun aholining xarajatlarini oshirish
+saqich uchun aholining xarajatlarini kamaytirish
+Saqichga bo’lgan talabning tushishiga
+№199
+
+Qiyinlik darajasi - 2
+Agar korxona xom ashyo sotib olishni ko'paytirsa, qo'shimcha ishchilarni ishga yollasa va shu uskunada uchinchi smenada ish olib borsa, bu tadbirlar kompaniyaning ..............davrini tavsiflaydi
+Qisqa muddatli
+darhol
+cheksiz
+uzoq muddatli
+
+
+№200
+
+Qiyinlik darajasi - 2
+Asosiy kapitalning ma’naviy eskirishi ...... bilan bog'liq
+samarali mashinalar va uskunalar paydo bo'lishi
+korxona bankrot bo'lganligi
+uskunalar funktsional xususiyatlarining bir qismini yo'qotganligi
+uskunalar yaroqsiz holga kelganligi
+
+AKTSI katta o‘qituvchisi                           N.A.Xasanova
+AKTSI kafedra mudiri                               N.A.Iminova
+AKTSIMF dekani                                       F.B.Botirov
+TSNQB boshlig‘i                                         M.A. Sobirov
+
+
 
