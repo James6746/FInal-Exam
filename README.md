@@ -1,4613 +1,2344 @@
-# Final-Exam
+####
 
-Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo’lgan?
-A. global kompyuter tarmoqlari
-B. lokal kompyuter tarmoqlari
-C. kampuslar tarmog’i
-D. korporativ tarmoqlar 
 
- 		 	
-To’rtta bir-biri bilan bog’langan bog’lamlar strukturasi (kvadrat shaklida) qaysi topologiya turiga mansub?
-A. Xalqa
-B. Yulduz
-C. To’liq bog’lanishli
-D. Yacheykali
 
 
-Ketma-ket bir-biri bilan bog’langan 3 ta bog’lamlar (oxiri boshi bilan bog’lanmagan) strukturasi qaysi topologiya turiga tegishli? 
-A. Umumiy shina
-B. Xalqa
-C. To’liq bog’lanishli 
-D. Yulduz
 
 
-Turli xil protokollar bilan ishlaydigan bir nechta mahalliy tarmoqlarning bir-biri bilan aloqa qilishiga xizmat qiluvchi vositalar qanday nomlanadi? 
-A. Shlyuzlar
-B. Provayderlar
-C. Kommutatorlar
-D. Modemlar
 
 
-Qaysi topologiya birgalikda foydalanilmaydigan muhitni qo’llamasligi mumkin? 
-A. To’liq bog’lanishli 
-B. Xalqa
-C. Umumiy shina
-D. Yulduz
 
-
-Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?
-A. Yulduz
-B. Xalqa
-C. Umumiy shina
-D. To’liq bog’lanishli 
-
-MAC satxi qanday vazi-fani bajaradi?
-A. uzatish muhitiga murojaat qilishni boshqarish 
-B. stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
-C. bitlar sathida axborot uzatishni boshqarish 
-D. bloklar sathida axbo-rot uzatishni boshqarish 
-
-
-LLC satxi qanday vazifani bajaradi?
-A. stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
-B. bitlar sathida axborot uzatishni boshqarish 	
-C. bloklar sathida axborot uzatishni boshqarish
-D. uzatish muhitiga murojaat qilishni boshqarish
-
-
-l0Base-2 segmentining uzunligi ko’pi bilan qancha bo’lishi mumkin?
-A. 185 metr	
-B. 100 metr
-C. 200 metr 
-D. 500 metr
-
-
-O’ralma juftlik kabeli sim-larini, uning konnektorlariga ulashning necha xil variantlari mavjud?
-A. 2
-B. 3
-C. 4
-D. 1
-
-
-Ethernet tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?	
-A. CSMA/CD
-B. CSTK/CE
-C. CSQE/NQ	
-D. CSTK/QL
-
-
-Ethernet da kommu-tatsiyalashning qaysi xilidan foydalaniladi?
-A. paketlarni deytagrammali kommutatsiyalash
-B. paketlarni virtual kanal orqali uzatish
-C. vaqtni taqsimlash aso-sida kanallarni kommu-tatsiyalash
-D. chastotali multi-plekslash asosida kanallarni kommu-tatsiyalash 
-
-
-Optik tolali Ethernet tarmog’ining maksimal uzunligi qanday?	
-A. 2740 m
-B. 500 m
-C. 5000 m
-D. 2500 m
-
-
-100Base-TX spetsifikatsiyasi qaysi texnologiyaga tegishli?	
-A. Fast Ethernet	
-B. Ethernet
-C. Gigabit Ethernet
-D. FDDI
-
-Fast Ethernet texnologiyasi spetsifikatsiyalari qaysi komitet tarkibida ishlab chiqilgan?	
-A. 802.3
-B. 802.1
-C. 802.2
-D. 802.5
-
-
-Ethernet texnologiyasida koaksial kabelining ma’lumotlarni uzatish tezligi qanday?	
-A. 10 Mbit/s
-B. 1 Mbit/s
-C. 100 Mbit/s
-D. 1000 Mbit/s
-
-
-Fast Ethernet texnologiyasida o’ralma juftlik kabelining ma’lumotlarni uzatish tezligi qanday?
-A. 100 Mbit/s
-B. 1 Mbit/s
-C. 10 Mbit/s
-D. 1000 Mbit/s
-
-
-Lokal tarmoqlarda keng tarqalgan topologiya turi qaysi?	
-A. Yulduz
-B. Xalqa
-C. Umumiy shina
-D. To’liq bog’lanishli 
-
-
-100Base-TX spetsifikatsiya qaysi texnologiyaga tegishli?
-A. Fast Ethernet	
-B. Ethernet
-C. Gigabit Ethernet
-D. 10G Ethernet
-
-
-1000Base-SX spetsifikatsiya qaysi texnologiyaga tegishli?
-A. Gigabit Ethernet	
-B. Ethernet
-C. Fast Ethernet
-D. 10G Ethernet
-
-
-Fast Ethernet texnologiyasida qaysi turdagi kabel tizimlaridan foydalanilgan?
-A. ko’pmodali optik tolali, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik 
-B. bittamodali optik tolali , 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-C. ingichka koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-D. yo’g’on koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-
-
-MАC sath osti satxi OSI modelining qaysi sathiga tegishli? 	
-A. kanal sathiga	
-B. tarmoq sathiga
-C. fizik sathiga
-D. transport sathiga
-
-
-Ethernet texnologiyasi nechta standartga ega?
-A. 4	
-B. 3
-C. 2
-D. 6
-	
-
-Fast Ethernet texnologiyasi nechta spetsifikatsiyaga ega?
-A. 3	
-B. 4
-C. 2
-D. 6
-		
-
-Umumiy shina topologiyali lokal tarmoqlarda kontsentratorlar qanday funktsiyani bajaradi?
-A. Kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi	
-B. Kompyuter tomonidan uzatilgan ma’lumotni boshqa bir kompyuterga yo’naltiradi
-C. Kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi
-D. Tarmoqning ikki segmentini o’zaro bog’laydi
-
-
-Simsiz tarmoqlar standartlari qaysi komitet tarkibida ishlab chiqilmoqda?
-A. 802.11	
-B. 802.7
-C. 802.6
-D. 802.12
-	
-
-Xozirgi paytda ko’p ishlatiladigan, 802.11 standartiga tegishli spetsifikatsiyani ko’rsating
-A. a, b, g	
-B. a, b, d
-C. a, b, c
-D. a, b, e
-
-
-802.11 spetsifikatsiyasi  simsiz lokal tarmog’i diametrining chegaralari qanday?
-A. 100 - 300 m	
-B. 50 - 100 m
-C. 300 – 400 m
-D. 100 -200 m
-
-
-Tarmoqni fizik strukturalashda qaysi qurilma ishlatiladi?
-A. takrorlovchi (kontsentrator)	
-B. kommutator 
-C. ko’prik
-D. shlyuz 
-
-
-Qaysi qurilma tarmoqning mantiqiy strukturasini o’zgartirishi mumkin?
-A. o’prik, marshrutizator,kommutator va shlyuz 
-B. faqat kommutator
-C. takrorlovchi
-D. kontsentrator 
-
-Kompyuter tarmog’ining fizik strukturalash nima maqsadda amalga oshiriladi?
-A. Tarmoq  diametrini oshirish uchun
-B. Unumdorlikni oshirish uchun
-C. Internetga ulanish uchun
-D. Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
-
-
-Kompyuter tarmog’ining mantiqiy strukturalash nima maqsadda amalga oshiriladi?
-A. Trafikni lokallashtirish uchun	
-B. Internetga ulanish uchun
-C. Tarmoq  diametrini oshirish uchun
-D. Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
-
-
-Kommutator ko’prikdan nimasi bilan farq qiladi?
-A. Kadrlarni parallel qayta ishlashda	
-B. Tarmoqqa ulanish usulida
-C. Kadrlarni uzatish algoritmida
-D. Kadrlarni uzatish usulida
-	 
-
-OSI modelida nechta sath mavjud?
-A. 7	
-B. 4
-C. 5
-D. 6
-	
-
-OSI modelining to’rtinchi satxi qanday nomlanadi?
-A. Transport sathi	
-B. Аmaliy sath
-C. Seanslar sathi
-D. Taqdimlash  sathi
-	
-
-OSI modelining beshinchi satxi qanday nomlanadi?
-A. Seanslar  sathi	
-B. Transport sathi
-C. Seanslar sathi
-D. Taqdimlash  sathi
-
-
-OSI modelining birinchi satxi qanday nomlanadi?
-A. Fizik sath	
-B. Transport sathi
-C. Seanslar sathi
-D. Taqdimlash  sathi
-
-  
-OSI modelining ikkinchi satxi qanday nomlanadi?
-A. Kanal  sathi
-B. Аmaliy  sathi
-C. Seanslar sathi
-D. Taqdimlash  sathi
-
-
-OSI modelining uchinchi satxi qanday nomlanadi?
-A. Tarmoq  sathi
-B. Аmaliy  sathi
-C. Seanslar sathi
-D. Taqdimlash  sathi
-                                     	
-
-OSI modelining oltinchi satxi qanday nomlanadi?
-A. Taqdimlash  sathi
-B. Аmaliy  sathi
-C. Seanslar sathi
-D. Kanal  sathi
+TESTLAR
  
-
-OSI modelining ettinchi satxi qanday nomlanadi?
-A. Аmaliy sath
-B. Seanslar  sathi
-C. Transport  sathi
-D. Kanal  sathi
+Savollar	a	v	s	d	To’g’ri
+javob
+1. Elektron tijorat haqidagi qonun qachon qabul qilingan?	* 29 aprel 2004 yil.	27 mart
+2005 yil.	13 oktyabr
+2007 yil.	25 may 2007 yil.	* 29 aprel
+2004 yil.
+2. Elektron tijoratda qanday turdagi xizmatlarni ko’rsatish
+mumkin?	*Reklama va mijozni jalb kilish	Maxsulotn i manzilga etkazib berish	Bank xizmatidan foydalanish	Tulov jarayoni xavfsizligini ta’minlash	*Reklama va mijozni jalb kilish
+3. Elektron tijorat tizmining yaratilish tarixini ifodalab bering.	*Kompyu ter tizimining yaratilishi bilan
+boglik	Mustakilli kka erishish bilan boglik	Internet tarmoginin g yaratilishi bilan boglik	Mobil aloka tizimining yaratilishi bilan boglik	*Kompyuter tizimining yaratilishi bilan boglik
+4. Elektron tijoratni murakkablashtir uvchi faktor soliq tizimidagi farqni ko’rasating.	*Xar bir mamlakat dagi maxsulotl arga belgilang an soliq	Soliq tizimidagi meyoriy xukukiy xujjatlarni takomillas hmashganl
+igi	Soliq tizimining amalda joriy etilmaganli gi	Soliqning elektron tijoratda mavjud emasligi	*Xar bir mamlakatda gi maxsulotlarg a belgilangan soliq
+5. Elektron tijoratni murakkablashtir uvchi faktor bojxona tizimidagi farqni ko’rasating.	*Xar bir mamlakat da gi maxsulot turlari ga bojxona tulovlari ning
+turliligi	Barcha turdagi maxsulotla r uchun bojxona tulovlarini ng bir xilligi	Elektron tijoratda bojxona tulovlarini yukligi	Elektron tijoratda bojxona tulovlari kamayishi	*Xar bir mamlakatda gi maxsulot turlari ga bojxona tulovlari ning turliligi
+6.Elektron tijoratni
+murakkablashtir	*Bank tizimi
+konun	Bank tizimidagi
+uzaro	Banklar orasida
+axborot	Bankda foydalanuvc
+hi valyutalar	*Bank tizimi konun
+koidalarinin
  
-
-OSI modelining qaysi sathlari tarmoqqa bog’liq satxlar hisoblanadi?
-A. fizik, kanal va tarmoq sathlari
-B. seans va amaliy sathlar
-C. amaliy va taqdimlash sathlari
-D. transport va seans sathlari                        
+uvchi faktor bank faoliyati qoidalaridagi farqni
+ko’rasating.	koidalarin ing turlichalig i	kelishuvla rning boglik emasligi	almashinuv i tizimining mavjud emasligi	turining xar xilligi	g turlichaligi
+7. O’zaro tijorat olib boruvchi sektor V2V ni ifodalovchi misolni
+ko’rsating.	*Yuridik shaxs, tashkilot	Yuridik shaxs, yuridik shaxs	Davlat tashkiloti, jismoniy shaxs	Jismoniy shaxs, jismoniy shaxs	*Yuridik shaxs, tashkilot
+8. O’zaro tijorat
+olib boruvchi sektor V2S ni ifodalovchi misolni
+ko’rsating.	*Yuridik
+va jismoniy shaxs	Yuridik
+shaxs va tashkilot	Jismoniy
+shaxs va davlat tashkiloti	Davlat
+tashkiloti va yuridik shaxs	*Yuridik va
+jismoniy shaxs
+9. O’zaro tijorat olib boruvchi sektor V2G ni ifodalovchi misolni
+ko’rsating.	*Yuridik shaxs va davlat tashkiloti	Davlat tashkiloti va xususiy korxona	Jismoniy shaxs va davlat tashkiloti	Yuridik shaxs va jismoniy shaxs	*Yuridik shaxs va davlat tashkiloti
+10. O’zaro tijorat olib boruvchi sektor S2S ni ifodalovchi misolni
+ko’rsating.	*Jismoniy shaxs va jismoniy shaxs	Davlat va davlat	Yuridik shaxs va yuridik shaxs	Tashkilot va tashkilot	*Jismoniy shaxs va jismoniy shaxs
+11. O’zaro tijorat olib boruvchi sektor G2S ni ifodalovchi misolni
+ko’rsating.	*Davlat tashkiloti va jismoniy shaxs	Yuridik shaxs va tashkilot	Jismoniy shaxs va xususiy korxona	Davlat tashkiloti va xususiy korxona	*Davlat tashkiloti va jismoniy shaxs
+12. O’zaro tijorat olib boruvchi sektor C2B ni
+ifodalovchi	*Jismoniy shaxs va yuridik
+shaxs	Tashkilot va xususiy korxona	Yuridik shaxs va tashkilot	Jismoniy shaxs va davlat
+tashkiloti	*Jismoniy shaxs va yuridik
+shaxs
  
-	                	
-OSI modelining tarmoq sathi vazifalari keltirilgan qurilmalarning qaysi birida bajariladi?
-A. Marshrutizator
-B. Ko’prik
-C. Tarmoq adapter
-D. Kontsentrator
-	
-
-OSI modelining kanal satxi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
-A. Kadr
-B. Paket
-C. Segment
-D. Oqim
-
-
-OSI modelining tarmoq satxi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
-A. Paket
-B. Kadr
-C. Xabar
-D. Oqim
-
-
-
-
-Еlektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi?
-A. Fizik sath
-B. Seanslar  sathi
-C. Transport  sathi
-D. Kanal  sathi
+misolni
+ko’rsating.					
+13. O’zaro tijorat olib boruvchi sektor G2Gni ifodalovchi misolni
+ko’rsating.	*Davlat tashkiloti va davlat tashkiloti	Xususiy korxona va xususiy korxona	Jismoniy shaxs va jismoniy shaxs	Yuridik shaxs va yuridik shaxs	*Davlat tashkiloti va davlat tashkiloti
+14. O’zaro tijorat olib boruvchi sektor C2G ni ifodalovchi misolni
+ko’rsating.	*Jismoniy shaxs va davlat tashkiloti	Yuridik shaxs va xususiy korxona	Tashkilot va xususiy korxona	Davlat tashkiloti va yuridik shaxs	*Jismoniy shaxs va davlat tashkiloti
+15. O’zaro tijorat olib boruvchi sektor G2B ni ifodalovchi misolni
+ko’rsating.	*Davlat tashkiloti va yuridik shaxs	Xususiy korxona va davlat tashkiloti	Davlat tashkiloti va jismoniy shaxs	Jismoniy shaxs va xususiy korxona	*Davlat tashkiloti va yuridik shaxs
+16. Elektron tijoratda marketing ma’lumotlarini olishda sarf- xarajat nima xisobiga kamayadi?	*Sotuvchi va xoridorni ng batafsil ma’lumot ga ega bo’lishligi
+xisobiga	Sotuvchini ng xoridor xaqida to’liq ma’lumotg a ega bo’lishi xisobiga	Xoridornin g mahsulot haqida to’liq ma’lumotg a ega bo’lishi hisobiga	Internet tizimining mavjudligi tufayli	*Sotuvchi va xoridorning batafsil ma’lumotga ega bo’lishligi xisobiga
+17. Elektron tijoratda reklama (tashviqot va namoyish etish) xizmati xarajati nima tufayli
+kamayadi?	*Axborot tizimining faoliyati tufayli	Axborot tizimiga reklama materialini joylashtiri sh tufayli	To’lov tizimining elektron tarzda amalga oshirilishi tufayli	Aloqa vositalari ning takomillashg an tizimi mavjudligi tufayli	*Axborot tizimining faoliyati tufayli
+18. Elektron
+tijoratda ichki	*Lokal
+ichki	Tashkilot
+bo’limlari	Tashkilotni
+ng lokal	Tashkilot
+lokal	*Lokal ichki
+axborot
  
-Ma’lumotlarni uzatishning optimal marshrutlarini aniqlash vazifalarini OSI modelining qaysi sathi bajaradi?
-A. Tarmoq  sathi
-B. Аmaliy  sathi
-C. Seanslar sathi
-D. Taqdimlash  sathi
-                                     	
-	
-Mijozlar dasturlari bilan o’zaro muloqot vazifalarini OSI modelining qaysi sathi bajaradi?
-A. Аmaliy sath
-B. Seanslar  sathi
-C. Transport  sathi
-D. Kanal  sathi
+kommunikatsiy a (tashkilot) faoliyatida xarajat nima tufayli
+kamayadi?	axborot tizimining mavjudlig i tufayli	ning o’zaro axborot tizimi mavjudligi
+tufayli	tarmog’i mavjudligi tufayli	tarmog’ining global tarmoqqa ulanganligi tufayli	tizimining mavjudligi tufayli
+19. Elektron tijoratda tashqi kommunikatsiy a (tashkilot) faoliyatida xarajat nima tufayli
+kamayadi?	*Tashkilo tning global tarmoqqa ulanganli gi tufayli	Tashkilotn ing lokal va global tarmog’i mavjudligi tufayli	Tashkilotni ng boshqa tashkilotlar bilan aloqa vositalari bilan bog’langan
+ligi tufayli	Tashkilotnin g tashqi kommunikat siya tarmog’i orqali mijozni jalb qilishi tufayli	*Tashkilotni ng global tarmoqqa ulanganligi tufayli
+20. Elektron tijoratda maxsulot sotib olish va xizmat ko’rsatishda xarajat nima tufayli
+kamayadi?	*Bevosita barcha amallarni elektron usulda amalga oshirilishi
+xisobiga	Kompyute rlarning o’zaro bog’liqligi xisobiga	Reklama ma’lumot larini elektron usulda tashkil qilish
+xisobiga	Bank xizmatining takomillashu vi xisobiga	*Bevosita barcha amallarni elektron usulda amalga oshirilishi
+xisobiga
+21. Elektron tijoratda ish kuchi va ish joyi nimalardan iborat?	*Avtomat lashtirilga n ish joyi va kompyute r
+texnikasi	Jismoniy shaxs va kompyuter texnikasi	Robot va avtomatlas htirilgan ish joyi	Texnik xodim kompyuter tarmog’i	*Avtomatlas htirilgan ish joyi va kompyuter texnikasi
+22. Elektron tijoratni rivojlanishini belgilovchi iqtisodiy tizimi faktorlariga nimalar kiradi?	*Elektron xujjat almashinu vi	Elektron pochta xizmati	Kompyuter tarmog’i dan foydalanga n avtomatlas htirilgan
+aloqa	Mijoz-bank, internet- bank, elektron pul va plastik kartadan foydalanish	*Elektron xujjat almashinuvi
+
+
+
+
+
+23. Elektron
+tijoratni	*Telekom
+munikatsi	Infokomm
+unikatsiya	Internet
+tarmog’iga	Lokal va
+global	*Telekomm
+unikatsiya
  
-
-Keltirilgan protokollarning qaysilari tarmoq sathi protokollariga mansub?
-A. IP, IPX
-B. NFS, FTP
-C. Ethernet, FDDI
-D. TCP,UDP
+rivojlanishini belgilovchi axborot infra tizimi faktorlariga
+nimalar kiradi?	ya vositalari ni rivojlanis h darajasi	tuzilmasin i yaratish	ulanish tuzilmasi	axborot tarmog’ini tashkil etish	vositalarini rivojlanish darajasi
+24. Elektron tijoratni rivojlanishi jaxon iqtisodiyoti rivojlanishiga qanday ta’sir ko’rsatadi?	*Jahon bozori barcha a’zolarini ng o’zaro axborot almashinu vi mexaniz mi
+yaratilishi	Pul vositalarin i almashinu vini tezlashtiris h mexanizm ini yaratish	Yangi turdagi servis va xizmatni yaratish	Bozorda raqobatdosh mahsulotlarn i va xizmatlarni yaratish	*Jahon bozori barcha a’zolarining o’zaro axborot almashinuvi mexanizmi yaratilishi
+25. Elektron tijoratda maxsulot, ya’ni tovar etkazib beruvchi qanday turdagi afzalliklarga ega bo’ladi?	*Mahsulo tni ishlab chiqaruvc hi  doimiy mijozga ega
+bo’ladi	Arzon bahoda o’z mahsulotla rini elektron magazin orqali sotadi	Mahsulotni saqlash uchun omborxona lar kerak bo’lmaydi	Kelishuv xujjatlari elektron tarzda amalga oshiriladi	*Mahsulotni ishlab chiqaruvchi qiluvchi doimiy mijozga ega bo’ladi
+26. Elektron tijoratda xaridor qanday turdagi afzalliklarga ega bo’ladi?	*Xaridor zarur mahsulot ni elektron katalogda n tanlab, to’lovni elektron tarzda amalga
+oshiradi	Mahsulot to’g’risida batafsil ma’lumotg a ega bo’ladi va ixtiyoriy masofadan xarid qiladi	Xaridor mahsulot xarid qilganda iqtisodiy samara ko’radi	Xaridor sifatli mahsulot xarid qilishga erishadi va sarf xarajat kamayadi.	*Xaridor zarur mahsulotni elektron katalogdan tanlab, to’lovni elektron tarzda amalga oshiradi
+27. Xozirgi	*Barcha	Savdo-	To’lovlarni	Mahsulot	*Barcha
  
+kungacha amaldagi tijoratda va elektron tijoratda foydalanuvchi vosita va usullarning
+farqi nimada?	savdo- sotiq amallarini elektron tarzda amalga oshirilishi	sotiq kelishuv xujjatlarini elektron tarzda rasmiylash tirish	elektron tarzda amalga oshirilishi	etkazib beruvchi va xaridorning bir-birlarini ko’rmasligi	savdo-sotiq amallarini elektron tarzda amalga oshirilishi
+28. Elektron tijorat yuzaga kelishi bilan savdo operatsiyalarida gi o’zgarish mexanizmi nimalardan iborat?	*Elektron tijorat meyoriy huquqiy talablari asosida elektron savdoni tashkil
+etish	Tijoratga oid barcha opertsiyala rni elektron tarzda amalga oshirish	Xujjat almashinuv jarayonlari ni elektron tarzda oshirish	Xarid etilgan mahsulot uchun to’lovni elektron tarzda plastik karta yordamida amalga
+oshirish	*Elektron tijorat meyoriy huquqiy talablari asosida elektron savdoni tashkil etish
+29. Elektron tijorat tizimida iqtisodning globallashuvi deganda nimani tushuniladi?	*Dunyoni ng ixtiyoriy nuqtasida n geografik joylashuv dan qatiy nazar elektron tijoratni amalga
+oshirish	Jahon bozorlarini infrastrukt urasini yaratish	Mamlakatl ar aro elektron savdo- sotiqni amalga oshirish	Jahon bozorining elektron ko’rinishga o’tishi jarayonlari	*Dunyoning ixtiyoriy nuqtasidan geografik joylashuvda n qatiy nazar elektron tijoratni amalga oshirish
+30. Elektron to’lov tizimida qanday ximoya mexanizmi qo’llaniladi?	*Plastik kartaga o’rnatilga n PIN
+kodlar	Plastik kartalarga o’rnatilgan mikrochipl ar	Plastik kartaga o’rnatilgan shaxsiy kodlar	Plastik kartaga o’rnatilgan maxsus qo’shimcha
+belgilar	*Plastik kartaga o’rnatilgan PIN kodlar
 
-Keltirilgan protokollarning qaysilari transport sathi protokollariga mansub?
-A. TCP,UDP
-B. NFS, FTP
-C. Ethernet, FDDI
-D. IP, IPX
+31. Elektron to’lov	
+*Mijozni	
+Bankda	
+Plastik	
+Plastik karta	
+*Mijozning
  
-
-Keltirilgan protokollarning qaysilari amaliy sathi protokollariga mansub?
-A. NFS, FTP
-B. TCP,UDP
-C. 10Base-T, 100Base-T
-D. IP, IPX
+tizimida axborot xavfsizligini ta’minlashda qanday kamchiliklar mavjud?	ng jamg’arm asi haqidagi ma’lumot dan bank xodiminin g xabar
+topishi	qolgan jamg’arma haqida bank xodiminin g xabar topishi	kartani yo’qotib qo’yish ehtimoli mavjud	kodini tez orada yoddan chiqarib qo’yilishi	jamg’armasi haqidagi ma’lumotda n bank xodimining xabar topishi
+32. Plastik kartada qanday ma’lumotlar mavjud?	*Foydala nuvchinin g kod raqami, imzosi, bank raqami, jamg’arm
+a miqdori	Mikrochip
+, familiya, ismi, sharifi, PIN kodi	Foydalanuv chining ismi sharifi, pul miqdori, bank rekviziti	Bank raqami, foydalanuvc hining imzosi, mikrochip, pul miqdori	*Foydalanuv chining kod raqami, imzosi, bank raqami, jamg’arma miqdori
+33.Mikrosxemali kartalarni ko’rsatkichlari bo’yicha qanday turlarga klassifikatsiyala sh mumkin?	*Hisob kartasi, xotirali karta, mikroprot sessorli karta, kontaktli o’qitish kartasi, induktsio n o’qitish
+kartasi	Hisob kartasi, mikroprots essorli karta, mikrochipl i karta, plastik karta	Mikroprots essorli karta, mikrochipli karta, PIN kodli karta, elektron imzoli karta	PIN kodli karta, mikrochipli karta, mikroprotses sorli karta, elektron imzoli karta, kontaktli o’qitish kartasi	*Hisob kartasi, xotirali karta, mikroprotses sorli karta, kontaktli o’qitish kartasi, induktsion o’qitish kartasi
+34. Xotirali plastik kartalardan foydalanish tamoyillari nimalardan iborat?	*Xotira 32
+baytdan 16
+kilobaytg acha, xotiraga
+ma’lumot	Xotiraga ma’lumotl arni faqat bir marta yozish mumkin	Xotiraga yozilgan ma’lumotla rga o’zgartirish kiritish mumkin
+emas	Xotiraga cheksiz miqdordagi ma’lumotlar ni kiritish mumkin	*Xotira 32
+baytdan 16 kilobaytgach a, xotiraga ma’lumotni bir necha bor yozib
+o’chirish
  
-	
-OSI modelining fizik sathi qanday funktsiyalarni bajaradi?
-A. Elektr signallarini uzatish va qabul qilish
-B. Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-C. Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-D. Klient dasturlari bilan o’zaro muloqotda bo’lish
+	ni bir necha bor yozib o’chirish
+mumkin				mumkin
+35. Mijoz necha turdagi PIN kodga ega bo’lishi mumkin va ular qanday?	*PIN
+kodi ikki turga bo’linadi: bank tomonida nberilgan va mustaqil ravishda
+tanlangan	PIN kodi faqat bank tomonidan beriladi va faqat bir turga ega	PIN kodi foydalanuv chi tomonidan tanlanadi va o’zgartirib turiladi	PIN bir necha turga ega bo’lib bank tomonidan belgilanadi	*PIN kodi ikki turga bo’linadi: bank tomonidanbe rilgan va mustaqil ravishda tanlangan
+36. POS
+terminalining ishlash tamoyilini ko’rsating?	*POS-
+terminali smart- karta va magnit tasmali plastik karta yordamid a moliyaviy hisob kitobni amalga
+oshiradi	POS-
+terminali to’lov tizimidan foydalanib xoridornin g plastik kartasi yordamida haq to’laydi	POS-
+terminali xarid etilgan mahsulot uchun elektron to’lovni plastik karta yordamida amalga oshiradi	POS-
+terminali to’lovni amalga oshirishda xavfsizlikni ta’minlaydi	*POS-
+terminali smart-karta va magnit tasmali plastik karta yordamida moliyaviy hisob kitobni amalga oshiradi
+37.Bankomatning vazifasi va uning xavfsizligini ta’minlash choralari qaysilar?	*Naqd pul olish uchun mo’ljallan gan qurilma, qo’riqlana
+digan	Pul kupyuralar ini naqd olishga rejalashtiri lgan, temir quti
+og’irligi 1	Bankomat o’lchami 1,5-1.8 m.,
+kengligi 1 m, og’ir ligi 1
+tonna, 1 m.
+erga chuqur	Maxsus qo’riqchilar qo’yiladi, video kamera o’rnatiladi	*Naqd pul olish uchun mo’ljallanga n qurilma, qo’riqlanadi gan binolarda
+saqlanadi
  
-
-OSI modelining kanal sathi qaysi funktsiyalarni bajaradi?
-A. Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-B. Klient dasturlari bilan o’zaro muloqotda bo’lish
-C. Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-D. Ma’lumotlarni kodlash va shifrlash
-
-	
-OSI modelining tarmoq sathi qanday funktsiyalarni bajaradi?
-A. Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
-B. Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-C. Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
-D. Эlektr signallarini uzatish va qabul qilish
-
-
-MАС-adres qanday uzunlikka ega?
-A. 48 bit
-B. 32 bit
-C. 16 bit
-D. 64 bit
-
-
-IPv4 turidagi IP-adres qanday uzunlikka ega?
-A. 32 bit
-B. 48 bit
-C. 16 bit
-D. 64 bit
-	
-
-192.190.21.254 adresi   IP-adreslarningqaysi sinfiga tegishli?
-A. C
-B. V
-C. A
-D. D
-
-	
-B sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-A. 65536
-B. 256
-C. 512
-D. 1024
-	
-
-А  sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-A. 16777216
-B. 256
-C. 65536
-D. 1024
-
-	
-B sinfidagi tarmoq maskasi qanday qiymatga ega?
-A. 255.255.0.0
-B. 255.0.0.0
-C. 255.255.255.0
-D. 255.255.254.0
-
-
-Internet tarmog’i, kompyuter tarmoqlarining qaysi sinfiga mansub?
-A. global tarmoq 
-B. lokal tarmoq
-C. shahar tarmog’i
-D. korporativ tarmog’i
-	
-
-Keltirilgan texnologiyalarning qaysi birlari global tarmoq texnologiyalariga mansub?
-A. ATM, TCP/IP 
-B. Frame Relay, Token Ring 
-C. Ethernet, Internet 
-D. X.25, FDDI
-
-	
-MAN tarmoqlari nima uchun mo’ljallangan?
-A. Yirik shaxar axolisiga xizmat ko’rsatish uchun
-B. Internetga korxonalar tarmoqlarini ulash uchun
-C. Faqat bir nechta lokal tarmoqlarni bog’lash uchun
-D. Faqat korporativ tarmoqning filiallarini ulash uchun
-
-
-1980-1985 yillarda dastlabki lokal kompyuter tarmoqlari hisoblangan qanday lokal kompyuter tarmoqlari texnologiyalari ishlab chiqildi?
-A. Ethernet, ArcNet, Token Ring, Token Bus va FDDI
-B. Ethernet texnologiyasining 10Base-5
-C. Token Ring va FDDI
-D. Local Area Network, LAN
-
-
-OSI modelida necha xil turdagi protokollar bor?
-A. 3 xil
-B. 2 xil 
-C. 4 xil 
-D. Bir nechta xildagi 
+	binolarda
+saqlanadi	tonna	joylashtiril
+adi		
+38. To’lov tizimining texnik vositalariga nimalar kiradi va ularning vazifasi?	*To’lov smart kartasi, o’qitish qurilmasi, bank- emitent, bank- ekvayer serveri, aloqa
+kanali	Kristalli maxsus protsessorl i kartalar, kassa apparati, smart karta, protsessor markazi	Avtomatlas htirilgan ish joyi, plastik karta, ekvayer va emitent stantsiyalar i	Smart karta, o’qitish qurilmasi, shaxsiy kompyuter, aloqa kanali	*To’lov smart kartasi, o’qitish qurilmasi, bank- emitent, bank- ekvayer serveri, aloqa kanali
+39.Elektron tijoratning afzalliklari nimalardan iborat?	*Vaqt, mablag’ni tejash, ishonchlil ik, to’lovni elektron tarzda amalga oshirish, raqobatni yuzaga kelishi, tan narx
+kamayadi	Vaqt va sarf xarajat miqdori kamayadi, sifat oshadi, naqd puldan foydalanm aydi, raqobat oshadi	Sarf xarajat, og’ir mehnat kamayadi, mahsulot sifati oshadi, tanlovga imkoniyat tug’iladi	Mahsulot xarid qi lish elektron tarzda amalga oshiriladi, mahsulotni sotuvchi manzilga etkazib beradi	*Vaqt, mablag’ni tejash, ishonchlilik, to’lovni elektron tarzda amalga oshirish, raqobatni yuzaga kelishi, tan narx kamayadi
+40. Elektron tijoratning asosiy kamchiliklari nimalarda namoyon bo’ladi?	*Bank faoliyati va infratizim ning takomilla shmaganli
+gi	Aholining kompyuter bilan to’liq ta’minlan maganligi	To’lov tizimining takomillash maganligi	Elektron tijorat yuritishning meyoriy huquqiy normalarini yaratilmagan
+ligi	*Bank faoliyati va infratizimnin g takomillash maganligi
+41. Elektron
+tijoratda	*Mahsulo
+t etkazib	Mahsulot
+uchun o’z	Xoridornin
+g talabiga	O’zga
+raqobatchilar	*Mahsulot
+etkazib
  
-
-Tarmoq ilovalari nima uchun xizmat qiladi?
-A. Foydalanuvchilarga, kompyuter tarmog'i tomonidan ko'rsatilishi mumkin bo'lgan turli xil xizmatlarni amalga oshiruvchi dasturlar tushuniladi.
-B. Global va lokal tarmoq ilovalari
-C. Xizmatlarni amalga oshiruvchi dasturlar.
-D. Kompyuter tarmog'ini qurish va ishlatish uchun etarli bo'lgan bir-biriga moslashtirilgan apparat va dasturiy vositalar to'plami, hamda aloqa chiziqlari orqali ma'lumotlarni uzatish imkonini beradigan uskunalar tushuniladi.
-
-
-Kompyuter tarmog'i texnologiyalari deganda nimani tushunasiz?
-A. Kompyuter tarmog'ini qurish va ishlatish uchun etarli bo'lgan bir-biriga moslashtirilgan apparat va dasturiy vositalar to'plami, hamda aloqa chiziqlari orqali ma'lumotlarni uzatish imkonini beradigan uskunalar tushuniladi
-B. Foydalanuvchilarga, kompyuter tarmog'i tomonidan ko'rsatilishi mumkin bo'lgan turli xil xizmatlarni amalga oshiruvchi dasturlar tushuniladi.
-C. Global va lokal tarmoq ilovalari
-D. Xizmatlarni amalga oshiruvchi dasturlar.
-
-
-
-
-TCP/IP steki nechta sathga ajratilgan?
-A. To’rtta sathga 
-B. Beshta sathga 
-C. Ikkta sathga 
-D. Oltita sathga 
-
-FTP (File Transfer Protokol) qanday protokol?
-A. Fayllarni uzatish protokoli
-B. Terminalni emulasiya qilish protokoli
-C. Elektron pochtani uzatishning oddiy protokoli
-D. Gipermatnni uzatish protokoli
-
-
-Telnet qanday protokol?
-A. Terminalni emulasiya qilish protokoli
-B. Fayllarni uzatish protokoli
-C. Elektron pochtani uzatishning oddiy protokoli
-D. Gipermatnni uzatish protokoli
-
-
-ЅMTR (Simple Mail Transfer Protocol) qanday protokol?
-A. Elektron pochtani uzatishning oddiy protokoli
-B. Fayllarni uzatish protokoli
-C. Terminalni emulasiya qilish protokoli
-D. Gipermatnni uzatish protokoli
-
-
-HTTP (Hyper Text Transfer Protocol) qanday vazifani bajarish uchun mo'ljallangan protokol?
-A. Gipermatnni uzatish protokoli
-B. Fayllarni uzatish protokoli
-C. Terminalni emulasiya qilish protokoli
-D. Elektron pochtani uzatishning oddiy protokoli
-
-
-IP-protokol qanday vazifani bajaradi? 
-A. Paketlarni tarmoqlar o'rtasida bir marshrutizatordan boshqasiga, to paket, u yuborilgan tarmoqqa etib borguncha xarakatlantirish vazifasini bajaradi.
-B. Paketlarni tarmoqlar o'rtasida bir marshrutizatordan boshqasiga yo’naltirish vazifasini bajaradi.
-C. Yuborilgan ma’lumotlarni qayta ishlash vazifasini bajaradi
-D. Paketlar bilan o’zaro ma’lumotlarni almashinish vazifasini bajaradi
-
-
-IP-paket qanday qismlardan iborat bo'ladi?
-A. Sarlavxa va ma'lumotlar yoziladigan qismlardan iborat 
-B. Ma’lumotlar saqlash va qayta ishlash qismlardan iborat 
-C. Yuborish va saralash qismlardan iborat 
-D. Ma’lumotlar yozish va yuborish qismlaridan iborat 
-
-
-IP-protokolining funktsional jihatdan sodda yoki murakkabligi nimalarga bog’liq? 
-A. IP-paketning sarlavxasi qay darajada sodda yoki murakkab ekanligiga bog'liq
-B. IPlrning soddajoylashganligiga bog’liq 
-C. IP-paketning sarlavxasi murakkab ekanligiga bog'liqdir
-D. IP-paketning sarlavxasi sodda ekanligiga bog'liqdir
-
-
-IPv4-paket sarlavhasining uzunligi necha bitdan iborat?
-A. 4 bitdan 
-B. 8 bitdan 
-C. 16 bitdan 
-D. 32 baytdan 
-
-Simsiz MAN tarmog’lari qanday texnologiyalarda quriladi?
-A. WiMAX, LTE, sputnik
-B. MAN, LAN
-C. LTE, MAN, LAN, WiMAX
-D. WiMax, MAN
-
-
-IMS kommutator qanday vazifani baradi?
-A. Shahar tarmoqlari turli tarmoqlar bir-biri bilan bog’lanish jarayonini nazorat qiladi.
-B. An’anaviy kommutatsiya jarayonida OSI modelida ishlaydi.
-C. Katta o’lchamli tarmoqlar orasida ko’prik vazifasini o’tashda.
-D. Shahar tashqarisi tarmoqlari turli tarmoqlar bir-biri bilan bog’lanish jarayonini nazorat qiladi
-
-
-Qanday tarmoqlar yirik lokal tarmoqlarni birlashtirish uchun foydalanilad? 
-A. Territorial magistral tarmoq 
-B. Magistral tarmoq
-C. Global tarmoq
-D. Territorial tarmoq
-
-
-Markaziy local tarmoqlarni uzoqdan turib ulaish server?
-A. RAS
-B. IP
-C. TCP
-D. TCP/IP
-
-
-ATM tehnologiyasining uzatish tezligi necha bit/sek larga yetkazilgan
-A. 2-10 bit/sek
-B. 6-20 bit/sek
-C. 1-30 bit/sek
-D. 2-20 bit/sek
-
-
-RAS server qaysi dasturiy apparat kompleksdan iborat?
-A. Mashrutizator, ko’prik, shlyar
-B. Local, dasturiy vositalar
-C. Territol, dasturiy vositalar 
-D. Magistral, dasturiy vositalar
-
-
-Marshrutlash protakollari nechta sinfga bo’linadi?
-A. 2 ta
-B. 3 ta 
-C. 4 ta
-D. 6 ta 
-
-
-Ichki shlyuz protokollari qanday protokollar bilan ishlaydi?
-A. RIP, IBRP, OSPF, IS-IS
-B. BBP, RIP, IS-IS
-C. OSPF, B6P, TCP/IP
-D. TCP/IP, IS-IS, RIP
-
-Qanday protakol yo’llari ko’rsatilgan ma’lumotlarni tashqi tarmoqqa uzatadi?
-A. BBP (bateway to bateway Protocol)
-B. IBP (Interot bateway Protocol)
-C. FTP (File Transfer Protocol)
-D. TCP/IP Ptotocol
-
-
-OSI modelining amaliy sathi qanday funktsiyalarni bajaradi?
-A. Klient dasturlari bilan o’zaro muloqotda bo’lish
-B. Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-C. Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-D. Эlektr signallarini uzatish va qabul qilish
-
-
-Ulanish tarmoqlarini bog’lashni va yuqori tezlikdagi kanallar orqali trafik tranzitini ta’minlashni, qaysi tarmok amalga oshiradi?
-A. Magistral tarmoq
-B. Аloqa operatorlari tarmog’i
-C. Korporativ tarmoq
-D. Bino tarmog’i
-
-
-C  sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-A. 256	
-B. 65536	
-C. 512	
-D. 1024
-
-
-А sinfidagi tarmoq maskasi qanday qiymatga ega?
-A. 255.0.0.0
-B. 255.255.0.0	
-C. 255.255.255.0
-D. 255.0.0
-	
-
-C sinfidagi tarmoq maskasi qanday qiymatga ega?
-A. 255.255.255.0
-B. 255.0.0.0
-C. 255.255.0.0
-D. 255.255.240.0
-
-	
-512 ta bog’lamli tarmoqosti tarmoq maskasi qanday qiymatga ega?
-A. 255.255.254.0
-B. 255.0.0.0
-C. 255.255.0.0
-D. 255.255.240.0
-
-Internet tarmog’ida kommutatsiyalashning qaysi xili ishlatiladi?
-A. paketlarni kommutatsiyalash
-B. kanallarni kommutatsiyalash 
-C. xabarlarni kommutatsiyalash
-D. alohida ajratilgan kanallarni kommutatsiyalash 	
-
+maxsulot etkazib beruvchi qanday afzalliklarga ega bo’ladi?	beruvchi to’g’ridan to’g’ri mijozga sifatli mahsulot etkazib
+beradi	vaqtida haq oladi, mahsuloti ga buyurtma oladi	qarab buyurtma asosida mahsulot ishlab chiqaradi	holatidan voqif bo’ladi va mahsulot sifatini oshirishga harakat qiladi	beruvchi to’g’ridan to’g’ri mijozga sifatli mahsulot etkazib
+beradi
+42. Elektron tijoratda mijoz, ya’ni xaridor fanday imkoniyatlarga ega bo’ladi?	*Xoridor o’ziga zarur mahsulot ni ish joyidan tanlab xarid qilish imkoniga ega
+bo’ladi	Xaridor ortiqcha sarf xarajatsiz zarur mahsuloti ni elektron tarzda xarid etadi	Xaridor o’ziga zarur mahsulotni tanlov asosida xarid etadi	Xaridor vaqt va sarf xarajatni tejaydi moddiy samara ko’radi	*Xoridor o’ziga zarur mahsulotni ish joyidan tanlab xarid qilish imkoniga ega bo’ladi
+43. Mijoz va maxsulot etkazib beruvchi orasidagi munozarali baxslar qanday
+xal qilinadi?	*Kelishuv bitimlari shartlari va meyoriy normativ xujjatlar
+asosida	Kelishuvd a imzolanga n bitim asosida	Ichki ishlar idoralari xodimlari ishtirokida	Amaldagi meyoriy- huquqiy normativ xujjatlar asosida	*Kelishuv bitimlari shartlari va meyoriy normativ xujjatlar asosida
+44. Elektron tijoratda xaridorlarga qanday xizmatlarni ko’rsatish mumkin?	*Xaridor uchun kerakli to’lovni amalga oshirish va mahsulot ni o’z vaqtida
+manzilga	Mahsulot va xizmatlar bo’yicha axborot berish	Xaridor xarid qilgan mahsulotni manzilga etkazib berish	To’lovni amalga oshirish va mahsulotni tanlov asosida xarid qilish	*Xaridor uchun kerakli to’lovni amalga oshirish va mahsulotni o’z vaqtida manzilga etkazib
+berish
  
-UTP kabeli deganda qaysi kabel tushuniladi?
-A. o’ralma juftlik kabeli
-B. yo’g’on koaksial kabel
-C. ingichka koaksial kabel 
-D. optik tolali kabel 
-
-	
-Modem kanday asosiy vazifani bajaradi?
-A. signallarni modulyatsiyalash - demodulyatsiyalash
-B. parallel kodni ketma-ket kodga o’zgartirish
-C. skrembrlash va deskrembrlash 	analog signallarni raqamli kodga o’zgartirish
-D. analog signallarni raqamli kodga o’zgartirish 
-
-
-Keltirilgan qurilmalarning qaysi biri DCE bo’ladi?
-A. modem
-B. marshrutizator 
-C. kompyuter
-D. klaviatura 
-
-
-Keltirilgan qurilmalarning qaysi biri DTE bo’ladi?
-A. kompyuter va marshrutizator
-B. modem
-C. aloqa chiziqlari
-D. kabellar 
-
-	
-Keltirilgan protokollarning qaysilari fizik  sath protokollariga mansub?
-A. 10Base-T, 100Base-T
-B. TCP,UDP
-C. IP, IPX	
-D. NFS, FTP
-
-	
-Keltirilgan protokollarning qaysilari taqdimlash sathi protokollariga mansub?
-A. SNMP, Telnet
-B. IP, IPX
-C. Ethernet, FDDI	
-D. TCP,UDP
-
-	
-Keltirilgan protokollarning qaysilari saenslar sathi protokollariga mansub?
-A. RPC, WSP
-B. IP, IPX
-C. Ethernet, FDDI	
-D. TCP,UDP
-
-OSI modelining transport sathi qanday funktsiyalarni bajaradi?
-A. Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish	
-B. Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-C. Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
-D. Klient dasturlari bilan o’zaro muloqotda bo’lish
-
-
-OSI modelining seanslar sathi qanday funktsiyalarni bajaradi
-A. Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-B. Klient dasturlari bilan o’zaro muloqotda bo’lish
-C. Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish	
-D. Elektr signallarini uzatish va qabul qilish
-
-
-OSI modelining taqdimlash sathi qanday funktsiyalarni bajaradi
-A. Ma’lumotlarni kodlash va shifrlash
-B. Klient dasturlari bilan o’zaro muloqotda bo’lish
-C. Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-D. Elektr signallarini uzatish va qabul qilish
-
-
-Аloqa kanaliga va uzatish muhitiga ulanishni boshqarish vazifalarini OSI modelining qaysi sathi bajaradi?
-A. Kanal sathi	
-B. Fizik sath	
-C. Tarmoq sathi	
-D. Transport sathi
-
-
-Ma’lumotlarni uzatish jarayonida ularni to’liq va to’g’ri uzatilishini nazorat qilish vazifalarini OSI modelining qaysi sathi bajaradi?
-A. Transport sathi
-B. Fizik sath	
-C. Tarmoq sathi	
-D. Kanal sathi
-
-
-Аloqa seansini hosil qilish, kuzatib turish va ohirigacha ta’minlab berish vazifalarini OSI modelining qaysi sathi bajaradi?
-A. Seanslar sathi
-B. Fizik sath	
-C. Tarmoq sathi	
-D. Kanal sathi
-
-104TA
-
-
-Mobil aloqa tarmoqlari tushunchasi nimani anglatadi?
-A. Ko'chib yurish ma'nosini
-B. Simli aloqa ma'nosini
-C. Simsiz aloqa ma'nosini
-D. Aralash tarmoq ma'nosini
-
-Mobil terminallari qaysi qurilma bilan o'zaro bog'lanib tarmoqqa ulanishni amalga oshiradi?
-A. Baza stansiyasi 
-B. Sputnik
-C. Controller baza stansiyasi
-D. Switch
-
-
-2G va 3G mobil tarmoqlarining farqi nimada?
-A. Chastota diapozoni, taqdim etadigan xizmatlari, mobil terminallari, tarmoq elementlari
-B. foydalanuvchilar soni va taqdim etadigan xizmat turlari bilan farqlanadi
-C. Farqi yoq, ular bir xil xizmatlarni taqdim etadi.
-D. To'g'ri javob keltirilmagan.
-
-
-1G, 2G, 3G, 4G, 5G tarmoqlaridagi "G" harfining ma'nisi nima?
-A. "G"-inglizcha Generation so'zining bosh harfidan olingan bo'lib, avlod degani
-B. "G"-inglizcha Global so'zining bosh harfidan olingan bo'lib, avlod degani
-C. "G"-inglizcha Green so'zining bosh harfidan olingan bo'lib, yashil degani
-
-
-5G tarmoqlarining ma'lumot uzatish tezligi qancha?
-A. 1 Gbit/s dan katta
-B. 100 Mbit/s dan kichik
-C. Yuqori tezlikda, aniq tezlik belgilanmagan
-D. 5G tarmog'i hali mavjud emas
-
-
-LTE va WiMAX texnologiyalari qaysi avlodga tegishli?
-A. 4G
-B. 3G
-C. 5G
-D. 3,5G
-
-
-PON so'zining ma'nosini toping.
-A. Passiv opkit tarmog'i
-B. Shisha tolali optik tarmog'i
-C. Abonent tarmog'i
-D. Keng polosali tarmoq
-
-
-Raqamli abonent liniyasi - tarmoqning qaysi qismiga to'g'ri keladi?
-A. Stansiyadan abonentning uyigacha bo'lgan qismi
-B. Stansiyalararo
-C. Korporativ
-D. Abonentning uyi
-
-
-3G texnologiyasi asosida keng polosali abonent tarmog'ini qurish mumkinmi?
-A. Ha
-B. Yoq
-C. Tajribada qurilmagan
-D. Kelajakda qurilishi mumkin
-
-
-xDSL texnologiyasi asosida lokal kompyuter tarmoqlarini yuqori tezlikli Internetga ulash mumkinmi?
-A. Faqat past tezlikli internetga ulash mumkin
-B. Yoq
-C. xDSL internetga ulash texnologiyasi emas
-D. Hozirda xDSLdan foydalanilmaydi
-
-
-Keng polosali abonent tarmog'i texnologiyalarini ko'rsating.
-A. xDSL, PON, 3G, 4G, Sputnik
-B. xDSL, Sputnik
-C. 3G, 4G, Sputnik
-D. PON
-
-
-Qanday qurilmalar orqali foydalanuvchilar tarmoq resurslaridan foydalanishi mumkin?
-A. Kompyuter, smartfon va raqamli qurilmalar
-B. Faqat modem
-C. Turli kompyuterlar modellari
-D. Foydalanuvchilar tarmoq resurslaridan foydalana olmaydi
-
-
-Transport tarmoqlari orqali uzatiladigan ma'lumot birligi nima?
-A. Oqimlar
-B. Signallar
-C. Ma'lumotlar
-D. Paketlar
-
-
-Transport tarmog'ida oxirgi yillarda eng ko'p foydalanilayotgan uzatish muhitini ko'rsating.
-A. Optik muhitlar
-B. Simli muhitlar
-C. Simsiz muhitlar
-D. Temir muhitlar
-
-
-PDH texnologiyasining kengaytirilgan ko'rinishini ko'rsating
-A. Plesiochronous digital hierarchy
-B. Personal digital hierarchy
-C. Plesiochronous hierarchy
-D. Plesiochronous definition hierarchy
-
-
-SDH uzatish texnologiyasida qanday uzatish tizimlari mavjud?
-A. STM
-B. PCM
-C. DWDM
-D. E1 
-
-
-STM-1 tizimining uzatish tezligi qancha?
-A. 155 Mbit/s
-B. 100 Mbit/s
-C. 1 Gbit/s
-D. 625 Mbit/s
-
-DWDM texnologiyasi asosida kanallar qanday parametrga ko'ra multipleksorlanadi?
-A. To'lqin uzunligiga ko'ra
-B. Vaqt bo'yicha
-C. Amplitutasi bo'yicha
-D. Tebranish davri bo'yicha
-
-
-SONET tizimi bilan SDH tizimi bir xil imkoniyatli texnologiyalarmi?
-A. Deyarli bir xil
-B. Ikki xil 
-C. Tubdan farq qiladi
-D. SONET tizimi mavjud emas.
-
-
-SDH uzatish tizimlari tarmoqning qaysi qismida foydalaniladi?
-A. Shahar tarmoqlarida
-B. Lokal tamroqlarida
-C. Gloval tarmoqlarda
-D. Istalgan qismida
-
-
-Global tarmoqlarni qurishda DWDM texnologiyasi qanday vazifani bajaradi?
-A. Mamlakatlar va shaharlarni o'zaro bir biri bilan bog'lashni ta'minlaydi.
-B. Ma'lumotlarni ko'rsatilgan adres bo'yicha marshrutlaydi
-C. U global tarmoqlarida ishlatilmaydi
-D. Lokal tarmoqlarida marshrutlaydi
-
-
-Multipleksorlash qanday ma'noni anglatadi.
-A. Zichlashtirish
-B. Adreslash
-C. Kuchaytirish
-D. Ko'paytirish
-
-
-Klient-server arxitekturasi deganda nimani tushunasiz?
-A. Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi arxitektura
-B. Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi qurilmalar to'plami
-C. Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi protokollar to'plami
-D. Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi muhitlar
-
-
-Kompyuter tarmoqlarida server qanday vazifani amalga oshiradi?
-A. Serverga ulangan kompyuterlarni o'zaro bog'lanish, resurs almashish va Internet resurslarida foydalanish imkoniyatini ta'minlaydi
-B. Kompyuterlararo bog'lanish va faqat bir birini resursidan foydalanish imkoniyatini ta'minlaydi
-C. IP adres berish
-D. Marshrutlash
-
-
-
-Klient-server arxitekturasi qanday usullarda quriladi?
-A. Klient-server va Peer-to-peer arxitekturalariga asosan
-B. Klient-server arxitekturasiga asosan
-C. Peer-to-peer arxitekturasiga asosan
-D. Xech qanday
-
-
-Ilova nima?
-A. Foydalanuvchilarni tarmoq resurslaridan foydalanish imkoniyatini taqdim etuvchi dasturlar.
-B. Smartfon dasturlari
-C. Operatsiyon tizimga ulanish dastur
-D. Xavfsizlikni ta'minlovchi dasturlar
-
-
-Klient-server protokollarini ko'rsating.
-A. SMTP,DNS
-B. RIP, SMTP, OSPF
-C. UDP, POP
-D. POP. RIP, OSPF
-
-
-Klient va server qurilmalari qanday topologiyalarda bog'lanishi mumkin?
-A. Yulduz, nuqta-nuqta, halqa, shina
-B. Faqat nuqta-nuqta
-C. Faqat yulduz
-D. Yulduz, halqa, shina
-
-
-Klient va server qanday ko'rinishda bog'lanishni amalga oshiradi?
-A. Dastlab klient serverga so'rov jo'natadi va server so'rovga ishlov berib klientga javob qaytaradi.
-B. Har ikkalasi baravar so'rov-javob shaklida ishlaydi
-C. Bunda faqat klient so'rov va javoblarni amalga oshiradi.
-D. Nuqta ko'rinishida
-
-
-Smartfon qurilmalari bir vaqtda ham klient ham server bo'la oladimi?
-A. Ha, foydalanilayotgan protokol va ilovaga muvofiq
-B. Yoq
-C. Bunaqa bo'lishi mumkin emas
-D. Hozirda buning imkoniyati mavjud emas
-
-
-Server vazifasini bajarish uchun qanday shartlar topilishi kerak?
-A. So'rovlarga ishlov berish va javob qaytarish, resurslarga ega bo'lish va doim faol bo'lish
-B. So'rovlarga ishlov berish va resurslarga ega bo'lish
-C. Faqat resurslarga ega bo'lish
-D. So'rovlarga ishlov berish va javob qaytarish, resurslarga ega bo'lish 
-
-
-Peer-to-Peer arxitekturasiga asoslangan saytini tanlang?
-A. Bit-torrent saytlari
-B. Google
-C. Yandex
-D. Barcha qidiruv tizimlariga asoslangan saytlar
-
-
-DNS qanday tizim?
-A. Domen nomalar tizimi
-B. Domen ro'yxatlari tizimi
-C. Resurslarning manzilini ko'rsatuvchi tizim
-D. Xotira tizimi
-
-
-DNS qanday maqsadlar uchun foydalaniladi?
-A. Internetga ulangan kompyuterni joylashuvini ko'rsatadi va uni aniqlaydi
-B. Internetga ulangan kompyuter uchun aloqa qilish imkoniyatini ta'minlaydi 
-C. Saytda joylashgan ob'ektlarni manzilini ko'rsatadi va ularni aniqlaydi.
-D. Ischi stansiya adresini belgilaydi
-
-
-Quyida keltirilgan qaysi domen nomlari to'g'ri ko'rsatilgan?
-A. Barcha domenlar to'g'ri ko'rsatilgan
-B. tuit.uz, uztelecom.uz, csm.tuit.uz
-C. facebook.com, ok.ru
-D. Google.com, Yahoo.com, Bombay.vni.com
-
-
-DNS tizimi IP adresini nomga va nomni IP adresga o'zgartiradi, masalan: google.com nomini 173.194.73.94 adresiga o'zgartiradi. Shu holat to'g'rimi?
-A. Ha
-B. Yoq
-C. Qisman
-D. Bo'lishi mumkin
-
-
-.uz bilan tugagan barcha domenlar faqat O'zbekiston hududida foydalanish mumkinligini anglatadimi?
-A. Yoq
-B. Ha
-C. Ba'zi hollarda O'zbekistondan tashqarida foydalanish mumkin.
-D. Aniq emas
-
-
-Har bir domen nomiga bitta IP adres mos keladimi?
-A. Bittadan ortiq IP adress bo'lishi mumkin
-B. Yoq
-C. Ha
-D. Tarmoqni sig'imiga bog'liq
-
-
-DNS so'rovlariga qaysi qurilma ishlov beradi?
-A. DNS serveri.
-B. DNS admini
-C. Marshrutizatorlar
-D. DNS switch
-
-
-ICMP nima maqsadda foydalaniladi?
-A. Ikki qurilmadagi IP protokollari o'rtasidagi aloqani ta'minlaydi, boshqaradi
-B. Ikki qurilmadagi IP protokollari o'rtasidagi ma'lumot almashadi
-C. Marshrutlash jarayonini boshqaradi
-D. Monitoring qilish uchun
-
-Xostlar orasida ICMP boshqaruv xabarlari qanday shakllarda almashadi?
-A. So'rov-javob shaklida
-B. Faqat so'rov shaklida
-C. Faqat javob shaklida
-D. Xabar almashmaydi
-
-
-ICMP qisqartmasining quyida kengaytirib yozilgan shaklini ko'rsating.
-A. Internet control message protocol 
-B. Internet configuration message protocol 
-C. Interface control message protocol 
-D. Internet control message personal
-
-
-ICMP yuzaga kelgan xatoliklar haqida xabardor etadimi?
-A. Ha
-B. Yoq
-C. Xatolikni aniqlaydi lekin xabar bermaydi
-D. Foydalanilayotgan operatsion tizimga bog'liq
-
-
-ICMP xabarlari IP paketga joylashtiriladimi?
-A. Ha
-B. Yoq
-C. UDP paketga
-D. TCP paketga
-
-
-ICMP xabari nechi qismdan tashkil topadi?
-A. 2 qismdan: Sarlovha va ma'lumot
-B. 1 qismdan: Sarlovha qismidan
-C. 1 qismdan: Ma'lumot
-D. 3 qismdan: Ma'lumot, axborot, sarlovha
-
-
-SNMP nima?
-A. Tarmoqni boshqarish protokoli
-B. Tarmoq xavfsizligini ta'minlovchi protokol
-C. Amaliy pog'ona protokoli
-D. Kanal pog'ona protokoli
-
-
-SNMP protokoli OSI modelining qaysi pog'onasida ishlatiladi?
-A. Amaliy pog'ona 
-B. Tarmoq pog'ona 
-C. Kanal pog'ona 
-D. Fizik pog'ona 
-
-
-SNMP uchun qaysi port belgilangan?
-A. UDP 161 va 162 port
-B. TCP 161 port
-C. Faqat UDP 161
-D. Faqat TCP 162
-
-SNMP so'rov va javob shakli faqat bitta portdan amalga oshiriladimi?
-A. Yoq
-B. Ha
-C. Ketma-ket bitta portdan
-D. Parallel bitta portdan
-
-
-SNMP protokolining asosiy vazifalari nimadan iborat?
-A. Tarmoqni monitoringni uchun tarmoqni boshqarishda ishlatiladi, IP tarmoqlariga ulangan qurilmani boshqarish haqidagi ma'lumotlarni tashkil etish va to'plash uchun standart protokol hisbolanadi
-B. Faqat monitoring
-C. Faqat boshqarish haqidagi ma'lumotlarni tashkil etish va to'plash
-D. Email xabarlarni nazorat qilish 
-
-
-Simsiz sensor tarmoqlari deganda nimani tushunasiz?
-A. Atrof muhitdagi holatlarni monitoring qiluvchi va o'zgarishlarni qayt etuvchi qurilmalar
-B. Atrof muhitdagi holatlarga munosabad bildiruvchi qurilmalar
-C. Atrof muhitdagi holatlarni o'rganuvchi qurilmalar
-D. Atrof muhitda ma'lumot etkazuvchi qurilmalar
-
-
-Sensor tarmoqlari elementlariga misol keltiring.
-A. Aqlli soat, EKG elektrod, gas sensori
-B. Aqlli soat, EKG elektrod, web saytlar
-C. EKG elektrod, gas sensori, simsim sichqoncha
-D. Barchasi xato
-
-
-Sensor qurilmalarini asosiy vazifasi nimadan iborat?
-A. Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmasiga o'zgarishlarni jo'natish
-B. Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmaga o'zgarishlarni jo'natish va kerakli buyruqlarni qabul qilish
-C. Kontroller qurilmasi bilan so'rov-javob shaklida ishlash
-D. Kontroller qurilmasiga xizmat qiladi
-
-
-Hozirda qaysi sohalarda IoT texnologiyasidan foydalaniladi?
-A. Barcha javob to'g'ri 
-B. Tibbiyot
-C. Ob-havo ma'lumotlarini aniqlashda
-D. Qishloq xo'jaligi
-
-
-Sensor qurilmalarida qanday muammolar mavjud?
-A. Barcha javob to'g'ri 
-B. Xotira va quvvat ta'minoti
-C. Ish bajarish samaradorligi cheklangan
-D. Xavfsizlik masalasi to'liq hal etilmagan
-
-
-
-
-Sensor tarmoqlari uchun maxsus operatsion tizim talab etiladimi?
-A. Ha
-B. Yoq
-C. Ba'zan
-D. O'zida mavjud bo'ladi
-
-
-Sensor tarmog'i necha qismdan iborat?
-A. 3
-B. 2
-C. 1
-D. Aniq emas
-
-
-Sensor qurilmalarni boshqaruvchi qurilma qanday nomlanadi?
-A. Kontroller
-B. Protsessor
-C. brouzer
-D. chip
-
-
-Nima sababdan sensor tarmoqlarining resurslari cheklangan bo'ladi?
-A. Barcha javob to'g'ri 
-B. Quvvati va sig'imi 
-C. Boshqa imkoniyatlari cheklanganligi sababli
-D. O'lchami va xotirasi
-
-
-Sensor qurilmalarini taqdim etadigan afzalliklari nimadan iborat?
-A. Barcha javob to'g'ri 
-B. Raqamli qurilmalar bilan moslashuvchan
-C. Narxi arzon
-D. Tashib yurish qulay
-
-
-Nima sababdan sensor qurilmalarida ma'lumot almashish tezligi past?
-A. O'kazuvchanlik qobiliyati cheklangan
-B. Quvvat ta'minoti cheklangan
-C. Markaziy boshqaruv orqali tezlik pasaytiriladi
-D. Quvvat ta'minoti cheklanganligi uchun
-
-
-Sensor tarmoqlarida qanday marshrutlash protokollaridan foydalaniladi?
-A. OLSR, MRP
-B. MRP, RIP
-C. DSDV, IP
-D. TCP,UDP
-
-
-Sensor tarmoqlarini qurishda qanday tarmoq topologiyalaridan foydalaniladi?
-A. Barcha javob to'g'ri 
-B. Nuqta-nuqta
-C. Chiziqli, gibrid
-D. Yulduz, daraxt, mesh
-
-Sensor tarmoqlarida axborot xavfsizligi darajasi qay darajada ta'minlangan?
-A. Talab darajasida emas
-B. Yuqori darajada
-C. Juda past darajada
-D. Faqat ma'lumotlar shifrlangan 
-
-
-Sensor tarmoqlarini talab darajasida takomillashtirish uchun nimalarga ahamiyat berish lozim?
-A. Barcha javob to'g'ri 
-B. Operatsiyon tizimi imkoniyatlarini takomillashtirish
-C. Mos protokollarni ishlab chiqish
-D. Xotirasi, sig'imi va quvvat manbaini takomillashtirish 
-
-
-Tarmoq xavfsizligi qanday vositalar orqali ta'minlanadi?
-A. Apparat va dasturiy ta'minot vositalari orqali
-B. Faqat apparat ta'minoti vositalari orqali
-C. Faqat dasturiy ta'minoti vositalari orqali
-D. Tarmoq operatorlari orqali 
-
-
-Tarmoq pog'onasida kimlar axborot xavfsizligini himoyalashga mas'ul?
-A. Barcha javob to'g'ri 
-B. Provayderlar
-C. Tarmoq qurilmasi va dasturlarini ishlab chiqaruvchilar
-D. Operatorlar
-
-
-Internet foydalanuvchilari uchun tarmoq xavfsizligi kafolatlanganmi?
-A. Kafolatlanmagan
-B. Kafolatlangan
-C. Antiviruslar orqali kafolatlash mumkin
-D. Internetnet provayderining imkoniyatiga bog'liq
-
-
-Autentifikatsiya nima maqsadda ishlatiladi?
-A. Foydalanuvchini identifikatsiya qilish uchun
-B. Qurilmani identifikatsiya qilish uchun
-C. Dasturni identifikatsiya qilish uchun
-D. Barcha javoblar xato
-
-
-Internet saytlarida mavjud resurslardan foydalanishga kim ruxsat beradi?
-A. Administrator
-B. Xizmat provayderi
-C. Meneger
-D. Barcha javob to'g'ri
-
-
-Axborotlarni maxfiyligi qanday ta'minlanadi?
-A. Shifrlash algoritmlari orqali
-B. Antiviruslar orqali
-C. Uzatuvchi muhitlar orqali
-D. Qurilma orqali
-
-Foydalanuvchilar axborot xavfsizlini buzulishida aybdor bo'lishlari mumkinmi?
-A. Ha
-B. Yoq
-C. Qurilma ishlab chiqaruvchi aybdor
-D. Dastur ishlab chiqaruvchi aybdor
-
-
-Nima uchun axborot xavfsizligi borgan sari dolzarb bo'lib bormoqda?
-A. Axborotlar - intellektual mulk darakasiga etib kelmoqda
-B. Tahdidlar resurslardan foydalanish darajasini cheklayotgani uchun
-C. Insonlar ish faoliyati axborotlar bilan bog'liq bo'lganligi uchun
-D. Barcha javob to'g'ri
-
-
-Qanday muhitlarda axborot xavfsizligi dajarasi yuqoriroq?
-A. Simli va optik
-B. Simsiz
-C. Optik va simsiz
-D. Simsiz va radio
-
-
-Ilovalar axborot xavfsizlikni ta'minlashi mumkinmi?
-A. Ha
-B. Ta'minlamaydi
-C. Mumkin emas
-D. Kelajakda
-
-
-Kompyuter tarmoqlarida xavfsizlikni ta'minlash uchun nima ishlab chiqilishi lozim
-A. Xavfsizlik siyosati
-B. Xavfsizlik xaritasi
-C. Xavfsizlik qoidalari
-D. Xavfsizlik talabalari
-
-
-Konvergent so'zining ma'nosini ko'rsating.
-A. Yaqinlashish
-B. Birgalashish
-C. Intilish
-D. Barcha javob xato
-
-
-Qanday holatlarda konvergensiya jarayoni yuzaga keladi?
-A. Turli qurilmalar va dasturlarni bitta muhitda ishlash natijasida
-B. Bir turdagi standart qurilmalarni o'zaro ishlashi natijasida
-C. Xar xil standartlarda ishlay ololmasligi natijasida
-D. Har doim faol holat yuzaga kelganida
-
-
-Konvergent tarmoqlariga misol keltiring.
-A. Bluetooth, WiFi va internetga ulangan qurilmalarni o'zaro ma'lumot almashishi
-B. Faqat Bluetooth qurilmalarini ma'lumot almashishi
-C. Lokal tarmoqlar
-D. Shahar tarmoqlari
-
-
-Turli tarmoqlar va ularning formatini moslashtirib beruvchi qurilmani ko'rsating
-A. Shlyuz
-B. Kommutator
-C. Softswitch
-D. Modem
-
-
-Konvergent tarmoqlarining elementlarini ko'rsating
-A. Barcha javob to'g'ri 
-B. Marshrutizator, sputnik, 4G antenna
-C. Modem, terminallar
-D. Shlyuz, softswitch, kommutator
-
-
-Konvergent tarmoqlariga o'tishning asosiy sababi...
-A. Barcha javob to'g'ri 
-B. Turli standartdagi dasturlarning ishlab chiqarilishi
-C. Ma'lumot formatlarining turini ko'payib ketishi
-D. Turli standartdagi qurilmalarning ishlab chiqarilishi
-
-
-Konvergensiyaning kamchilik tomonlarini ko'rsating
-A. Barcha javob to'g'ri 
-B. O'zaro ishlash murakkablashadi
-C. Xavfsizlik darajasi pasayadi
-D. Boshqarish murakkablashadi
-
-
-Tarmoq operatsion tizimiga ta'rif bering.
-A. Barcha javob to'g'ri 
-B. Lokal tarmoqqa ulangan barcha turdagi kompyuterlarni qo'llab quuvatlash uchun ishlab chiqiladi
-C. Tarmoqni uzluksiz ishlashini ta'minlaydi
-D. Tarmoq resurslarini boshqaradi
-
-
-Windows server tarmoq operatsion tizimi bo'la oladimi?
-A. Ha
-B. Yoq
-C. Moslashtirish kerak
-D. Mumkin emas
-
-
-Windows serverni qaysi tashkilot ishlab chiqqan.
-A. Microsoft
-B. Unix
+	etkazib
+berish				
+45. Elektron tijorat magazinlarga qanday xizmat ko’rsatadi?	*Magazin mahsulotl arini reklama qiladi va mijoz bilan ta’minlay
+di	Magazind agi mahsulot turiga mijozlarni jalb qiladi	Magazinda n xarid etilgan mahsulotni manzilga etkazib beradi	Magazin mahsulotla ri sifatini oshirish ga undaydi va raqobat ni kuchaytiradi	*Magazin mahsulotlari ni reklama qiladi va mijoz bilan ta’minlaydi
+46. Elektron
+tijoratda o’z saytingizni qanday ochishingiz mumkin?	*Ariza
+asosida ma’lum miqdorda naqd pul to’lash yoki pul o’tkazish
+orqali	Kompyute
+ringizni to’g’ridan- to’g’ri internet tarmog’iga ulanish orqali	Domen va
+saytga nom berish, pul o’tkazish orqali	Tashkilotdan
+pul o’tkazish va maxsus iltimosnoma yoki shartnoma asosida	*Ariza
+asosida ma’lum miqdorda naqd pul to’lash yoki pul o’tkazish orqali
+47. Pin kodni yoddan chiqarganda nima qilish kerak?	*Plastik karta yordamid a to’lovni amalga oshirish imkonini beruvchi bankga murojaat
+etiladi	Ariza bilan bank emitentga murojaat etiladi	Plastik karta bekor qilinib, o’rniga yangisi bankdan olinadi	Ichki ishlar ijoralari xodimiga ariza bilan murojaat qilinadi	*Plastik karta yordamida to’lovni amalga oshirish imkonini beruvchi bankga murojaat
+etiladi
+48. Plastik kartani yo’qotganda nima qilish kerak?	*Plastik karta ishlab chiqargan bankga murojaat
+etiladi	Ichki ishlar idorasiga murojaat etiladi	Plastik karta bilan muloqot etuvchi tashki lotga murojaat
+etiladi	Hech kimga murojaat qilmaydi	*Plastik karta ishlab chiqargan bankga murojaat etiladi
+49. Bankning kredit	*Bevosita	Bevosita	Faqat o’zi	Xisob	*Bevosita
+ 
+yoki debit kartalari yordamida xisob raqamini to’ldirish usullarini ko’rsating.	yoki pul o’tkazish orqali xisob raqamini to’ldirish mumkin	yoki o’zga shaxs tomonidan pul o’tkazish orqali xisob raqamini to’ldirish
+mumkin	yoki o’zga shaxs tomonidan pul o’tkazish orqali xisob raqamini to’ldirish mumkin	raqamini to’ldirish uchun bank tomonidan maxsus ruxsat olish zarur	yoki pul o’tkazish orqali xisob raqamini to’ldirish mumkin
+49. Elektron raqamli imzo haqidagi qonun qachon qabul qilingan?	*11 dekabr 2003 yil.	1
+avgust 2005
+yil.	10 may
+2006 yil.	11 dekabr
+2005 yil.	*11 dekabr 2003 yil.
+50. Elektron xujjat almashinuvi haqidagi qonun qachon qabul qilingan?	*30 aprel 2004 yil.	15
+sentyabr 2005 yil	21 sentyabr
+2006 yil	10 aprel
+2005 yil.	*30 aprel 2004 yil.
+51.Axborotlashtiris h haqidagi qonun qachon qabul qilingan?	*11 fevral 2004 yil.	5 may
+2005 yil.	24 sentyabr
+2006 yil.	03 mart 2006 yil.	*11 fevral 2004 yil.
+52. Debet tushunchasi nimani ifodalaydi?	*Bankga qo’yilgan jamg’arm adan foydalani
+sh.	Bankdan ma’lum muddatga foiz hisobida
+qarz olish.	Bankdan foizsiz qarz olish.	Bankdagi tashkilot jamgarmasid an foydalanish	*Bankga qo’yilgan jamg’armad an foydalanish.
+53. Kredit tushunchasi nimani ifodalaydi?	*Bankdan foiz hisobida qarz olish.	Bankdan foizsiz qarz olish.	Bank ixtiyoridagi jamg’arma dan foydalanish
+.	Tashkilotnin g bankdagi jamgarmasid an foydalanish.	*Bankdan foiz hisobida qarz olish.
+ 
+54. Plastik karta nima uchun ishlatiladi?	*Pul o’tkazish vositasi sifatida.	Jamg’arm ani saqlash vositasi sifatida.	To’lov vositasi sifatida.	Tulovda ishonch bildiruvchi vosita
+sifatida	*Pul o’tkazish vositasi sifatida.
+55.Bankomatdan nima maqsadda foydalaniladi?	*Naqd pul miqdorini olish vositasi
+sifatida.	Pulni konvertats iya qiluvchi vosita
+sifatida.	To’lovn i amalga oshirish vositasi sifatida.	Jamgarmani saklovchi kurilma sifatida	*Naqd pul miqdorini olish vositasi sifatida.
+56. Plastik
+kartaning standart o’lchami.	*85,6*53.
+9*0,76m
+m.	87,5*60,6
+*1,02mm.	88,8*45,9*
+0,90mm.	90,3*50,1*0,
+85mm.	*85,6*53.9*
+0,76mm.
+57. To’lov tizimda aktivlik deganda nimani tushunasiz	*To’lov tizimining ishlashi xaqida turli manbalar dan olingan ma’lumot larni
+baholash	To’lov tizimi orqali to’lovni qisqa muddatda amalga oshirish	Elektron tarzda to’lovni amalga oshiganligi xaqidagi ma’lumot	Xoridor va mahsulot etkazuvchini ng qisqa muddatda kelishuvi ni rasmiylashtir ish	*To’lov tizimining ishlashi xaqida turli manbalardan olingan ma’lumotlar ni baholash
+58. Maxsus dasturiy ta’minotdan to’lov jarayonida
+foydalanish	*WEB
+Money Keeper	Pay Cash	Pay Net	POS
+Terminal	*WEB
+Money Keeper
+Autentifikatsiya nima	*Sotuvchi va xoridor keli shuvida tomonlar
+dan	Plastik karta ishlab chiqargan bankning rekvizitlari	Sotuvchi va xoridorning savdo-sotiq bo’yicha kelishuvi	Elektron savdo kelishuvinin g rasmiylashtir ish jarayoni	*Sotuvchi va xoridor keli shuvida tomonlar dan ishtirok etuvchilar
+kimligi ga
+ 
+	ishtirok etuvchilar kimligi ga ishonch xosil
+qilish				ishonch xosil qilish
+59. Ma’lumotlar to’liqligini saqlash deganda nimani tushunasiz	*Harid qilinganli k haqidagi ma’lumot ni hech kim tomonida n o’zgartira
+olmaslik	Ma’lumot ni tashqi tajavuzdan himoya qilish	Ma’lumotd an nusxa olib alohida yig’gichda saqlash	Ma’lumot bazasiga ruxsati bor kimsa larni ro’yxatga olish	*Harid qilinganlik haqidagi ma’lumotni hech kim tomonidan o’zgartira olmaslik
+60. To’lovni amalga oshirishdagi tezlik deganda nimani tushunasiz	*Xoridor tomonida n tovar uchun hisob- kitobda va magazin tomonida n pulni qabul qilishda kechikish bor yoki
+yo’qligi	Xoridorni ng xarid etilgan mahsulot uchun tezda naqd pul to’lashi	Xarid qilingan mahsulot va xizmat uchun bankdan o’z vaqtida pul o’tkazishi	Xoridor tomonidan plastik karta yordamida xarid etilgan mahsulot uchun pul to’lashi	*Xoridor tomonidan tovar uchun hisob- kitobda va magazin tomonidan pulni qabul qilishda kechikish bor yoki yo’qligi
+61. Onlaynda ro’yxatga olish	*Internet orqali to’lov tizimida ro’yxatga olish
+imkoniyat	Xoridor va mahsulot etkazuvchi ning kelishu vini
+ro’yxatga	Mahsulot etkazuvchi ning rekviziti bo’yicha ro’yxatga
+olish	Xoridorning qaysi bank xizmatidan foydalanishi ni ro’yxatga olish	*Internet orqali to’lov tizimida ro’yxatga olish imkoniyati
+ 
+	i	olish			
+62. Pulni qaytarish deganda nimani tushunasiz	*Xoridor ning kelishuvd an voz kechishi yuz berganda pulni qaytarish da to’lov tizimining imkoniyat
+lari	Savdo kelishuvin ing biron bir tomondan buzilishi natijasida to’lov pulini qaytarish miqdori	Xoridornin g kelishuv bitimini bir tomonlama buzganligi uchun chegirmali to’lovni qaytarib olishi	Xoridorning yoki mahsulot etkazib beruvchining kelishuv shartlari bajarilma ganda jarima to’lovi ni amalga oshirishi	*Xoridornin g kelishuvdan voz kechishi yuz berganda pulni qaytarishda to’lov tizimining imkoniyatlar i
+63. To’lov jarayonidagi sarf xarajat nimadan iborat	*Tizimda ishtirok etish bilan bog’liq sarf xarajat miqdori	Ro’yxatga olishnarxi, abonent to’lovlari	Bank xizmati to’lovlari, ro’yxatga olish to’lovi, kelishuvni amalga oshirish uchun
+to’lovlar	Mahsulotni manzilga etkazish to’lovlari, ro’yxatga olish to’lovlari	*Tizimda ishtirok etish bilan bog’liq sarf xarajat miqdori
+64.Ma’lumotlarnin g ochiqlilik darajasi	*To’liqlili k, aniqlilik va murojaatn ing mavjudlig
+i	Ixtiyoriy shaxsning ma’lumotl arga ruxsatsiz kirishi	Maxsus ruxsatnoma asosida ma’lumot bazasiga kirish	Faqat ma’lum bir tashkilot miqyosida ma’lumotlar bazasi dan foydalanish	*To’liqlilik, aniqlilik va murojaatnin g mavjudligi
+ 
+ 
+ 
+ 
+ 
+ =====================================================================================================================
+ 
+ №	Savol va javoblar
+1	Internet do‘konning  oddiy savdodan ajratib turuvchi jihati keltirilgan qatorni ko‘rsatirng.
+a	unda tovar va xizmatlarni ko‘proq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida maksimal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+b	to’g’ri javob yo’q
+c	unda tovar va xizmatlarni ko‘proq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida minimal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+d	unda tovar va xizmatlarni kamroq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida maximal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+2	Elektron tijorat haqidagi dastlabki qonun qachon qabul qilingan?
+a	29 aprel 2004 yil
+b	28 sentabr 2022 yil
+c	13 oktabr
+2007 yil
+d	25 may 2007 yil
+3	Gollandcha auksion bu-
+a	auksionchi bo‘lib savdogar xisoblanadi va u narxni doimo tushirib turadi, toki qachon biror bir xaridor e’lon qilingan narxga rozi bo‘lmaguncha.
+b	buyurtmani rasmiylashtirish va u bilan ishlash uchun menejerga yuborish tizimi va katalog yig‘inidisini ifodalaydi.
+c	elektron katalog yoki mahsulotni taqdim etishning boshqa usuli yordamida Internet orqali sotuvni ta’minlovchi web-saytdir.
+d	to‘g‘ri va teskari bo‘lishi mumkin.
+4	Elektron savdo maydonchasi bu 
+a	tashkiliy, axborot va texnik qarorlarning dasturiy-apparat majmui, shu jumladan tovarlarni (ishlarni, xizmatlarni) sotish uchun axborot tizimi orqali sotuvchi va xaridorning (buyurtmachining) o’zaro xamkorligini ta’minlaydigan 
+b	axborotni jo’natuvchini identifikaciyalash imkonin beruvchi elektron shakld qayd etilgan axborot deb belgilangan;
+c	elektron shaklda axborotni qayta ishlash
+d	tovarlar (ishlar, xizmatlar) oldi-sotdisi uchun axborot tizimlaridan foydalanish
+5	Buyurtmani rasmiylashtirish va u bilan ishlash uchun menejerga yuborish tizimi va katalog yig‘inidisini ifodalaydigan tizim qaysi?
+a	web-vitrina navigatsiya tizimi
+b	savdo internet tizimi
+c	internet do’kon tizimi
+d	eKarmon tizimi
+6	Internet provayderlar quyidagi xizmatlarini taqdim etadi:
+a	WWW, E-mail, IP telefoniya, Internet conference, Searching, FTP,                                                                                                                IPTV, Web hosting 
+b	Internet conference,Searching,FTP,IPTV,Web hosting
+c	IP telefoniya,Internet conference,Searching,FTP,IPTV
+d	WWW,E-mail,IP telefoniya,Internet conference,Searching,FTP.
+7	Elektron xabar bu  
+a	axborotni jo’natuvchini identifikaciyalash imkonini beruvchi elektron shaklda qayd etilgan axborot deb belgilangan
+b	elektron shaklda axborotni qayta ishlash
+c	tovarlar (ishlar, xizmatlar) oldi-sotdisi
+d	electron raqamli imzo bila tasdiqlangan
+8	Tovarni xaridorga yetkazib berishning nechta  usuli mavjud
+a	5
+b	6
+c	7
+d	3
+9	Elektron vosita bu 
+a	elektron shaklda axborotni qayta ishlash, saqlash va uni ayirboshlashga mo’ljallangan kompyuter va (yoki) boshqa texnik asbob, shunigdek telekommunikatsiyalar tarmogi deb belgilangan
+b	saqlash va uni ayirboshlashga mo’ljallangan kompyuter
+c	axborot va texnik qarorlarning dasturiy-apparat majmui
+d	xamkorligini ta’minlaydigan internet-do’koni deb belgilangan
+10	Xarakatchan savdo quyidagilar vositasida amalga oshiriladi:
+a	Savdo avtomatlari
+b	Xizmat ko‘rsatish korxonalari
+c	Virtual magazin
+d	Barchasi orqali
+11	Internet orqali bo’ladigan chakana savdoning asosiy elementi nima?
+a	internet-do’konlar
+b	brauzerlar
+c	reklama
+d	o’zaro kelishuv
+12	E-mail….......
+a	Elektron pochta xizmati
+b	Shaxsiy veb saytlarni Internetga joylashtirish
+c	Internet orqali video muloqot
+d	Internet qidiruv tizimlaridan foydalanish
+13	Web hosting.........
+a	Shaxsiy veb saytlarni Internetga joylashtirish
+b	Elektron pochta xizmati
+c	Internet orqali video muloqot
+d	Internet qidiruv tizimlaridan foydalanish
+14	Internet conference.........
+a	Internet orqali video muloqot
+b	Shaxsiy veb saytlarni Internetga joylashtirish
+c	Elektron pochta xizmati
+d	Internet qidiruv tizimlaridan foydalanish
+15	Searching..........
+a	Internet qidiruv tizimlaridan foydalanish
+b	Shaxsiy veb saytlarni Internetga joylashtirish
+c	Internet orqali video muloqot
+d	Elektron pochta xizmati
+16	FTP.........
+a	Fayllarni almashish protokoli 
+b	Shaxsiy veb saytlarni Internetga joylashtirish
+c	Internet orqali video muloqot
+d	Internet qidiruv tizimlaridan foydalanish
+17	IPTV.........  
+a	Internet tarmog‘i orqali raqamli televideniya 
+b	Shaxsiy veb saytlarni Internetga joylashtirish
+c	Internet orqali video muloqot
+d	Internet qidiruv tizimlaridan foydalanish
+18	IP telefoniya.......
+a	Internet tarmog‘i orqali telefon so‘zlashuvlar
+b	Shaxsiy veb saytlarni Internetga joylashtirish
+c	Internet orqali video muloqot
+d	Internet qidiruv tizimlaridan foydalanish
+19	Internet o‘z - o‘zini shakllantiruvchi va boshqaruvchi murakkab tizim bo‘lib, asosan nechta tarkibiy qismdan tashkil topgan:
+a	texnik;dasturiy;axborot.
+b	texnik;dasturiy;ijtimoiy.
+c	texnik;ma’naviy;axborot.
+d	texnik;ijtimoiy;dasturiy;axborot.
+20	B2B nimani ifodalaydi?
+a	biznes va biznesni
+b	Davlat va davlatni 
+c	Davlat va  biznesni 
+d	Iste’molchi va iste’molchini
+22	B2C ni ifodalovchi misolni
+ko‘rsating.
+a	biznes va mijoz 
+b	Tashkilot va tashkilot
+c	Tashkilot va davlat
+d	Davlat
+tashkiloti va yuridik shaxs
+23	“UZ” hududidagi domenlar soni  necha mingdan oshgan?
+a	25
+b	20
+c	21
+d	22
+24	Respublikamizda hozirgi kunda Internet xizmati turlari keltirilgan qatorni ko‘rsating.
+a	WWW - elektron sahifa xizmati,Elektron pochta xizmati, Telekonferensiya (Usenet),Fayllarni uzatish (FTP),Slujba imen domen, (DNS) Telnet xizmati,IRC - xizmati yoki Chat konferensiya,Ma’lumotlarni izlash xizmati.
+b	WWW - elektron sahifa xizmati,Elektron pochta xizmati, Telekonferensiya (Usenet),Fayllarni uzatish (FTP),Slujba imen domen.
+c	WWW - elektron sahifa xizmati,Elektron pochta xizmati, Telekonferensiya (Usenet),Fayllarni uzatish (FTP),Slujba imen domen, Ma’lumotlarni izlash xizmati.
+d	WWW - elektron sahifa xizmati,Elektron pochta xizmati, Telekonferensiya (Usenet), Slujba imen domen, (DNS) Telnet xizmati,IRC - xizmati yoki Chat konferensiya,Ma’lumotlarni izlash xizmati.
+25	edu.uz – portal nomi keltirilgan qatorni ko‘rsating.
+a	O‘zbekiston ta’lim portali 
+b	milliy axborot qidiruv tizimi
+c	axborot ta’lim tarmog‘i
+d	muhokama veb portali
+26	Elektron pochta serverining vazifasi nimalardan iborat?
+a	Xabarlarni jo‘natish va qabul qilishni ta’minlash 
+b	Xabarlarga qo‘shimcha ma’lumotlarni ilova qilish
+c	Xabarlarni qidirish va saqlash
+d	Xabarlarni kodlash
+27	Bugun  kunda qanday turdagi tijorat Web-sahifalari mavjud?
+a	Reklama sahifasi, Informatsion sahifa, Biznes-sahifa, Korporativ portal.
+b	Informatsion sahifa, Biznes-sahifa, Korporativ portal.
+c	Reklama sahifasi, Biznes-sahifa, Korporativ portal.
+d	Reklama sahifasi, korporativ portal. 
+28	Web-sahifaning yaratishda kompleks shaklda qurib chiqish tartibini ko‘rsating.
+a	Reklama sahifasi, Informatsion sahifa, Biznes-sahifa, Korporativ portal.
+b	Quvvatlash va harakat, Web-sahifa (xosting)ni joylashtirish,Web-sahifani tayyorlovchi (tadqiq qiluvchi), Biznes-jarayon, Budjet, Raqobatchilar, Auditoriya.
+c	Reklama sahifasi, Informatsion sahifa, Biznes-sahifa.
+d	Reklama sahifasil.
+29	Web-sahifalarni loyihalashda asos qilib olingan eng muhim printsiplarni ko‘rsating.
+a	Foydalanuvchilar uchun aniqlash,keng davradagi foydalanuvchilarga mo‘ljal olish,foydalanuvchilarni quvvatlash,jamoa ishi,vaqt o‘tishi bilan tekshirilgan usullarni qo‘llash.
+b	Quvvatlash va harakat, Web-sahifa (xosting)ni joylashtirish.
+c	Reklama sahifasi, Biznes-sahifa, Korporativ portal.
+d	Reklama sahifasi, Informatsion sahifa, Biznes-sahifa, Korporativ portal.
+30	UZ” hududidagi domenlar soni  qanchani tashkil etadi?
+a	25 mingtani 
+b	18 mingtani
+c	17mingtani 
+d	19 mingtani
+31	2021 yilda milliy internet segmentida……….ortiq kiberhujum aniqlandi
+a	1,3 million
+b	1,6 million
+c	88,7 million
+d	84,5 million
+32	Elektron vosita bu
+a	elektron shaklda axborotni qayta ishlash, saqlash va uni ayirboshlashga mo’ljallangan kompyuter va (yoki) boshqa texnik asbob, shunigdek telekommunikatsiyalar tarmogi deb belgilangan
+b	axborotni jo’natuvchini identifikaciyalash
+c	axborot va texnik qarorlarning dasturiy-apparat majmui
+d	internet-do’koni deb belgilangan
+33	Internet tarmog‘ida marketing faoliyati nechta asosiy turga bo‘linadi?
+a	2 ta
+b	3 ta
+c	4 ta
+d	5 ta
+34	Foydalanuvchilarni identifikatsiyalashning nechta asosiy usuli mavjud?
+a	3 ta
+b	2 ta
+c	4 ta
+d	5 ta
+35	Elektron pochta tarqatmasi – bu...
+a	elektron pochta orqali hujjatlar tarqatadigan tarmoq xizmati
+b	Internet tarmog‘i orqali o‘zaro hamkorlik qiladigan har qanday tashkilotlardir
+c	Internet tarmoqlari resurslaridan foydalanishga asoslangan online marketing
+d	bu xaridorlar yoki iste’molchilar (jismoniy va yuridik shaxslar)
+36	E-mail tarqatma yoki pochta tarqatmalari – bu
+a	marketing maqsadi yo‘lida elektron pochtadan foydalanishning yana bir yondoshuvidir
+b	Internet tarmog‘i orqali o‘zaro hamkorlik qiladigan har qanday tashkilotlardir
+c	Internet tarmoqlari resurslaridan foydalanishga asoslangan online marketing
+d	bu xaridorlar yoki iste’molchilar (jismoniy va yuridik shaxslar)
+37	Marketing konsepsiyasi – 
+a	bu iste’molchilar extiyojini qondirishga yunaltirilgan g‘oyalar, talablardir.
+b	Internet tarmog‘i orqali o‘zaro hamkorlik qiladigan har qanday tashkilotlardir
+c	Internet tarmoqlari resurslaridan foydalanishga asoslangan online marketing
+d	marketing maqsadi yo‘lida elektron pochtadan foydalanishning yana bir yondashuvidir
+38	Reklamani rejalashtirish jarayoni o‘z ichiga nechta bosqichlarni oladi?                
+a	 8 ta
+b	12 ta
+c	5 ta
+d	6 ta
+39	Banner reklamaning samaradorligini baholash uchun foydalaniladigan asosiy ko‘rsatkichlar keltirilgan qatorni ko‘rsating.
+a	Banner namoyishlari soni, o‘tishlar (fikrlar) soni
+b	Banner namoyishlari soni, imkoniyatlar reklamasi
+c	Imkoniyatlar reklamasi, o‘tishlar (fikrlar) soni
+d	Ehtiyojlar reklamasi, Banner namoyishlari soni
+40	O‘zaro tijorat olib boruvchi sektor B2Gni ifodalovchi misolni
+ko‘rsating.
+a	Biznes va davlat 
+b	Davlat va biznes
+c	Biznes va biznes   
+d	Biznes va ist’emolchi 
+41	Internetdan foydalanuvchilarning necha foizi banner reklama ta’sirida tovar xarid qiladi?
+a	25%
+b	35%
+c	45%
+d	52%
+42	Reklama kompaniyasining konsepsiyalari keltirilgan qatorni ko‘rsating.
+a	reklama g‘oyasi, reklamada dalillash tezislari, reklama xabarlariga xos xususiyatlar, reklamani tarqatish vositalarini tanlashni asoslash, reklama kompaniyasining turi va mantiqi
+b	reklama g‘oyasi, reklamada dalillash tezislari, reklamani tarqatish vositalarini tanlashni asoslash, reklama kompaniyasining turi va mantiqi.
+c	reklamada dalillash tezislari, reklama xabarlariga xos xususiyatlar, reklamani tarqatish vositalarini tanlashni asoslash, reklama kompaniyasining turi va mantiqi.
+d	reklama g‘oyasi, reklama xabarlariga xos xususiyatlar, reklamani tarqatish vositalarini tanlashni asoslash, reklama kompaniyasining turi va mantiqi.
+43	Kompyuterlar, bir - birlari o‘zaro aloqa o‘rnatayotgan  va ma’lumotlarni qabul qilish hamda uzatishda, almashadigan signallar haqidagi kelishuvlar   to‘plami bu-
+a	protokol
+b	server
+c	internet
+d	cookies
+44	Internet manzillarida ishlatilib,mamlakat nomlarini, tashkilot va korxonalar faoliyatini anglatadigan tushuncha qaysi?
+a	Internet domen nomlari
+b	xabarlarni yaratish, o‘qish va javob qaytarish.
+c	elektron tizimlarini intellektual interfeys tarmog‘iga va undan global xalqaro tarmoq hamda tizimga ulash.
+d	xabarlarni jo‘natish va qabul qilishni ta’minlash.
+45	Web–sahifaning informatsion to‘ldiruvchilariga tegishli bo‘limlar soni qancha bo’lishi kerak?
+a	3dan 6gacha
+b	5dan 10gacha
+c	6dan  14gacha
+d	4dan 9gacha
+46	Internet protokolining asosi bo’lib nima xizmat qiladi?
+a	TCP/IP
+b	cookies
+c	serverlar
+d	protokollar 
+47	Reklama jarayoni nechta bosqichga bo’lib taxlil qilinadi?
+a	5ta
+b	6ta
+c	4ta
+d	3ta
+48	Bannerlar qaysi ko’rinishlarda bo’ladi?
+a	gif,jpg
+b	mp4,avi
+c	mp3,amr
+d	bmp,gif
+49	Elektron biznes tizimida operatsiyalar qonuniyligini tegishli huquqiy bazani ishlab chiqishni kim ta’minlaydi.
+a	Hukumat
+b	Moliyaviy institutlar
+c	Elektron savdogarlar
+d	Mijozlar
+50	Aniq to‘lov tizimli elektron magazin vitrinalarining integratsiyasi uchun mo‘ljallangan ixtisoslashgan dasturiy ta’minot bu-
+a	Hisob-kitoblarning elektron magazini
+b	Elektron magazin-vitrina
+c	Elektron auksion (elektron kimoshdi savdosi)  
+d	Elektron kiosk
+51	Axborotlashtirish haqidagi qonun qachon qabul qilingan?
+a	11 dekabr 2003 yil.
+b	5 may 2005 yil.
+c	24 sentyabr 2006 yil.
+d	03 mart 2006 yil.
+52	O‘zaro tijorat  olib boruvchi  sektor C2C ni ifodalovchi misolni
+ko‘rsating.
+a	iste’molchi va istemolchi
+b	Davlat va davlat
+c	Biznes va biznes  
+d	Tashkilot va tashkilot
+53	Kredit tushunchasi nimani ifodalaydi?
+a	Bankdan  foiz hisobida qarz olish.
+b	Bankdan foizsiz qarz olish.
+c	Bank ixtiyoridagi jamg’arma dan foydalanish.
+d	Tashkilotning bankdagi jamgarmasidan foydalanish.
+54	Intranet tizimi bu…
+a	хaridor ishlab chiqaruvchining ichki aхborot bazalariga toʻgʻridan-toʻgʻri ulangan holda qonun doirasida ruхsat etilgan koʻshimcha ma’lumotlarni olishi mumkin
+
+Podrobneye: https://www.norma.uz/oz/bizning_sharhlar/elektron_savdo_maydonlarini_samarali_tashkil_qilish_-_elektron_tijoratni_rivojlantirish_garovidir
+b	Jamg’armani saqlash vositasi sifatida.
+c	To’lov vositasi sifatida.
+d	To’lovda ishonch bildiruvchi vosita sifatida
+55	Bankomatdan nima maqsadda foydalaniladi?
+a	Naqd pul miqdorini olish vositasi sifatida.
+b	xaridor ishlab chiqaruvchining ichki aхborot bazalari
+c	marketingni amalga oshirish vositasi sifatida.
+d	Jamgarmani saqlovchi qurilma sifatida
+56	To’lov tizimda aktivlik deganda nimani tushunasiz
+a	To’lov tizimining ishlashi haqida turli manbalardan olingan ma’lumotlarni baholash
+b	To’lov tizimi orqali to’lovni qisqa muddatda amalga oshirish
+c	Elektron tarzda to’lovni amalga oshiganligi haqidagi ma’lumot
+d	Xаridor va mahsulot etkazuvchining qisqa muddatda kelishuvini rasmiylashtirish
+57	Elektron hukumat to‘g‘risidagi qonunchilik……
+a	Elektron hukumat to‘g‘risidagi qonunchilik ushbu Qonun va boshqa qonunchilik hujjatlaridan iboratdir
+b	Ariza beruvchining davlat xizmati ko‘rsatilishi to‘g‘risida davlat organlariga yuboriladigan talabi
+c	Davlat organiga so‘rov bilan murojaat etgan jismoniy yoki yuridik shaxs
+d	Sotuvchi  va xаridor  kelishuvida tomonlardan ishtirok etuvchilar kimligi
+58	Autentifikatsiya  nima?
+a	Sotuvchi  va xаridor  kelishuvida tomonlardan ishtirok etuvchilar kimligi
+b	Plastik karta ishlab chiqargan bankning rekvizitlari
+c	Sotuvchi va xаridorning savdo-sotiq bo’yicha kelishuvi
+d	Elektron savdo kelishuvining rasmiylashtirish jarayoni
+59	Ma’lumotlar to’liqligini saqlash deganda nimani tushunasiz
+a	Harid qilinganlik haqidagi ma’lumotni hech kim tomonidan o’zgartira olmaslik
+b	Ma’lumotni tashqi tajavvuzdan himoya qilish
+c	Ma’lumotdan nusxa olib alohida yig’gichda saqlash
+d	Ma’lumot bazasiga ruxsati bor kimsalarni ro’yxatga olish
+60	To’lovni amalga oshirishdagi tezlik deganda nimani tushunasiz
+a	Xаridor  tomonidan tovar uchun hisob- kitobda va magazin tomonidan pulni qabul qilishda kechikish bor yoki yo’qligi
+b	Tezda naqd  pul to’lashi
+c	Xarid qilingan mahsulot va xizmat uchun bankdan o’z vaqtida pul o’tkazishi
+d	Xаridor  tomonidan plastik karta yordamida xarid etilgan mahsulot uchun pul to’lashi
+61	Onlaynda ro’yxatga olish
+a	Internet  orqali to’lov tizimida ro’yxatga  olish imkoniyati
+b	Xаridor va mahsulot yetkazuvchining kelishuvini ro’yxatga olish
+c	Mahsulot etkazuvchi ning rekviziti bo’yicha ro’yxatga olish
+d	Xаridorning  qaysi bank xizmatidan foydalanishi ni ro’yxatga            olish
+62	Pulni qaytarish deganda nimani tushunasiz?
+a	Xаridorning kelishuvdan voz kechishi yuz berganda pulni qaytarishda to’lov tizimining imkoniyatlari
+b	Savdo kelishuvin ing biron bir tomondan buzilishi natijasida to’lov pulini qaytarish miqdori
+c	Xаridornin g kelishuv bitimini bir                tomonlama                buzganligi uchun chegirmali to’lovni qaytarib olishi
+d	Xаridorning yoki mahsulot etkazib beruvchining  kelishuv shartlari bajarilmaganda jarima               to’lovini amalga oshirishi
+63	To’lov jarayonidagi sarf xarajat nimadan iborat?
+a	Tizimda ishtirok etish bilan bog’liq sarf-xarajat miqdori
+b	Ro’yxatga  olish narxi, abonent to’lovlari
+c	Bank xizmati to’lovlari, ro’yxatga olish to’lovi, kelishuvni amalga oshirish uchun to’lovlar
+d	Mahsulotni manzilga etkazish to’lovlari, ro’yxatga olish to’lovlari
+64	Ma’lumotlarning ochiqlilik darajasi
+a	To’liqlilik, aniqlilik va murojaatning mavjudligi
+b	Ixtiyoriy shaxsning  ma’lumotlarga ruxsatsiz kirishi
+c	Maxsus ruxsatnoma asosida ma’lumot bazasiga kirish
+d	Faqat ma’lum bir tashkilot miqyosida ma’lumotlar bazasidan foydalanish
+65	O’zaro tijorat olib boruvchi sektor V2V ni ifodalovchi misolni ko’rsating.
+a	Yuridik shaxs, yuridik shaxs
+b	Yuridik  shaxs, tashkilot
+c	Davlat tashkiloti, jismoniy shaxs
+d	Jismoniy shaxs, jismoniy shaxs
+66	O’zaro tijorat  olib boruvchi sektor G2B ni  ifodalovchi misolni ko’rsating.
+a	Davlat tashkiloti va yuridik shaxs
+b	Xususiy korxona va davlat  tashkiloti
+c	Davlat tashkiloti va jismoniy         shaxs
+d	Jismoniy        shaxs va        xususiy korxona
+67	Davlat xizmati — bu…….
+a	ariza beruvchilarning so‘rovlariga ko‘ra amalga oshiriladigan, davlat organlarining vazifalarini bajarish bo‘yicha ular tomonidan ko‘rsatiladigan xizmat. Agar qonunchilikka muvofiq davlat xizmatlari ko‘rsatish funksiyalari boshqa tashkilotlar zimmasiga yuklatilgan bo‘lsa, ular ham davlat xizmatini ko‘rsatishlari mumkin
+b	Sotuvchining xаridor  xaqida to’liq ma’lumotg a ega bo’lishi 
+c	Xаridorning mahsulot  haqida to’liq ma’lumotg a ega bo’lishi
+d	Internet tizimining mavjudligi 
+68	Elektron tijoratda reklama (tashviqot va namoyish etish) xizmati xarajati nima tufayli kamayadi?
+a	Axborot tizimining faoliyati tufayli
+b	Axborot tizimiga reklama materialini joylashtirish tufayli
+c	To’lov tizimining elektron tarzda amalga oshirilishi  tufayli
+d	Aloqa vositalarining takomillashgan tizimi mavjudligi tufayli
+69	Elektron tijoratda tashqi kommunikatsiya (tashkilot) faoliyatida xarajat nima tufayli kamayadi?
+a	Tashkilo tning global tarmoqqa  ulanganligi tufayli
+b	Tashkilotning lokal va global tarmog’i mavjudligi tufayli
+c	Tashkilotni ng boshqa tashkilotlar    bilan aloqa    vositalari bilan bog’langanligi tufayli
+d	Tashkilotning tashqi kommunikatsiya tarmog’i  orqali mijozni jalb qilishi tufayli
+70	Elektron tijoratda maxsulot sotib olish va xizmat ko’rsatishda xarajat nima tufayli kamayadi?
+a	Bevosita  barcha amallarni  elektron usulda amalga oshirilishi xisobiga
+b	Kompyute rlarning o’zaro bog’liqligi             xisobiga
+c	Reklama ma’lumot larini elektron usulda tashkil qilish xisobiga
+d	Bank xizmatining takomillashu vi xisobiga
+71	Elektron tijoratda ish kuchi va ish joyi nimalardan   iborat?
+a	Avtomatlashtirilgan ish joyi va kompyuter texnikasi va ishchi kuchi 
+b	Jismoniy shaxs va kompyuter texnikasi
+c	Robot va avtomatlas htirilgan ish joyi
+d	Texnik xodim kompyuter  tarmog’i
+72	Elektron tijoratni rivojlanishini belgilovchi iqtisodiy tizimi faktorlariga nimalar kiradi?
+a	Elektron  xujjat almashinuvi
+b	Elektron pochta xizmati
+c	Kompyuter  tarmog’idan foydalanga n avtomatlas htirilgan aloqa
+d	Mijoz-bank, internet- bank, elektron pul va plastik kartadan foydalanish
+73	Elektron tijoratni murakkablashtiruvchi faktor soliq tizimidagi farqni ko’rasating.
+a	Xar bir mamlakatdagi maxsulotlarga belgilangan soliq
+b	Soliq tizimidagi meyoriy xukukiy xujjatlarni  takomillashmashganligi
+c	Soliq tizimining amalda joriy etilmaganligi
+d	Soliqning  elektron tijoratda mavjud emasligi
+74	Elektron tijorat bu…
+a	Axborot tarmoqlari orqali olib boriladigan istalgan ish yuritish shakli
+b	Potensial buyurtmachi va yetkazib beruvchi o’rtasida aloqa, shuningdek tijorat axboroti bilan almashish
+c	Hisoblash texnikasi yordamida ma’lumotlarni yaratish, saqlash, ishga tushirish, qayta ishlash va uzatishnin tizimlashtiruvchi usullarni o’rganuvchi fan
+d	Tashqi muhitdan kiradigan va chiqadigan yoki ma’lum tizim ichida saqlanadigan ma’lumotlar yig’indisi
+75	Kompyuter viruslarini faoliyatini oldini olish uchun nima qilish kerak?
+a	Antivurus dasturini o’rnatish
+b	Elektron raqamli imzoni qo’yish
+c	Foydalanuvchi yo’riqnomasi
+d	Ma’lumotlarni kodlash
+76	Internet bu?
+a	o’zaro bog’langan axborot serverlari majmui- turli hil ma’lumotlar saqlanadigan kompyuterlar va ushbu ma’lumotlardan foydalanuvchilar
+b	Yagona axborot tarmog’i bazasidagi kompaniyaning ichki tuzilmasi
+c	Turli protokollardan foydalangan holda 2 tarmoqni ulaydigan dastur
+d	Tashqi muhitdan kiradigan va chiqadigan yoki ma’lum tizim ichida saqlanadigan ma’lumotlar yig’indisi
+77	Elektron tijoratning tashqi muhiti faktorlari
+a	Davlat, raqobatchilar, kontragentlar va sheriklar, va geografik joylashuv
+b	Tovar, xizmatlar, ma’lumot.
+c	Tashqi muhitdan kiradigan va chiqadigan yoki ma’lum tizim ichida saqlanadigan ma’lumotlar yig’indisi
+d	Moliyaviy institiutlar, biznes-tashkilotlar
+78	Elektron tijoratning C2C formasi? 
+a	iste’molchi- iste’molchi
+b	biznes – iste’molchi
+c	biznes – biznes
+d	iste’molchi-biznes
+79	Internet-auksion … modelning misoli bo’lishi mumkin.
+a	В2В
+b	В2С
+c	С2С
+d	С2В
+80	Marketing tarmog’idagi Internet bu
+a	Internet orqali tovar va xizmatlarga bo’lgan bozordagi talab va taklifni o’rganishva ularni istiqboldagi bozorga kiritish va reklamasiga oid bo’lgan chora – tadbirlar kompleksi
+b	Elektron vositalardan foydalangan holda tijorat operatsiyalarini amalga oshirish va ishlab chiqarish boshqaruvchi texnologiya
+c	Qaror qabul qilish jarayonini mukammallashtirish maqsadida o’z vaqtida va to’g’ri ma’lumotni qabul qilish uchun kompyuter texnologiyalaridan foydalanish usuli
+d	To’g’ri javob yo’q
+81	Reklamani joylashtirish uchun saytni tanlayotgan paytda quyidagilarni hisobga olish kerak
+a	Mashhurlik, auditoriy-aning kengligi , tematika,raqobatchi saytlarning mavjudligi
+b	Firmangizning sotuv hajmi prognozi
+c	Joylashuv o’rni ( bo’lim, sahifa)
+d	Narx modeli
+82	Internet-banking bu?
+a	Mijoz o’z hisob raqamlari ustidan Elektron boshqaruvga ega bo’lgan paytda internet orqali bank xizmatlarini taqdim etish
+b	Valyuta va fond bozorlarida faoliyat bo’yicha xizmatlar
+c	Investitsion portfelni yaratish va aktivlarni boshqariish
+d	Yer yuzining istalgan nuqtasida kerakli axborotni(koterovkalar, analiz, prognozlar) operativ qabul qilish
+83	Elektron tijorat –bu…..
+a	Tovarlarni sotib olishda jismoniy shaxslar tomonidan internetdan foydalanish
+b	An’anaviy savdo ko’rinishlari bilan taqqoslaganda  axborot almashishda elektron vositalardan foydalangan holda tijorat operatsiyalari va ishlab chiqarish jarayonini amalga oshirish texnologiyalari
+ 	Korxonalar o’rtasida biznes jarayonlarini yuzaga kelishida telekommunikatsiya texnologiyalaridan foydalanish (telefon,faks, Internet, e-mail va boshqalar)
+d	Keyinchalik an’anaviy usulda tarmoqdan tashqarida yoki tarmoq ichida yetkaziladigan xizmat va axborotlarning Internet orqali savdo-sotiq jarayoni
+84	Tovar va xizmatlarni sotish va ularning buyurtmasi va to’lovini amalga oshirish uchun vositalarini taqdim etuvchi Web server bu…
+a	internet  magazin
+b	tashkilotlar
+c	bozor
+d	galareya
+85	Elektron tijorat tizimlarida ma’lumot almashinish standartlarining rivojlanishi … tili bilan bog’liq.
+a	XML
+b	C ++
+c	PHP
+d	Prolog
+86	Elektron tijoratni ... shakli – elektron savdoni nazarda tutib, tovar va xizmatlarni etkazib beruvchilar buyurtmachiga ma’lum mablag‘ evaziga amalga oshirib beradilar
+a	Birinchi
+b	Ikkinchi
+c	Aloxida xususiyatga ega
+d	maxsus
+87	Elektron xukumat .... – samarali davlat boshqaruvi, faoliyat shaffofligi
+a	Tizim
+b	Vazifa
+c	Funksiya 
+d	Maqsad
+88	Axborot nima?
+a	taqdim etilish shaklidan qat’iy nazar, nimadir haqidagi ma’lumot
+b	video yozuvlar ko‘rinishida  uzatiladigan xabar
+c	tor doiradagi shaxslarga va yopiq (himoyalangan) kanallar orqali uzatiladigan
+d	qandaydir bir shaxs haqidagi ma’lumotlar jamlanmasi
+89	Boshqaruvda axborotga qo‘yiladigan talablarni belgilang:
+a	ishonchlilik, tushunarlilik, tejamlilik, operativlik, bir ma’nolilik
+b	to‘liqlilik, aniqlik, tezlik, sifatlilik, muhimlik
+c	aniqlik, tiniqlik, ma’nolilik, tejamkorlik, bog‘liqlik
+d	bir  vaqtlik, tezkorlik, ehtiyotkorlik.
+90	Axborotlar tizimi qanday turkumlanadi
+a	oddiy va murakkab
+b	ichki va tashqi
+c	qisqa va uzun
+d	tushunarli va tushunarsiz
+91	Qayta aloqalarni tashkil qilishda axborot qanday yo‘llar bilan tarqatiladi?
+a	vertikal va gorizontal
+b	oddiy va murakkab
+c	chiziqli va matritsali
+d	verbal va noverbal
+92	Axborotni dekodlashtirish nima?
+a	uzatilayotgan axborotni belgilarda ifodalash
+b	uzatilayotgan axborotni o‘zgartirish
+c	uzatilayotgan axborotni qayta tayyorlash
+d	uzatilayotgan axborotni buzish
+93	Axborotlar tizimi qanday tizimlarga bo‘linadi?
+a	oddiy va murakkab
+b	ichki va tashqi
+c	tashkiliy va guruhli
+d	rasmiy va norasmiy
+94	Elektron tijorat haqidagi qonun qachon qabul qilingan?
+a	29 aprel 2004 yil.
+b	27 mart 2005 yil.
+c	13 oktyabr 2007 yil.
+d	25 may 2007 yil.
+95	O’zaro tijorat olib boruvchi sektor C2Cni  ifodalovchi misolni ko’rsating.
+a	Jismoniy shaxs va jismoniy shaxs
+b	Davlat va davlat
+c	Yuridik shaxs va yuridik shaxs
+d	Tashkilot va  tashkilot
+96	O’zaro tijorat olib boruvchi  sektor G2Cni  ifodalovchi misolni ko’rsating.
+a	Davlat tashkiloti va jismoniy shaxs
+b	Yuridik shaxs va  tashkilot
+c	Jismoniy shaxs va xususiy korxona
+d	Davlat tashkiloti va xususiy korxona
+97	O’zaro tijorat olib boruvchi sektor C2B ni ifodalovchi misolni ko’rsating.
+a	Jismoniy  shaxs va yuridik shaxs
+b	Tashkilot va xususiy  korxona
+c	Yuridik shaxs va tashkilot
+d	Jismoniy  shaxs va davlat tashkiloti
+98	O’zaro tijorat olib boruvchi sektor C2G ni ifodalovchi misolni ko’rsating.
+a	Jismoniy shaxs va davlat tashkiloti
+b	Yuridik shaxs va xususiy korxona
+c	Tashkilot va xususiy korxona
+d	Davlat tashkiloti va yuridik shaxs
+99	O’zaro tijorat  olib boruvchi sektor G2B ni ifodalovchi misolni ko’rsating.
+a	Davlat tashkiloti va yuridik shaxs
+b	Xususiy korxona va davlat tashkiloti
+c	Davlat tashkiloti va jismoniy  shaxs
+d	Jismoniy  shaxs va  xususiy korxona
+100	Elеktron pul –
+a	bu pul birligiga tеnglashtirilgan bеlgilar hamda kupyura va tanga rolini bajaruvchi juda katta son yoki fayllardir.
+b	elеktron tijoratning an'anaviy savdo turidan quyidagi xaraktеrli xususiyatlari bilan farqlanadi.
+c	xaridor o’ziga qulay vaqt, joy va tеzlikda mahsulotni tanlash va sotib olish imkoniyatiga ega.
+d	xaridorning yashash joyi, sog’lig’i va moddiy ta'minlanish darajasidan qat'iy nazar hamma qatori tеng huquqli mahsulot sotib olish imkoniyati.
+
+
+=======================================================================================================================================================
+
+
+
+Elektron tijorat ko'p tanlovli savollar
+1. B2B elektron tijoratning muqobil modellari orasida ……bozorda raqobatdosh ustunlikka erishishning eng yaxshi vositasi hisoblanadi.
+A. Jarayonga asoslangan
+*B. strategik munosabatlarga asoslangan
+C. tranzaksiya asosida
+D. bularning har biri
+2 ……………..boshqariladigan jarayon orqali yuqori darajada integratsiyalashgan qiymat taklifini ishlab chiqarishga e’tibor qarating.
+A. markazlari
+B. jamoa
+C. tarkibi
+D. bularning hech biri
+3 …………………bu asosan onlayn marketing va mahsulot va xizmatlarni internet orqali tarqatish tushunchasi.
+A. B2G
+B. B2E
+C. B2C
+D. B2B
+4 ……………………..e-tijorat biznesdan mahsulot yoki xizmatlarni keng ommaga sotishdan iborat.
+A. B2G
+B. B2E
+C. B2B
+D. B2C
+5. Quyidagilardan qaysi biri B2C tranzaksiyasi uchun mos emas?
+A. kiyim
+B. gullar
+C. aviakompaniyani bron qilish
+D. yo'q
+6 ……………..e-tijorat tranzaksiyalari vositachilarni yo'q qilish afzalligiga ega.
+A. B2G
+B. B2C
+C. B2B
+D. B2E
+7………………….elektron tijorat mijozlarning ma’lumot to‘plashi, elektron tarmoq orqali mahsulot sotib olishi va qabul qilinishini o‘z ichiga oladi.
+A. B2G
+B. B2E
+C. B2B
+D. B2C
+8. Quyidagilardan qaysi biri B2C e-commerce foydalanuvchisi emas?
+A. ishlab chiqaruvchilar
+B. distribyutorlar
+C. Noshirlar
+D. yo'q
+9 ………………….elektron tijorat uchinchi tomon orqali mijozlar o‘rtasidagi tranzaktsiyalarni elektron tarzda osonlashtirishni o‘z ichiga oladi.
+A. C2C
+B. B2E
+C. B2B
+D. B2G
+10. Quyidagilardan qaysi biri C2C ga misoldir?
+A. e-Bay
+B. Amazon.com
+C. Rentalic.com
+D. bularning barchasi
+11. World Wide Web (WWW) …………………… yilda joriy qilingan.
+A. 1994 yil
+B. 1996 yil
+C. 1992 yil
+D. 1990 yil
+12. ………………. elektron tijoratning dastlabki shaklidir
+A. SCM
+B. EDI
+C. Bularning ikkalasi
+D. Bularning hech biri
+13. ………………..kompyuter aloqa tarmoqlari orqali axborot, mahsulot va xizmatlarni sotib olish va sotish bilan bog'liq.
+A. Savdo
+B. Elektron tijorat
+C. Elektron biznes
+D. Bularning hech biri
+14. ………………..1960-yillarda biznes ma’lumotlarini almashish va elektron operatsiyalarni amalga oshirish uchun ishlab chiqilgan standartlar to‘plamidir.
+A. EDI
+B. Protokollar
+C. TCP/IP
+D. Bularning hech biri
+15. Quyidagi mahsulotlardan qaysi biri elektron tijorat uchun mos?
+A. Kitoblar
+B. Sabzavotlar
+C. Bularning barchasi
+D. Bularning hech biri
+16. ……………bir tashkilot kompyuteridagi biznes-ilovaga boshqa kompaniya kompyuteridagi biznes-ilova bilan bevosita bog‘lanish imkonini beradi.
+A. EDI
+B. Protokollar
+C. Standartlar
+D. Biznes ilovalari
+17) Biznes hujjatlarining standart formatdagi elektron almashinuvi ……………… deb nomlanadi.
+A. Elektron tijorat
+B. Elektron biznes
+C. EDI
+D. Bularning hech biri
+18) ………………. mohiyatan ishlab chiqaruvchilar, chakana sotuvchilar, mijozlar va yetkazib beruvchilarni mahsulotlarni ishlab chiqish va yetkazib berish uchun zanjir shaklida bog‘laydigan biznes jarayonidir.
+A. Elektron tijorat
+B. EDI
+C. Tarmoqqa ulanish
+D. SCM
+19) Quyidagilardan qaysi biri SCM ishtirokchisi emas?
+A. Yetkazib beruvchilar
+B. Ishlab chiqaruvchilar
+C. Distribyutorlar
+D. Mijozlar
+20. ………………elektron vositalar orqali tovarlar va xizmatlarni ishlab chiqarish, tarqatish, sotish yoki yetkazib berishni o‘z ichiga olgan tijorat jarayoni.
+A. Elektron tijorat
+B. SCM
+C. EDI
+D. Bularning hech biri
+21 ………………… axloqiy emas deb hisoblangan va hatto noqonuniy bo‘lishi mumkin bo‘lgan reklama usullari sinfidir.
+A. Reklamalar
+B. qalqib chiquvchi reklamalar
+C. Spam elektron pochta
+D. zararli dastur
+Javob: D
+22 ……………….bu onlayn reklamani sotib olishning eng keng tarqalgan usuli hisoblanadi
+A. CPM
+B. CPC
+C. Bularning har biri
+D. bularning hech biri
+Javob: C
+23 ………………bu jonlantirilgan toʻliq ekranli reklamalar boʻlib, foydalanuvchi moʻljallangan tarkibga yetib borgunga qadar saytga kirishda joylashtiriladi.
+A. qalqib chiquvchi reklamalar
+B. Intromercials
+C. Spam elektron pochta
+D. zararli dastur
+Javob: B
+24 ………………….bu interfaol onlayn reklamalar boʻlib, foydalanuvchidan moʻljallangan tarkibga yetib borishdan oldin xabarni oʻtish uchun vaqti-vaqti bilan javob berishni talab qiladi.
+A. Ultramercials
+B. qalqib chiquvchi reklamalar
+C. Spam elektron pochta
+D. zararli dastur
+Javob: A
+25 ……………tomonlar o‘rtasida tovar va xizmatlarni haqiqiy ayirboshlashda ishtirok etmasdan, keng qamrovli ma’lumot va yordamchi xizmatlarni taqdim etish orqali xaridor va sotuvchilar o‘rtasidagi operatsiyalarni osonlashtiradi.
+A. Metamediary
+B. Vositachi
+C. vositachilar
+D. bularning barchasi
+Javob: A
+26 ………………bu tovarlar va xizmatlardan foydalanish huquqini o‘tkazish yoki o‘tkazish bilan bog‘liq bo‘lgan har qanday operatsiya bo‘lib, u elektron qurilma yordamida kompyuter vositachiligidagi tarmoqlarga mobil ulanishdan foydalangan holda boshlanadi yoki tugallanadi.
+A. Mobil tijorat
+B. elektron tijorat
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+27 …………….veb-sahifa tarkibidan foydalanish uchun xavfsizlik va maxfiylikni taʼminlash
+A. HTTP
+B. html
+C. FTP
+D. bularning hech biri
+Javob: A
+28 …………………….veb-sayt maʼlum mezonlar asosida oʻzini tez-tez va avtomatik ravishda oʻzgartiradigan yoki sozlaydigan saytdir.
+A. Dinamik veb-sayt
+B. Statik veb-sayt
+C. phish sayti
+D. bularning hech biri
+Javob: A
+29 ………………sayt ishonchli shaxs yoki biznes sifatida niqoblanib, parollar va kredit karta maʼlumotlari kabi maxfiy maʼlumotlarni firibgarlik yoʻli bilan olish uchun yaratilgan.
+A. Dinamik veb-sayt
+B. Statik veb-sayt
+C. phish sayti
+D. bularning hech biri
+Javob: C
+30 ……………….elektron tijoratda kredit karta yoki emitentning debet kartasi kabi to‘lov kartasi egasi bo‘lishi mumkin.
+A. mijoz
+B. emitent
+C. Savdogar
+D. Qabul qiluvchi
+Javob: A
+31. ……………… sahifasining maqsadi boshqa sahifalarga havolalar berishdir
+A. Bosh sahifa
+B. Web sahifa
+C. Xulosa sahifasi
+D. Bularning hech biri
+Javob: A
+32 …………… tavsiya etilgan sahifalarga tashrif buyuradigan va qidiruv tizimi tomonidan indekslanadigan tegishli ma'lumotlarni qaytaradigan dasturiy ta'minotga misol.
+A. Robot
+B. O'rgimchaklar
+C. Chumolilar
+D. Hammasi
+Javob: D
+33 ………………………..e’lonlar sahifaning yuqori qismida to‘rtburchaklar shaklda ko‘rinadi.
+A. Banner reklamalari
+B. suzuvchi reklamalar
+C. interstitsiallar
+D. Unicast reklamalar
+Javob: A
+34 ………………….reklamalar butun ekranni egallaydi va banner reklamalarga qaraganda kuchliroqdir.
+A. Banner reklamalari
+B. suzuvchi reklamalar
+C. interstitsiallar
+D. Unicast reklamalar
+Javob: B
+35 ………………………….bu foydalanuvchi soʻragan veb-sahifalar orasida paydo boʻladigan internetdagi reklama shaklidir.
+A. Banner reklamalari
+B. suzuvchi reklamalar
+C. interstitsiallar
+D. Unicast reklamalar
+Javob: C
+36 ……………………asosan brauzer oynasida ishlaydigan televizor reklamasi.
+A. Banner reklamalari
+B. suzuvchi reklamalar
+C. interstitsiallar
+D. Unicast reklamalar
+Javob: D
+37. Veb-sayt nusxasi ko'rinishidagi reklamalar ………………… deyiladi.
+A. Reklamalar
+B. qalqib chiquvchi reklamalar
+C. Spam elektron pochta
+D. bularning hech biri
+Javob: A
+38 ………………..onlayn reklama usullarining eng kiruvchisi hisoblanadi.
+A. Reklamalar
+B. qalqib chiquvchi reklamalar
+C. Spam elektron pochta
+D. bularning hech biri
+Javob: B
+39 …………………..bu biznes topishi mumkin bo‘lgan har bir elektron pochta manziliga yuboriladigan kiruvchi elektron pochta.
+A. Reklamalar
+B. qalqib chiquvchi reklamalar
+C. Spam elektron pochta
+D. bularning hech biri
+Javob: C
+40 …………………..bu uyali telefon va shaxsiy raqamli yordamchilar kabi simsiz boshqariladigan qurilmalar orqali tovarlar va xizmatlarni sotib olish va sotishdir.
+A. Mobil tijorat
+B. elektron tijorat
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+41. Peer to Peer [P2P] ……………………… ni tasvirlash uchun ham ishlatiladi.
+A. C2C
+B. B2E
+C. B2B
+D. B2C
+Javob: A
+42 ……………………. — jismoniy shaxslar oʻrtasida xususiy mulk obʼyektlari savdosini osonlashtiradigan onlayn auktsion sayti.
+A. e-Bay
+B. Amazon.com
+C. Rentalic.com
+D. bularning barchasi
+Javob: A
+43. Monster.com ……………………..veb-saytga misoldir
+A. C2C
+B. B2E
+C. B2B
+D. B2C
+Javob: A
+44 ………………….dasturiy taʼminotda bir xil tarmoqqa ega foydalanuvchilarga bir-birining qattiq disklariga ulanish va fayllarni almashish imkonini beruvchi internet tarmogʻi.
+A. B2C
+B. B2E
+C. B2B
+D. P2P
+Javob: D
+45. Bu fayllarni bir kompyuterdan boshqa kompyuterga o'tkazish imkonini beruvchi protokol
+A. TCP/IP
+B. FTP
+C. HTTP
+D. bularning hech biri
+Javob: B
+46. ……………….hujjat boʻlib, odatda html formatlash koʻrsatmalari bilan kesishgan oddiy matnda yoziladi.
+A. Web sahifa
+B. bosh sahifa
+C. domeni
+D. bularning hech biri
+Javob: A
+47 ………………….bu veb-saytning birinchi sahifasidir.
+A. Web sahifa
+B. bosh sahifa
+C. domeni
+D. bularning hech biri
+Javob: B
+48 ……………..odamga faqat asosiy so‘z yoki so‘zni yozishga imkon beradi va sayt kiradi.
+A. Web sahifa
+B. bosh sahifa
+C. domeni
+D. bularning hech biri
+Javob: C
+49. “Google” eng mashhur ………………..
+A. Portal
+B. Brauzer
+C. Qidiruv tizimi
+D. bularning hech biri
+Javob: C
+50. A ………………….. turli manbalardan olingan ma’lumotlarni veb-saytda yagona shaklda taqdim etadi.
+A. Web portal
+B. Bog'lanish sahifasi
+C. Bularning ikkalasi
+D. bularning hech biri
+Javob: C
+51. ……………… internetdagi shaxslar va veb-saytlarni noyob tarzda identifikatsiya qiluvchi va xavfsiz konfidentsial aloqalarni amalga oshirish imkonini beruvchi elektron fayl.
+A. Elektron raqamli imzo
+B. Raqamli sertifikatlar
+C. SSL
+D. bularning hech biri
+Javob: B
+52. Axborot texnologiyalari to'g'risidagi qonun [IT ACT] kuchga kirdi
+A. 2000 yil 16 noyabr
+B. 2000 yil 15 dekabr
+C. 2000 yil 17 oktyabr
+D. bularning hech biri
+Javob: C
+53. Internet orqali yuboriladigan ma'lumotlar odatda …………………… deb nomlangan qoidalar to'plamidan foydalanadi.
+A. TCP/IP
+B. FTP
+C. HTTP
+D. gofer
+Javob: A
+54 ……………………….bu kompyuter tizimini buzgan yoki buzib kirgan shaxs
+A. Xaker
+B. Snooper
+C. operatori
+D. spufer
+Javob: A
+55. Foydasiz materiallarni o'z ichiga olgan elektron pochta …………… deb ataladi.
+A. Spam
+B. foydasiz pochta
+C. magistral pochta
+D. keraksiz pochta
+Javob: D
+56. Hindiston bir yilda birinchi IT qonunini qabul qildi……………………
+A. 2001 yil
+B. 2002 yil
+C. 2009 yil
+D. 2000 yil
+Javob: D
+57. Quyidagi jinoyatlardan qaysi biri 2008 y. IT (tuzatish) qonunida qamrab olinmagan?
+A. Kiberterrorizm
+B. Bolalar pornografiyasi
+C. Video voyeurizm
+D. Bularning hech biri
+Javob: D
+58. Savdo belgisi, mualliflik huquqi, patent qonuni va boshqalar …………………… vakolatiga kiradi.
+A. Ma'lumotlarni himoya qilish
+B. Telekommunikatsiya qonunlari
+C. Intellektual mulk qonunlari
+D. Yo'q
+Javob: C
+59 …………….bu jabrlanuvchi uning mavjudligidan bexabar bo‘lgan holda takrorlash va tarqatish uchun mo‘ljallangan dasturdir.
+A. xaker
+B. dasturiy ta'minot
+C. Kompyuter virusi
+D. bularning hech biri
+Javob: C
+60. Quyidagilardan qaysi biri elektron tijorat tamoyiliga kirmaydi?
+A. maxfiylik
+B. yaxlitlik
+C. autentifikatsiya
+D. bularning hech biri
+Javob: D
+61. Kompaniyalar xodimlar bilan bog'liq korporativ jarayonlarni avtomatlashtirish uchun ………………………tarmoqlardan foydalanadilar.
+A. B2G
+B. B2E
+C. B2B
+D. P2P
+Javob: B
+62. Quyidagilardan qaysi biri B2E ilovasi emas
+A. Onlayn sug'urta polisini boshqarish
+B. Onlayn ta'minot so'rovlari
+C. Maxsus xodimlar takliflari
+D. Ariza va soliq shakllarini toping
+Javob: D
+63 ……………………..avtomatlashtirish orqali axborot oqimini va o‘ziga xizmat ko‘rsatish imkoniyatlarini soddalashtiradi
+A. SCC
+B. CRM
+C. CRP
+D. SCM
+Javob: A
+64 ………………millionlab foydalanuvchilar kompyuterlar yordamida bir-biri bilan muloqot qiladigan global tarmoqdir.
+A. Internet
+B. WWW
+C. bularning ikkalasi
+D. Bularning hech biri
+Javob: A
+65 ………………… taqsimlangan, hamkorlikda ishlaydigan, gipermedia axborot tizimlari uchun amaliy qatlam protokoli.
+A. html
+B. HTTP
+C. Bularning ikkalasi
+D. Bularning hech biri
+Javob: A
+66. Ingliz fizigi Tim Berner Li 1990-yilda ………………..ni tashkil etishi bilan mashhur edi.
+A. internet
+B. WWW
+C. Intranet
+D. bularning hech biri
+Javob: B
+67 ……… boshqa kompaniyani sotadigan yoki sotib oladigan kompaniyaga tegishli bo'lgan elektron tijorat turiga ishora qiladi.
+A. B2G
+B. B2E
+C. B2B
+D. P2P
+Javob: C
+68. Quyidagilardan qaysi biri B2B elektron tijoratiga misol emas?
+A. Buyurtmalarni yuborish va qabul qilish
+B. Hisob-faktura va xaridlar
+C. bularning barchasi
+D. bularning hech biri
+Javob: D
+69. Velosiped ishlab chiqaruvchi kompaniya o'z yetkazib beruvchilaridan shinalar sotib olish uchun internetdan foydalanishi mumkin. Bu———— tranzaksiyaga misol.
+A. B2G
+B. B2E
+C. B2B
+D. P2P
+Javob: C
+70 …………..saytlar mahsulot yoki xizmatni xohlaydigan kishi va potentsial provayderlar o‘rtasida vositachi vazifasini bajaradi.
+A. brokerlik saytlari
+B. Axborot saytlari
+C. sanoat portallari
+D. bularning hech biri
+Javob: A
+71.……………….bu tovarlar yoki buyumlar yoki tovarlar va xizmatlar yoki pul uchun ishlatiladigan ilovalar almashinuvi va pul bilan bog'liq masalalarni hal qiladi.
+A. Elektron tijorat
+B. Savdo
+C. Bularning ikkalasi
+D. yo'q
+Javob: B
+72. ………….bu umumiy manbalar deb ataladigan tizim va jarayonni birlashtirish orqali xizmatlar deb ataladigan ma’lumotni tabaqalashtirilgan biznes qadriyatlarini yetkazib berish yondashuvidir.
+A. Elektron biznes
+B. Elektron tijorat
+C. bularning har biri
+D. yo'q
+Javob: A
+73. ……………….har doim intranetda ishlang
+A. Elektron tijorat
+B. Elektron biznes
+C. EDI
+D. Bularning hech biri
+Javob: B
+74. Quyidagilardan qaysi biri elektron tijorat uchun namuna emas
+A. Amazon.com
+B. Baazar.com
+C. E-trade.com
+D. Bularning hech biri
+Javob: C
+75. ……………….va ………………… elektron tijorat uchun asos yaratgan qulay texnologiyalar edi.
+A. SET va SCL
+B. SCM va ERP
+C. EDI va EFT
+D. Bularning hech biri
+Javob: C
+76. ………………birinchi bo‘lib taniqli elektron tijorat brendlarini yaratdilar
+A. Baazar.com
+B. E-bay va Amazon
+C. E-trade.com
+D. bularning hech biri
+Javob: B
+77. ……………. bu xom ashyo yetkazib beruvchilardan zavodlar va omborlar orqali yakuniy mijozgacha bo‘lgan axborot, materiallar va xizmatlarning butun oqimini boshqarishga qaratilgan tizimli yondashuv.
+A. CRM
+B. SRM
+C. EDI
+D. SCM
+Javob: D
+78. ……………. ta’minot zanjirining shakli bo‘lib, unda yakuniy mahsulotni olish uchun bir qator yig‘ish operatsiyalari amalga oshiriladi.
+A. Birlashtiruvchi ta'minot zanjiri
+B. Ta'minot zanjirining ajralishi
+C. Bularning har biri
+D. Yo'q
+Javob: A
+79.…………………………………. ta’minot zanjiri shakli bo‘lib, unda cheklangan miqdordagi xom ashyo yoki butlovchi qismlar bilan turli xil tayyor mahsulotlar ishlab chiqariladi.
+A. Birlashtiruvchi tuzilma
+B. Diversion tuzilma
+C. Bularning har biri
+D. Yo'q
+Javob: B
+80………………… bu bir korxonadan davlat organiga xizmatlar, ma’lumotlar yoki mahsulotlar almashinuvi.
+A. B2G
+B. B2E
+C. B2B
+D. P2P
+Javob: C
+81 ……………….moliya instituti bo‘lib, savdogar bilan hisob ochadi va to‘lov kartalarini avtorizatsiya qilish va to‘lovlarni amalga oshiradi.
+A. mijoz
+B. emitent
+C. Savdogar
+D. Qabul qiluvchi
+Javob: D
+82. ……………………..toʻlov tizimi turida mijozga faqat oldindan hisobvaragʻiga qoʻyilgan mablagʻgacha mablagʻ sarflashga ruxsat beriladi.
+A. Oldindan to'langan
+B. Pochta to'lanadi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+83 ………………to‘lov tizimining turi ortiqcha xarajatlarni nazorat qilishni xohlaydigan mijozlar uchun juda foydali,
+A. Oldindan to'langan
+B. Pochta to'lanadi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+84 ……………………….kredit kartasi foizlar haqida qayg‘urmasdan oddiy kredit kartaning barcha afzalliklarini beradi.
+A. Oldindan to'langan
+B. Pochta to'lanadi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+85 ………………………ob’ekt mijozga to‘lanmagan summaning ozgina qismini to‘lashga va qolgan to‘lovni keyingi oyga o‘tkazishga yordam beradi.
+A. Naqd avans
+B. Revolver
+C. Tele qoralama
+D. Bularning hech biri
+Javob: B
+86 …………………..naqd pul kreditlarini nisbatan kichik miqdorda sotib olish, kreditlarni kompyuterimizda saqlash va internet orqali elektron xaridlarni amalga oshirishda ularni sarflash tizimi.
+A. Elektron naqd pul
+B. Digicash
+C. Kiber naqd pul
+D. bularning har biri
+Javob: D
+87 ……………….moliyaviy vosita bo‘lib, undan qarz olish yoki kreditga mahsulot va xizmatlar sotib olish uchun bir necha marta foydalanish mumkin.
+A. Kredit karta
+B. Elektron cheklar
+C. Elektron naqd pul
+D. bularning hech biri
+Javob: A
+88. Kredit kartani toʻlovga qabul qilish uchun bankimizda ……………………………hisob raqamini ochishimiz kerak.
+A. Omonat banki
+B. Joriy hisob
+C. Savdogar hisobi
+D. bularning har biri
+Javob: C
+89. A……………………..bu o‘rnatilgan integral mikrosxemani [ICC] o‘z ichiga olgan qurilma bo‘lib, u xavfsiz mikro kontroller yoki ichki xotiraga ega ekvivalent intellekt yoki faqat xotira chipi bo‘lishi mumkin.
+A. smart-kartalar
+B. Elektron cheklar
+C. Elektron naqd pul
+D. bularning hech biri
+Javob: A
+90 ………………..to‘lov kartasining bir turi bo‘lib, pul mablag‘larini to‘g‘ridan-to‘g‘ri iste’molchining bank hisobvarag‘idan savdogar hisob raqamiga o‘tkazadi.
+A. Debet kartasi
+B. Elektron hamyon
+C. kredit karta
+D. bularning har biri
+Javob: A
+91 ………………. har bir foydalanuvchining tashkilotning ichki tarmoqlariga kirishiga ruxsat berishdan oldin uning identifikatorini tekshiradigan darvozabon vazifasini bajaradi.
+A. Tarmoq himoya devori
+B. Antivirus
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+92 …………..Tarmoqqa va tarmoqdan ruxsatsiz aloqani oldini oladi, bu tashkilotga oʻz tarmogʻi va internet oʻrtasidagi trafik boʻyicha xavfsizlik siyosatini qoʻllash imkonini beradi.
+A. Tarmoq himoya devori
+B. Antivirus
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+93. SET ……………… degan ma’noni anglatadi.
+A. Standart elektron texnologiya
+B. Standart elektron uzatish
+C. Xavfsiz elektron tranzaksiya
+D. Bularning hech biri
+Javob: C
+94. Kredit kartani tekshirish …………….. yordamida sotuvchi-ekvayer bank bilan aloqa o‘rnatish orqali amalga oshiriladi.
+A. Kredit karta to'lov terminali
+B. Savdo nuqtasi
+C. Bularning barchasi
+D. bularning hech biri
+Javob: C
+95. Noqonuniy ijodkorlar tomonidan tashkil etilgan tashkilotlar tomonidan nashr etilgandek ko‘rinadigan noqonuniy saytlar yaratish ………………… deb ataladi.
+A. Soxtalashtirish
+B. Snooping
+C. Hidlash
+D. Bularning hech biri
+Javob: A
+96. Foydalanuvchi tizimiga kirish va shaxsiy maʼlumotlar uchun fayl tizimini skanerlash ……………… deb nomlanadi.
+A. Soxtalashtirish
+B. Snooping
+C. Hidlash
+D. Bularning hech biri
+Javob: B
+97 ………………hujumlar qiyin va tajovuzkor xaridor haqida biror narsa bilsagina muvaffaqiyatli bo‘ladi.
+A. Soxtalashtirish
+B. Snooping
+C. Hidlash
+D. Parollarni taxmin qilish
+Javob: D
+98 ………………… ma’lumotni ruxsatsiz foydalanuvchi uchun tushunarsiz qilish jarayoni.
+A. Soxtalashtirish
+B. Snooping
+C. Hidlash
+D. Kriptografiya
+Javob: D
+99 ……………….bu shifrlashning teskari jarayoni bo‘lib, ma’lumotni yana bir bor o‘qilishi mumkin bo‘ladi.
+A. Soxtalashtirish
+B. Shifrni ochish
+C. Hidlash
+D. Kriptografiya
+Javob: B
+100. A…………………. xabarni jo‘natuvchi bilan bog‘lash usulini ta’minlaydi va oddiy imzoning ekvivalenti hisoblanadi.
+A. kiber imzo
+B. Elektron raqamli imzo
+C. SSL
+D. bularning hech biri
+Javob: B
+101 …………….. bu mikrochipli karta boʻlib, uni naqd pul va tangalar oʻrniga savdo avtomatlaridan tortib jamoat transportigacha ishlatish mumkin.
+A. Debet kartasi
+B. kredit karta
+C. Elektron hamyon
+D. bularning har biri
+Javob: C
+102 ……………… asosan tashkilotimiz maʼlumotlari va internet oʻrtasidagi xavfsiz eshikdir.
+A. Tarmoq himoya devori
+B. Antivirus
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+103 …………………………………………to‘lov kartasi tranzaksiya ma’lumotlarini shifrlaydi va tranzaksiyadagi har ikki tomonning haqiqiyligini tasdiqlaydi.
+A. SSL
+B. SET
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: B
+104 ……………… fiziologik yoki xulq-atvor xususiyatiga asoslangan shaxsni tanib olishning avtomatlashtirilgan usullari.
+A. Biometriya
+B. PIN-kod
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+105. Biometrikada …………………………ID tizimi bir nechta shaxsning bitta identifikatordan foydalanishini oldini olishga mo‘ljallangan.
+A. Pozitiv ID tizimi
+B. Salbiy ID tizimi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob uchun shu yerni bosing
+106. Biometrikada …………………………ID tizimi bir shaxsning bir nechta identifikatsiyadan foydalanishini oldini olishga mo‘ljallangan.
+A. Pozitiv ID tizimi
+B. Salbiy ID tizimi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: B
+107 …………………..bu kompyuter tizimini va undagi qimmatli ma’lumotlarni yo‘q qilish uchun ba’zi bir insofsizlar tomonidan ishlab chiqilgan dasturdir.
+A. Tarmoq himoya devori
+B. kompyuter virusi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: B
+108. Quyidagilardan qaysi biri kompyuter virusiga misol emas?
+A. Chernobil
+B. Melissa
+C. Men seni sevaman
+D. Bularning hech biri
+Javob: D
+109 …………………… kompyuter viruslari bilan zararlanish xavfini cheklash uchun mo‘ljallangan maxsus dasturiy ta’minot turi.
+A. Tarmoq himoya devori
+B. Antivirus
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: B
+110. A……………….foyda, jinoiy buzuqlik yoki shaxsiy zavq olish maqsadida kompyuter tarmog‘iga ruxsatsiz kirish huquqiga ega bo‘lgan shaxs.
+A. Xaker
+B. soxtakor
+C. operatori
+D. bularning hech biri
+Javob: A
+111.……………portal – ma’lum bir bozor joyiga yoki sanoat joyiga ixtisoslashgan kirish nuqtasi.
+A. Vertikal portal
+B. gorizontal portal
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+112 ……………….. keng mavzular va xususiyatlarni qamrab oluvchi umumiy qiziqish portallari
+A. Vertikal portal
+B. gorizontal portal
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: B
+113. Quyidagilardan qaysi biri vertikal portalga misol bo'la oladi?
+A. i-qishloq
+B. Yahoo
 C. Google
-D. Android
+D. Net scape
+Javob: A
+114. Turli tashkilotlar o‘rtasida munosabatlarni o‘rnatish va operatsiyalarni amalga oshirishga yordam beruvchi portal ……………… deb ataladi.
+A. B2B portallari
+B. C2C portallari
+C. bularning ikkalasi
+D. bularning hech biri
+Javob: A
+115. ……………………. bu har bir veb-sayt va undagi har bir veb-sahifa haqida ma’lumotlarni yig‘ish uchun internetni ko‘zdan kechiruvchi dasturiy ta’minot.
+A. oʻrgimchaklar
+B. Qidiruv mexanizmlari
+C. robotlar
+D. bularning hech biri
+Javob: B
+116. Qidiruv mexanizmlari ma’lumotlar bazalari ……………… deb nomlangan kompyuter robot dasturlari tomonidan tanlanadi va quriladi.
+A. oʻrgimchaklar
+B. Qidiruv mexanizmlari
+C. robotlar
+D. bularning hech biri
+Javob: A
+117. Quyidagilardan qaysi biri qidiruv tizimiga misol emas?
+A. Google
+B. MSN
+C. Alta vista
+D. bularning hech biri
+Javob: D
+118. Web-sahifalar ………………… kabi o‘z tilidan foydalangan holda tayyorlanadi.
+A. html
+B. FTP
+C. HTTP
+D. Bularning hech biri
+Javob: A
+119. Web-sahifa foydalanuvchi kompyuteriga …………………….. orqali uzatiladi.
+A. html
+B. FTP
+C. HTTP
+D. Bularning hech biri
+Javob: C
+120. Foydalanuvchi veb-sayt manzilini ko'rsatganida ushbu sahifaga kiradi
+A. Bosh sahifa
+B. Web sahifa
+C. Xulosa sahifasi
+D. Bularning hech biri
+Javob: A
+121. Quyidagilardan qaysi biri vertikal portalga misol bo'la oladi?
+A. i-qishloq
+B. yahoo
+C. google
+D. net scape
+Javob:
+A.i-qishloq
+122. 4. Turli tashkilotlar o‘rtasida aloqalar o‘rnatish va operatsiyalarni amalga oshirishga yordam beruvchi portal……………… deb ataladi.
+A. b2b portallari
+B. c2c portallari
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A.b2b portallari
+123. ……………………. bu har bir veb-sayt va undagi har bir veb-sahifa haqida ma’lumot to‘plash uchun internetni tekshiradigan dasturiy ta’minot.
+A. oʻrgimchaklar
+B. qidiruv tizimlari
+C. robotlar
+D. bularning hech biri
+Javob:
+B. qidiruv tizimlari
+124. Quyidagilardan qaysi biri qidiruv tizimiga misol emas?
+A. google
+B. msn
+C. alta vista
+D. bularning hech biri
+Javob:
+D. bularning hech biri
+125. Web-sahifalar ………………… kabi o‘z tilidan foydalangan holda tayyorlanadi.
+A. html
+B. ftp
+C. http
+D. bularning hech biri
+Javob:
+A.html
+126. Web-sahifa foydalanuvchi kompyuteriga …………………….. orqali uzatiladi.
+A. html
+B. ftp
+C. http
+D. bularning hech biri
+Javob:
+C.http
+127. Foydalanuvchi veb-sayt manzilini ko'rsatganida ushbu sahifaga kiradi
+A. bosh sahifa
+B. veb-sahifa
+C. xulosa sahifasi
+D. bularning hech biri
+Javob:
+A. bosh sahifa
+128. ……………………..avtomatlashtirish orqali axborot oqimini va o‘ziga xizmat ko‘rsatish imkoniyatlarini soddalashtiradi.
+A. sc
+B. crm
+C. crp
+D. scm
+Javob:
+A.scc
+129. ………………millionlab foydalanuvchilar kompyuterlar yordamida bir-biri bilan muloqot qiladigan global tarmoqdir.
+A. internet
+B. www
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A. internet
+130. ……………………. bu onlayn auktsion saytidir
+shaxslar o'rtasida xususiy mulk ob'ektlari savdosini yoritadi.
+A. e-bay
+B. amazon.com
+C. rentalic.com
+D. bularning barchasi
+Javob:
+A.e-bay
+131. Monster.com ……………………..veb-saytga misoldir
+A. c2c
+B. b2e
+C. b2b
+D. b2c
+Javob:
+A.c2c
+132. Bu fayllarni bir kompyuterdan boshqa kompyuterga o'tkazish imkonini beruvchi protokol
+A. tcp/ip
+B. ftp
+C. http
+D. bularning hech biri
+Javob:
+B.ftp
+133. ……………….hujjat boʻlib, odatda html formatlash koʻrsatmalari bilan kesishgan oddiy matnda yoziladi.
+A. veb-sahifa
+B. bosh sahifa
+C. domeni
+D. bularning hech biri
+Javob:
+A. veb-sahifa
+134. ………………….web-saytning birinchi sahifasi.
+A. veb-sahifa
+B. bosh sahifa
+C. domeni
+D. bularning hech biri
+Javob:
+B. bosh sahifa
+135. ……………………. — jismoniy shaxslar oʻrtasida xususiy mulk obʼyektlari savdosini osonlashtiradigan onlayn auktsion sayti.
+A. e-bay
+B. amazon.com
+C. rentalic.com
+D. bularning barchasi
+Javob:
+A.e-bay
+136. ……………..bu mikrochipli karta boʻlib, uni naqd pul va tangalar oʻrniga avtomatlardan tortib jamoat transportigacha hamma narsada ishlatish mumkin.
+A. debet kartasi
+B. kredit karta
+C. elektron hamyon
+D. bularning har biri
+Javob:
+C. elektron hamyon
+137. …………………………………………to‘lov kartasi tranzaksiya ma’lumotlarini shifrlaydi va tranzaksiyada har ikki tomonning haqiqiyligini tasdiqlaydi.
+A. ssl
+B. to'plami
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+B.set
+138. SET ……………… degan ma’noni anglatadi.
+A. standart elektron texnologiya
+B. standart elektron uzatish
+C. xavfsiz elektron tranzaksiya
+D. bularning hech biri
+Javob:
+C. xavfsiz elektron tranzaksiya
+139. Kredit kartani tekshirish …………….. bank-ekvayant savdogarlar bilan bog‘lanish orqali amalga oshiriladi.
+A. kredit karta to‘lov terminali
+B. savdo nuqtasi
+C. bularning barchasi
+D. bularning hech biri
+Javob:
+C. bularning barchasi
+140. ……………….moliya muassasasi bo‘lib, savdogarda hisobvaraq ochadi va to‘lov kartalarini avtorizatsiya qilish va to‘lovlarni amalga oshiradi.
+A. mijoz
+B. emitent
+C. savdogar
+D. oluvchi
+Javob:
+D. oluvchi
+141. ………………to‘lov tizimining turi ortiqcha xarajatlarni nazorat qilishni xohlovchi mijozlar uchun juda foydali,
+A. oldindan to'langan
+B. post to'lanadi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A. oldindan to'langan
+142. ……………………….Kredit kartasi foizlar haqida qayg‘urmasdan oddiy kredit kartaning barcha afzalliklarini beradi.
+A. oldindan to'langan
+B. post to'lanadi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A. oldindan to'langan
+143. ………………………ob’ekt mijozga to‘lanmagan summaning ozgina qismini to‘lashga va qolgan to‘lovni keyingi oyga o‘tkazishga yordam beradi.
+A. naqd avans
+B. revolver
+C. tele qoralama
+D. bularning hech biri
+Javob:
+B. revolver
+144. ………………….moliyaviy vosita bo‘lib, undan qarz olish yoki mahsulot va xizmatlarni kreditga sotib olish uchun bir necha marta ishlatilishi mumkin.
+A. kredit karta
+B. elektron cheklar
+C. elektron naqd pul
+D. bularning hech biri
+Javob:
+A. kredit karta
+145. Kredit kartani toʻlovga qabul qilish uchun bankimizda ……………………………………hisob raqamini ochishimiz kerak.
+A. omonat kassasi
+B. joriy hisob
+C. savdogar hisobi
+D. bularning har biri
+Javob:
+C. savdogar hisobi
+146. ………………..to‘lov kartasining bir turi bo‘lib, pul mablag‘larini to‘g‘ridan-to‘g‘ri iste’molchining bank hisobvarag‘idan savdogarning hisob raqamiga o‘tkazadi.
+A. debet kartasi
+B. elektron hamyon
+C. kredit karta
+D. bularning har biri
+Javob:
+A.debet karta
+147. ……………… internetdagi shaxslar va veb-saytlarni noyob tarzda identifikatsiya qiluvchi va xavfsiz konfidensial aloqalarni amalga oshirish imkonini beruvchi elektron fayl.
+A. raqamli imzo
+B. raqamli sertifikatlar
+C. ssl
+D. bularning hech biri
+Javob:
+B. raqamli sertifikatlar
+148. Axborot texnologiyalari to'g'risidagi qonun [IT ACT] kuchga kirdi
+A. 2000 yil 16 noyabr
+B. 2000 yil 15 dekabr
+C. 2000 yil 17 oktyabr
+D. bularning hech biri
+Javob:
+C. 17 oktyabr 2000 yil
+149. Internet orqali yuboriladigan ma'lumotlar odatda …………………… deb nomlangan qoidalar to'plamidan foydalanadi.
+A. tcp/ip
+B. ftp
+C. http
+D. gofer
+Javob:
+A.tcp/ip
+150. ……………………….bu kompyuter tizimini buzgan yoki buzib kirgan shaxs
+A. xaker
+B. snooper
+C. operatori
+D. spufer
+Javob:
+A.xaker
+151. Foydasiz materiallarni o'z ichiga olgan elektron pochta …………… deb ataladi.
+A. spam
+B. foydasiz pochta
+C. magistral pochta
+D. keraksiz pochta
+Javob:
+D. keraksiz pochta
+152. Hindiston bir yilda birinchi IT qonunini qabul qildi……………………
+A. 2001 yil
+B. 2002 yil
+C. 2009 yil
+D. 2000 yil
+Javob:
+D.2000
+153. Quyidagi jinoyatlardan qaysi biri 2008 yildagi IT (tuzatish) qonunida qamrab olinmagan?
+A. kiberterrorizm
+B. bolalar pornografiyasi
+C. video voyeurizm
+D. bularning hech biri
+Javob:
+D. bularning hech biri
+154. Savdo belgisi, mualliflik huquqi, patent qonuni va boshqalar …………………… vakolatiga kiradi.
+A. ma'lumotlarni himoya qilish
+B. telekommunikatsiya qonunlari
+C. intellektual mulk qonunlari
+D. yo'q
+Javob:
+C.intellektual mulk qonunlari
+155. Quyidagilardan qaysi biri elektron tijorat tamoyiliga kirmaydi?
+A. maxfiylik
+B. yaxlitlik
+C. autentifikatsiya
+D. bularning hech biri
+Javob:
+D. bularning hech biri
+156. ……………… asosan tashkilotimiz ma’lumotlari va internet o‘rtasidagi xavfsiz eshikdir.
+A. tarmoq himoya devori
+B. antivirus
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A.tarmoq xavfsizlik devori
+157. ………………- fiziologik yoki xulq-atvor xususiyatiga asoslangan shaxsni tanib olishning avtomatlashtirilgan usullari.
+A. biometrika
+B. pin
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A.biometriya
+158. ……………….moliya muassasasi bo‘lib, savdogarda hisob ochadi va to‘lov kartalarini avtorizatsiya qilish va to‘lovlarni amalga oshiradi.
+A. mijoz
+B. emitent
+C. savdogar
+D. oluvchi
+Javob:
+D. oluvchi
+159. ……………………..to‘lov tizimi turida mijozga faqat hisobvaraqqa oldindan qo‘yilgan mablag‘lar miqdorida mablag‘ sarflashga ruxsat beriladi.
+A. oldindan to'langan
+B. post to'lanadi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+A. oldindan to'langan
+160. ………………. tovar yoki buyumlar yoki tovar va xizmatlar almashinuvi yoki pul uchun foydalaniladigan ilovalar va pul masalalarini hal qilish.
+A. elektron tijorat
+B. tijorat
+C. bularning ikkalasi
+D. yo'q
+Javob:
+B. tijorat
+161. ……………….har doim intranetda ishlang
+A. elektron tijorat
+B. elektron biznes
+C. edi
+D. bularning hech biri
+Javob:
+B.e-biznes
+162. Quyidagilardan qaysi biri elektron tijorat uchun namuna emas
+A. amazon.com
+B. baazar.com
+C. e-trade.com
+D. bularning hech biri
+Javob:
+C.e-trade.com
+163. ……………… birinchi bo‘lib taniqli elektron tijorat brendlarini yaratdilar.
+A. baazar.com
+B. e-bay va amazon
+C. e-trade.com
+D. bularning hech biri
+Javob:
+B.e-bay va amazon
+164. ……………. ta’minot zanjirining shakli bo‘lib, unda yakuniy mahsulotni olish uchun bir qator yig‘ish operatsiyalari amalga oshiriladi.
+A. birlashtiruvchi ta'minot zanjiri
+B. ta'minot zanjirining ajralishi
+C. bularning har biri
+D. yo'q
+Javob:
+A. birlashtiruvchi ta'minot zanjiri
+165. .…………………………………. ta’minot zanjirining shakli bo‘lib, unda xomashyo yoki butlovchi qismlarning cheklangan soni bilan turli xil tayyor mahsulotlar ishlab chiqariladi.
+A. konversion tuzilma
+B. ajralib turuvchi tuzilish
+C. bularning har biri
+D. yo'q
+Javob:
+B. ajralib turuvchi tuzilish
+166. ……………………bir korxonadan davlat organiga xizmatlar, axborot yoki mahsulot almashinuvi.
+A. b2g
+B. b2e
+C. b2b
+D. p2p
+Javob:
+C.b2b
+167. …………………. bir xil tarmoq dasturiy ta’minotiga ega foydalanuvchilarga bir-birining qattiq disklariga ulanish va fayllarni almashish imkonini beruvchi internet tarmog‘i.
+A. b2c
+B. b2e
+C. b2b
+D. p2p
+Javob:
+D.p2p
+168. “Google” eng mashhur ………………..
+A. portali
+B. brauzer
+C. qidiruv tizimi
+D. bularning hech biri
+Javob:
+C. qidiruv tizimi
+169. A ………………….. Turli manbalardan olingan ma’lumotlarni aweb-saytda yagona shaklda taqdim etadi.
+A. veb-portal
+B. havola sahifasi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+C. bularning ikkalasi
+170. ……………………………………………. kompyuter tizimini buzgan yoki buzib kirgan shaxs
+A. xaker
+B. snooper
+C. operatori
+D. spufer
+Javob:
+A.xaker
+171. Peer to Peer [P2P] ……………………… ni tasvirlash uchun ham ishlatiladi.
+A. c2c
+B. b2e
+C. b2b
+D. b2c
+Javob:
+A.c2c
+172. ……………..odamga faqat asosiy so‘z yoki so‘zni yozishga imkon beradi va sayt kiradi.
+A. veb-sahifa
+B. bosh sahifa
+C. domeni
+D. bularning hech biri
+Javob:
+C.domeni
+173. A ………………….. turli manbalardan olingan ma’lumotlarni aweb-saytda yagona shaklda taqdim etadi.
+A. veb-portal
+B. havola sahifasi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+C. bularning ikkalasi
+174. Biometrikada …………………………ID tizimi bir shaxsning bir nechta identifikatsiyadan foydalanishini oldini olish uchun mo‘ljallangan.
+A. ijobiy id tizimi
+B. manfiy id tizimi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+B.manfiy id tizimi
+175. …………………..bu kompyuter tizimini va undagi qimmatli ma’lumotlarni yo‘q qilish uchun ba’zi bir insofsizlar tomonidan ishlab chiqilgan dasturdir.
+A. tarmoq himoya devori
+B. kompyuter virusi
+C. bularning ikkalasi
+D. bularning hech biri
+Javob:
+B. kompyuter virusi
+176. Milliy chegaralar bo'ylab tijoratni amalga oshirish imkonini beruvchi elektron tijoratning u ______________ deb ataladi.
+A. interaktivlik
+B. global miqyosda
+C. boylik
+D. hamma joyda
+Javob:
+B.global kirish
+177. Elektron tijoratning dastlabki yillarida birlamchi moliyalashtirish manbai ______________ bo'lgan.
+A. bank kreditlari
+B. yirik chakana savdo firmalari
+C. venchur kapital fondlari
+D. birlamchi ommaviy takliflar
+Javob:
+C.venchur kapitali fondlari
+178. Obuna daromadi modelida daromad manbai ______________ hisoblanadi.
+A. reklama evaziga reklama beruvchilardan olinadigan toʻlovlar
+B. biznes yo‘llanmalari uchun to‘lovlar
+C. obunadan olinadigan to'lovlar
+rs kontent yoki xizmatlarga kirish evaziga
+D. tranzaktsiyani yoqish yoki amalga oshirish uchun to'lovlar
+Javob:
+Kontent yoki xizmatlarga kirish evaziga obunachilardan olinadigan to'lovlar
+179. Tarmoq tuzilmasi ______________ deb belgilanadi.
+A. soha ishtirokchilarining tabiati va ularning nisbiy savdolashish qobiliyati
+B. biznes firmasiga qoʻyilgan kapitaldan uzoq muddatli daromad olishga qaratilgan rejalar toʻplami
+C. bozorda foyda olishga qaratilgan rejalashtirilgan tadbirlar majmui
+D) kompaniyaning mahsuloti yoki xizmati mijozlarning ehtiyojlarini qanday qondirishi
+Javob:
+A.sanoat ishtirokchilarining tabiati va ularning nisbiy savdolashish qobiliyati
+180. Internetning manzillash sxemasini ta'minlovchi va paketlarni haqiqiy yetkazib berish uchun mas'ul bo'lgan TCP/IP komponenti ______________ hisoblanadi.
+A. tcp
+B. ip
+C. tarmoq qatlami
+D. amaliy qatlam
+Javob:
+B.ip
+181. Quyidagilardan qaysi biri hozirgi Internetning chegaralanishi emas?
+A. butun umurtqa pog'onasida sig'imning etarli emasligi
+B. tarmoq arxitekturasining cheklovlari
+C. yetib bormaslik
+D. eng yaxshi harakatlar qos
+Javob:
+C. yetib bo'lmaydigan darajada
+182. Internet foydalanuvchilari dunyo aholisining taxminan ______________ ni tashkil qiladi.
+A. 7%
+B. 17%
+C. 27%
+D. 47%
+Javob:
+B.17%
+183. IC3 bo'yicha Internet jinoyatlarining eng keng tarqalgan turi ______________ hisoblanadi.
+A. kredit kartalari bilan firibgarlik
+B. firibgarlikni tekshirish
+C. yetkazib bermaslik
+D. kim oshdi savdosida firibgarlik
+Javob:
+D. auktsion firibgarlik
+184. Xakerlar tarmoqni to'ldirish uchun veb-saytni foydasiz trafik bilan to'ldirganda, u ______________ deb ataladi.
+A. fishing
+B. farmatsevtika
+C. denial of service (dos) hujumi
+D. firibgarlik
+Javob:
+C. denial of service (dos) hujumi
+185. ______________ boshqalarning xulq-atvoriga ularning shaxsiyati, mahorati yoki boshqa omillari orqali ta'sir qiladi.
+A. fikr yetakchilari
+B. bevosita mos yozuvlar guruhlari
+C. bilvosita mos yozuvlar guruhlari
+D. turmush tarzi guruhlari
+Javob:
+A. fikr yetakchilari
+186. A(n) ______________ ma'lumotlar satrlarda va atributlar ustunlarda tashkil etilgan yozuvlar bilan ikki o'lchovli jadvallar sifatida ifodalanadi.
+A. ma'lumotlar bazasini boshqarish tizimi
+B. ma'lumotlar ombori
+C. sql so'rovi
+D. relyatsion ma'lumotlar bazasi
+Javob:
+D. relyatsion ma'lumotlar bazasi
+187. Axborot tovarlarining bir nechta variantini yaratish va mohiyatan bir xil mahsulotni bozorning turli segmentlariga har xil narxlarda sotish ______________ deyiladi.
+A. versiya yaratish
+B. to'plash.
+C. tranaktiv tarkib
+D. narxlarni kamsitish
+Javob:
+A.versiyalash
+188. Quyidagilardan qaysi biri bir yil ichida aWeb saytiga qaytgan xaridorlar foizini ko‘rsatadi?
+A. sodiqlik
+B. erishish
+C. yangilik
+D. noyob tashrif buyuruvchilar
+Javob:
+A.sodiqlik
+189. Shaxsiy daxlsizlik haqidagi quyidagi fikrlardan qaysi biri to‘g‘ri?
+A. yolg‘iz qolish ma’naviy huquqdir
+B. faqat korporatsiyalar va hukumatlar bu haqda tashvishlanishlari kerak
+C. yaqinda tashvishga tushdi
+D. uni eng oson internetda olish mumkin
+Javob:
+A. yolg'iz qolish ma'naviy huquqdir
+190. Trafikni qonuniy saytdan huquqbuzar saytga yo‘naltirish______________ deb ataladi.
+A. kibersquatting
+B. kiber qaroqchilik
+C. teging bilan uchrashdi
+D. kalit so'zlar
+Javob:
+B.kiberqaroqchilik
+191. Xavfsizlik rejasi a(n) ______________ bilan boshlanadi.
+A. xavfsizlik siyosati
+B. xavfni baholash
+C. amalga oshirish rejasi
+D. xavfsizlikni tashkil etish
+Javob:
+B. riskni baholash
+192. ______________ boshqalarning xulq-atvoriga ularning shaxsiyati, mahorati va boshqa omillari orqali ta'sir qiladi.
+A. fikr yetakchilari
+B. bevosita mos yozuvlar guruhlari
+C. bilvosita mos yozuvlar guruhlari
+D. turmush tarzi guruhlari
+Javob:
+A. fikr yetakchilari
+193. Axborot tovarlarining bir nechta variantini yaratish va mohiyatan bir xil mahsulotni bozorning turli segmentlariga har xil narxlarda sotish ______________ deyiladi.
+A. versiya yaratish
+B. to'plash.
+C. tranzitiv tarkib
+D. narxlarni kamsitish
+Javob:
+A.versiyalash
+194. Quyidagilardan qaysi biri bir yil ichida aWeb saytiga qaytgan xaridorlar foizini ko‘rsatadi?
+A. sodiqlik
+B. erishish
+C. regentlik
+D. noyob tashrif buyuruvchilar
+Javob:
+A.sodiqlik
+195. ______________ - bu kompaniya ichidagi odamlarni bir-biriga va kompaniya tarmog'iga bog'laydigan tarmoqlar.
+A. bit oqimlari
+B. ekstranetlar
+C. internetlar
+D. intranetlar
+Javob:
+D.intranetlar
+196. Uchinchi tomon tomonidan yaratilgan kontentni mijozlarga shaffof tarzda taqdim etuvchi veb-sayt ______________ misolidir.
+A. qayta vositachilik qilish
+B. sindikatsiya
+C. virtual ishlab chiqarish
+D. buyurtma asosida qurish
+Javob:
+B.sindikatsiya
+197. Elektron tijorat texnologiyalari ______________dagi an'anaviy tijorat texnologiyalariga nisbatan yaxshilandi.
+A. boylik
+B. erishish
+C. ham boylik, ham yetib borish
+D. na boylik, na yetib borish
+Javob:
+C.ham boylik, ham yetib borish
+198. Quyidagilarning barchasi ______________ dan tashqari siz haqingizda onlayn ma'lumot to'plash uchun ishlatiladigan texnologiyalardir.
+A. josuslik vositalari
+B. kukilar
+C. gmail
+D. anonimatorlar
+Javob:
+D.anonimlashtiruvchilar
+199. ______________ - mijoz va server o'rtasidagi aloqani tekshirish uchun Windows operatsion tizimida DOS so'rovidan ishga tushirishingiz mumkin bo'lgan dastur.
+A. ping
+B. telnet
+C. tracert
+D. ssl
+Javob:
+A.ping
+200. Quyidagilardan qaysi biri yangi va buzuvchi Web funksiyasi yoki xizmati hisoblanadi?
+A. xml
+B. diffserv
+C. bloglar
+D. cdma
+Javob:
+C.bloglar
+201. What Web server funksionalligi foydalanuvchi nomlari va parollarni, sertifikatlar va shifrlash ma'lumotlarini qayta ishlashga imkon beradi?
+A. http so'rovlarini qayta ishlash
+B. fayllarni uzatish protokoli
+C. ma'lumotlarni yig'ish
+D. xavfsizlik xizmatlari
+Javob:
+D. xavfsizlik xizmatlari
+202. Tovarni mijozning ehtiyojlariga yaxshiroq moslash uchun o'zgartirish qobiliyati ______________ deyiladi.
+A. moslashtirish
+B. shaxsiylashtirish
+C. maxfiylik
+D. foydalanish imkoniyati
+Javob:
+A.	moslashtirish
+203. Quyidagilarning barchasi ______________ dan tashqari kompyuter viruslarining asosiy toifalaridir.
+A. makroviruslar
+B. fayllarni zararlovchi viruslar
+C. skript viruslari
+D. troyan viruslari
+Javob:
+D.troyan viruslari
+204. Eng keng tarqalgan onlayn to'lov usuli - ______________.
+A. paypal
+B. tekshiradi
+C. kredit kartalari
+D. debet
+Javob:
+C.kredit kartalari
+205. Mukammal axborot bozorida narxlarning to'liq shaffofligi ______________ kuchga kirishi uchun zarur.
+A. Bertrand qonuni
+B. universal narxlar qonuni
+C. bitta narx qonuni
+D. mukammal savdo qonuni
+Javob:
+C) bitta narx qonuni
+206. Mijozlarni kompaniyaning marketing xabarini do'stlari, oilasi va hamkasblariga etkazish jarayoni ______________ deb nomlanadi.
+A. sheriklik marketingi
+B. virusli marketing
+C. ruxsat marketingi
+D. blog marketingi
+Javob:
+B.Virusli marketing
+207. Quyidagilarning barchasi ______________ dan tashqari ijtimoiy marketing turlaridir.
+A. sheriklik marketingi
+B. blog reklamasi
+C. ijtimoiy tarmoqdagi reklama
+D. o'yin reklamasi
+Javob:
+A. affiliate marketing
+208. Agar harakat barcha holatlar uchun to'g'ri kelmasa, u holda har qanday vaziyat uchun to'g'ri emas, degan axloqiy tamoyil ______________ deb nomlanadi.
+A. oltin qoida
+B. sirpanchiq qiyalik
+C. bepul tushlik berilmaydi
+D. universalizm
+Javob:
+D.universalizm
+209. P3P yoqilgan tranzaksiyaning birinchi bosqichi nima?
+A. veb-sahifani yuborish
+B. http so'rovni olish veb-sahifasi
+C. p3p siyosat fayllarini yuborish
+D. http so'rov p3p siyosat fayllarni olish
+Javob:
+B.http so'rov veb-sahifasini olish
+210. Ish izlovchilarning ko'pchiligi quyidagilardan qaysi biriga tayanadi?
+A. ogʻizdan-ogʻizga olib keladi
+B. bandlik agentliklari
+C. internet va gazetalar teng
+D. faqat internet
+Javob:
+C.internet va gazetalar teng
+211. Quyidagilardan qaysi biri C2C va B2C auktsion xarajatlarining bashorat qilingan o'sishini eng yaxshi tavsiflaydi?
+A. b2c xarajatlari c2c xarajatlarini ortda qoldiradi
+B. har ikkala turdagi xarajatlar ko'payadi
+C. c2c xarajatlari kamayadi, b2c esa ko'payadi
+D. har ikki turdagi xarajatlar bir xil sur'atlarda kamayadi
+Javob:
+B.xarajatlarning har ikki turi ortadi
+212. Materiallarga bo'lgan talablarni rejalashtirish (MRP) tizimi ______________ ga misoldir.
+A. joyida xarid qilish
+B. ko'p bosqichli ta'minot zanjiri
+C. eskirgan kompyuter tizimi
+D. elektron ma'lumotlar almashinuvi
+Javob:
+C.a eski kompyuter tizimi
+213. Iste'molchi tomonidan boshlangan va biznesga mo'ljallangan biznes faoliyatini o'z ichiga olgan elektron tijorat domeni ______________ deb nomlanadi.
+A. biznesdan biznesga (b2b)
+B. iste'molchidan iste'molchiga (c2c)
+C. iste'molchidan biznesga (c2b)
+D. biznesdan iste'molchiga (b2c)
+Javob:
+C.iste'molchidan biznesga (c2b)
+214. Nima uchun savdogar mahsulotlarni moslashtirishni xohlaydi?
+A. yuqoriroq narxni talab qilish
+B. xarajatlarni kamaytirish uchun
+C. u ec da talab qilinadi
+D. mijozlar faqat moslashtirilgan mahsulotlarni qabul qiladilar
+Javob:
+A. yuqori narxni olish
+215. ______________ - bozorda foyda olishga qaratilgan rejalashtirilgan tadbirlar majmui.
+A. biznes modeli
+B. foyda modeli
+C. biznes-reja
+D. daromad modeli
+Javob:
+A.biznes modeli
+216. Hamkorlik daromadi _______ deb ham ataladi.
+A. komissiyasi
+B. vositachilik
+C. yo'llanma to'lovi
+D. chegirma
+Javob:
+C. yo‘llanma to‘lovi
+217. ERI standartlari ______ tomonidan belgilanadi.
+A. ascii
+B. ansi
+C. AQSh
+D. hukumat
+Javob:
+B.ansi
+218. ______ o'qiladigan matnni o'qilmaydigan matnga aylantirishni anglatadi.
+A. konvertatsiya
+B. shifrni ochish
+C. shifrlash
+D. dekodlash
+Javob:
+C. shifrlash
+219. ______ o'qilmaydigan matnni o'qiladigan matnga aylantirishni anglatadi.
+A. konvertatsiya
+B. shifrni ochish
+C. shifrlash
+D. dekodlash
+Javob:
+B. deshifrlash
+220. _____ URL manzilini http dan https ga o‘zgartiradi.
+A. ssl
+B. to'plami
+C. elektron tijorat
+D. m-tijorat
+Javob:
+A.ssl
+221. ____ da server tomonida autentifikatsiya majburiydir.
+A. ssl
+B. to'plami
+C. elektron tijorat
+D. m-tijorat
+Javob:
+A.ssl
+222. Onlayn chakana savdo do'koni _____ deb ataladi.
+A. savdogar
+B. chakana sotuvchi
+C. elektron sotuvchi
+D. amazon
+Javob:
+C.e-tailer
+223. _______ yilda bir iste'molchi boshqa iste'molchi bilan muomala qiladi.
+A. c2c
+B. b2c
+C. b2b
+D. p2p
+Javob:
+A.c2c
+224. amazon.com ______ ga misoldir.
+A. b2b
+B. b2c
+C. c2c
+D. p2p
+Javob:
+B.b2c
+225. SSLda shifrlash ____ kalit yordamida amalga oshiriladi.
+A. ommaviy
+B. xususiy
+C. sessiya
+D. simmetrik
+Javob:
+C.sessiya
+226. ____ - onlayn chakana savdo do'koni.
+A. portali
+B. xizmat ko'rsatuvchi provayder
+C. elektron sotuvchi
+D. kontent provayderi
+Javob:
+C.e-tailer
+227. Internetda ishlayotgan shaxs yoki yuridik shaxsning kimligini aniqlang ______ deb nomlanadi.
+A. yaxlitlik
+B. haqiqiylik
+C. avtorizatsiya
+D. bularning hech biri
+Javob:
+B.haqiqiylik
+228. ____ veb-saytda aks ettirilayotgan/Internet orqali uzatiladigan/qabul qilingan ma'lumotlar ruxsat etilmagan shaxs tomonidan hech qanday tarzda o'zgartirilmaganligini bildiradi.
+A. yaxlitlik
+B. haqiqiylik
+C. avtorizatsiya
+D. bularning hech biri
+Javob:
+A. yaxlitlik
+229. Ochiq kalitli shifrlashda ______ kalitlardan foydalaniladi.
+A. davlat va xususiy
+B. faqat ommaviy
+C. faqat shaxsiy
+D. sessiya
+Javob:
+A.davlat va xususiy
+230. SET _________ boshchiligidagi uyushma tomonidan ishlab chiqiladi.
+A. asosiy karta va viza
+B. asosiy karta
+C. vizasi
+D. rupay
+Javob:
+A.Master karta va viza
+231. M-commerce texnologiyasi ______ ga asoslangan.
+A. http
+B. https
+C. wap
+D. pop
+javob:
+C.wap
+232. ________ jismoniy bozorning virtual ifodasidir.
+A. edi
+B. elektron bozor
+C. elektron tijorat
+D. internet-tijorat
+Javob:
+B.elektron bozor
+233. _____ sizga qog'ozsiz tranzaksiyani amalga oshirish imkonini beradi.
+A. edi
+B. elektron bozor
+C. elektron tijorat
+D. internet-tijorat
+Javob:
+A.edi
+234. _____ veb-saytda aks ettirilayotgan yoki Internet orqali uzatiladigan yoki qabul qilinadigan ma'lumotlar ruxsatsiz shaxs tomonidan hech qanday tarzda o'zgartirilmaganligini anglatadi.
+A. yaxlitlik
+B. maxfiylik
+C. haqiqiylik
+D. maxfiylik
+Javob:
+A. yaxlitlik
+235. ________da shifrlash seans kaliti bilan amalga oshiriladi.
+A. ochiq kalit
+B. shaxsiy kalit
+C. ssl
+D. to'plami
+Javob:
+C.ssl
+236. olx.com ________ misolidir.
+A. b2b
+B. b2c
+C. c2c
+D. p2p
+Javob:
+C.c2c
+237. ______ - o'xshash qiziqishlarga ega bo'lgan odamlar tranzaksiya qilishlari mumkin bo'lgan raqamli onlayn muhitni yaratadigan saytlar.
+A. jamoat provayderi
+B. bozor yaratuvchisi
+C. portali
+D. xizmat ko'rsatuvchi provayder
+Javob:
+A.jamoa provayderi
+238. Flipkart.com _______ misolidir.
+A. b2b
+B. b2c
+C. c2c
+D. p2p
+Javob:
+B.b2c
+239. Odatda M-commerce tilida veb-sahifalarni yaratish uchun foydalaniladi _______.
+A. html
+B. wml
+C. vb
+D. xml
+Javob:
+B.wml
+240. _____ - ishonchli shaxs sifatida niqoblangan shaxs tomonidan ma'lumot olishga urinish san'ati.
+A. xakerlik
+B. fishing
+C. hidlash
+D. firibgarlik
+Javob:
+B.phishing
 
 
-IoT qanday ma'noni anglatadi
-A. Internet buyumlar
-B. Internetga ulangan kompyuterlar
-C. Sensor tarmoqlari
-D. Aqlli buyumlar
 
-
-Nima uchun IoT texnologiyasi ishlab chiqildi?
-A. Barcha javob to'g'ri 
-B. Turli narsa-buyumlarni internetga ulab boshqarish
-C. Turli narsa-buyumlarni internetga ulab nazorat qilish 
-D. Turli narsa-buyumlarni internetga ulab monitoring qilish
-
-
-Bulutli texnologiya qanday imkoniyatlarni taqdim etadi?
-A. Barcha javob to'g'ri
-B. Saqlash va optimizatsiya uchun qo'shimcha imkoniyatlar taqdim etiladi
-C. Avtomatik ravishda yangilanishlarni amalga oshirish mumkin
-D. Xotira va boshqarish uchun sarf xarajatlar tejaladi
-
-
-Tumanli texnologiya qanday imkoniyatlarni taqdim etadi?
-A. Barcha javob to'g'ri
-B. Foydalanuvchi qurilmasiga yaqin masofada joylashgan
-C. O'tkazuvchanlikka bog'liq muammolar yuzaga kelmaydi
-D. Kichikishlar darajasi pastroq
-
-
-Ko'p foydalaniladagin tarmoq operatsion tizimlarining nechta asosiy turi bor?
-A. 5
-B. 4
-C. 3
-D. 2
-
-
-Bulutli texnologiyada axborot xavfsizligi doimiy kafolatlanganmi?
-A. Yoq
-B. Ha
-C. Ta'minlasa bo'ladi
-D. Qisman ta'minlangan
-
-
-Zamonaviy kompyuter tarmoqlari bilan an’anaviy kompyuter tarmoqlarini qanday farqlari bor?
-A. Imkoniyatlari va sig'imi kengaytirilgan
-B. Ishlash tezligi pastligida
-C. Ko'rinishida va xotira sig'imida
-D. O'lchamida
-
-
-Tumanli va bulutli texnologiyalarning farqini tushuntirib bering.
-A. Tumanli kichik va bulutli katta hududdagi tarmoqlarni qamrab oladi
-B. Mobillilik darajasi bulutlida cheklangan, tumanlida cheklanmagan
-C. Bulutli markazlashgan va tumanli taqdimlangan
-D. Barcha javob to'g'ri
-
-1. LAN va WAN qanday tarmoqlar?
--     LAN – bu lokal va WAN – global tarmoqlardir
-
-
-2. Tarmoq topologiyasi nima?
--     Tarmoqdagi kompyuterlarning joylashishi va bog`lanishi sxemasi
-
-
-3. Asosiy tarmoq topologiyalari:
--     Yulduz, halqa va shina
-
-
-4. Xab (hub) nima?
--     kompyuter tarmog`ì ni hosil qiluvchi qurilma
-
-
-5. Shlyuz vazifasini aniqlang
--     Har xil protokolli lokal tarmoqlarni bog`lash
-
-
-6. Agar tarmoqda kabel tizimi ishlatilmasa …
--     Biz simsiz tarmoqni hosil qilamiz
-
-
-7. Bod (bit/sek) nima uchun ishltiladi?
--     Tarmoqda ma’lumotlarni uzatish tezligini aniqlash uchun
-
-
-8. VLAN nima?
--     Simsiz lokal tarmoq turi
-
-
-9. Kabelning qaysi turi yorug`lik oqimini uzatishga mo`ljallangandir?
--     Optotolali kabellar
-
-
-10. Modemning vazifasi…
--     Modulyatsiya va demodulyatsiya qilishdir
-
-
-11. Modemning ma’lumotlarni uzatish tezligi …
--     Bit/sek bilan o`lchanadi
-
-
-12. Tarmoq operatsion sistemasi vazifalarini aniqlang 
--     Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash
-
-
-13. Tarmoq operatsion sistemasining bosh vazifasi …
--     Tarmoq resurslarini taqsimlash va boshqarish
-14. Trafik nima?
--     Trafik deb kanaldagi ma’lumotlarning to`liqlik oqimiga aytiladi
-
- 
-15. IP – adres – bu …
--     Nuqtalar bilan ajratilgan to`rtta sondan (oktet )iborat noyob son. Har bir son 0-    255 oralig`ida bo`lishi lozim. 
-
-
-16. IP – adreslarning soni …
--     Chegaralangan
-
-
-17. Berilgan IP – adreslarning  
-124.256.14.023
-101.012.252.4411
-258.124.11.14
-221.011.42
--     Hammasi xato tuzilgan
-
-
-18. Domenli adreslash –  bu …
--     IP – adreslashning matnli tasvirlanishidir
-
-
-19. Yuqori bosqich domenlari turlari:
--     Geografik va ma’muriy
-
-
-20. Internetda ma’lumotlarni izlash usullari:
--     Sahifa adresini ko`rsatish, giperbog`lanish bo`yicha harakat, izlash serveriga murojaat
-
-
-21. Klient server tipidagi tarmoqqa …
--     Server – tarmoq ishini boshqaruvchi, klient – qolgan kompyuterlar
-
-
-22. Kompyuter tarmog`i nima?
--     Kompyuter tarmog`i deb ikkita va undan ko`p kompyuterlarning fizik bog`lanishiga aytiladi.
-
-
-23. Ixtiyoriy turdagi kompyuter tarmoqlarining vazifasini aniqlang.
--     Umumiy resurslarga murojat qilish va ishlash
-
-
-24. Kompyuter tarmoqlaridagi resurslar turlari quyidagicha:
--     Apparatli, programmaviy va information
-
-
-
-25. Axborot resursi ta’rifini bering.
--     Axborot resursi deb uzoqda joylashgan kompyuterlarda saqlanadigan ma’lumotlarga aytiladi
-
-
-26. Internet nima?
--     Xalqaro (butun dunyo) tarmog`i 
-
-
-27. Internet  kimga, qaysi tashkilotga qarashli?
--     Internet aniq bir shaxs yoki tashkilotga qarashli emas
-
-
-28. Internetning negizida nima yotadi?
--     Super kompyuterlarning o`zaro tezkor aloqa kanallari yordamida bog`langan tizimi yotadi
-
-
-29. Internet muhitida ma’lumotlarning asosiy qismi qanday shaklda saqlanadi?
--     Gepermatn shaklda saqlanadi
-
-
-30. Tarmoqqa kiritilgan kompyuterlar …
--     Tarmoq tugunlari deyiladi
-
-
-31. Kompyuterlar soniga qarab tarmoqlar qanday turlarga bo`linadi?
--     Lokal, Mintaqaviy, Global	
-
-
-32. Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o`zida mujassamlashtirgan tarmoq qanday nomlanadi?
--     Korporativ tarmoq	
-
-
-33. Dunyoning ixtiyoriy davlatidagi kompyuterlarni o`zida birlashtirish imkoniga ega bo`lgan tarmoq nima deb ataladi? 
--     Global tarmoq	
-
-
-34. Kompyuter tarmoqlarida ma’lumotlar dasturlar yordamida kichik bloklarga bo`linadi va bir kompyuterdan ikkinchisiga uzatiladi. Bunday bloklar nima deb ataladi?
--     Paket 	
-
-
-35. Tarmoq protokoli nima?
--     Aloqalarni boshqaradigan qoidalar 
-
-
-36. UDP-     protokoli nima?
--     Mantiqiy bog’lanishlar o’rnatilmasdan, ma’lumotlar uzatilishini qo’llab-    quvvatlaydi.
-
-37. EGP-    protokoli nima?
--     Yo’llari ko’rsatilgan ma’lumotlarni tashqi tarmoqqa uzatish uchun xizmat qiladi. 
-
-
-38. FTP-    protokoli nima?
--     Kompyuterlar o’rtasida fayllarni bir-    biriga uzatadi.
-
-
-39. RIP-    protokoli nima?
--     Manzilga xabarlarni yetkazuvchi eng yaxshi yo’llarni tanlovchi qaydnomalardan biri.
-
-
-40. DNS-    nima?
--     Tarmoqdagi kompyuterlarni nomlari bo’yicha sonli manzilini aniqlaydi.
-
-
-41. TelNet-    nima?
--     Tizimga uzoqdagi terminal ruxsatini ta’minlaydi, U uzoqqa uzatish qaydnomasidir.
-
-
-42. Bir xona yoki bir bino ichidagi kompyuterlarni o`zaro ulash … 
--     Lokal tarmoq 
-
-
-43. Kompyuterlarning o’zaro axborot almashishini taminlovshi qurilmalar majmui… 
--     Tarmoq 
-
-
-44. Tarmoq ishini ta’minlovchi maxsus kompyuter… 
--     Server 
-
-
-45. Telefon tarmog`i orqali internetga ulanuvchi qurilma? 
--     ADSl modem    
-
-
-46. Dastlab Internet qayerda paydo bo`lgan?
--     AQSH
-
-
-47. Lokal xisoblash tarmoqlarining qurishda asosan qanday texnik vositalar kerak bo`ladi?
-A) Tarmoq adapteri (kartasi), Hub,Switch 	
-
-
-48. Lokal hisoblash tarmog`idagi kompyuterlarning joylashishini ifodalovchi termin qanday nomlanadi?
--     Topologiya 	
-
-
-
-49. WEB-    texnologiyasining hozirgi kunda axborotni ko`rish uchun  turli vositalar mavjud,  ular qanday nomlanadi?
--     Brauzer 		
-
-
-50. Qaysi javobda brauzerlar nomi to`g`ri  ko`rsatilgan?
--     Opera va Mozilla firefox brauzerlari	
-
-
-51. Qaysi javobda veb resurslarning URL manzili to`g`ri ko`rsatilgan?
--     http://www.mk.uz 
-
-
-52. Quyidagi veb serverlarning qaysi birlari qidiruv tizimi hisoblanadi?
--     Google, yahoo, Bing, yandex  
-
-
-53. Fayllar uzatish bayonnomasi – FTP (File Transfer Protocol) bu nima? 
--     Abonentga tarmoqdagi istagan  kompyuterda o`zaro muloqot qilishga sharoit yaratib beruvchi fayllar uzatish protokoli
-
-
-54. Tarmoq bayonnomasi bu...
--     Kompyuterlar o`rtasida ma’lumotlarni qabul qilish va uzatish, hamda   tarmoqdagi bir qancha hisoblash mashinalarining ishini sinxronlashtirish uchun  mo`ljallangan qoidalar bayonining kelishilgan va tasdiqlangan standart
-
-
-55. IP (Internet Protocol) tarmoqlararo bayonnomasi bu....
--     Har xil operatsion tizimlarda ishlovchi turli xildagi hisoblash mashinalarini bir tarmoqda birlashtiruvchi universal standart
-
-
-56. Tarmoq uzeli bu....
--     Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter
-
-
-57. Domen bu...
--     Bu internetning biror logik bosqichi bo`lib, o`z nomiga ega bo`lgan va o`zining tarmoq sahifasi tomonidan boshqariladigan tarmoq resurslarining guruhidir 
-
-
-58. Internet tarmog`ining serveri bu.....
--     Foydalanuvchi kompyuterining so`roviga asosan Web sahifarsi namoyon qiluvchi va boshqa zarur funksiyalarni bajaruvchi maxsus dastur o`rnatilgan kompyuter
-
-
-59. Multipleksorlash bu...
--     Bitta  liniyadan  bir  necha  axborot  oqimlarini uzatishni  ta'minlab  beradi.
-
-60. Ikkita kompyuterni telefon liniyalari orqali ulash uchun sizga quyidagilardan qaysi bo'lishi kerak. 
--     Modem 
-
-
-61. Elektron pochta bu: 
--     Kompyuter tarmoqlarida xatlarni almashish (elektron pochta)
-
-
-62. Kompyuterlarning o’zaro axborot almashishini taminlovshi qurilmalar majmui… 
--     Tarmoq 
-
-
-63. RIP-    protokoli nima?
--     Manzilga xabarlarni yetkazuvchi eng yaxshi yo’llarni tanlovchi qaydnomalardan biri.
-
-
-64. Yuqori bosqich domenlari turlari:
--     Geografik va ma’muriy
-
-
-65. Tarmoq operatsion sistemasining bosh vazifasi …
--     Tarmoq resurslarini taqsimlash va boshqarish
-
-
-66. Agar tarmoqda kabel tizimi ishlatilmasa …
--     Biz simsiz tarmoqni hosil qilamiz
-
-
-67. Tarmoq operatsion sistemasi vazifalarini aniqlang 
--     Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash
-
-
-68. HTTP protokoli quyidagilarga xizmat qiladi: 
--     Gipertekstni o'tkazish veb-    sahifani kompyuteringizda ko'rishga yordam beradi.
-
-
-69. Internetdagi axborotlarni uzatish qoidalari ... deb  ataladi.
--     Protokol  
-
-
-70. Web sahifaning biror qismiga yoki boshqa Web-    sahifaga bog‘liqligini ko‘rsatuvchi ilova … deb ataladi.
--     Gipermatn             
-
-
-71. Internet tarmog’ida real vaqtda axborotlar (xabarlar) almashish xizmati qanday ataladi?
--     Chat 
-
-
-
-72. SMTP-    bu...
--     Elektron pochtani yuborishning oddiy bayonnomasi
-
-
-73. Yuqori bosqich domenlari turlari:
--     Geografik va ma’muriy
-
-
-74.  TelNet-    nima?
--     Tizimga uzoqdagi terminal ruxsatini ta’minlaydi, U uzoqqa uzatish qaydnomasidir.
-
-
-75. Fizikaviy pog‘ona bu....
--     Fizikaviy kanallar (koaksial kabel, mis kabel, optik-    tolali kabel yoki radiomuhit) orqali bitlar ketma-    ketligi bilan ish olib boradi. 
-
-
-76. OSI modelining kanal pog'onasining vazifalari qanday?
--     Xatoliklarni aniqlash va korreksiyalash mexanizmlarini  yo'lga  qo'yish, turli topologiyadagi lokal tarmoqning ixtiyoriy ikki tuguni orasida kadrning uzatilishini ta'minlash
-
-
-77. Seans pog‘onasi bu....
--     Xar xil komp'yuterlardagi ikki qo'llanish dasturlari orasida seans deb ataluvchi bog'lanishni o'rnatish, foydalanish va yakunlash imkonini beradi.
-
-
-78. OSI modelining eng quyi pog'onasini ko'rsating?
--     Fizikaviy pog'onasi
-
-
-79.  Protikollar steki nima?
--     ma'lumotlarni uzatish va qabul qilish masalalarini amalga oshiriuvchi, xatolarni aniqlash va bildirish, ma'lumot oqimini boshqaruvchi protokollar majmui
-
-
-80. TCP/IP protokollar steki qachon va kim tomonidan yaratilgan?
--     1972-    yilda Winton Serf va uning ishchi guruhi tomonidan
-
-
-81. Marshrutizatsiya bu....
--     Paketni bir tarmoqdan ikkinchi tarmoqga o'tish yo'lini aniqlaydigan protsedura
-
-
-82. WiMax bu..... 
--     IEEE 802.16 standartlari to'plamiga asoslangan simsiz keng polosali aloqa standartlari oilasiga mansub bo’lgan texnologiya hisoblanadi. 
-
-
-
-83. Trafik nima?
--     Trafik deb kanaldagi ma’lumotlarning to`liqlik oqimiga aytiladi
-
-
-84. Telefon tarmog`i orqali internetga ulanuvchi qurilma? 
--     ADSl modem    
-
-
-85. Klient server tipidagi tarmoqqa …
--     Server – tarmoq ishini boshqaruvchi, klient – qolgan kompyuterlar
-
-
-86. Internet muhitida ma’lumotlarning asosiy qismi qanday shaklda saqlanadi?
--     Gepermatn shaklda saqlanadi
-
-
-87. Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o`zida mujassamlashtirgan tarmoq qanday nomlanadi?
--     Korporativ tarmoq	
-
-
-88.  Kompyuter tarmoqlarida ma’lumotlar dasturlar yordamida kichik bloklarga bo`linadi va bir kompyuterdan ikkinchisiga uzatiladi. Bunday bloklar nima deb ataladi?
--     Paket 	
-
-
-89. Tarmoq ishini ta’minlovchi maxsus kompyuter… 
--     Server 
-
-
-90. Tarmoq bayonnomasi bu...
--     Kompyuterlar o`rtasida ma’lumotlarni qabul qilish va uzatish, hamda   tarmoqdagi bir qancha hisoblash mashinalarining ishini sinxronlashtirish uchun  mo`ljallangan qoidalar bayonining kelishilgan va tasdiqlangan standart
-
-
-91. Agar tarmoqda kabel tizimi ishlatilmasa …
--     Biz simsiz tarmoqni hosil qilamiz
-
-
-92. To'g'ri elektron pochta manzilini tanlang: 
--      ivan_petrov@mail.ru
-
-
-93. Ma'lumot uzatish tezligi 6000Mb / min. Bu ... Mbit / s ni tashkil qiladi 
--     100
-
-
-94. Tarmoqdagi kompyuterning to'g'ri IP-    manzilini tanlang 
--     108.214.198.112 
-95. Qaysi protokol fayllarni tarmoq orqali uzatish uchun ishlatiladi?
--     FTP protokoli
-
-
-96. OSI modelining kanal pog'onasining vazifalari qanday?
--     Xatoliklarni aniqlash va korreksiyalash mexanizmlarini  yo'lga  qo'yish, turli topologiyadagi lokal tarmoqning ixtiyoriy ikki tuguni orasida kadrning uzatilishini ta'minlash
-
-
-97. Tarmoq uzeli bu....
--     Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter
-
-
-98. Internet tarmog`ining serveri bu.....
--     Foydalanuvchi kompyuterining so`roviga asosan Web sahifarsi namoyon qiluvchi va boshqa zarur funksiyalarni bajaruvchi maxsus dastur o`rnatilgan kompyuter
-
-
-99. Tarmoq operatsion sistemasi vazifalarini aniqlang 
--     Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash
-
-
-100. OSI modelining nechta pog'onadan iborat? 
--     7 pog'onadan
-
-
-1. LAN va WAN qanday tarmoqlar?
--     LAN – bu lokal va WAN – global tarmoqlardir
-
-
-2. Tarmoq topologiyasi nima?
--     Tarmoqdagi kompyuterlarning joylashishi va bog`lanishi sxemasi
-
-
-3. Asosiy tarmoq topologiyalari:
--     Yulduz, halqa va shina
-
-
-4. Xab (hub) nima?
--     kompyuter tarmog`ì ni hosil qiluvchi qurilma
-
-
-5. Shlyuz vazifasini aniqlang
--     Har xil protokolli lokal tarmoqlarni bog`lash
-
-
-6. Agar tarmoqda kabel tizimi ishlatilmasa …
--     Biz simsiz tarmoqni hosil qilamiz
-
-
-7. Bod (bit/sek) nima uchun ishltiladi?
--     Tarmoqda ma’lumotlarni uzatish tezligini aniqlash uchun
-
-
-8. VLAN nima?
--     Simsiz lokal tarmoq turi
-
-
-9. Kabelning qaysi turi yorug`lik oqimini uzatishga mo`ljallangandir?
--     Optotolali kabellar
-
-
-10. Modemning vazifasi…
--     Modulyatsiya va demodulyatsiya qilishdir
-
-
-11. Modemning ma’lumotlarni uzatish tezligi …
--     Bit/sek bilan o`lchanadi
-
-
-12. Tarmoq operatsion sistemasi vazifalarini aniqlang 
--     Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash
-
-
-13. Tarmoq operatsion sistemasining bosh vazifasi …
--     Tarmoq resurslarini taqsimlash va boshqarish
-14. Trafik nima?
--     Trafik deb kanaldagi ma’lumotlarning to`liqlik oqimiga aytiladi
-
- 
-15. IP – adres – bu …
--     Nuqtalar bilan ajratilgan to`rtta sondan (oktet )iborat noyob son. Har bir son 0-    255 oralig`ida bo`lishi lozim. 
-
-
-16. IP – adreslarning soni …
--     Chegaralangan
-
-
-17. Berilgan IP – adreslarning  
-124.256.14.023
-101.012.252.4411
-258.124.11.14
-221.011.42
--     Hammasi xato tuzilgan
-
-
-18. Domenli adreslash –  bu …
--     IP – adreslashning matnli tasvirlanishidir
-
-
-19. Yuqori bosqich domenlari turlari:
--     Geografik va ma’muriy
-
-
-20. Internetda ma’lumotlarni izlash usullari:
--     Sahifa adresini ko`rsatish, giperbog`lanish bo`yicha harakat, izlash serveriga murojaat
-
-
-21. Klient server tipidagi tarmoqqa …
--     Server – tarmoq ishini boshqaruvchi, klient – qolgan kompyuterlar
-
-
-22. Kompyuter tarmog`i nima?
--     Kompyuter tarmog`i deb ikkita va undan ko`p kompyuterlarning fizik bog`lanishiga aytiladi.
-
-
-23. Ixtiyoriy turdagi kompyuter tarmoqlarining vazifasini aniqlang.
--     Umumiy resurslarga murojat qilish va ishlash
-
-
-24. Kompyuter tarmoqlaridagi resurslar turlari quyidagicha:
--     Apparatli, programmaviy va information
-
-
-
-25. Axborot resursi ta’rifini bering.
--     Axborot resursi deb uzoqda joylashgan kompyuterlarda saqlanadigan ma’lumotlarga aytiladi
-
-
-26. Internet nima?
--     Xalqaro (butun dunyo) tarmog`i 
-
-
-27. Internet  kimga, qaysi tashkilotga qarashli?
--     Internet aniq bir shaxs yoki tashkilotga qarashli emas
-
-
-28. Internetning negizida nima yotadi?
--     Super kompyuterlarning o`zaro tezkor aloqa kanallari yordamida bog`langan tizimi yotadi
-
-
-29. Internet muhitida ma’lumotlarning asosiy qismi qanday shaklda saqlanadi?
--     Gepermatn shaklda saqlanadi
-
-
-30. Tarmoqqa kiritilgan kompyuterlar …
--     Tarmoq tugunlari deyiladi
-
-
-31. Kompyuterlar soniga qarab tarmoqlar qanday turlarga bo`linadi?
--     Lokal, Mintaqaviy, Global	
-
-
-32. Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o`zida mujassamlashtirgan tarmoq qanday nomlanadi?
--     Korporativ tarmoq	
-
-
-33. Dunyoning ixtiyoriy davlatidagi kompyuterlarni o`zida birlashtirish imkoniga ega bo`lgan tarmoq nima deb ataladi? 
--     Global tarmoq	
-
-
-34. Kompyuter tarmoqlarida ma’lumotlar dasturlar yordamida kichik bloklarga bo`linadi va bir kompyuterdan ikkinchisiga uzatiladi. Bunday bloklar nima deb ataladi?
--     Paket 	
-
-
-35. Tarmoq protokoli nima?
--     Aloqalarni boshqaradigan qoidalar 
-
-
-36. UDP-     protokoli nima?
--     Mantiqiy bog’lanishlar o’rnatilmasdan, ma’lumotlar uzatilishini qo’llab-    quvvatlaydi.
-
-37. EGP-    protokoli nima?
--     Yo’llari ko’rsatilgan ma’lumotlarni tashqi tarmoqqa uzatish uchun xizmat qiladi. 
-
-
-38. FTP-    protokoli nima?
--     Kompyuterlar o’rtasida fayllarni bir-    biriga uzatadi.
-
-
-39. RIP-    protokoli nima?
--     Manzilga xabarlarni yetkazuvchi eng yaxshi yo’llarni tanlovchi qaydnomalardan biri.
-
-
-40. DNS-    nima?
--     Tarmoqdagi kompyuterlarni nomlari bo’yicha sonli manzilini aniqlaydi.
-
-
-41. TelNet-    nima?
--     Tizimga uzoqdagi terminal ruxsatini ta’minlaydi, U uzoqqa uzatish qaydnomasidir.
-
-
-42. Bir xona yoki bir bino ichidagi kompyuterlarni o`zaro ulash … 
--     Lokal tarmoq 
-
-
-43. Kompyuterlarning o’zaro axborot almashishini taminlovshi qurilmalar majmui… 
--     Tarmoq 
-
-
-44. Tarmoq ishini ta’minlovchi maxsus kompyuter… 
--     Server 
-
-
-45. Telefon tarmog`i orqali internetga ulanuvchi qurilma? 
--     ADSl modem    
-
-
-46. Dastlab Internet qayerda paydo bo`lgan?
--     AQSH
-
-
-47. Lokal xisoblash tarmoqlarining qurishda asosan qanday texnik vositalar kerak bo`ladi?
-A) Tarmoq adapteri (kartasi), Hub,Switch 	
-
-
-48. Lokal hisoblash tarmog`idagi kompyuterlarning joylashishini ifodalovchi termin qanday nomlanadi?
--     Topologiya 	
-
-
-
-49. WEB-    texnologiyasining hozirgi kunda axborotni ko`rish uchun  turli vositalar mavjud,  ular qanday nomlanadi?
--     Brauzer 		
-
-
-50. Qaysi javobda brauzerlar nomi to`g`ri  ko`rsatilgan?
--     Opera va Mozilla firefox brauzerlari	
-
-
-51. Qaysi javobda veb resurslarning URL manzili to`g`ri ko`rsatilgan?
--     http://www.mk.uz 
-
-
-52. Quyidagi veb serverlarning qaysi birlari qidiruv tizimi hisoblanadi?
--     Google, yahoo, Bing, yandex  
-
-
-53. Fayllar uzatish bayonnomasi – FTP (File Transfer Protocol) bu nima? 
--     Abonentga tarmoqdagi istagan  kompyuterda o`zaro muloqot qilishga sharoit yaratib beruvchi fayllar uzatish protokoli
-
-
-54. Tarmoq bayonnomasi bu...
--     Kompyuterlar o`rtasida ma’lumotlarni qabul qilish va uzatish, hamda   tarmoqdagi bir qancha hisoblash mashinalarining ishini sinxronlashtirish uchun  mo`ljallangan qoidalar bayonining kelishilgan va tasdiqlangan standart
-
-
-55. IP (Internet Protocol) tarmoqlararo bayonnomasi bu....
--     Har xil operatsion tizimlarda ishlovchi turli xildagi hisoblash mashinalarini bir tarmoqda birlashtiruvchi universal standart
-
-
-56. Tarmoq uzeli bu....
--     Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter
-
-
-57. Domen bu...
--     Bu internetning biror logik bosqichi bo`lib, o`z nomiga ega bo`lgan va o`zining tarmoq sahifasi tomonidan boshqariladigan tarmoq resurslarining guruhidir 
-
-
-58. Internet tarmog`ining serveri bu.....
--     Foydalanuvchi kompyuterining so`roviga asosan Web sahifarsi namoyon qiluvchi va boshqa zarur funksiyalarni bajaruvchi maxsus dastur o`rnatilgan kompyuter
-
-
-59. Multipleksorlash bu...
--     Bitta  liniyadan  bir  necha  axborot  oqimlarini uzatishni  ta'minlab  beradi.
-
-60. Ikkita kompyuterni telefon liniyalari orqali ulash uchun sizga quyidagilardan qaysi bo'lishi kerak. 
--     Modem 
-
-
-61. Elektron pochta bu: 
--     Kompyuter tarmoqlarida xatlarni almashish (elektron pochta)
-
-
-62. Kompyuterlarning o’zaro axborot almashishini taminlovshi qurilmalar majmui… 
--     Tarmoq 
-
-
-63. RIP-    protokoli nima?
--     Manzilga xabarlarni yetkazuvchi eng yaxshi yo’llarni tanlovchi qaydnomalardan biri.
-
-
-64. Yuqori bosqich domenlari turlari:
--     Geografik va ma’muriy
-
-
-65. Tarmoq operatsion sistemasining bosh vazifasi …
--     Tarmoq resurslarini taqsimlash va boshqarish
-
-
-66. Agar tarmoqda kabel tizimi ishlatilmasa …
--     Biz simsiz tarmoqni hosil qilamiz
-
-
-67. Tarmoq operatsion sistemasi vazifalarini aniqlang 
--     Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash
-
-
-68. HTTP protokoli quyidagilarga xizmat qiladi: 
--     Gipertekstni o'tkazish veb-    sahifani kompyuteringizda ko'rishga yordam beradi.
-
-
-69. Internetdagi axborotlarni uzatish qoidalari ... deb  ataladi.
--     Protokol  
-
-
-70. Web sahifaning biror qismiga yoki boshqa Web-    sahifaga bog‘liqligini ko‘rsatuvchi ilova … deb ataladi.
--     Gipermatn             
-
-
-71. Internet tarmog’ida real vaqtda axborotlar (xabarlar) almashish xizmati qanday ataladi?
--     Chat 
-
-
-
-72. SMTP-    bu...
--     Elektron pochtani yuborishning oddiy bayonnomasi
-
-
-73. Yuqori bosqich domenlari turlari:
--     Geografik va ma’muriy
-
-
-74.  TelNet-    nima?
--     Tizimga uzoqdagi terminal ruxsatini ta’minlaydi, U uzoqqa uzatish qaydnomasidir.
-
-
-75. Fizikaviy pog‘ona bu....
--     Fizikaviy kanallar (koaksial kabel, mis kabel, optik-    tolali kabel yoki radiomuhit) orqali bitlar ketma-    ketligi bilan ish olib boradi. 
-
-
-76. OSI modelining kanal pog'onasining vazifalari qanday?
--     Xatoliklarni aniqlash va korreksiyalash mexanizmlarini  yo'lga  qo'yish, turli topologiyadagi lokal tarmoqning ixtiyoriy ikki tuguni orasida kadrning uzatilishini ta'minlash
-
-
-77. Seans pog‘onasi bu....
--     Xar xil komp'yuterlardagi ikki qo'llanish dasturlari orasida seans deb ataluvchi bog'lanishni o'rnatish, foydalanish va yakunlash imkonini beradi.
-
-
-78. OSI modelining eng quyi pog'onasini ko'rsating?
--     Fizikaviy pog'onasi
-
-
-79.  Protikollar steki nima?
--     ma'lumotlarni uzatish va qabul qilish masalalarini amalga oshiriuvchi, xatolarni aniqlash va bildirish, ma'lumot oqimini boshqaruvchi protokollar majmui
-
-
-80. TCP/IP protokollar steki qachon va kim tomonidan yaratilgan?
--     1972-    yilda Winton Serf va uning ishchi guruhi tomonidan
-
-
-81. Marshrutizatsiya bu....
--     Paketni bir tarmoqdan ikkinchi tarmoqga o'tish yo'lini aniqlaydigan protsedura
-
-
-82. WiMax bu..... 
--     IEEE 802.16 standartlari to'plamiga asoslangan simsiz keng polosali aloqa standartlari oilasiga mansub bo’lgan texnologiya hisoblanadi. 
-
-
-
-83. Trafik nima?
--     Trafik deb kanaldagi ma’lumotlarning to`liqlik oqimiga aytiladi
-
-
-84. Telefon tarmog`i orqali internetga ulanuvchi qurilma? 
--     ADSl modem    
-
-
-85. Klient server tipidagi tarmoqqa …
--     Server – tarmoq ishini boshqaruvchi, klient – qolgan kompyuterlar
-
-
-86. Internet muhitida ma’lumotlarning asosiy qismi qanday shaklda saqlanadi?
--     Gepermatn shaklda saqlanadi
-
-
-87. Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o`zida mujassamlashtirgan tarmoq qanday nomlanadi?
--     Korporativ tarmoq	
-
-
-88.  Kompyuter tarmoqlarida ma’lumotlar dasturlar yordamida kichik bloklarga bo`linadi va bir kompyuterdan ikkinchisiga uzatiladi. Bunday bloklar nima deb ataladi?
--     Paket 	
-
-
-89. Tarmoq ishini ta’minlovchi maxsus kompyuter… 
--     Server 
-
-
-90. Tarmoq bayonnomasi bu...
--     Kompyuterlar o`rtasida ma’lumotlarni qabul qilish va uzatish, hamda   tarmoqdagi bir qancha hisoblash mashinalarining ishini sinxronlashtirish uchun  mo`ljallangan qoidalar bayonining kelishilgan va tasdiqlangan standart
-
-
-91. Agar tarmoqda kabel tizimi ishlatilmasa …
--     Biz simsiz tarmoqni hosil qilamiz
-
-
-92. To'g'ri elektron pochta manzilini tanlang: 
--      ivan_petrov@mail.ru
-
-
-93. Ma'lumot uzatish tezligi 6000Mb / min. Bu ... Mbit / s ni tashkil qiladi 
--     100
-
-
-94. Tarmoqdagi kompyuterning to'g'ri IP-    manzilini tanlang 
--     108.214.198.112 
-95. Qaysi protokol fayllarni tarmoq orqali uzatish uchun ishlatiladi?
--     FTP protokoli
-
-
-96. OSI modelining kanal pog'onasining vazifalari qanday?
--     Xatoliklarni aniqlash va korreksiyalash mexanizmlarini  yo'lga  qo'yish, turli topologiyadagi lokal tarmoqning ixtiyoriy ikki tuguni orasida kadrning uzatilishini ta'minlash
-
-
-97. Tarmoq uzeli bu....
--     Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter
-
-
-98. Internet tarmog`ining serveri bu.....
--     Foydalanuvchi kompyuterining so`roviga asosan Web sahifarsi namoyon qiluvchi va boshqa zarur funksiyalarni bajaruvchi maxsus dastur o`rnatilgan kompyuter
-
-
-99. Tarmoq operatsion sistemasi vazifalarini aniqlang 
--     Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash
-
-
-100. OSI modelining nechta pog'onadan iborat? 
--     7 pog'onadan
-
-
- 
- 
-
-
-
-
-================================================================================
-255.255.128.0 ushbu maska manzilida necha bit tarmoq manzili uchun ajratilgan? 15  
-
-255.255.255.128 ushbu maska manzilida necha bit tarmoq manzili uchun ajratilgan?  7
-
-167.200.22.61/16 ushbu manzilning broadcast manzilini toping.
-
-124.217.44.69/11 ushbu manzilning broadcast manzilini toping.
-
-192.168.1.1 manzilli uskunaga ssh orqali qanday qilib to'g'ri ulanish kerak  ssh  l user 192.168.1.1
- 
-
-125.108.151.217/255.128.0.0 IP manzili uchun tarmoq raqami va tugun raqamini ko'rsating   
- 
-Bulutli texnologiya qanday imkoniyatlarni taqdim etadi?
-
-A. Barcha javob to'g'ri
-B. Saqlash va optimizatsiya uchun qo'shimcha imkoniyatlar taqdim etiladi
-C. Avtomatik ravishda yangilanishlarni amalga oshirish mumkin
-D. Xotira va boshqarish uchun sarf xarajatlar tejaladi
-ANSWER: A
-
-Tumanli texnologiya qanday imkoniyatlarni taqdim etadi?
-A. Barcha javob to'g'ri
-B. Foydalanuvchi qurilmasiga yaqin masofada joylashgan
-C. O'tkazuvchanlikka bog'liq muammolar yuzaga kelmaydi
-D. Kichikishlar darajasi pastroq
-ANSWER: A
-
-
-Ko'p foydalaniladagin tarmoq operatsion tizimlarining nechta asosiy turi bor?
-5
-
-Bulutli texnologiyada axborot xavfsizligi doimiy kafolatlanganmi?
-yuq
-
-Zamonaviy kompyuter tarmoqlari bilan an’anaviy kompyuter tarmoqlarini qanday farqlari bor?
-Imkoniyatlari va sig'imlari kengaytirilgan
-
-Tumanli va bulutli texnologiyalarning farqini tushuntirib bering.
-A. Tumanli kichik va bulutli katta hududdagi tarmoqlarni qamrab oladi
-
-
-Turli tarmoqlar va ularning formatini moslashtirib beruvchi qurilmani ko'rsating
-. Shlyuz
-
-
-Konvergent tarmoqlariga misol keltiring.
-A. Bluetooth, WiFi va internetga ulangan qurilmalarni o'zaro ma'lumot almashishi
-
-
-Qanday holatlarda konvergensiya jarayoni yuzaga keladi?
-
-. Turli qurilmalar va dasturlarni bitta muhitda ishlash natijasida
-
-
-Konvergent so'zining ma'nosini ko'rsating.
-Yaqinlashish
-
-Kompyuter tarmoqlarida xavfsizlikni ta'minlash uchun nima ishlab chiqilishi lozim
-Xavfsizlik siyosati
-
-
-Autentifikatsiya nima maqsadda ishlatiladi?
-Foydalanuvchini identifikatsiya qilish uchun
-
-
-Internet foydalanuvchilari uchun tarmoq xavfsizligi kafolatlanganmi?
-Kafolatlanmagan
-
-Tarmoq pog'onasida kimlar axborot xavfsizligini himoyalashga mas'ul?
-A. Barcha javob to'g'ri 
-B. Provayderlar
-C. Tarmoq qurilmasi 
-D. Operatorlar
-ANSWER: A
-
-
-Tarmoq xavfsizligi qanday vositalar orqali ta'minlanadi?
-Tarmoq xavfsi
-Apparat va dasturiy ta'minot vositalari orqali
-
-
-125.108.151.217/255.192.0.0 IP manzili uchun tarmoq raqami va tugun raqamini ko'rsating
-125.108.151.217/255.128.0.0 IP manzili uchun tarmoq raqami va tugun raqamini ko'rsating  
- 
-192.168.15.18/28 manzili uchun tarmoq va tugun raqamini ko‘rsating.
- 
-IP manzili uchun tarmoq raqami va xost raqamini belgilang
-10010101.10101000.00001111.00010001/11111111.11111111.10000000.00000000                =  149.16815.17/255.255.128.0
-To‘g‘ri formatda keltirilgan teskari maskani toping.
- 
-To‘g‘ri formatda keltirilgan maskani toping.
- 
-Quyidagi keltirilgan manzillarning qaysi biri maska bo‘la olmaydi?
- 
-155.217.44.69/14 tarmog'i uchun translyatsiya manzilini ko'rsating
-192.168.7.67/26 tarmog'i uchun broadcast manzilini ko'rsating
- 
-255.252.0.0 ushbu maska manzilida necha razryad bitlar tugun manzili uchun ajratilgan?  14
- 
-255.255.248.0 ushbu maska manzilida necha razryad bitlar tugun manzili uchun ajratilgan?  11
- 
-255.224.0.0 ushbu maska manzilida necha razryad bitlar tugun manzili uchun ajratilgan?  21
- 
-255.255.240.0 ushbu maska manzilida necha razryad bitlar tugun manzili uchun ajratilgan? 12
- 
-255.255.192.0 ushbu maska manzilida necha razryad bitlar tugun manzili uchun ajratilgan?   10
- 
-11000111.00111010.11110000.10101011 IP manzilni o‘nlik sanoq tizimida ifodalang.   199.58.240.171
- 
-154.216.44.88/22 IP manzil tegishli bo‘lgan tarmoqning minimal va maksimal hostlar manzilini aniqlang  
- 
-155.217.44.69/22 IP manzilli tarmoqga  tegishli tugun manzili  bo'lmagan manzilni ko'rsating
-248.208.43.200/15 ushbu IP manzil mavjud bo‘lgan tarmoq manzilini ko‘rsating.
- 
-193.218.142.0/23 ushbu tarmoqda hostlarning maksimal soni qancha?
- 
-135.18.120.27 IP-manzilning ikkilik sanoq tizimidagi ifodasini ko‘rsating.  10000111.00010010.01111000.00011011
- 
-Quyidagilarning qaysi biri maskani ifodalaydi?
-   
- 
-Ushbu maskani o‘lik sanoq tizimida ifodalang: 11111111.11111111.11111111.11100000
-255.255.255.224
-Konvergentsiyaning kamchilik tomonlarini ko'rsatin
-A. Barcha javob to'g'ri 
-B. O'zaro ishlash murakkablashadi
-C. Xavfsizlik darajasi pasayadi
-D. Boshqarish murakkablashadi
-ANSWER: A
-
-
-Hozirda qaysi sohalarda IoT texnologiyasidan foydalaniladi?
-Barcha javob to'g'ri 
-
-Sensor qurilmalarining asosiy vazifasi nimadan iborat?
-
-A. Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmasiga o'zgarishlarni jo'natish
-
-Sensor tarmoqlari elementlariga misol keltiring.
-Sensor 
-Aqlli soat, EKG elektrod, gas sensori
-
-Simsiz sensor tarmoqlari deganda nimani tushunasiz?
-
-A. Atrof muhitdagi o’zgarishlarni monitoring qiluvchi va o'zgarishlarni qayt etuvchi qurilmalar
-
-SNMP protokolining asosiy vazifalari nimadan iborat?
-Tarmoqni monitoringni uchun tarmoqni boshqarishda ishlatiladi, IP tarmoqlariga ulangan qurilmani boshqarish haqidagi ma'lumotlarni tashkil etish va to'plash uchun standart sath hisbolanadi
-
-SNMP so'rov va javob shakli faqat bitta portdan amalga oshiriladimi?
-Yoq
-SNMP uchun qaysi port belgilangan?
-UDP 161 va 162 port
-SNMP protokoli OSI modelining qaysi pog'onasida ishlatiladi?
-Amaliy pog'ona
-SNMP qanday ma’noni anglatadi?
-Tarmoqni boshqarish sathi
-ICMP xabari nechi qismdan tashkil topadi?
-2 qismdan: Sarlovha va ma'lumot
-
- 
-ICMP xabarlari IP paketga joylashtiriladimi?
-Ha
-ICMP yuzaga kelgan xatoliklar haqida xabardor etadimi?
-Ha
-ICMP qisqartmasining quyida kengaytirib yozilgan shaklini ko'rsating.
-Internet control message protocol 
-
-Xostlar orasida ICMP boshqaruv xabarlari qanday shakllarda almashadi?
-ICMP
-So'rov-javob shaklida
-
-ICMP nima maqsadda foydalaniladi?
-ICMP
-Ikki qurilmadagi IP sathlari o'rtasidagi aloqani ta'minlaydi va boshqaradi
-
-DNS so'rovlariga qaysi qurilma ishlov beradi?
- DNS serveri.
-
-Har bir domen nomiga bitta IP adres mos keladimi?
-Bittadan ortiq IP adress bo'lishi mumkin
-
-uz bilan tugagan barcha domenlar faqat O'zbekiston hududida foydalanish mumkinligini anglatadimi?
-A. Yoq
-
-DNS tizimi IP adresini nomga va nomni IP adresga o'zgartiradi, masalan: google.com nomini 173.194.73.94 adresiga o'zgartiradi. Shu holat to'g'rimi?
-Ha
-Quyida keltirilgan qaysi domen nomlari to'g'ri ko'rsatilgan?
-A. Barcha domenlar to'g'ri ko'rsatilgan
-B. tuit.uz, uztelecom.uz, csm.tuit.uz
-C. facebook.com, ok.ru
-D. Google.com, Yahoo.com, Bombay.vni.com
-ANSWER: A
-
-DNS qanday maqsadlar uchun foydalaniladi?
-
-A. Domen nomini IP adresga yoki aksincha o’zgartiradi
-
-DNS qanday tizim?
-Domen nomalar tizimi
-
-Peer-to-Peer arxitekturasiga asoslangan saytni tanlang?
-Bit-torrent
-Server vazifasini bajarish uchun qanday shartlar topilishi kerak?
-Server vaz
-
-A. So'rovlarga ishlov berish va javob qaytarish, resurslarga ega bo'lish va doim faol bo'lish
-
-Smartfon qurilmalari bir vaqtda ham klient ham server bo'la oladimi?
-A. Ha, foydalanilayotgan sath va ilovaga muvofiq
-Klient va server qanday ko'rinishda bog'lanishni amalga oshiradi?
-Dastlab klient serverga so'rov jo'natadi va server so'rovga ishlov berib klientga javob qaytaradi.
-Klient va server qurilmalari qanday topologiyalarda bog'lanishi mumkin?
-Yulduz, nuqta-nuqta, halqa, shina
-
-Amaliy pog’ona protokollarini ko'rsating.
-SMTP, DNS
-
-Ilova nima?
-
-A. Foydalanuvchilarni kompyuter va tarmoq resurslaridan foydalanish imkoniyatini taqdim etuvchi dasturlar.
-
-Klient-server arxitekturasi qanday usullarda quriladi?
-
-A. Klient-server va Peer-to-peer arxitekturalariga asosan
-
-Server qanday vazifani amalga oshiradi?
-Serverga ulangan kompyuterlarni o'zaro bog'lanish, resurs almashish va Internet resurslarida foydalanish imkoniyatini ta'minlaydi
-Klient-server arxitekturasi deganda nimani tushunasiz?
-Klient-server
-
-A. Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi arxitektu
-
-Multipleksorlash qanday ma'noni anglatadi.
-A. Zichlashtirish
-A. Zichlashtirish
-
-Global tarmoqlarni qurishda DWDM texnologiyasi qanday vazifani bajaradi?
-
-Global tarmoqlarni qurishda DWDM texnologiyasi qanday vazifani bajaradi?
-
-SDH uzatish tizimlari tarmoqning qaysi qismida foydalaniladi?
-Shahar tarmoqlarida
-SONET tizimi bilan SDH tizimi bir xil imkoniyatli texnologiyalarmi?
-Deyarli bir xil
-DWDM texnologiyasi asosida kanallar qanday parametrga ko'ra multipleksorlanadi?
-To'lqin uzunligiga ko'ra
-STM-1 tizimining uzatish tezligi qancha?
-155 Mbit/s
-
-SDH uzatish texnologiyasida qanday uzatish tizimlari mavjud?
-STM
-PDH texnologiyasining kengaytirilgan ko'rinishini ko'rsating
-Plesiochronous digital hierarchy
-
-Uzatish muhitlarida oxirgi yillarda eng ko'p foydalanilayotgan muhitini ko'rsating.
-    Optik muhitlar
-
-Uzatish qurilmalari orqali uzatiladigan ma'lumot birligi nima?
-Oqimlar
-
-Qanday qurilmalar orqali foydalanuvchilar tarmoq resurslaridan foydalanishi mumkin?
-Kompyuter, smartfon va oxirgi qurilmalar
-Keng polosali abonent tarmog'i texnologiyalarini ko'rsating.
-xDSL, PON, 3G, 4G, Sputnik
-
-xDSL texnologiyasi asosida lokal kompyuter tarmoqlarini yuqori tezlikli Internetga ulash mumkinmi?
-Ha
-Kirish tarmog’i - tarmoqning qaysi qismiga to'g'ri keladi?
-Stansiyadan foydalanuvchining uyigacha bo'lgan qismi
-PON so'zining ma'nosini toping.
-PON
-Passiv opkit tarmoq 
-
-LTE texnologiyalari qaysi avlodga tegishli?
- 4G
-5G tarmoqlarining ma'lumot uzatish tezligi qancha?
-     1 Gbit/s dan katta
-
-1G, 2G, 3G, 4G, 5G tarmoqlaridagi "G" harfining ma'nisi nima?
-    "G"-inglizcha Generation so'zining bosh harfidan olingan bo'lib, avlod degani
-3G texnologiyasi asosida keng polosali abonent tarmog'ini qurish mumkinmi? Ha
- 
-2G va 3G mobil tarmoqlarining farqi nimada?
-Chastota diapozoni, taqdim etadigan xizmatlari, mobil terminallari, tarmoq elementlari
-
-Mobil terminallari qaysi qurilma bilan o'zaro bog'lanib tarmoqqa ulanishni amalga oshiradi?
-Baza stansiyasi
-Mobil aloqa tarmoqlaridagi “Mobil” tushunchasi nimani anglatadi?
-    Ko'chib yurish ma'nosini
-Mobil aloqa tarmoqlaridagi “Mobil” tushunchasi nimani anglatadi?
-Аloqa seansini hosil qilish, nazorat qilish va tugatish vazifasi OSI modelining qaysi sathi bajaradi?
-Seanslar sathi
-
- 
-Sigmentlarni tarmoqqa ishonchli va kafolatsiz uzatish jarayoni OSI modelining qaysi sathi bajaradi?
-Transport sathi
-Аloqa kanaliga va uzatish muhitiga ulanishni boshqarish vazifalarini OSI modelining qaysi sathi bajaradi?
-  Kanal sathi	
-OSI modelining taqdimlash protokollari qanday funktsiyalarni bajaradi
-       Ma’lumotlarni kodlash va shifrlash
-
-OSI modelining seanslar protocollari qanday funktsiyalarni bajaradi
-   Bog’lanish seansini hosil qilish, boshqarish va yakunida uzish
-OSI modelining transport protokollari qanday funktsiyalarni bajaradi?
-       
-A. Simentlarni qabul qilish va uzatish jarayonida ishonchli va kafolatsiz xizmatlarni taqdim etadi	
-
-A. Simentlarni qabul qilish va uzatish jarayonida ishonchli va kafolatsiz xizmatlarni taqdim etadi	
-
-Keltirilgan protokollarning qaysilari seanslar sathi protokollariga mansub?
-   RPC, WSP
-
-Keltirilgan protokollarning qaysilari taqdimlash sathi protokollariga mansub?
-    SNMP, Telnet
-
-Keltirilgan protokollarning qaysilari fizik sath protokollariga mansub?
-         10Base-T, 100Base-T
-
-Keltirilgan qurilmalarning qaysi biri DTE (data terminal equipment) bo’ladi?    
-kompyuter va marshrutizator
-
-Keltirilgan qurilmalarning qaysi biri DCE (data circuit-terminating equipment) bo’ladi?
-     modem
-
-Modem kanday asosiy vazifani bajaradi?
-    signallarni modulyatsiyalash – demodulyatsiyalash
-UTP kabeli deganda qaysi kabel tushuniladi?
-     o’ralma juftlik kabeli
-Internet tarmog’ida kommutatsiyalashning qaysi xili ishlatiladi?
-       paketlarni kommutatsiyalash
-
-512 ta tugunli tarmoqosti tarmoq maskasi qanday qiymatga ega?
-     255.255.254.0
-
-C sinfidagi tarmoq maskasi qanday qiymatga ega?
-     255.255.255.0
-
-А sinfidagi tarmoq maskasi qanday qiymatga ega?
-   255.0.0.0
-
-C sinfidagi tarmoq tarkibiga nechta tugun bo’lishi mumkin?
-   256
-Tarmoqlarni bog’lash va yuqori tezliklarda oqimlarni uzatish uchun tranzit vazifani qaysi tarmoq bajaradi?
-     Magistral tarmoq
-
-OSI modelining amaliy protokollari qanday funktsiyalarni bajaradi?
-    Tarmoq bilan foydalanuvchi dasturlari o’rtasida aloqalarni ta’minlaydi
-IPv6 protokolidan hozirgi kun tarmoq qurilmalarida foydalanish imkoniyati mavjudmi?
-    Ha, agar qurilma va dasturiy ta’minot qo’llab quvvatlasa
-
-Ichki shlyuz qanday protokollar bilan ishlaydi? 
-    RIP, IBRP, OSPF, IS-IS
-
-CLI interfeysidan foydalanib tarmoq elementlarini boshqarish mumkinmi?
-     Ha
-ATM texnologiyasining uzatish tezligi necha bit/sek larga yetkazilgan
-    2-10 bit/sek
-
-Markaziy local tarmoqlarni masofadan ulash server nima?
-     RAS
-
-Qanday tarmoqlar yirik lokal tarmoqlarni birlashtirish uchun foydalanilad?
-     Territorial magistral tarmoq 
-
-IMS kommutator qanday vazifani baradi?
-    
-A. Shahar tarmoqlari turli tarmoqlar bir-biri bilan bog’lanish jarayonini nazorat qiladi.
-Simsiz MAN tarmog’lari qanday texnologiyalarda quriladi?
-     WiMAX va LTE
-IPv4-paket sarlavhasining uzunligi necha bitdan iborat?
-    32
-IP- protokolining funktsional jihatdan sodda yoki murakkabligi nimalarga bog’liq?
-    A. IP-paketning sarlavhasi qay darajada sodda yoki murakkab ekanligiga bog'liq
-IP-paket qanday qismlardan iborat bo'ladi?
-     Sarlavha va ma'lumot
-IP- protokol qanday vazifani bajaradi?  
-    Paketlarni tarmoqlar o'rtasida bir marshrutizatordan boshqasiga, to paket, u yuborilgan tarmoqqa etib borguncha xarakatlantirish vazifasini bajaradi.
-HTTP (Hyper Text Transfer Protocol) qanday vazifani bajarish uchun mo'ljallangan protokol? 
-     Gipermatnni uzatish sathi
-ЅMTP (Simple Mail Transfer Protocol) qanday protokol?
-    Elektron pochtani uzatishning oddiy sathi
-Telnet qanday protokol?
-    
-A. Terminalni emulasiya qilish sathi
-
-FTP (File Transfer Protokol) qanday protokol?
-Fayllarni uzatish sathi
-TCP/IP steki nechta sathga ajratilgan?
-    To’rtta sathga 
-
-5G tarmoqlari va xizmatlaridan hozirgi kunda joriy etilib ulardan to’liq foydalanilyaptimi?
-   Yoq, sababi 5G standarti tarmoqqa to’liq tadbiq etilmadi
-Tarmoq ilovalari qanday maqsadlar uchun xizmat qiladi?
-    Foydalanuvchilarga, kompyuter tarmog'i tomonidan ko'rsatilishi mumkin bo'lgan turli xil xizmatlarni amalga oshiruvchi dasturlar tushuniladi.
-
-Bulutli texnologiyalarning kamchiliklarini ko’rsating?
-    Bulutli 
-
-A. DoS hujumga uchrash mumkin, API himoyalanmagan, ma’lumotlarni ruxsatsiz ko’chirish mumkin
-
-1980-1985 yillarda dastlabki lokal kompyuter tarmoqlari hisoblangan qanday lokal kompyuter tarmoqlari texnologiyalari ishlab chiqildi?
-    Ethernet, ArcNet, Token Ring, Token Bus va FDDI
-
-MAN tarmog’i qanday hududni qamram oladi?
-    Shahar
-Keltirilgan texnologiyalarning qaysi birlari global tarmoq texnologiyalariga mansub?
-    GSM, CDMA, GPRS 
-
-Internet tarmog’i, kompyuter tarmoqlarining qaysi sinfiga mansub?
-    global tarmoq 
-
-B sinfidagi tarmoq maskasi qanday qiymatga ega?
-    255.255.0.0
-
-А  sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-   16777216
-B sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-   65536
-
-192.190.21.254 adresi   IP-adreslarning qaysi sinfiga tegishli?
-     C
-IPv4 turidagi IP-adres qanday uzunlikka ega?
-   A. 32 bit
-
-MАС-adres qanday uzunlikka ega?
-    48
-OSI modelining tarmoq sathi qanday vazifalarni bajaradi?
-     Segmentlarni paketlash, adreslash va marshrutlash
-OSI modelining kanal sathi qaysi vazifalarni bajaradi?
-    IP paketlarni kadrga o’zgartirish va fizik sathga uzatish
-OSI modelining fizik sathi qanday vazifalarni bajaradi?
-    Elektr signallarini uzatish va qabul qilish
-Foydalanuvchi dasturlari bilan o’zaro muloqot vazifalarini OSI modelining qaysi sathi bajaradi?
-   Аmaliy sath
-
-Paketlarni uzatishning optimal marshrutlarini aniqlash vazifalarini OSI modelining qaysi sathi bajaradi?
-    Tarmoq  sathi
-
-Еlektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi?
-      Fizik sath
-
-OSI modelining tarmoq sathi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
-     Paket
-OSI modelining kanal sathi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
-    Kadr
-OSI modelining tarmoq sathi vazifalari keltirilgan qurilmalarning qaysi birida bajariladi?
-     Paket
-OSI modelining qaysi sathlari tarmoqqa bog’liq sathlar hisoblanadi?
-    fizik, kanal va tarmoq sathlari
-
-OSI modelining ettinchi sathi qanday nomlanadi?
-   Аmaliy sath
-
-OSI modelining oltinchi sathi qanday nomlanadi?
-   Taqdimlash  sathi
-
-OSI modelining uchinchi sathi qanday nomlanadi?
-    Tarmoq  sathi
- 
-OSI modelining ikkinchi sathi qanday nomlanadi?
-   Kanal  sathi
- 
-OSI modelining birinchi sathi qanday nomlanadi?
-    Fizik sath
-Kommutator qurilmasi ko’prik qurilmasidan nimasi bilan farq qiladi?
-    Kadrlarni parallel qayta ishlashda	
-Kompyuter tarmog’ining mantiqiy strukturalash nima maqsadda amalga oshiriladi?
-     Trafikni lokallashtirish uchun	
-
-Kompyuter tarmog’ining fizik strukturalash nima maqsadda amalga oshiriladi?
-     Tarmoq diametrini oshirish uchun
-
-Qaysi qurilma tarmoqning mantiqiy strukturasini o’zgartirishi mumkin?
-     ko’prik, marshrutizator, kommutator va shlyuz 
-
-Tarmoqni fizik strukturalashda qaysi qurilma ishlatiladi?
-    Kontsentrator
-802.11 xarakteristikasi simsiz lokal tarmog’i diametrining chegaralari qanday?
-      100 - 300 m	
-Xozirgi paytda ko’p ishlatiladigan, 802.11 standartiga tegishli xarakteristikani ko’rsating 
-    a, b, g	
-
-Umumiy shina topologiyali lokal tarmoqlarda kontsentratorlar qanday funktsiyani bajaradi?
-     . Kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi	
-Fast Ethernet texnologiyasi nechta xarakteristikaga ega?
-   3
-Ethernet texnologiyasi nechta standartga ega? 
-   4
-Fast Ethernet texnologiyasida qaysi turdagi kabel tizimlaridan foydalanilgan?
-       . ko’pmodali optik tolali, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik 
-
-1000Base-SX xarakteristikasi qaysi texnologiyaga tegishli?
-    Gigabit Ethernet	
-
-OSI modelining beshinchi sathi qanday nomlanadi?
-    Seanslar  sathi	
-
-100Base-TX xarakteristikasi qaysi texnologiyaga tegishli?
-        Fast Ethernet	
-Fast Ethernet texnologiyasida o’rama juftlik kabelining ma’lumotlarni uzatish tezligi qanday?
-   A. 100 Mbit/s
-
-Ethernet texnologiyasida koaksial kabelining ma’lumotlarni uzatish tezligi qanday?
-    10 Mbit/s
-
-Fast Ethernet texnologiyasi xarakteristikasilari qaysi komitet tarkibida ishlab chiqilgan?
-    . 802.3
-100Base-TX xarakteristikasi qaysi texnologiyaga tegishli?
-    
-Optik tolali Ethernet tarmog’ining maksimal uzunligi qanday?
-   2740
-O’ralma juftlik kabeli simlarini, uning konnektorlariga ulashning necha xil variantlari mavjud?
-   2
-Sensor tarmoqlarida tugun qurilma qanday vazifani bajaradi?
-    
-A. Sensordan kelayotgan ma’lumotlari tarmoqqa ulangan asosiy qurilmaga uzatish vazifasini bajaradi
-
-Ethernet tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
-    CSMA/CD
-
-Keltirilgan sathlarning qaysilari tarmoq sathi sathlariga mansub?
-    IP, IPX
-Keltirilgan protokollarning qaysilari amaliy sathi protokollariga  mansub?
-    DNS, FTP
-Keltirilgan protokollarning qaysilari transport sathi protokollariga  mansub?
-   TCP, UDP
-CLI va SNMP protokolining asosiy farqi nimada?  
-   SNMPning imkoniyatlari kengroq
-IoT qurilmasi deganda oldin internetga ulanishi narzarda tutilmagan qurilmalar ham kiradimi?
-        Ha
-Qanday texnologiyalar bulutli texnologiyalarning asosi bo’la oladi?
-      Infratuzilma, platforma, dasturiy
-MAC sathi qanday vazifani bajaradi?
-     
-A. Uzatish muhitiga murojaat qilishni boshqarish 
-
-Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?
-     Yulduz
-Qaysi topologiya birgalikda foydalanilmaydigan muhitni qo’llamasligi mumkin?
-    To’liq bog’lanishli
-Bulutli texnologiyalarning afzalliklari nimada?
-    Arzon, samarali, moslashuvchan, qulay, kengayuvchan
-
-Fizik joylashuvidan qat’iy nazar bulutli texnologiyalardan foydalanish mumkinmi? 
-     ha
-Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo’lgan?
-     global kompyuter tarmoqlari
-
-OSI modelining to’rtinchi sathi qanday nomlanadi?
-     Transport sathi	
-
-OSI modelida nechta sath mavjud?
-   7
-
- 
-Simsiz tarmoqlar standartlari qaysi komitet tarkibida ishlab chiqilmoqda?
-   802.11	
-MАC adress OSI modelining qaysi sathiga tegishli?
-    kanal sathiga	
-
-Lokal tarmoqlarida keng tarqalgan topologiya turi qaysi?
-   Yulduz
-Ring topologiya qanday tuzilishda bo’ladi?
-    Xalqasimon
-
-==================================================================================================
-
-
-O‘ZBEKISTON RESPUBLIKASI AXBOROT TEXNOLOGIYALARI 
-VA KOMMUNIKATSIYALARINI RIVOJLANTIRISH VAZIRLIGI
-MUHAMMAD AL-XORAZMIY NOMIDAGI TOSHKENT AXBOROT TEXNOLOGIYALARI UNIVERSITETI
-
-
-
-
-
-
-
-
-KOMPYUTER TARMOQLARI
-FANIDAN TEST SAVOLLARI
-
-
-
-
-
-
-
-Ma’sul o‘qituvchi        ___________ Abdurashidova K.T.
-
-KT kafedrasi mudiri    __________  Djumanov J.X.
-
-KIF dekani                   ___________  Yaxshibayev D.S.
- 
-Ta’lim sifatini nazorat
- qilish  bo‘lim boshlig‘i    ___________   Sobirov M.A.
-
-
-
-
-
-
-
-
-
-
-Toshkent 2022
- 
-№ 1.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. I BOB. 2-§.  
-Qiyinlik darajasi – 1
-Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo’lgan?
- global kompyuter tarmoqlari
- lokal kompyuter tarmoqlari
- kampuslar tarmog’i
- korporativ tarmoqlar 
-
-№ 2. 
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. II BOB. 4-§.   
-Qiyinlik darajasi – 2
-To’rtta bir-biri bilan bog’langan bog’lamlar strukturasi (kvadrat shaklida) qaysi topologiya turiga mansub?
- Xalqa
- Yulduz
- To’liq bog’lanishli
- Yacheykali
-
-№ 3.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. II BOB. 4-§.    
-Qiyinlik darajasi – 2
-Ketma-ket bir-biri bilan bog’langan 3 ta bog’lamlar (oxiri boshi bilan bog’lanmagan) strukturasi qaysi topologiya turiga tegishli? 
- Umumiy shina
- Xalqa
- To’liq bog’lanishli 
- Yulduz
-
-№ 4.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. II BOB. 4-§.     
-Qiyinlik darajasi –2
-Kompyuter tizimlarida ma’lumotlarni uzatish ishonchliligini oshirish uchun nima qilinadi? 
- kontrol summani xisoblash bilan
- ma’lumotni bir necha marta uzatish bilan axborotni ishonchliligini tekshirishning majoritar usulini  maxsus apparat-programma vositalari yordamida 
- axborotni ishonchliligini tekshirishning majoritar usulini
- maxsus apparat-programma vositalari yordamida
-№ 5.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. II BOB. 4-§.     
-Qiyinlik darajasi – 2
-Qaysi topologiya birgalikda foydalanilmaydigan muhitni qo’llamasligi mumkin? 
- To’liq bog’lanishli 
- Xalqa
- Umumiy shina
- Yulduz
-
-№ 6.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. II BOB. 4-§.     
-Qiyinlik darajasi – 2
-Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?
-Yulduz
-Xalqa
-Umumiy shina
-To’liq bog’lanishli
-
-№ 7.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.     
-Qiyinlik darajasi – 2
-MAC satxi qanday vazifani bajaradi?
- uzatish muhitiga murojaat qilishni boshqarish 
- stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
- bitlar sathida axborot uzatishni boshqarish 
- bloklar sathida axbo-rot uzatishni boshqarish
-
-№ 8.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 2-§.     
-Qiyinlik darajasi – 2
-LLC satxi qanday vazifani bajaradi?
- stantsiyalar o’rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish
- bitlar sathida axborot uzatishni boshqarish 
- bloklar sathida axborot uzatishni boshqarish
- uzatish muhitiga murojaat qilishni boshqarish
-
-№ 9.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. VII BOB. 3-§.       
-Qiyinlik darajasi – 1
-10Base-2 segmentining uzunligi ko’pi bilan qancha bo’lishi mumkin?
- 185 metr
- 100 metr
- 200 metr 
- 500 metr
-
-№ 10.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. VII BOB. 1-§.       
-Qiyinlik darajasi – 1
-O’ralma juftlik kabeli simlarini, uning konnektorlariga ulashning necha xil variantlari mavjud?
- 2
- 3
- 4
- 1
-
-№ 11.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 2-§.       
-Qiyinlik darajasi – 2
-Ethernet tarmoqlarida uzatish muhitiga murojaat qilishning qaysi usuli qo’llaniladi?
- CSMA/CD
- CSTK/CE
- CSQE/NQ
- CSTK/QL
-
-№ 12.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. III BOB. 2-§.       
-Qiyinlik darajasi – 2
-Ethernet da kommutatsiyalashning qaysi xilidan foydalaniladi?
- paketlarni deytagrammali kommutatsiyalash
- paketlarni virtual kanal orqali uzatish
- vaqtni taqsimlash aso-sida kanallarni kommu-tatsiyalash
- chastotali multi-plekslash asosida kanallarni kommu-tatsiyalash
-
-№ 13.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016.  XII BOB. 3-§.       
-Qiyinlik darajasi – 2	
-Optik tolali Ethernet tarmog’ining maksimal uzunligi qanday?
- 2740 m
- 500 m
- 5000 m
- 2500 m
-
-№ 14.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XII BOB. 3-§.        
-Qiyinlik darajasi – 2
-100Base-TX spetsifikatsiyasi qaysi texnologiyaga tegishli?
- Fast Ethernet
- Ethernet
- Gigabit Ethernet
- FDDI
-
-№ 15.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XII BOB. 3-§. 
-Qiyinlik darajasi – 2
-Fast Ethernet texnologiyasi spetsifikatsiyalari qaysi komitet tarkibida ishlab chiqilgan?
- 802.3
- 802.1
- 802.2
- 802.5
-
-№ 16.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  . XII BOB. 1-§.
-Qiyinlik darajasi – 2
-Ethernet texnologiyasida koaksial kabelining ma’lumotlarni uzatish tezligi qanday?
- 10 Mbit/s
- 1 Mbit/s
- 100 Mbit/s
- 1000 Mbit/s
-
-№ 17.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 3-§.  
-Qiyinlik darajasi –2
-Fast Ethernet texnologiyasida o’ralma juftlik kabelining ma’lumotlarni uzatish tezligi qanday?
- 100 Mbit/s
- 1 Mbit/s
- 10 Mbit/s
- 1000 Mbit/s
-
-№ 18.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 1-§.  
-Qiyinlik darajasi – 2
-Lokal tarmoqlarda keng tarqalgan topologiya turi qaysi?
- Yulduz
- Xalqa
- Umumiy shina
- To’liq bog’lanishli 
-
-№ 19.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 3-§.  
-Qiyinlik darajasi – 2
-100Base-TX spetsifikatsiya qaysi texnologiyaga tegishli?
- Fast Ethernet
- Ethernet
- Gigabit Ethernet
- 10G Ethernet
-
-№ 20.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 3-§. 
-Qiyinlik darajasi – 2
-1000Base-SX spetsifikatsiya qaysi texnologiyaga tegishli?
- Gigabit Ethernet
- Ethernet
- Fast Ethernet
- 10G Ethernet
-
-№ 21.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 3-§.  
-Qiyinlik darajasi – 2
-Fast Ethernet texnologiyasida qaysi turdagi kabel tizimlaridan foydalanilgan?
- ko’pmodali optik tolali, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik 
- bittamodali optik tolali , 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
- ingichka koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
- yo’g’on koaksial kabel, 5 kategoriyali o’ralma juftlik, 3 kategoriyali o’ralma juftlik
-
-
-№ 22.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 1-§.  
-Qiyinlik darajasi – 2
-MАC sath osti satxi OSI modelining qaysi sathiga tegishli? 
- kanal sathiga
- tarmoq sathiga
- fizik sathiga
- transport sathiga
-
-№ 23.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 3-§.  
-Qiyinlik darajasi – 3
-Ethernet texnologiyasi nechta standartga ega?
- 4
- 3
- 2
- 6
-
-№ 24.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 3-§.  
-Qiyinlik darajasi – 3
-Fast Ethernet texnologiyasi nechta spetsifikatsiyaga ega?
- 3
- 4
- 2
- 6
-
-№ 25.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 2-§.  
-Qiyinlik darajasi – 2
-Umumiy shina topologiyali lokal tarmoqlarda kontsentratorlar qanday funktsiyani bajaradi?
- Kompyuter tomonidan uzatilayotgan ma’lumotni barcha kompyuterga yo’naltiradi
- Kompyuter tomonidan uzatilgan ma’lumotni boshqa bir kompyuterga yo’naltiradi
- Kompyuter tomonidan uzatilgan ma’lumotni xalqa orqali keyingi kompyuterga yo’naltiradi
- Tarmoqning ikki segmentini o’zaro bog’laydi
-
-№ 26.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 3-§.  
-Qiyinlik darajasi – 2
-Simsiz tarmoqlar standartlari qaysi komitet tarkibida ishlab chiqilmoqda?
- 802.11
- 802.7
- 802.6
- 802.12
-
-№ 27.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 3-§.  
-Qiyinlik darajasi – 2
-Xozirgi paytda ko’p ishlatiladigan, 802.11 standartiga tegishli spetsifikatsiyani ko’rsating
- a, b, g
- a, b, d
- a, b, c
- a, b, e
-
-№ 28.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 3-§.    
-Qiyinlik darajasi – 2
-802.11 spetsifikatsiyasi  simsiz lokal tarmog’i diametrining chegaralari qanday?
- 100 - 300 m
- 50 - 100 m
- 300 – 400 m
- 100 -200 m
-
-№ 29.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XI BOB. 2-§.   
-Qiyinlik darajasi – 2
-Tarmoqni fizik strukturalashda qaysi qurilma ishlatiladi?
- takrorlovchi (kontsentrator)
- kommutator 
- ko’prik
- shlyuz 
-
-№ 30.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XII BOB. 1-§.   
-Qiyinlik darajasi – 2
-Qaysi qurilma tarmoqning mantiqiy strukturasini o’zgartirishi mumkin?
- ko’prik, marshrutizator,kommutator va shlyuz 
- faqat kommutator
- takrorlovchi
- kontsentrator 
-
-№ 31.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XI BOB. 2-§.   
-Qiyinlik darajasi – 2
-Kompyuter tarmog’ining fizik strukturalash nima maqsadda amalga oshiriladi?
- Tarmoq  diametrini oshirish uchun
- Unumdorlikni oshirish uchun
- Internetga ulanish uchun
- Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
-
-№ 32.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XII BOB.1-§.   
-Qiyinlik darajasi – 2
-Kompyuter tarmog’ining mantiqiy strukturalash nima maqsadda amalga oshiriladi?
- Trafikni lokallashtirish uchun
- Internetga ulanish uchun
- Tarmoq  diametrini oshirish uchun
- Tarmoqosti tarmoqlarini bog’lashni amalga oshirish uchun
-
-№ 33.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XII BOB. 2-§.    
-Qiyinlik darajasi – 2
-Kommutator ko’prikdan nimasi bilan farq qiladi?
- Kadrlarni parallel qayta ishlashda
- Tarmoqqa ulanish usulida
- Kadrlarni uzatish algoritmida
- Kadrlarni uzatish usulida
-
-№ 34.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.    
-Qiyinlik darajasi – 1
-OSI modelida nechta sath mavjud?
- 7
- 4
- 5
- 6
-
-№ 35.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.   
-Qiyinlik darajasi – 1
-OSI modelining to’rtinchi satxi qanday nomlanadi?
- Transport sathi
- Аmaliy sath
- Seanslar sathi
- Taqdimlash  sathi
-
-№ 36.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.   
-Qiyinlik darajasi – 1
-OSI modelining beshinchi satxi qanday nomlanadi?
- Seanslar  sathi
- Transport sathi
- Seanslar sathi
- Taqdimlash  sathi
-
-№ 37.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 1
-OSI modelining birinchi satxi qanday nomlanadi?
- Fizik sath
- Transport sathi
- Seanslar sathi
- Taqdimlash  sathi
-
-№ 38.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 1
-OSI modelining ikkinchi satxi qanday nomlanadi?
- Kanal  sathi
- Аmaliy  sathi
- Seanslar sathi
- Taqdimlash  sathi
-
-№ 39.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 1
-OSI modelining uchinchi satxi qanday nomlanadi?
- Tarmoq  sathi
- Аmaliy  sathi
- Seanslar sathi
- Taqdimlash  sathi
-
-№ 40.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . IV BOB. 2-§.
-Qiyinlik darajasi –1
-OSI modelining oltinchi satxi qanday nomlanadi?
- Taqdimlash  sathi
- Аmaliy  sathi
- Seanslar sathi
- Kanal  sathi
-
-№ 41.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 1
-OSI modelining yettinchi satxi qanday nomlanadi?
- Аmaliy sath
- Seanslar  sathi
- Transport  sathi
- Kanal  sathi
-
-№ 42.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 2
-OSI modelining qaysi sathlari tarmoqqa bog’liq satxlar hisoblanadi?
- fizik, kanal va tarmoq sathlari
- seans va amaliy sathlar
- amaliy va taqdimlash sathlari
- transport va seans sathlari  
-
-№ 43.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 2
-OSI modelining tarmoq sathi vazifalari keltirilgan qurilmalarning qaysi birida bajariladi?
- Marshrutizator
- Ko’prik
- Tarmoq adapter
- Kontsentrator
-
-№ 44.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 2
-OSI modelining kanal satxi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
- Kadr
-Paket
- Segment
- Oqim
-
-№ 45.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 2
-OSI modelining tarmoq satxi orqali uzatiladigan ma’lumotlarning birligi qanday nomlanadi?
- Paket
- Kadr
- Xabar
- Oqim
-
-№ 46.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . IV BOB. 2-§. 
-Qiyinlik darajasi – 2
-Еlektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi?
- Fizik sath
- Seanslar  sathi
- Transport  sathi
- Kanal  sathi
-
-№ 47.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 2
-Ma’lumotlarni uzatishning optimal marshrutlarini aniqlash vazifalarini OSI modelining qaysi sathi bajaradi?
- Tarmoq  sathi
- Аmaliy  sathi
- Seanslar sathi
- Taqdimlash  sathi
-
-№ 48.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.  
-Qiyinlik darajasi – 2
-Mijozlar dasturlari bilan o’zaro muloqot vazifalarini OSI modelining qaysi sathi bajaradi?
- Аmaliy sath
- Seanslar  sathi
- Transport  sathi
- Kanal  sathi
-
-
-№ 49.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB. 1-§.  
-Qiyinlik darajasi – 2
-Keltirilgan protokollarning qaysilari tarmoq sathi protokollariga mansub?
- IP, IPX
- NFS, FTP
- Ethernet, FDDI
- TCP,UDP
-
-№ 50.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB. 1-§.  
-Qiyinlik darajasi – 2
-Keltirilgan protokollarning qaysilari transport sathi protokollariga mansub?
- TCP,UDP
- NFS, FTP
- Ethernet, FDDI
- IP, IPX
-№ 51.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 .XIV BOB. 1-§.   
-Qiyinlik darajasi – 2
-Keltirilgan protokollarning qaysilari amaliy sathi protokollariga mansub?
- NFS, FTP
- TCP,UDP
- 10Base-T, 100Base-T
- IP, IPX
-
-№ 52.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.    
-Qiyinlik darajasi – 2
-OSI modelining fizik sathi qanday funktsiyalarni bajaradi?
- Elektr signallarini uzatish va qabul qilish
- Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
- Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
- Klient dasturlari bilan o’zaro muloqotda bo’lish
-
-№ 53.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.      
-Qiyinlik darajasi – 2
-OSI modelining kanal sathi qaysi funktsiyalarni bajaradi?
- Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
- Klient dasturlari bilan o’zaro muloqotda bo’lish
- Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
- Ma’lumotlarni kodlash va shifrlash
-
-№ 54.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. IV BOB. 2-§.      
-Qiyinlik darajasi – 2
-OSI modelining tarmoq sathi qanday funktsiyalarni bajaradi?
- Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
- Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
- Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish
- Эlektr signallarini uzatish va qabul qilish
-
-№ 55.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XV BOB. 6-§.     
-Qiyinlik darajasi – 2
-MАС-adres qanday uzunlikka ega?
- 48 bit
- 32 bit
- 16 bit
- 64 bit
-
-№ 56.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB. 3-§.      
-Qiyinlik darajasi – 2
-IPv4 turidagi IP-adres qanday uzunlikka ega?
- 32 bit
- 48 bit
- 16 bit
- 64 bit
-
-№ 57.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XIV BOB 4-§.       
-Qiyinlik darajasi – 2
-192.190.21.254 adresi   IP-adreslarningqaysi sinfiga tegishli?
- C
- V
- A
- D
-
-№ 58.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 4-§.  
-Qiyinlik darajasi – 2
-B sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
- 65536
- 256
- 512
- 1024
-
-№ 59.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 4-§.  
-Qiyinlik darajasi – 2
-А  sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
- 16777216
- 256
- 65536
- 1024
-
-№ 60.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XV BOB 3-§.  
-Qiyinlik darajasi – 2
-B sinfidagi tarmoq maskasi qanday qiymatga ega?
- 255.255.0.0
- 255.0.0.0
- 255.255.255.0
- 255.255.254.0
-
-№ 61.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. I BOB 4-§.  
-Qiyinlik darajasi – 2
-Internet tarmog’i, kompyuter tarmoqlarining qaysi sinfiga mansub?
- global tarmoq 
- lokal tarmoq
- shahar tarmog’i
- korporativ tarmog’i
-
-№ 62.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIX BOB 2-§.  
-Qiyinlik darajasi – 2
-Keltirilgan texnologiyalarning qaysi birlari global tarmoq texnologiyalariga mansub?
- ATM, TCP/IP 
- Frame Relay, Token Ring 
- Ethernet, Internet 
- X.25, FDDI
-
-№ 63.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. I BOB 3-§.  
-Qiyinlik darajasi – 2
-MAN tarmoqlari nima uchun mo’ljallangan?
- Yirik shaxar axolisiga xizmat ko’rsatish uchun
- Internetga korxonalar tarmoqlarini ulash uchun
- Faqat bir nechta lokal tarmoqlarni bog’lash uchun
- Faqat korporativ tarmoqning filiallarini ulash uchun
-
-№ 64.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. . I BOB 2-§.    
-Qiyinlik darajasi – 2
-1980-1985 yillarda dastlabki lokal kompyuter tarmoqlari hisoblangan qanday lokal kompyuter tarmoqlari texnologiyalari ishlab chiqildi?
- Ethernet, ArcNet, Token Ring, Token Bus va FDDI
- Ethernet texnologiyasining 10Base-5
- Token Ring va FDDI
- Local Area Network, LAN
-
-№ 65.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 . XIV BOB 1-§.   
-Qiyinlik darajasi – 2
-OSI modelida necha xil turdagi protokollar bor?
- 3 xil
- 2 xil 
- 4 xil 
- Bir nechta xildagi 
-
-№ 66.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. . II BOB 2-§.    
-Qiyinlik darajasi – 2
-Tarmoq ilovalari nima uchun xizmat qiladi?
- Foydalanuvchilarga, kompyuter tarmog'i tomonidan ko'rsatilishi mumkin bo'lgan turli xil xizmatlarni amalga oshiruvchi dasturlar tushuniladi.
- Global va lokal tarmoq ilovalari
- Xizmatlarni amalga oshiruvchi dasturlar.
- Kompyuter tarmog'ini qurish va ishlatish uchun etarli bo'lgan bir-biriga moslashtirilgan apparat va dasturiy vositalar to'plami, hamda aloqa chiziqlari orqali ma'lumotlarni uzatish imkonini beradigan uskunalar tushuniladi.
-
-№ 67.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. . I BOB 1-§.    
-Qiyinlik darajasi – 2
-Kompyuter tarmog'i texnologiyalari deganda nimani tushunasiz?
- Kompyuter tarmog'ini qurish va ishlatish uchun etarli bo'lgan bir-biriga moslashtirilgan apparat va dasturiy vositalar to'plami, hamda aloqa chiziqlari orqali ma'lumotlarni uzatish imkonini beradigan uskunalar tushuniladi
- Foydalanuvchilarga, kompyuter tarmog'i tomonidan ko'rsatilishi mumkin bo'lgan turli xil xizmatlarni amalga oshiruvchi dasturlar tushuniladi.
- Global va lokal tarmoq ilovalari
- Xizmatlarni amalga oshiruvchi dasturlar.
-
-№ 68.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 1-§.    
-Qiyinlik darajasi – 2
-TCP/IP steki nechta sathga ajratilgan?
- To’rtta sathga 
- Beshta sathga 
- Ikkta sathga 
- Oltita sathga 
-
-№ 69.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XXIV BOB 8-§.    
-Qiyinlik darajasi – 2
-FTP (File Transfer Protokol) qanday protokol?
- Fayllarni uzatish protokoli
- Terminalni emulasiya qilish protokoli
- Elektron pochtani uzatishning oddiy protokoli
- Gipermatnni uzatish protokoli
-
-№ 70.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 1-§.    
-Qiyinlik darajasi – 2
-Telnet qanday protokol?
- Terminalni emulasiya qilish protokoli
- Fayllarni uzatish protokoli
- Elektron pochtani uzatishning oddiy protokoli
- Gipermatnni uzatish protokoli
-
-№ 71.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 1-§.      
-Qiyinlik darajasi – 2
-ЅMTR (Simple Mail Transfer Protocol) qanday protokol?
- Elektron pochtani uzatishning oddiy protokoli
- Fayllarni uzatish protokoli
- Terminalni emulasiya qilish protokoli
- Gipermatnni uzatish protokoli
-
-№ 72.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 1-§.       
-Qiyinlik darajasi – 2
-HTTP (Hyper Text Transfer Protocol) qanday vazifani bajarish uchun mo'ljallangan protokol?
- Gipermatnni uzatish protokoli
- Fayllarni uzatish protokoli
- Terminalni emulasiya qilish protokoli
- Elektron pochtani uzatishning oddiy protokoli
-
-№ 73.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016. XIV BOB 4-§.      
-Qiyinlik darajasi – 3
-IP-protokol qanday vazifani bajaradi? 
- Paketlarni tarmoqlar o'rtasida bir marshrutizatordan boshqasiga, to paket, u yuborilgan tarmoqqa etib borguncha xarakatlantirish vazifasini bajaradi.
- Paketlarni tarmoqlar o'rtasida bir marshrutizatordan boshqasiga yo’naltirish vazifasini bajaradi.
- Yuborilgan ma’lumotlarni qayta ishlash vazifasini bajaradi
- Paketlar bilan o’zaro ma’lumotlarni almashinish vazifasini bajaradi
-
-№ 74.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 3
-IP-paket qanday qismlardan iborat bo'ladi?
- Sarlavxa va ma'lumotlar yoziladigan qismlardan iborat 
- Ma’lumotlar saqlash va qayta ishlash qismlardan iborat 
- Yuborish va saralash qismlardan iborat 
- Ma’lumotlar yozish va yuborish qismlaridan iborat 
-
-№ 75.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 3
-IP-protokolining funktsional jihatdan sodda yoki murakkabligi nimalarga bog’liq? 
- IP-paketning sarlavxasi qay darajada sodda yoki murakkab ekanligiga bog'liq
- IPlrning soddajoylashganligiga bog’liq 
- IP-paketning sarlavxasi murakkab ekanligiga bog'liqdir
- IP-paketning sarlavxasi sodda ekanligiga bog'liqdir
-
-№ 76.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 2
-IPv4-paket sarlavhasining uzunligi necha bitdan iborat?
- 4 bitdan 
- 8 bitdan 
- 16 bitdan 
- 32 baytdan 
-
-№ 77.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 3
-Simsiz MAN tarmog’lari qanday texnologiyalarda quriladi?
- WiMAX, LTE, sputnik
- MAN, LAN
- LTE, MAN, LAN, WiMAX
- WiMax, MAN
-
-№ 78.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 3
-IMS kommutator qanday vazifani baradi?
- Shahar tarmoqlari turli tarmoqlar bir-biri bilan bog’lanish jarayonini nazorat qiladi.
- An’anaviy kommutatsiya jarayonida OSI modelida ishlaydi.
- Katta o’lchamli tarmoqlar orasida ko’prik vazifasini o’tashda.
- Shahar tashqarisi tarmoqlari turli tarmoqlar bir-biri bilan bog’lanish jarayonini nazorat qiladi
-
-№ 79.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 3
-Qanday tarmoqlar yirik lokal tarmoqlarni birlashtirish uchun foydalanilad? 
- Territorial magistral tarmoq 
- Magistral tarmoq
- Global tarmoq
- Territorial tarmoq
-
-№ 80.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 3
-Markaziy lokal tarmoqlarni uzoqdan turib ulaish serveri?
- RAS
- IP
- TCP
- TCP/IP
-
-№ 81.
-Manba: 
-Qiyinlik darajasi –2 
-ATM tehnologiyasining uzatish tezligi necha bit/sek larga yetkazilgan
-2-10 bit/sek
-6-20 bit/sek
-1-30 bit/sek
-2-20 bit/sek
-
-№ 82.
-Manba: 
-Qiyinlik darajasi – 3
-RAS server qaysi dasturiy apparat kompleksdan iborat?
-Mashrutizator, ko’prik, shlyar
-Local, dasturiy vositalar
-Territol, dasturiy vositalar
-Magistral, dasturiy vositalar
-
-№ 83.
-Manba: 
-Qiyinlik darajasi – 2
-Marshrutlash protakollari nechta sinfga bo’linadi?
-2 ta
-3 ta
-4 ta
-6 ta
-
-№ 84.
-Manba: 
-Qiyinlik darajasi – 3
-Ichki shlyuz protokollari qanday protokollar bilan ishlaydi?
-RIP, IBRP, OSPF, IS-IS
-BBP, RIP, IS-IS
-OSPF, B6P, TCP/IP
-TCP/IP, IS-IS, RIP
-
-№ 85.
-Manba: 
-Qiyinlik darajasi – 3
-Qanday protakol yo’llari ko’rsatilgan ma’lumotlarni tashqi tarmoqqa uzatadi?
-BBP (bateway to bateway Protocol)
-IBP (Interot bateway Protocol)
-FTP (File Transfer Protocol)
-TCP/IP Ptotocol
-
-№ 86.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-OSI modelining amaliy sathi qanday funktsiyalarni bajaradi?
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-Elektr signallarini uzatish va qabul qilish
-
-№ 87.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 3
-Ulanish tarmoqlarini bog’lashni va yuqori tezlikdagi kanallar orqali trafik tranzitini ta’minlashni, qaysi tarmoq amalga oshiradi?
-Magistral tarmoq
-Аloqa operatorlari tarmog’i
-Korporativ tarmoq
-Bino tarmog’i
-
-№ 88.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-C  sinfidagi tarmoq tarkibiga nechta bog’lam bo’lishi mumkin?
-256	
-65536
-512	
-1024
-
-№ 89.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2 
-А sinfidagi tarmoq maskasi qanday qiymatga ega?
-255.0.0.0
-255.255.0.0	
-255.255.255.0
-255.0.0
-
-№ 90.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-C sinfidagi tarmoq maskasi qanday qiymatga ega?
-255.255.255.0
-255.0.0.0
-255.255.0.0
-255.255.240.0
-
-№ 91.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-512 ta bog’lamli tarmoqosti tarmoq maskasi qanday qiymatga ega?
-255.255.254.0
-255.0.0.0
-255.255.0.0
-255.255.240.0
-
-№ 92.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2 
-Internet tarmog’ida kommutatsiyalashning qaysi xili ishlatiladi?
-paketlarni kommutatsiyalash
-kanallarni kommutatsiyalash
-xabarlarni kommutatsiyalash
-alohida ajratilgan kanallarni kommutatsiyalash
-
-№ 93.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-UTP kabeli deganda qaysi kabel tushuniladi?
-o’ralma juftlik kabeli
-yo’g’on koaksial kabel
-ingichka koaksial kabel
-optik tolali kabel
-
-№ 94.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-Modem kanday asosiy vazifani bajaradi?
-signallarni modulyatsiyalash - demodulyatsiyalash
-parallel kodni ketma-ket kodga o’zgartirish
-skrembrlash va deskrembrlash 	analog signallarni raqamli kodga o’zgartirish
-analog signallarni raqamli kodga o’zgartirish
-
-№ 95.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-Keltirilgan qurilmalarning qaysi biri DCE bo’ladi?
-modem
-marshrutizator
-kompyuter
-Klaviatura
-
-№ 96.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Keltirilgan qurilmalarning qaysi biri DTE bo’ladi?
-kompyuter va marshrutizator
-modem
-aloqa chiziqlari
-kabellar
-
-№ 97.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 1
-Keltirilgan protokollarning qaysilari fizik  sath protokollariga mansub?
-10Base-T, 100Base-T
-TCP,UDP
-IP, IPX
-NFS, FTP
-
-№ 98.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-Keltirilgan protokollarning qaysilari taqdimlash sathi protokollariga mansub?
-SNMP, Telnet
-IP, IPX
-Ethernet, FDDI	
-TCP,UDP
-
-№ 99.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Keltirilgan protokollarning qaysilari saenslar sathi protokollariga mansub?
-RPC, WSP
-IP, IPX
-Ethernet, FDDI
-TCP,UDP
-
-№ 100.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 3
-OSI modelining transport sathi qanday funktsiyalarni bajaradi?
-Ma’lumotlarni qabul qilish va uzatish jarayonida, ma’lumotlarni to’liq va to’g’ri uzatilishini nazorat qilish	
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-Ma’lumotlarni uzatish marshrutlarini optimalini aniqlash
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-
-№ 1.
-Manba:  Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 
-OSI modelining seanslar sathi qanday funktsiyalarni bajaradi
-Bog’lanish seansini yaratish, kuzatish, oxirigacha ta’minlash
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-Аloqa kanalini va ma’lumotlarni uzatish muxitiga murojat qilishni boshqarish
-Elektr signallarini uzatish va qabul qilish
-
-№ 2. 
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-OSI modelining taqdimlash sathi qanday funktsiyalarni bajaradi
-Ma’lumotlarni kodlash va shifrlash
-Klient dasturlari bilan o’zaro muloqotda bo’lish
-Klient dasturlari bilan o’zaro muloqotda bo’lishni ta’minlash
-Elektr signallarini uzatish va qabul qilish
-
-№ 3.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Аloqa kanaliga va uzatish muhitiga ulanishni boshqarish vazifalarini OSI modelining qaysi sathi bajaradi?
-Kanal sathi	
-Fizik sath	
-Tarmoq sathi	
-Transport sathi
-
-№ 4.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Ma’lumotlarni uzatish jarayonida ularni to’liq va to’g’ri uzatilishini nazorat qilish vazifalarini OSI modelining qaysi sathi bajaradi?
-Transport sathi
-Fizik sath
-Tarmoq sathi	
-Kanal sathi
-
-№ 5.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Аloqa seansini hosil qilish, kuzatib turish va ohirigacha ta’minlab berish vazifalarini OSI modelining qaysi sathi bajaradi?
-Seanslar sathi
-Fizik sath
-Tarmoq sathi
-Kanal sathi
-
-№ 6.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Mobil aloqa tarmoqlari tushunchasi nimani anglatadi?
-Ko'chib yurish ma'nosini
-Simli aloqa ma'nosini
-Simsiz aloqa ma'nosini
-Aralash tarmoq ma'nosini
-
-№ 7.
-Manba: 
-Qiyinlik darajasi – 2
-Mobil terminallari qaysi qurilma bilan o'zaro bog'lanib tarmoqqa ulanishni amalga oshiradi?
-Baza stansiyasi
-Sputnik
-Controller baza stansiyasi
-Switch
-
-№ 8.
-Manba: 
-Qiyinlik darajasi – 2
-2G va 3G mobil tarmoqlarining farqi nimada?
-Chastota diapozoni, taqdim etadigan xizmatlari, mobil terminallari, tarmoq elementlari
-foydalanuvchilar soni va taqdim etadigan xizmat turlari bilan farqlanadi
-Farqi yoq, ular bir xil xizmatlarni taqdim etadi.
-To'g'ri javob keltirilmagan.
-
-№ 9.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 
-1G, 2G, 3G, 4G, 5G tarmoqlaridagi "G" harfining ma'nisi nima?
-"G"-inglizcha Generation so'zining bosh harfidan olingan bo'lib, avlod degani
-"G"-inglizcha Global so'zining bosh harfidan olingan bo'lib, avlod degani
-"G"-inglizcha Green so'zining bosh harfidan olingan bo'lib, yashil degani
-"G"-inglizcha Green so'zining bosh harfidan olingan bo'lib, yashil degani
-
-№ 10.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 
-5G tarmoqlarining ma'lumot uzatish tezligi qancha?
-1 Gbit/s dan katta
-100 Mbit/s dan kichik
-Yuqori tezlikda, aniq tezlik belgilanmagan
-5G tarmog'i hali mavjud emas
-
-№ 11.
-Manba: 
-Qiyinlik darajasi – 
-LTE va WiMAX texnologiyalari qaysi avlodga tegishli?
-4G
-3G
-5G
-3,5G
-
-№ 12.
-Manba: 
-Qiyinlik darajasi – 2
-PON so'zining ma'nosini toping.
-Passiv opkit tarmog'i
-Shisha tolali optik tarmog'i
-Abonent tarmog'i
-Keng polosali tarmoq
-
-№ 13.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-Raqamli abonent liniyasi - tarmoqning qaysi qismiga to'g'ri keladi?
-Stansiyadan abonentning uyigacha bo'lgan qismi
-Stansiyalararo
-Korporativ
-Abonentning uyi
-
-№ 14.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-3G texnologiyasi asosida keng polosali abonent tarmog'ini qurish mumkinmi?
-Ha
-Yoq
-Tajribada qurilmagan
-Kelajakda qurilishi mumkin
-
-№ 15.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-xDSL texnologiyasi asosida lokal kompyuter tarmoqlarini yuqori tezlikli Internetga ulash mumkinmi?
-Faqat past tezlikli internetga ulash mumkin
-Yoq
-xDSL internetga ulash texnologiyasi emas
-Hozirda xDSLdan foydalanilmaydi
-
-№ 16.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Keng polosali abonent tarmog'i texnologiyalarini ko'rsating.
-xDSL, PON, 3G, 4G, Sputnik
-xDSL, Sputnik
-3G, 4G, Sputnik
-PON
-
-№ 17.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Qanday qurilmalar orqali foydalanuvchilar tarmoq resurslaridan foydalanishi mumkin?
-Kompyuter, smartfon va raqamli qurilmalar
-Faqat modem
-Turli kompyuterlar modellari
-Foydalanuvchilar tarmoq resurslaridan foydalana olmaydi
-
-№ 18.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Transport tarmoqlari orqali uzatiladigan ma'lumot birligi nima?
-Oqimlar
-Signallar
-Ma'lumotlar
-Paketlar
-
-№ 19.
-Manba: 3.  Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Transport tarmog'ida oxirgi yillarda eng ko'p foydalanilayotgan uzatish muhitini ko'rsating.
-Optik muhitlar
-Simli muhitlar
-Simsiz muhitlar
-Temir muhitlar
-
-№ 20.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-PDH texnologiyasining kengaytirilgan ko'rinishini ko'rsating
-Plesiochronous digital hierarchy
-Personal digital hierarchy
-Plesiochronous hierarchy
-Plesiochronous definition hierarchy
-
-№ 21.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-SDH uzatish texnologiyasida qanday uzatish tizimlari mavjud?
-STM
-PCM
-DWDM
-E1
-
-№ 22.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi –2 
-STM-1 tizimining uzatish tezligi qancha?
-155 Mbit/s
-100 Mbit/s
-1 Gbit/s
-625 Mbit/s
-
-№ 23.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 3
-DWDM texnologiyasi asosida kanallar qanday parametrga ko'ra multipleksorlanadi?
-To'lqin uzunligiga ko'ra
-Vaqt bo'yicha
-Amplitutasi bo'yicha
-Tebranish davri bo'yicha
-
-№ 24.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-SONET tizimi bilan SDH tizimi bir xil imkoniyatli texnologiyalarmi?
-Deyarli bir xil
-Ikki xil
-Tubdan farq qiladi
-SONET tizimi mavjud emas.
-
-№ 25.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-SDH uzatish tizimlari tarmoqning qaysi qismida foydalaniladi?
-Shahar tarmoqlarida
-Lokal tamroqlarida
-Global tarmoqlarda
-Istalgan qismida
-
-№ 26.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 3
-Global tarmoqlarni qurishda DWDM texnologiyasi qanday vazifani bajaradi?
-Mamlakatlar va shaharlarni o'zaro bir biri bilan bog'lashni ta'minlaydi.
-Ma'lumotlarni ko'rsatilgan adres bo'yicha marshrutlaydi
-U global tarmoqlarida ishlatilmaydi
-Lokal tarmoqlarida marshrutlaydi
-
-№ 27.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 
-Multipleksorlash qanday ma'noni anglatadi.
-Zichlashtirish
-Adreslash
-Kuchaytirish
-Ko'paytirish
-
-№ 28.
-Manba:  Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Klient-server arxitekturasi deganda nimani tushunasiz?
-Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi arxitektura
- Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi qurilmalar to'plami
- Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi protokollar to'plami
- Kompyuter va serverni o'zaro bog'lanishi va ma'lumot almashish jarayonini taqdim etuvchi muhitlar
-
-№ 29. 
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Kompyuter tarmoqlarida server qanday vazifani amalga oshiradi?
-Serverga ulangan kompyuterlarni o'zaro bog'lanish, resurs almashish va Internet resurslarida foydalanish imkoniyatini ta'minlaydi
-Kompyuterlararo bog'lanish va faqat bir birini resursidan foydalanish imkoniyatini ta'minlaydi
- IP adres berish
-Marshrutlash
-
-№ 30.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Klient-server arxitekturasi qanday usullarda quriladi?
-Klient-server va Peer-to-peer arxitekturalariga asosan
-Klient-server arxitekturasiga asosan
- Peer-to-peer arxitekturasiga asosan
- Xech qanday
-
-№ 31.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Ilova nima?
-Foydalanuvchilarni tarmoq resurslaridan foydalanish imkoniyatini taqdim etuvchi dasturlar.
- Smartfon dasturlari
-Operatsiyon tizimga ulanish dastur
-Xavfsizlikni ta'minlovchi dasturlar
-
-№ 32.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Klient-server protokollarini ko'rsating.
-SMTP,DNS
-RIP, SMTP, OSPF
-UDP, POP
-POP. RIP, OSPF
-
-№ 33.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Klient va server qurilmalari qanday topologiyalarda bog'lanishi mumkin?
-Yulduz, nuqta-nuqta, halqa, shina
-Faqat nuqta-nuqta
- Faqat yulduz
-Yulduz, halqa, shina
-
-№ 34.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Klient va server qanday ko'rinishda bog'lanishni amalga oshiradi?
- Dastlab klient serverga so'rov jo'natadi va server so'rovga ishlov berib klientga javob qaytaradi.
- Har ikkalasi baravar so'rov-javob shaklida ishlaydi
-Bunda faqat klient so'rov va javoblarni amalga oshiradi.
- Nuqta ko'rinishida
-
-№ 35.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Smartfon qurilmalari bir vaqtda ham klient ham server bo'la oladimi?
- Ha, foydalanilayotgan protokol va ilovaga muvofiq
- Yoq
- Bunaqa bo'lishi mumkin emas
-Hozirda buning imkoniyati mavjud emas
-
-№ 36.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Server vazifasini bajarish uchun qanday shartlar topilishi kerak?
-So'rovlarga ishlov berish va javob qaytarish, resurslarga ega bo'lish va doim faol bo'lish
- So'rovlarga ishlov berish va resurslarga ega bo'lish
-Faqat resurslarga ega bo'lish
-So'rovlarga ishlov berish va javob qaytarish, resurslarga ega bo'lish 
-
-№ 37.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Peer-to-Peer arxitekturasiga asoslangan saytini tanlang?
- Bit-torrent saytlari
-Google
- Yandex
-Barcha qidiruv tizimlariga asoslangan saytlar
-
-№ 38.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-DNS qanday tizim?
-Domen nomalar tizimi
-Domen ro'yxatlari tizimi
-Resurslarning manzilini ko'rsatuvchi tizim
-Xotira tizimi
-
-№ 39.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-DNS qanday maqsadlar uchun foydalaniladi?
-Internetga ulangan kompyuterni joylashuvini ko'rsatadi va uni aniqlaydi
-Internetga ulangan kompyuter uchun aloqa qilish imkoniyatini ta'minlaydi 
- Saytda joylashgan ob'ektlarni manzilini ko'rsatadi va ularni aniqlaydi.
-Ischi stansiya adresini belgilaydi
-
-№ 40.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Quyida keltirilgan qaysi domen nomlari to'g'ri ko'rsatilgan?
- Barcha domenlar to'g'ri ko'rsatilgan
-tuit.uz, uztelecom.uz, csm.tuit.uz
- facebook.com, ok.ru
- Google.com, Yahoo.com, Bombay.vni.com
-
-№ 41.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-DNS tizimi IP adresini nomga va nomni IP adresga o'zgartiradi, masalan: google.com nomini 173.194.73.94 adresiga o'zgartiradi. Shu holat to'g'rimi?
-Ha
-Yoq
-Qisman
-Bo'lishi mumkin
-
-№ 42.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-.uz bilan tugagan barcha domenlar faqat O'zbekiston hududida foydalanish mumkinligini anglatadimi?
- Yoq
-Ha
-Ba'zi hollarda O'zbekistondan tashqarida foydalanish mumkin.
-Aniq emas
-
-№ 43.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Har bir domen nomiga bitta IP adres mos keladimi?
-Bittadan ortiq IP adress bo'lishi mumkin
-Yoq
-Ha
-Tarmoqni sig'imiga bog'liq
-
-№ 44.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-DNS so'rovlariga qaysi qurilma ishlov beradi?
- DNS serveri.
-DNS admini
- Marshrutizatorlar
-DNS switch
-
-№ 45.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-ICMP nima maqsadda foydalaniladi?
- Ikki qurilmadagi IP protokollari o'rtasidagi aloqani ta'minlaydi, boshqaradi
-Ikki qurilmadagi IP protokollari o'rtasidagi ma'lumot almashadi
- Marshrutlash jarayonini boshqaradi
-Monitoring qilish uchun
-
-№ 46.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Xostlar orasida ICMP boshqaruv xabarlari qanday shakllarda almashadi?
- So'rov-javob shaklida
- Faqat so'rov shaklida
- Faqat javob shaklida
- Xabar almashmaydi
-
-№ 47.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-ICMP qisqartmasining quyida kengaytirib yozilgan shaklini ko'rsating.
- Internet control message protocol 
-Internet configuration message protocol 
- Interface control message protocol 
- Internet control message personal
-
-№ 48.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-ICMP yuzaga kelgan xatoliklar haqida xabardor etadimi?
- Ha
- Yoq
- Xatolikni aniqlaydi lekin xabar bermaydi
- Foydalanilayotgan operatsion tizimga bog'liq
-
-№ 49.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-ICMP xabarlari IP paketga joylashtiriladimi?
-Ha
- Yoq
- UDP paketga
-TCP paketga
-
-№ 50.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016  
-Qiyinlik darajasi – 1
-ICMP xabari nechi qismdan tashkil topadi?
-2 qismdan: Sarlovha va ma'lumot
- 1 qismdan: Sarlovha qismidan
- 1 qismdan: Ma'lumot
-3 qismdan: Ma'lumot, axborot, sarlovha
-
-№ 51.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-SNMP nima?
- Tarmoqni boshqarish protokoli
-Tarmoq xavfsizligini ta'minlovchi protokol
-Amaliy pog'ona protokoli
-Kanal pog'ona protokoli
-
-№ 52.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-SNMP protokoli OSI modelining qaysi pog'onasida ishlatiladi?
-Amaliy pog'ona 
- Tarmoq pog'ona 
- Kanal pog'ona 
- Fizik pog'ona 
-
-№ 53.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-SNMP uchun qaysi port belgilangan?
- UDP 161 va 162 port
- TCP 161 port
- Faqat UDP 161
- Faqat TCP 162
-
-№ 54.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-SNMP so'rov va javob shakli faqat bitta portdan amalga oshiriladimi?
- Yoq
-Ha
- Ketma-ket bitta portdan
-Parallel bitta portdan
-
-№ 55.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-SNMP protokolining asosiy vazifalari nimadan iborat?
- Tarmoqni monitoringni uchun tarmoqni boshqarishda ishlatiladi, IP tarmoqlariga ulangan qurilmani boshqarish haqidagi ma'lumotlarni tashkil etish va to'plash uchun standart protokol hisbolanadi
-Faqat monitoring
- Faqat boshqarish haqidagi ma'lumotlarni tashkil etish va to'plash
-Email xabarlarni nazorat qilish 
-
-№ 56.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Simsiz sensor tarmoqlari deganda nimani tushunasiz?
-Atrof muhitdagi holatlarni monitoring qiluvchi va o'zgarishlarni qayt etuvchi qurilmalar
-Atrof muhitdagi holatlarga munosabad bildiruvchi qurilmalar
- Atrof muhitdagi holatlarni o'rganuvchi qurilmalar
- Atrof muhitda ma'lumot etkazuvchi qurilmalar
-
-№ 57.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 1
-Sensor tarmoqlari elementlariga misol keltiring.
- Aqlli soat, EKG elektrod, gaz sensori
- Aqlli soat, EKG elektrod, web saytlar
- EKG elektrod, gas sensori, simsim sichqoncha
- Barchasi xato
-
-№ 58.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor qurilmalarini asosiy vazifasi nimadan iborat?
-Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmasiga o'zgarishlarni jo'natish
- Atrof muhitdagi o'zgarishlarni monitoring qilish va kontroller qurilmaga o'zgarishlarni jo'natish va kerakli buyruqlarni qabul qilish
-Kontroller qurilmasi bilan so'rov-javob shaklida ishlash
-Kontroller qurilmasiga xizmat qiladi
-
-№ 59.
-Manba: 3.  Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Hozirda qaysi sohalarda IoT texnologiyasidan foydalaniladi?
- Barcha javob to'g'ri 
- Tibbiyot
-Ob-havo ma'lumotlarini aniqlashda
-Qishloq xo'jaligi
-
-№ 60.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor qurilmalarida qanday muammolar mavjud?
- Barcha javob to'g'ri 
-Xotira va quvvat ta'minoti
- Ish bajarish samaradorligi cheklangan
-Xavfsizlik masalasi to'liq hal etilmagan
-
-№ 61.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor tarmoqlari uchun maxsus operatsion tizim talab etiladimi?
-Ha
-Yoq
- Ba'zan
- O'zida mavjud bo'ladi
-
-№ 62.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor tarmog'i necha qismdan iborat?
-3
-2
-1
- Aniq emas
-
-№ 63.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor qurilmalarni boshqaruvchi qurilma qanday nomlanadi?
-Kontroller
- Protsessor
-brouzer
-chip
-
-№ 64.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Nima sababdan sensor tarmoqlarining resurslari cheklangan bo'ladi?
- Barcha javob tori 
-Quvvati va sig'imi 
-Boshqa imkoniyatlari cheklanganligi sababli
- O'lchami va xotirasi
-
-№ 65.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor qurilmalarini taqdim etadigan afzalliklari nimadan iborat?
- Barcha javob to'g'ri 
-Raqamli qurilmalar bilan moslashuvchan
- Narxi arzon
- Tashib yurish qulay
-
-№ 66.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016 
-Qiyinlik darajasi – 2
-Nima sababdan sensor qurilmalarida ma'lumot almashish tezligi past?
- O'kazuvchanlik qobiliyati cheklangan
- Quvvat ta'minoti cheklangan
- Markaziy boshqaruv orqali tezlik pasaytiriladi
-Quvvat ta'minoti cheklanganligi uchun
-
-№ 67.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor tarmoqlarida qanday marshrutlash protokollaridan foydalaniladi?
-OLSR, MRP
- MRP, RIP
- DSDV, IP
- TCP,UDP
-
-№ 68.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor tarmoqlarini qurishda qanday tarmoq topologiyalaridan foydalaniladi?
- Barcha javob to'g'ri 
- Nuqta-nuqta
- Chiziqli, gibrid
-Yulduz, daraxt, mesh
-
-№ 69.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor tarmoqlarida axborot xavfsizligi darajasi qay darajada ta'minlangan?
- Talab darajasida emas
- Yuqori darajada
- Juda past darajada
-Faqat ma'lumotlar shifrlangan 
-
-№ 70.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Sensor tarmoqlarini talab darajasida takomillashtirish uchun nimalarga ahamiyat berish lozim?
- Barcha javob to'g'ri 
- Operatsiyon tizimi imkoniyatlarini takomillashtirish
- Mos protokollarni ishlab chiqish
- Xotirasi, sig'imi va quvvat manbaini takomillashtirish 
-
-№ 71.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Tarmoq xavfsizligi qanday vositalar orqali ta'minlanadi?
- Apparat va dasturiy ta'minot vositalari orqali
-Faqat apparat ta'minoti vositalari orqali
- Faqat dasturiy ta'minoti vositalari orqali
- Tarmoq operatorlari orqali 
-
-№ 72.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Tarmoq pog'onasida kimlar axborot xavfsizligini himoyalashga mas'ul?
-Barcha javob to'g'ri 
-Provayderlar
-Tarmoq qurilmasi va dasturlarini ishlab chiqaruvchilar
- Operatorlar
-
-№ 73.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Internet foydalanuvchilari uchun tarmoq xavfsizligi kafolatlanganmi?
- Kafolatlanmagan
- Kafolatlangan
-Antiviruslar orqali kafolatlash mumkin
-Internetnet provayderining imkoniyatiga bog'liq
-
-№ 74.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Autentifikatsiya nima maqsadda ishlatiladi?
-Foydalanuvchini identifikatsiya qilish uchun
-Qurilmani identifikatsiya qilish uchun
-Dasturni identifikatsiya qilish uchun
- Barcha javoblar xato
-
-№ 75.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Internet saytlarida mavjud resurslardan foydalanishga kim ruxsat beradi?
-Administrator
-Xizmat provayderi
- Meneger
- Barcha javob to'g'ri
-
-№ 76.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Axborotlarni maxfiyligi qanday ta'minlanadi?
-Shifrlash algoritmlari orqali
- Antiviruslar orqali
- Uzatuvchi muhitlar orqali
- Qurilma orqali
-
-№ 77.
-Manba: 
-Qiyinlik darajasi – 2
-Foydalanuvchilar axborot xavfsizligini buzilishida aybdor bo'lishlari mumkinmi?
-Ha
-Yoq
-Qurilma ishlab chiqaruvchi aybdor
-Dastur ishlab chiqaruvchi aybdor
-
-№ 78.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Nima uchun axborot xavfsizligi borgan sari dolzarb bo'lib bormoqda?
- Axborotlar - intellektual mulk darakasiga etib kelmoqda
-Tahdidlar resurslardan foydalanish darajasini cheklayotgani uchun
- Insonlar ish faoliyati axborotlar bilan bog'liq bo'lganligi uchun
-Barcha javob to'g'ri
-
-№ 79.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Qanday muhitlarda axborot xavfsizligi dajarasi yuqoriroq?
- Simli va optik
-Simsiz
-Optik va simsiz
-Simsiz va radio
-
-№ 80.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Ilovalar axborot xavfsizlikni ta'minlashi mumkinmi?
- Ha
-Ta'minlamaydi
- Mumkin emas
- Kelajakda
-
-№ 81.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Kompyuter tarmoqlarida xavfsizlikni ta'minlash uchun nima ishlab chiqilishi lozim
-Xavfsizlik siyosati
-Xavfsizlik xaritasi
- Xavfsizlik qoidalari
-Xavfsizlik talabalari
-
-№ 82.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Konvergent so'zining ma'nosini ko'rsating.
-Yaqinlashish
- Birgalashish
-Intilish
- Barcha javob xato
-
-№ 83.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Qanday holatlarda konvergensiya jarayoni yuzaga keladi?
- Turli qurilmalar va dasturlarni bitta muhitda ishlash natijasida
- Bir turdagi standart qurilmalarni o'zaro ishlashi natijasida
- Xar xil standartlarda ishlay ololmasligi natijasida
- Har doim faol holat yuzaga kelganida
-
-№ 84.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Konvergent tarmoqlariga misol keltiring.
- Bluetooth, WiFi va internetga ulangan qurilmalarni o'zaro ma'lumot almashishi
-Faqat Bluetooth qurilmalarini ma'lumot almashishi
- Lokal tarmoqlar
- Shahar tarmoqlari
-
-№ 85.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Turli tarmoqlar va ularning formatini moslashtirib beruvchi qurilmani ko'rsating
- Shlyuz
- Kommutator
- Softswitch
- Modem
-
-№ 86.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Konvergent tarmoqlarining elementlarini ko'rsating
- Barcha javob to'g'ri 
-Marshrutizator, sputnik, 4G antenna
-Modem, terminallar
-Shlyuz, softswitch, kommutator
-
-№ 87.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Konvergent tarmoqlariga o'tishning asosiy sababi...
- Barcha javob to'g'ri 
- Turli standartdagi dasturlarning ishlab chiqarilishi
- Ma'lumot formatlarining turini ko'payib ketishi
- Turli standartdagi qurilmalarning ishlab chiqarilishi
-
-№ 88.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Konvergensiyaning kamchilik tomonlarini ko'rsating
- Barcha javob to'g'ri 
-O'zaro ishlash murakkablashadi
-Xavfsizlik darajasi pasayadi
- Boshqarish murakkablashadi
-
-№ 89.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimiga ta'rif bering.
- Barcha javob to'g'ri 
- Lokal tarmoqqa ulangan barcha turdagi kompyuterlarni qo'llab quuvatlash uchun ishlab chiqiladi
- Tarmoqni uzluksiz ishlashini ta'minlaydi
-Tarmoq resurslarini boshqaradi
-
-№ 90.
-Manba: 
-Qiyinlik darajasi – 2
-Windows server tarmoq operatsion tizimi bo'la oladimi?
-Ha
- Yoq
- Moslashtirish kerak
- Mumkin emas
-
-№ 91.
-Manba: 
-Qiyinlik darajasi – 1
-Windows serverni qaysi tashkilot ishlab chiqqan.
- Microsoft
-Unix
- Google
-Android
-
-№ 92.
-Manba: 
-Qiyinlik darajasi – 2
-Nima uchun IoT texnologiyasi ishlab chiqildi?
- Barcha javob to'g'ri 
-Turli narsa-buyumlarni internetga ulab boshqarish
-Turli narsa-buyumlarni internetga ulab nazorat qilish 
-Turli narsa-buyumlarni internetga ulab monitoring qilish
-
-№ 93.
-Manba: 
-Qiyinlik darajasi – 2
-IoT qanday ma'noni anglatadi
- Internet buyumlar
-Internetga ulangan kompyuterlar
-Sensor tarmoqlari
- Aqlli buyumlar
-
-№ 94.
-Manba: 
-Qiyinlik darajasi – 2
-Tumanli texnologiya qanday imkoniyatlarni taqdim etadi?
-Barcha javob to'g'ri
-B. Foydalanuvchi qurilmasiga yaqin masofada joylashgan
-C. O'tkazuvchanlikka bog'liq muammolar yuzaga kelmaydi
-D. Kichikishlar darajasi pastroq
-
-№ 95.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Ko'p foydalaniladagin tarmoq operatsion tizimlarining nechta asosiy turi bor?
-A. 5
-B. 4
-C. 3
-D. 2
-
-№ 96.
-Manba: 
-Qiyinlik darajasi – 2
-Bulutli texnologiyada axborot xavfsizligi doimiy kafolatlanganmi?
-Yoq
- Ha
-Ta'minlasa bo'ladi
- Qisman ta'minlangan
-
-№ 97.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 2
-Zamonaviy kompyuter tarmoqlari bilan an’anaviy kompyuter tarmoqlarini qanday farqlari bor?
- Imkoniyatlari va sig'imi kengaytirilgan
-Ishlash tezligi pastligida
- Ko'rinishida va xotira sig'imida
- O'lchamida
-
-№ 98.
-Manba: 
-Qiyinlik darajasi – 3
-Tumanli va bulutli texnologiyalarning farqini tushuntirib bering.
- Tumanli kichik va bulutli katta hududdagi tarmoqlarni qamrab oladi
- Mobillilik darajasi bulutlida cheklangan, tumanlida cheklanmagan
- Bulutli markazlashgan va tumanli taqdimlangan
- Barcha javob to'g'ri
-
-№ 99.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 3
-Quyidagilarning qaysi biri niqobni ifodalaydi?
-255.255.192.0
-255.255.100.000
-192.192.192.192
-0.0.0.1
-
-№ 100.
-Manba: Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016
-Qiyinlik darajasi – 3
-Ushbu maskani o‘lik sanoq tizimida ifodalang: 11111111.11111111.11111111.11100000 
-255.255.255.224
-255.111.111.0
-255.255.255.192
-255.255.255.128
-
-Adabiyotlar hamda axborot manbaalari 
-ro‘yxati
-1.	James F. Kurose, Keith W. Ross “A Top-Down Approach: Computer Networking”, 2017y.  Pearson Education Limited
-2.	Andrew S. Tanenbaum. Computer Networks, Fourth Edition. Publisher; Prentice Hall, 2011. 
-3.	Н.А. Олифер, В.Г. Олифер “Компьютерные сети: Принципы, технологии, протоколы” Пятое издание, издатель Питер, 2016.
