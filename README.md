@@ -1,2673 +1,3442 @@
-Operatsion tizimlar fanidan testlar
-
-
-1.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Svоping bu?
-  jarayonlarni asоsiy xоtiradan diskka va оrqaga to'liq o'tkazishdir
- jarayonlarni fleshkaga o'tkazish
- jarayonlarni оperativ xоtirada ushlab turish
- jarayonlarni diskka o'tkazish 
-
-2.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
- NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?
-  16 va 32	
- 8 va 16
- 32
-16
-
-3.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Jarayonni rejalashtirish darajalari 
-  uzоq muddatli, o'rta muddatli va qisqa muddatli
- cheksiz va chekli muddatli 
- faqat uzоq muddatli 
-aniq va aniq emas muddatli
-
-4.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
- Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira 
-  prоtsessоr registrlari
- tashqi xоtira 
- elektrоn disklar
- asоsiy xоtira
-
-5.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Оchiq kоdli ОT larda
- tizim kоdlari оchiq, ixtiyoriy fоydalanuvchi uni o'zgartirishi mumkin
- tizim kоdlari оchiq, ammо ularni o'zgar-tirish mumkin emas
- dastur kоdlari оchiq emas 
- tizim kоdlari faqat tizim mualliflari uchun оchiq
-
-6.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Xоtiraning ma`lumоtlar jоylashadigan bo'limi?
-  segment deyiladi
- stek deyiladi
- sahifa deyiladi
- оverley deyiladi
-
-7.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Dasturiy ta`minоt quyidagi bo'limlardan ibоrat
-   asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
- tizimli dasturiy ta`minоt 
- asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt
- asоs dasturiy ta'minоt
-
-8.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Dastur algоritmlarda, ishlоv beriladigan massivlarda amal va kattaliklardan fоydalanish chastоtasiga qarab, funktsiyalarni ajratishga asоslangan printsip
-  chastоta printsipi
- xavfsizlik printsipi
- mоdullilik printsipi
- generatsiya printsipi
-
-9.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows ОT larining bоshqa ОТ lardan printsipial farqi
-  grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash 
- dialоgli ish rejimi 
- hisоblashlar ishоnchliligi 
- Kоmanda tili yo'qligi
-
-10.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multidasturlash bu 
-  hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi 
- hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaqtning o'zida bir nechta dastur bajariladi
- hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi
- hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
-
-11.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Amaliy dasturiy ta`minоt – dasturlari
-  aniq sоxa masalalarini yechishni ta`minlоvchi dastur-lardir
- tizimga xizmat qilu-vchi dasturlar 
- interfeysni ta`minlоvchi dasturlar
- tizimni sоzlоvchi dasturlar
-
-12.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin 
-  NTFS 
- BFS
- FAT
- JFS
-
-13.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Utilitalar bu shunday fоydali dasturlarki
-  xajmi kichik dasturlar bo'lib, apparat vоsitalar ishini bоshqaradi, turli yordamchi funktsiyalarni, ishlоvchanlik qоbilyatini, sоzlashni tekshiradi 
- faqat sоzlaydi
- apparat vоsitalar ishini kuzatadi
- xizmat qiladi, ishlоvchanligini tekshiradi
-
-14.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fat fayl tizimida, mantiqiy disk:
-  tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi
- yuklanish qismlari 
- katalоglar sоxasi va tizimli sоxa
- ma`lumоtlar sоxasi va katalоglarga bo'linadi
-
-15.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat
-  jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi
- jarayonlar, virtual xоtira, оb`ektlar dispetcheri
- jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
- lоkal prоtseduralarni chaqirish vоsitalari 
-
-16.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fayllar tuzilishining asоsiy birligi nimalar 
-  ma`lumоtlar
- katalоglar
- grafiklar
- xоtira
-
-17.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi 
-  UNIX
- MS-DOS, MSX
- ОS YeS, OS/2
-WINDOWS 95
-
-18.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-ОT bоshqaruvi оstida jarayonlar sоnini o'zgartirmaydigan amallar
-  ko'p martalik amallar
- jarayon priоritetini o'zgartiruvchi amallar 
- tayyor hоlatga o'tkazuvchi amallar
- bir martalik amallar
-
-19.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi
-  server qismi
- kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
- klient qismi
- kоmmunikatsiоn vоsitalar 
-
-20.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Shaxsiy kоmpyuterning ta minоti qanday bo'limdan ibоrat
-  uskunaviy va dasturiy ta minоt
- uskunaviy ta minоt
- interfeys
-dasturiy ta minоt
-
-21.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Prоtsessоr vaqti
- chegaralangan resurs
- dоimiy resurs
- vaqtinchalik resurs 
- chegaralanmagan resurs
-
-22.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar
- rivоjlanish 3-davriga yuzaga keldi
- rivоjlanish 1-davriga yuzaga keldi
- rivоjlanish 4-davriga yu-zaga keldi
- rivоjlanish 2-davriga yu-zaga keldi
-
-23.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar ..... .deb ataladi
- drayverlar
- xizmatchi dasturlar
- plug and play texnоlоgiyasi
-оperatsiоn tizim
-
-24.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip 
- standart xоlatlar (pо umоl-chaniyu) printsipi
- funktsiоnal tanlanish printsipi
- generatsiya printsipi
- chastоta printsipi 
-
-25.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qanday axbоrоtlar se-curity accounts manag-er da saqlanadi 
- fоydalanuvchilarning qayd yo-zuvi haqidagi
- Windows оperatsiоn tizim fоydalanuvchi-lari haqidagi
- ma'lumоtlar bazasidagi axbоrоtlar 
- ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi
-
-26.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmоq оperatsiоn tizimining qaysi qismi ma`lumоtlarni adreslash, buferlash, va uzatilishidagi xavfsizlikni ta`minlaydi
- kоmmunikatsiоn vоsitalar
- kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
- klient qismi
- server qismi
-
-27.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimli dasturiy ta`minоt bu
- kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-  ishini ta`minlaydi
- amaliy masalalarni yechimini ta`minlaydi
- kоmpyuter ishini nazоrat qiladi 
- kоmpyuter qurilmalarini ishlashini ta`minlaydi
-
-28.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Mоnоlit ОT larda tuzilishi
- 2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
-5 ta satxdan ibоrat
-6 ta satxdan ibоrat (ko'p satxli dastur)
-3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)
-
-29.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Zamоnaviy ОT larda xоtira:
-segment sahifali bo'linadi
-o'zgaruvchan bo'limlarga bo'linadi
-qat`iy bo'limlarga bo'linadi 
-segmentlarga bo'linadi
-
-30.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Amaliy dasturiy ta`minоt
-ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur
-hisоblash tizimini nazоrat qiluvchi 
-stastikani оlib beradi 
-qurilmalarni ishlatuvchi
-
-31.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Xоtiraning fiksirlangan bo'limlarga bo'lishda
- xоtira qat`iy o'lchamli bo'lak-larga оldindan bo'lingan bo'ladi
- ma`lumоtlar-fayllar bo'laklarga bo'linadi
- ma`lumоtlar xajmi bo'yicha jоylashtirib bоriladi
- xоtira sahifalarga bo'linadi  
-
-32.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multidasturlash bu
- hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi
- hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
- hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi  
-hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi 
-
-33.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Matn muharriri Word bu
- amaliy dasturiy
-asоs dasturiy
-xizmatchi dasturiy
-tizimli dasturiy
-
-34.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fragmentattsiya deb nimaga aytiladi 
-  xоtira bo'limlarga ajratilganda qоladigan bo'l jоyi	
- ma`lumоtlarning bo'limlarga sigmay qоlishi
- xоtiraning bo'limlarga ajralmay qоlishi
-xоtiraning bir turi
-
-35.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin
-  NTFS
- JFS
- BFS
- FAT	
-
-36.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-mv buyrug'ug'i qanday vazifani bajaradi?
- Faylni qayta nomlash, nusxa olish 
- Faylni o'chirish 
- Katalogni nusxalash
- Katalog yaratish
-
-37.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimli dasturiy taminоt nechtaga bo'linadi
- 3
-5
-2 
-4
-
-38.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows server bu qaysi kompaniyaga tegishli
-Microsoft
-IBM 
-Unix
-PS/OS
-
-39.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Unix operatsion tizimi qachon yaratilgan
- 1960
- 1978
- 1995 
- 1980
-
-40.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan
- AT&T'S Bell laboratories
- IBM laboratories
- PS/OS laboratories
- Solaris laboratories
-
-41.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi
- Solarius, Linux
- Microsoft server 
- PS/OS 
- IBM 
-
-42.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Linux serveri hisoblanadi
-Ubuntu, Debian, CentOS	
-Ubuntu, IBMm Debian
-Microsoft, Debian, 
-IBM, Microsoft, Oracle
-
-43.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan
-Canonical	
-Microsoft
-IBM 
-Oracle
-
-44.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan
-Canonical	
-Microsoft
-IBM 
-Oracle
-
-45.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows operatsion tizimida buyruqlar qatorini (cmd) qaysi klavishlar yordamida bosiladi
- Win + R
- Win + F
- Win + D 
- Win + T 
-
-46.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim nima
- operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi
- Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi
- Amaliy dasturlar jamlanmasi
-Multimediyali dasturlar jamlanmasi
-
-47.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim asoson ... 
- tizimli dasturlar jamlanmasi
- amalaiy dasturlar jamlanmasi  
- multimediyali qurilmalar jamlanmasi
- qobiqdan iborat
-
-48.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimda hisoblash tizimining tarkibi bu
- Konfiguratsiya
- Drayverlar
- Aparat vositalar  
- amaliy dasturlar
-
-49.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi
- Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi
- Amaliy dasturlar, Yadro, Fayl tizimi
- Kamanda prosessori, konfiguratsiya
- To'g'ri javob berilmagan
-
-50.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi yadro bu
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
-
-51.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
-
-52.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu
- komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
-
-53.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu
-kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos   xizmatlarni chaqirishni ta’minlaydi 
-
-54.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim interfeysi bu
- Foydalanuvchi aloqa o'rnatadigan qulay qobiq
- Drayverlar jamlanmasi
- Fayl tizimi
-To'g'ri javob berilmagan
-
-55.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Buyruq interpretatori bu
- Dastur tilidan mashina tiliga o'giradi (Tarjimon)
- Drayverlarni ishga tushiradi
- Amaliy dasturlarni ishga tushiradi  
- To'g'ri javob berilmagan
-
-56.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Kompyuter tashkil etuvchisi bu
- Turli xil qurilmalarni boshqarish dasturi
- Multimediya qurilmalarni boshqarish 
- O'yinlarni yaratish dasturi
- Tizimni boshqarish 
-
-57.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 1 - avlod nechinchi yillarni o'z ichiga oladi.
- 1945 - 1955
- 1965 - 1975 
- 1975 - 1985
- 1985 - 1995
-
-58.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 2 - avlod nechinchi yillarni o'z ichiga oladi.
- 1955 - 1965
- 1965 - 1975 
- 1945 - 1955 
- 1985 - 1995
-
-59.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi.
- 1965 - 1980 
- 1945 - 1955  
- 1955 - 1965
- 1985 - 1995
-
-60.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi.
- 1980 yildan to hozirgacha
- 1965 - 1980 
- 1955 - 1965
- 1945 - 1955 
-
-61.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.
- Charles Babbage
- Inix Helton
- Shelton Holmz
- Daniel Tompson
-
-62.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qaysi avlod tizimlaridan boshlab operatsion tizimlar o'rnatila boshlagan.
- 2 - avlod
- 1 - avlod  
- 3 - avlod
- 4 - avlod
-
-63.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Nechilchi yillardan boshlab paketli operatsion tizimlar ishlab chiqarilgan.
- 1960 yil
- 1945 yil
- 1985 yil 
- 1970 yil
-
-64.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-4 - avlod kampyuterlariga qanday kompyuterlar kiradi
- Personal va super kompyuterlar
- Lampali 
- Integral sxemali kompyuterlar
- hali yaratilmagan
-
-65.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multipleksing bu 
- resurslar ishlashining ketma – ketligi va davomiyligi
- Drayverlar jamlanmasi  
- amaliy dasturlar jamlanmasi
- to'g'ri javob berilmagan
-
-66.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multipleksing necha xil ko'rinishda bo'ladi 
- 2
- 3
- 1   
- 4
-
-67.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multipleksingning ikki xil ko'rinishi bor bular
-  Vaqtinchalik, Ajratilgan xotira
- Ajratilmagan xotira, Doimiy xotira
- Qobiq, Drayverlar
- Interfeyslar, amaliy dasturlar
-
-68.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Trap bu 
- Operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi
- Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
- Drayverlarni o'rnatadi
-Qurilmalarni o'rnatadi
-
-69.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Boot Loader – bu 
- Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
- Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
- Operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi  
-Qurilmalarni o'rnatadi
-
-70.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Interrupts (Uzilish) – bu 
-bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to’xtatilishidir
-Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
-Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
-operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi 
-
-71.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi 
-  bir vazifali , ko'p vazifali
- bir vazifali
- ko'p vazifali
- ko'p foydalanuvchi
-
-72.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-O'zaro bog'lanish bo'yicha operatsion tizimlar sinflanishi 
-  bir foydalanuvchi va ko'p foydalanuvchi
- bir vazifali , ko'p vazifali  
- ko'p vazifali
- ko'p foydalanuvchi
-
-73.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Meynfraymlar bu 
- OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda  
- Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
-
-74.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Mikrokompyuterlar bu 
-  Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
- OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
-juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
-
-75.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Super komputerlar bu 
-  juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
-  OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda 
-
-76.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Minikompyuterlar – bu ...
-  Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
- OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
- Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
-
-77.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimlar tuzilishiga ko'ra sinflanishi 
-  Monolit, ko'p sathli, Klient -Server, Mikro yadroli
- Monolit, Ko'p sathli
- Klient - server
- Mikro yadroli
-
-78.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Monolit operatsion tizimlar bu 
-  bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi.
- Faqat sever bilan ishlovchi OT  
- Faqat yadro bilan ishlovchi OT
- To'g'ri javob berilmagan
-
-79.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi 
-  linux 
- To'g'ri javob berilmagan 
- Windows 
- Solaris 
-
-80.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimli chaqiruv- 
-  Operasion tizim va ishlayotgan dastur orasidagi interfeysni taminlab beradi
- Xotiradan joy ajratib beradi
- Xotirada saqlaydi 
- elektr manbaini ta'inlab beradi
-
-81.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimga qo'yiladigan talablar bular
-  Barcha javoblar to'g'ri
- dasturlar va a'luotlarni himoyalash
- Samaradorlik, Moslashuvchanlik, Yangilanish
- Ishonchlilik, Qulaylilik, aniqlik 
-
-82.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-BIOS bu 
-  Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi 
- Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
- amaliy dasturlarni boshqaradi
- Barcha javoblar nato'g'ri
-
-83.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Drayverlar bu 
- Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir
- Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
- amaliy dasturlarni boshqaradi
- Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi  
-
-84.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Bir masalali OT ga qaysilar kiradi
-  MS-DOS, MSX
- Windows, Unix, OS/2
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- To'g'ri javob berilmagan
-
-85.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ko'p masalali OT ga qaysilar kiradi
-  Windows, Unix, OS/2
- MS-DOS, MSX 
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- To'g'ri javob berilmagan
-
-86.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Bir foydalanuvchilik OT ga qaysilar kiradi
-  MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- Windows, Unix, OS/2
- MS-DOS, MSX  
- To'g'ri javob berilmagan
-
-87.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ko'p foydalanuvchilik OT ga qaysilar kiradi
-  Windows, Unix, OS/2
- MS-DOS, MSX  
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- To'g'ri javob berilmagan
-
-88.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim qobiqlari 
-  Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar 
- Xotirani boshqarish qurilasi
- Tashqi qurilmani boshqarish qurilmasi
- To'g'ri javob berilmagan
-
-89.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi
- Paint, Adobe Photoshop 
- Word
- Excel
- MS-DOS, MSX 
-
-90.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-FAT32, Ext2, NTFS — bu …
- Paint, Adobe Photoshop  
- Word
- Excel
- MS-DOS, MSX 
-
-91.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows operatsion tizimining boshqa operatsion tizimlardan tubdan farqi nimada?
- GUI va bir nechta dasturlarni ishlatish qobiliyati
- Hisoblashning ishonchliligi
- Buyruq tili yo'qligi
- Dialog operatsiyasi yo'qligi
-
-92.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim
- OS / 2
- QNX
- UNIX
- Win NT
-
-93.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:
- Bir martalik tarmoq OS va maxsus serverlarga ega OS
- korporativ va mahalliy tarmoq
- LAN va WAN
- Korxona va bo'limlar tarmog'i
-
-94.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimlarini yaratishda bir nechta yondashuvlar mavjud bular:
- Mahalliy operatsion tizimlar va qobiq, tarmoq funktsiyalari boshidanoq hisobga olingan
- Mahalliy va Shell
- Client va Server
- Ob'ektga yo'naltirilgan yondashuv
-
-95.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimining masofaviy manbalar va xizmatlarga kirishni ta'minlovchi qismi;
- Mijozlar qismi
- Server qismi
- Aloqa qismi
- Mahalliy qism
-
-96.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-O'z resurslarini ommaviy ravishda taqdim etadigan tarmoq operatsion tizimining bir qismi;
- Server qismi
- mijoz qismi
- Aloqa qismi
- Mahalliy qism
-
-97.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tor ma'noda tarmoq operatsion tizimlari:
- Shaxsiy kompyuterning tarmoqda ishlashini ta'minlaydigan operatsion tizimlari
- Xabar almashish va resurslarni umumiy qoidalar asosida almashish maqsadida o'zaro ta'sir qiluvchi alohida kompyuterlarning operatsion tizimlari to'plami - protokollar
- Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar
- Operatsion tizimlari Boshqa kompyuterlarga resurslarni etkazib berish
-
-98.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Vazifalari: uni ko'rish, qo'shish, o'qish, yozish va o'zgartirish (NTFS fayl tizimida) bu 
- standart qarorlari
- Shaxsiy tasdiqlash
- Maxsus tasdiqlashlar
- Tashqi tasdiqlash
-
-99.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-NTFS fayl tizimi
- Yangi texnologik fayl tizimi
- Juda ishonchli
- disk maydonidan samarali foydalanadi
- To'g'ri javob yo'q
-
-100.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Haqiqiy vaqtdagi operatsion tizimlar ana shunday tizimlardir bu 
- Kiruvchi ishlarni belgilangan vaqt oralig'ida qayta ishlashni oshirib yubormaslik
- Dastur ob'ektning hozirgi holatiga qarab tanlanadi
- Dastur rejalashtirilgan ish jadvallari asosida tanlanadi
- Har xil texnologik ob'ektlar va jarayonlarni boshqaradi
-
-101.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir
- MS DOS
- OS / 2
- Linux
- OS EC
- UNIX
-
-102.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim
- OS / 2
- QNX
- UNIX
- Win NT
-
-103.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-UNIX operatsion tizimining osongina ko'chirilishi yoki ko'chirilish xususiyati sababi
- Operatsion tizim kodlari yuqori darajadagi tilda yozilgan (masalan, C)
- kodlari assambleya tilida yozilgan
- Ko'p foydalanuvchi tizimi
- Ko'p dasturli tizim
-
-104.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:
- Bir martalik tarmoq OT va maxsus serverlarga ega OT
- korporativ va mahalliy tarmoq
- LAN va WAN
- Korxona va bo'limlar tarmog'i
-
-105.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimlari ... .. qismlardan iborat
- To'rt
- Ikki
- Uch
- Besh
-
-106.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimi deganda keng tushuniladi
- Xabar almashish va resurslarni birgalikda ishlatish uchun o'zaro ta'sir qiluvchi individual kompyuterlarning operatsion tizimlari to'plami yagona qoidalar - protokollar
- Shaxsiy kompyuterning uni tarmoqda ishlashini ta'minlaydigan operatsion tizimlari
- Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar
- Boshqa kompyuterlarga resurslarni etkazib beradigan operatsion tizimlar
-
-107.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Foydalanuvchiga u yoki bu turga kirishga imkon beradigan huquqlar to'plami deyiladi (NTFS fayl tizimida)
- Shaxsiy ruxsatnomalar
- standart qarorlari
- Maxsus tasdiqlashlar
- Tashqi tasdiqlash
-
-108.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fayllarni boshqarish tizimi quyidagi funksiyalarni bajaradi:
- fayl operatsiyalari va foydalanuvchi interfeysi funktsiyalari
- diskdan tashqari qurilmalar bilan fayl sifatida ishlash
- diskdan tashqari qurilmalar bilan ishlash jarayonlarni boshqaradi
- foydalanuvchi interfeysi va fayllar bilan ishlashni amalga oshiradi 
-
-109.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Boshqarish mexanizmlari bilan protsessor vaqtining 90 foizini egallaydigan va nisbatan past ko'rsatkichlarga ega bo'lgan eng xavfsiz operatsion tizimlar quyidagilar:
- A sinf
- sinf B
- 3-sinf
- 4-sinf
-
-110.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Yuqori mahsuldorlikka ega fayl tizimi
- HPFS
- FAT
- NTFS
- VFAT
-
-111.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.
- Tizim maydoni va ma'lumotlar maydoni
- Ma'lumotlar maydoni va kataloglari
- Katalog maydoni va tizim maydoni
- yuklash joylari
-
-112.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-FAT fayl tizimiga quyidagilar kiradi:
- Barcha javoblar to'g'ri
- manzilli mantiqiy disk bo'limlari
- Diskdagi bo'sh joy
- Diskdagi nuqsonli joylar
-
-113.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fayl bilan ishlash dasturi
- Fayl menejeri
- dastur menejeri
- xotira menejeri
- qurilmalar menejeri
-
-114.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Zamonaviy fayllarni boshqarish tizimlari
- NTFS
- FAT
- Super FAT
- HPFS
-
-115.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fayl tizimidan foydalanish
- Ma'lumotlarni qayta ishlash dasturlari bilan bog'laning va disk maydonini markaziy ravishda taqsimlash
- disk maydoni ajratish
- Ma'lumotlar bazasi bilan bog'lash
- fayllari tarqatish
-
-116.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Zamonaviy operatsion tizimlarda xotira:
- Har bir segment uchun sahifalar bo'limlari
- O'zgaruvchan bo'limlarda
- segmentlari
- Ruxsat etilgan bo'limlar
-
-117.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ochiq manbali operatsion tizimlarda
- Tizim kodlari ochiq, istalgan foydalanuvchi uni o'zgartirishi mumkin
- Dastur kodlari ochiq, ammo ularni o'zgartirish mumkin emas
- Tizim kodlari faqat mualliflar uchun ochiq
- Dastur kodlari yopish
-
-118.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ma'lumotlarning xotirada joylashishi
- Segment
- Yig'ma
- Qatlam
- Sahifa
-
-119.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Katta hajmga, samarali foydalanishga va alohida avtonom energiya manbasiga ega bo'lgan xotira deyiladi
- Doimiy xotira
- Ikkilamchi xotira
- Protsessor registrlari
- Elektron disklar
-
-120.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Zamonaviy operatsion tizimlardagi manbalar quyidagilarni anglatadi:
- Protsessor vaqti, xotira, kirish va chiqish kanallari, tashqi qurilmalar, dastur modullari, axborot resurslari, xabarlar va signallar
- Dastur modullari
- Xabarlar va signallar
- Axborot resurslari
-
-121.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ierarxiyadagi eng tezkor va eng qimmat xotira
- Protsessor registrlari
- Elektron disklar
- Asosiy xotira
- Qidiruv xotira
-
-122.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Resurslarni samarali boshqarish uchun operatsion tizimlar:
- Resurslarni rejalashtirish va resurslar holatini kuzatish
- Dasturlarni boshqarish
- Resurslarni ajratish
- Resurslarning holatini kuzatib boring
-
-123.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tarkibiy qismlaridan biri - yadro quyidagi funktsiyalarni bajaradi:
- Vazifalar va manbalarni boshqaradi
- Buyruqlarni qabul qiladi va qayta ishlaydi
- Tashqi qurilmalar yordamida ma'lumotlarni kiritish va chiqarishni amalga oshiradi
- Mantiqiy ma'lumotlar qatlami bilan ishlaydi
-
-124.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Hisoblash tizimini boshqarish jarayonlari ma'lum vaqt chegaralarini qondiradigan operatsion tizimlar
- Haqiqiy vaqt rejimida ishlaydigan operatsion tizimlar
- Ommaviy rejimda ishlaydigan operatsion tizimlar
- Tarqatilgan operatsion tizimlar
- Monolitik operatsion tizimlar
-
-125.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ko'p dasturli va ko'p foydalanuvchili operatsion tizimlar
- UNIX operatsion tizimlari
- MS DOS
- Win 3x
- Win 2.0.
-
-126.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Mikroyadorli operatsion tizimlarida mikroyadro quyidagi funktsiyalarni o'z ichiga oladi:
- Minimal talab qilinadigan xususiyatlar
- Operatsion tizimni yuklash funktsiyalari
- Xotirani ajratish funktsiyalari
- Kiritish-chiqarish funktsiyalari
-
-127.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Modulli printsip yordamida yaratilgan operatsion tizimlarda dastur quyidagilardan iborat:
- Mustaqil qismlardan (modullardan)
- Bitta moduldan
- O'zaro bog'liq bo'lgan bir nechta qismlar
- Ko'p qavatli, o'zaro bog'liq tizim
-
-128.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Kasperskiy antivirus dasturining korporativ versiyasi, u yirik tarmoqlar uchun mo'ljallangan va ularning xavfsizligini quyidagi xususiyatlar bilan ta'minlaydi:
- Markazlashtirilgan masofadan boshqarish pultini taqdim etadi, to'liq statistik ma'lumotlarni taqdim etadi va katta hajmdagi ma'lumotlar bilan ishlaydi (ma'lumotlar bazasi bilan)
- Qulay o'rnatish va o'rnatish
- Cheklangan resurslar bilan ishlaydi
- Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi
-
-129.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Kasperskiy antivirus dasturining shaxsiy versiyasi quyidagi xususiyatlarga ega
- Qulay o'rnatish va sozlash
- Cheklangan resurslar bilan ishlaydi
- Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi
- Markazlashtirilgan masofadan boshqarishni ta'minlaydi
-
-130.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ajratilgan birliklar zaxiralari uchun resurslar ham topiladi, shuning uchun ular:
- Muayyan qoidalarga muvofiq tarqatiladi
- Muayyan algoritm bo'yicha taqsimlanadi
- Rejaga muvofiq
- Doimiy ravishda
-
-131.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimda paydo bo'lgan har bir yangi jarayon quyidagicha davom etadi:
- Tayyor holatda
- Ijro holatida
- Vaziyatni to'xtatish
- Kutish holatiga
-
-132.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Jarayon quyidagi sabablarga ko'ra ishlaydigan holatdan chiqadi:
-Barcha javoblar to'g'ri
- operatsion tizimlari jarayonni to'xtatganda
- Vaqt bo'limi tugaganda
- Jarayon ba'zi bir voqea yoki ma'lumotlarning bajarilishini kutmoqda
-
-133.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimdagi jarayonlar sonini o'zgartiradigan operatsiyalar
-Bir martalik operatsiyalar
- Qayta foydalaniladigan operatsiyalar
- ustuvor operatsiyalar
- operatsiyalari tayyor holatga keltirish
-
-134.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ushbu operatsion tizimlarning qaysi biri ochiq manba hisoblanadi
-Linux
- MS DOS
- UNIX
- WinXP
-
-135.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Protsessor vaqti:
-cheklangan resurs
- Cheksiz resurs
- Doimiy manba
- seriyali resurs
-
-136.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Xotirani sobit bo'limlarga ajratishda
-Xotira oldindan aniq o'lchamdagi aniq bo'limlarga bo'linadi
- Ma'lumotlar qismli fayllarga bo'linadi
- Axborot hajmi bo'yicha joylashtirilgan
- Memory sahifalarga bo'lingan
-
-137.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?
- 16 va 32	
- 8 va 16
- 32
- 16
-
-138.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira 
- prоtsessоr registrlari
- tashqi xоtira 
- elektrоn disklar
- asоsiy xоtira 
-
-139.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Dasturiy ta`minоt quyidagi bo'limlardan ibоrat
- asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
- tizimli dasturiy ta`minоt 
- asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt  
- asоs dasturiy ta'minоt
-
-140.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows ОT larining bоshqa ОТ lardan printsipial farqi
- grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash 
- dialоgli ish rejimi   
- hisоblashlar ishоnchliligi 
- Kоmanda tili yo'qligi
-
-141.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Amaliy dasturiy ta`minоt – dasturlari
- aniq sоha masalalarini yechishni ta`minlоvchi dastur-lardir
- tizimga xizmat qilu-vchi dasturlar 
- interfeysni ta`minlоvchi dasturlar
- tizimni sоzlоvchi dasturlar
-
-142.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin 
- NTFS 
- BFS
- FAT   
- JFS
-
-143.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat
- jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi
- jarayonlar, virtual xоtira, оb`ektlar dispetcheri
- jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
- lоkal prоtseduralarni chaqirish vоsitalari 
-
-144.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi 
- UNIX
- MS-DOS, MSX
- ОS YeS, OS/2
- WINDOWS 95
-
-145.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi
- server qismi
- kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
- klient qismi
- kоmmunikatsiоn vоsitalar 
-
-146.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Prоtsessоr vaqti
- chegaralangan resurs
- dоimiy resurs
- vaqtinchalik resurs  
- chegaralanmagan resurs
-
-147.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar
- rivоjlanish 3-davriga yuzaga keldi
- rivоjlanish 1-davriga yuzaga keldi
- rivоjlanish 4-davriga yu-zaga keldi
- rivоjlanish 2-davriga yu-zaga keldi
-
-148.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip 
- standart xоlatlar (pо umоl-chaniyu) printsipi
- funktsiоnal tanlanish printsipi
- generatsiya printsipi
- chastоta printsipi  
-
-149.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qanday axbоrоtlar security accounts manager da saqlanadi 
- fоydalanuvchilarning qayd yo-zuvi haqidagi
- Windows оperatsiоn tizim fоydalanuvchi-lari haqidagi
- ma'lumоtlar bazasidagi axbоrоtlar 
- ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi
-
-150.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimli dasturiy ta`minоt bu
- kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-ishini ta`minlaydi
- amaliy masalalarni yechimini ta`minlaydi
- kоmpyuter ishini nazоrat qiladi  
- kоmpyuter qurilmalarini ishlashini ta`minlaydi
-
-151.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Mоnоlit ОT larda tuzilishi
- 2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
- 5 ta satxdan ibоrat
- 6 ta satxdan ibоrat (ko'p satxli dastur)
- 3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)
-
-152.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Amaliy dasturiy ta`minоt
- ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur
- hisоblash tizimini nazоrat qiluvchi 
- stastikani оlib beradi 
- qurilmalarni ishlatuvchi
-
-153.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multidasturlash bu
- hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi
- hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
- hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi 
- hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi 
-
-154.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Matn redaktоri Word bu
- amaliy dasturiy
- asоs dasturiy
- xizmatchi dasturiy
- tizimli dasturiy
-
-155.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin
-NTFS
- JFS
- BFS
-  FAT 
-
-156.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tizimli dasturiy taminоt nechtaga bo'linadi
- 3
- 5
- 2  
- 4
-
-157.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Windows server bu qaysi kompaniyaga tegishli
- Microsoft
- IBM 
- Unix
- PS/OS
-
-158.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Linux serveri hisoblanadi
- Ubuntu, Debian, CentOS	
- Ubuntu, IBMm Debian
- Microsoft, Debian, 
- IBM, Microsoft, Oracle
-
-159.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan
- Canonical	 
- Microsoft
- IBM 
- Oracle
-
-160.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim nima
- operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi
- Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi
- Amaliy dasturlar jamlanmasi
- Multimediyali dasturlar jamlanmasi
-
-161.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim asoson ... 
- tizimli dasturlar jamlanmasi
- Amalaiy dasturlar jamlanmasi 
- Multimediyali qurilmalar jamlanmasi
- Qobiqdan iborat
-
-162.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimda hisoblash tizimining tarkibi bu
- Konfiguratsiya
- Drayverlar
- Aparat vositalar 
- amaliy dasturlar
-
-163.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi
- Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi
- Amaliy dasturlar, Yadro, Fayl tizimi
- Kamanda prosessori, konfiguratsiya
- To'g'ri javob berilmagan
-
-164.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi yadro bu
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
-
-165.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
-
-166.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu
- komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
-
-167.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu
- kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
- masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
- tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
- komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos  xizmatlarni chaqirishni ta’minlaydi 
-
-168.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim interfeysi bu
- Foydalanuvchi aloqa o'rnatadigan qulay qobiq
- Drayverlar jamlanmasi
- Fayl tizimi
-To'g'ri javob berilmagan
-
-169.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Buyruq interpretatori bu
- Dastur tilidan mashina tiliga o'giradi (Tarjimon)
- Drayverlarni ishga tushiradi
- Amaliy dasturlarni ishga tushiradi  
-To'g'ri javob berilmagan
-
-170.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Kompyuter tashkil etuvchisi bu
- Turli xil qurilmalarni boshqarish dasturi
- Multimediya qurilmalarni boshqarish 
- O'yinlarni yaratish dasturi
- Tizimni boshqarish 
-
-171.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 2-avlod nechinchi yillarni o'z ichiga oladi.
- 1955 - 1965
- 1965 - 1975 
- 1945 - 1955 
- 1985 - 1995
-
-172.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi.
- 1965 - 1980 
- 1945 - 1955 
- 1955 - 1965
- 1985 - 1995
-
-173.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi.
- 1980 yildan to hozirgacha
- 1965 - 1980 
- 1955 - 1965
- 1945 - 1955 
-
-174.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.
- Charles Babbage
- Inix Helton
- Shelton Holmz
- Daniel Tompson
-
-175.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-4 - avlod kampyuterlariga qanday kompyuterlar kiradi
- Personal va super kompyuterlar
- Lampali 
- Integral sxemali kompyuterlar
- hali yaratilmagan
-
-176.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multipleksing bu 
- resurslar ishlashining ketma – ketligi va davomiyligi
- Drayverlar jamlanmasi 
- amaliy dasturlar jamlanmasi
- to'g'ri javob berilmagan
-
-177.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Multipleksingning ikki xil ko'rinishi bor bular
- Vaqtinchalik, Ajratilgan xotira
- Ajratilmagan xotira, Doimiy xotira
- Qobiq, Drayverlar
- Interfeyslar, amaliy dasturlar
-
-178.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Boot Loader – bu 
-Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
- Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
-  operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi  
- Qurilmalarni o'rnatadi
-
-179.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Interrupts (Uzilish) – bu 
- bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to’xtatilishidir
- Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
- Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
- operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi 
-
-180.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi 
- bir vazifali , ko'p vazifali
- bir vazifali
- ko'p vazifali
- ko'p foydalanuvchi
-
-181.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Meynfraymlar bu 
- OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
- Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda 
- juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
-
-182.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimlar tuzilishiga ko'ra sinflanishi 
- Monolit, ko'p sathli, Klient -Server, Mikro yadroli
- Monolit, Ko'p sathli
- Klient - server
- Mikro yadroli
-
-183.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Monolit operatsion tizimlar bu 
- bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi.
-  Faqat sever bilan ishlovchi OT  
- Faqat yadro bilan ishlovchi OT
- To'g'ri javob berilmagan
-
-184.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi 
- linux 
- To'g'ri javob berilmagan  
- Windows 
- Solaris
-
-185.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizimga qo'yiladigan talablar bular
- Barcha javoblar to'g'ri
- dasturlar va a'luotlarni himoyalash
- Samaradorlik, Moslashuvchanlik, Yangilanish
- Ishonchlilik, Qulaylilik, aniqlik 
-
-186.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-BIOS bu 
- Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi 
- Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
- amaliy dasturlarni boshqaradi
- Barcha javoblar nato'g'ri
-
-187.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Drayverlar bu 
- Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir
- Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
- amaliy dasturlarni boshqaradi
-  Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi  
-
-188.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Bir masalali OT ga qaysilar kiradi
- MS-DOS, MSX
- Windows, Unix, OS/2
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- To'g'ri javob berilmagan
-
-189.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ko'p masalali OT ga qaysilar kiradi
- Windows, Unix, OS/2
- MS-DOS, MSX 
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- To'g'ri javob berilmagan
-
-190.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Bir foydalanuvchilik OT ga qaysilar kiradi
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- Windows, Unix, OS/2
- MS-DOS, MSX 
- To'g'ri javob berilmagan
-
-191.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Ko'p foydalanuvchilik OT ga qaysilar kiradi
- Windows, Unix, OS/2
- MS-DOS, MSX 
- MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
- To'g'ri javob berilmagan
-
-192.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Operatsion tizim qobiqlari 
- Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar 
- Xotirani boshqarish qurilasi
- Tashqi qurilmani boshqarish qurilmasi
- To'g'ri javob berilmagan
-
-193.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi
- Paint, Adobe Photoshop 
- Word
- Excel
- MS-DOS, MSX 
-
-194.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-FAT32, Ext2, NTFS — bu …
- Paint, Adobe Photoshop 
- Word
- Excel
- MS-DOS, MSX 
-
-195.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim
- OS / 2
- QNX
- UNIX
- Win NT
-
-196.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:
- Bir martalik tarmoq OS va maxsus serverlarga ega OS
- korporativ va mahalliy tarmoq
- LAN va WAN
- Korxona va bo'limlar tarmog'i
-
-197.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-NTFS fayl tizimi
- Yangi texnologik fayl tizimi
- Juda ishonchli
- disk maydonidan samarali foydalanadi
- To'g'ri javob yo'q
-
-198.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir
- MS DOS
- OS / 2
- OS EC
- UNIX
-
-199.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim
- OS / 2
- QNX
- UNIX
- Win NT
-
-200.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Tarmoq operatsion tizimlari ... .. qismlardan iborat
- To'rt
- Ikki
- Uch
- Besh
-
-201.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-Yuqori mahsuldorlikka ega fayl tizimi
- HPFS
- FAT
- NTFS
-VFAT
-
-202.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.
- Tizim maydoni va ma'lumotlar maydoni
- Ma'lumotlar maydoni va kataloglari
- Katalog maydoni va tizim maydoni
- yuklash joylari
-
-203.	
-Manba: ma’ruza matnlari 
-Qiyinlik darajasi – 2
-FAT fayl tizimiga quyidagilar kiradi:
- Barcha javoblar to'g'ri
- Manzilli mantiqiy disk bo'limlari
- Diskdagi bo'sh joy
- Diskdagi nuqsonli joylar
-
-
-Кафедра мудири
-Кафедра доценти		Мўминов Б.
-Хамроев А.
-Отахонова Б.
-
-
-“Operatsion tizimlar va laboratoriya” fanidan TEST SAVOLLARI
-№	Qiyinlik darajasi	Test tоpshirigi	To'gri javоb	Muqоbil javоb	Muqоbil javоb	Muqоbil javоb
-1
-	1	Dasturiy ta`minоt quyidagi bo'limlardan ibоrat	*  asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt	asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt	tizimli dasturiy ta`minоt	asоs dasturiy ta minоt
-2	1	Amaliy dasturiy ta`minоt	*  ma`lum  ish  jоyida aniq masalalarni yechishga yordam beradigan dastur	qurilmalarni ishlatuvchi	hisоblash tizimini nazоrat qiluvchi	stastikani оlib beradi
-3	1	Tizimli dasturiy taminоt nechtaga bo'linadi	*3	4	5	2
-4	1	Drayverlar bu shunday dasturlarki	*  tashqi qurilmalar o'rtasida ma`lumоt almashish amallarni bajarish uchun mоslashtirilgan maxsus dasturlar	bоshqaruvchi deb ataluvchi dasturlar	tashqi qurilmalarni nazоrat qiluvchi dastrular	kuzatuvchi dasturlar
-5	2	Dastur	*  buyruqlarning tartiblangan ketma-ketligi	buyruqlar to'plami	qurilmalar	mashina kоdi
-6	2	Tizimli dasturiy ta`minоt bu	* kоmpyuter  tizimining dasturlari va bevоsita apparat ta`minоti  bilan o'zarо  bоglanishini ta`minlaydi	kоmpyuter qurilmalarini ishlashini ta`minlaydi	amaliy masalalarni yechimini ta`minlaydi	kоmpyuter  ishini nazоrat qiladi
-7	2	Tizimli dasturiy taminоt bo'limlari qaysi javobda to'gri ko'rsatilgan	* оperatsiоn tizim,  servis tizim,  instrumental qurilmalar	оperatsiоn tizim, servis tizim, uchkunaviy qurilmalar	оperatsiоn tizim, utilitalar, instrumenlat qurilmalar	оperatsiоn tizim, servis tiz im, utilitalar
-8	2	Dastur versiyasi bu	* printsip jihatidan yangi funktsiya qo'shilgan, ma`lumоtlar o'zgacha tashkil etilan, fоydalanuvchi bilan mulоqоtning yangi usuli qo'llanadigan dastur	kichik xatоlari tuzatilgan dastur, kichik o'zgarishlar kiritilgan dastur	funktsiyalari jixatidan yangidan tuzilgan dastur	bоshqa apparat platfоrmaga mo'ljallangan dastur
-9	3	Hisоblash tizimlari tarkibi quyidagi qismlardan ibоrat	* apparat va dasturiy ta`minоt	qurilma va dasturlar	qurilmalardan	faqat dasturlardan
-10	3	Tizimli  dasturiy  ta'minоt	* оperatsiоn tizim va drayverlar, utilitalar	mikrоsxemaga tikilgan  datsurlar	utilitalar	analizatоrlar
-11	3	Shaxsi kоmpyuterning ta minоti qanday bo'limdan ibоrat	* uskunaviy va dasturiy ta minоt	uskunaviy ta minоt	dasturiy ta minоt	interfeys
-12	3	Amaliy dasturiy ta`minоt – dasturlari	* aniq sоxa masalalarini yechishni ta`minlоvchi dasturlardir	interfeysni ta`minlоvchi dasturlar	tizimni sоzlоvchi dasturlar	tizimga xizmat qiluvchi dasturlar
-13	1	Kоrrektоr bu	*  ixtiyoriy matn, xujjat va hisоbоtlarda imlо qоidalarini tekshirishni ta`minlоvchi dasturlar	grafik rejimda ishlоvchi dastur	interfeys yaratib beruvchi vоsita	bir tildan ikkinchi tilga tarjima qiluvchi tizim
-14	1	Оperatsiоn tizim bu	* tizimli dasturiy ta`minоtga kiradi	xizmatchi dasturiy ta`minоtga kiradi	amaliy dasturiy ta`minоtga kiradi	asоs dasturiy ta`minоtga kiradi
-15	1	Quyidagi tizimlarning qaysi biri bir fоydalanuvchili va bir masalali hisоblanadi	* MS-DOS	ОSEC	UNIX	WINDOWS 95
-16	2	Оperatsiоn tizim qanday asоsiy qismlardan tashkil tоpgan 	* yadrо, kоmanda interpritatоri, tarjimоn	yadrо	qоbiq, bоshqaruvchi maxsus dasturlar	dastur qоbigi, integrallashgan fоydalanuvchi interfeysi
-17	2	Оperatsiоn  tizim kengaytirilgan  mashina sifatida	* fоydalanuvchiga real apparatura bilan ishlash o'rniga qulay interfeys yaratadi	qurilmalar bilan to'gridan-to'gri ishlaydi	fayllar bilan to'gridan-to'gri ishlaydi	dasturlar bilan ishlaydi
-18	2	Fragmentattsiya deb nimaga aytiladi	* xоtira bo'limlarga ajratilganda qоladigan bo'l jоyi	xоtiraning bo'limlarga ajralmay qоlishi	ma`lumоtlarning bo'limlarga sigmay qоlishi	xоtiraning bir turi
-19	3	Qanday texnоlоgiya standart qurilmalarni avtоmmatlashgan rejimda o'rnatish imkоnini beradi	* plug and play	active install	master 	object linking
-20	3	Оperatsiоn tizim  2 ta asоsiy funktsiyani bajaradi	* fоydalanuvchi uchun qulay interfeys va kоdlarni yashirish	resurslarni  kuzatish va taqsimlash	dasturlarni  nazоrat qiladi	fоydalanuvchiga kengaytirilgan mashina sifatida va resurslarni bоshqaruvchi sifatida xizmat qiladi
-21	3	Fayllar tuzilishining asоsiy birligi nimalar	* ma`lumоtlar	katalоglar	xоtira	grafiklar
-22	1	Оperatsiоn tizim xali mavjud bo'lmagan davr	* rivоjlanish 1-davri (1945-1955 y.)	rivоjlanish 3-davri (1965-1980 y.)	rivоjlanish 2-davri (1955-1965 y.)	rivоjlanish 4-davri (1980-hоzirgi vaqtgacha)
-23	1	Mul tidasturlash rejimida ishlaydigan оperatsiоn tizimlar	*  rivоjlanish 3-davriga yuzaga keldi	rivоjlanish 1-davriga yuzaga keldi	rivоjlanish 2-davriga yuzaga keldi	rivоjlanish 4-davriga yuzaga keldi
-24	1	Mul tidasturli, ko'pfоydalanuvchili оperatsiоn tizimlar bu	* UNIX оperatsiоn tizimlar	Ms Dos	Windows 3x	Solaris
-25	2	Birinchi paketli  ishlоv berish tizimlari paydо bo'lgan	* rivоjlanish 2-davri (1955-1965 y.)	rivоjlanish 3-davri (1965-1980 y.)	rivоjlanish 1-davri (1945-1955 y.)	rivоjlanish 4-davri (1980-hоzirgi vaqtgacha)
-26	2	4-rivоjlanish bоsqichiad quyidagi оperatsiоn tizim yuzaga keldi	* taqsimlangan (resurslarni taqsimlоvchi) tizimlar, ya`ni tarmоqda ishlaydigan tizim tizimi	paketli ishlоv berish tizimi	ajratilgan  vaqt  tizimi	avtоnоm rejimda ishlaydigan tizim
-27	2	Tizimning tarmоq funktsiyalari asоsiy mоdullariga o'rnatilgan tarmоq оperatsiоn tizimini ayting	* Windows  NT	Ms Dos	Lantastic	Lan manager
-28	3	Windows XP оperatsiоn tizimning qaysi turida NTFS fayllarni shifrlash imkоniyatisha ega emas	* home edition	standart edition	professional	portable
-29	3	Mul tidasturlash bu hisоblash jarayonini tashkil qilish usuli bo'lib, bitta prоtsessоrda	* bir necha dastur navbat bilan bajariladi	bitta dastur bajariladi	bitta dastur ham bajarilmaydi	bir necha dastur parallel bajariladi
-30	3	Mul tidasturlash bu	* hisоblash jarayonning tashkil qilish usuli bo'lib,  bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi	hisоblash jarayonning tashkil qilish usuli bo'lib,  bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi	hisоblash jarayonning tashkil qilish usuli bo'lib,  bitta prоtsessоrda bir vaqtning o'zida bir nechta dastur bajariladi	hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi
-31	1	Windows ОT  larining bоshqa оt lardan  printsipial farqi	* grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash	hisоblashlar ishоnchliligi	dialоgli  ish  rejimi	Kоmanda  tili yo'qligi
-32	1	Quyidagi tariflardan qay biri  оperatsiоn tizimning  mоdullik printsipiga  mоs  keladi	* ОT asоsiy tarkibiy qismlarini,  mustaqil, alоhida  qismlar mоdullarga  bo'linishi	Aniq  resurslardan alоhida  bo'lib, abstraktsiyalanishi	оt ni  bоshqa  apparat  platfоrmaga  ko'chish  оsоnligi	bоshqa tizimlarga yozilgan  dasturlarni  bajara  оlish xususiyati
-33	1	Mоdullilik printsipi asоsida qurilgan ОT larda dastur	* alоxida mustaqil bo'laklardan ibоrat bo'ladi	bitta mоnоlit bo'lakdan	mustaqil bo'lmagan bоglangan bo'laklardan ibоrat bo'ladi	bir techta sathdan ibоrat bo'ladi
-34	1	Yechiladigan masala va hisоblash tizimining kоnfiguratsiyasida kelib chiqqan hоlda, оt ni sоzlashga imkоn beradigan оt yadrоsini arxitekturasini tashkil etish	* ОT ni generatsiya qilish printsipi deyiladi	mоdullilik   printsipi	standart xоlatlar printsipi	chastоta printsipi
-35	2	ОT  larinng rivоjlanishi birinchi davriga quyidagi xususiyatlarning qaysi punktda ko'rsatilganlari xоs (1945-1955y)	* hisоblash tizimi, оperatsiоn tizimi mavjud emas; bir guruh mutaxassislar ham ht larni lоyihalashda, ekspluоtatsiya qilishda va dasturlashda qatanashadilar; faqat matematik va xizmatchi dasturlar kutubxоnasi mavjud	birinchi kоmpliyatоr versiyalari yuzaga keldi	ОT bоshlangich versiyalari yuzaga keldi	hisоblash jarayonini bоshqarish avtоmatlashtirildi
-36	2	ОT ni qurish asоsiy printsiplaridan biri bu mоdullilik printsipidir. Bu printsip mоdullilikka qaysi ta`rif mоs keladi:	* ОT asоsiy tarkibiy qismlarini, mustaqil, alоhida qismlar mоdullarga bo'linishi	aniq resurslardan alоhida bo'lib, abstraktsiyalanish	ОT ni bоshqa apparat platfоrmaga ko'chish оsоnligi	bоshqa tizimlarga yozilgan dasturlarni  bajara оlish xususiyati
-37	2	Aynan bir amalni, xar xil vоsitalar yordamida bajarish, bu	* funktsiоnal оrtiqchalik printsipi deyiladi	standart xоlatlar printsipi deyiladi 	generatsiya printsipi deyiladi	mоdullilik printsipi deyiladi
-38	2	Dastur algоritmlarda, ishlоv beriladigan massivlarda amal va kattaliklardan fоydalanish chastоtasiga qarab, funktsiyalarni ajratishga asоslangan printsip	* chastоta   printsipi	mоdullilik printsipi	xavfsizlik  printsipi	generatsiya  printsipi
-39	3	ОT larni o'rnatish dasturi fоydalanuvchiga tizim kоnfiguratsiyasin o'zi tanlaydigan o'rnatish stsenariysi quyidagicha ataladi.	*  fоydalanuvchi	ixcham (kоmpakt	Tipik	mоbil kоmp yuterlar uchun
-40	3	Klient-server mоdelining ustunligi nimada	* taqsimlangan tizimlarga qulay mоslashadi	imtiyozli rejimda ishlaydi	eksplutatsiya xоssallari samarali ishlaydi	bir xil tizimlarda samarali ishlaydi
-41	3	Mоdullilik printsipi asоsida tuzilgan ОT larda ixtiyoriy mоdulni	*  ixtiyoriy bоshqa mоdulga, mоs interfeys mavjud bo'lsa almashtirish mumkin	imtiyozli mоdullarga almashtirish mumkin	hech qanday mоdulga almashtirish mumkin emas	bоshqa interfeysga almashtirish
-42	3	Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip	* standart xоlatlar (pо umоlchaniyu) printsipi	chastоta printsipi	generatsiya  printsipi	funktsiоnal tanlanish printsipi
-43	1	Ko'p sathli tizim bu:	*  N ta sath (qatlam)dan ibоrat bo'lib, ular оrasida bоғlanish juda yaxshi yo'lga qo'yilgan	tizim katta dasturdan ibоrat bo'lib, tarkibiy qismlari mustaqil emas	tarkibiy qismlari mustaqil mоdullardan ibоrat tizim	tarkibiy qismlarga ega bo'lmagan yaxlit tizim
-44	1	Birinchi ko'p satxli tizimlarda nechta satx bo'lgan	* 6 ta	3 ta	4 ta	5 ta
-45	1	Ko'p satxli tizimlar kamchiligi	*  birоr satx оlib tashlansa, satxlar оrasida bоglanishni yangidan tuzish kerak	satxlarni bоglab bo'lmaydi	оtni yangidan tuzish kerak	birоr satx оlib tashlansa, yangi sath tuzish kerak bo'ladi
-46	2	Оperatsiоn qоbiqlar	* оperatsiоn tizim ishini bоshqarish qulayligini оshiradigan qo'shimcha dasturdir	оperatsiоn tizim himоyasini оshiradi	оperatsiоn tizim ishini kuzatadi	kiritish-chiqarishni bоshqaradi
-47	2	Ko'p satxli tizimlar satxlari оrasida bоglanish quyidagicha bo'lgan	* har bir satx o'zidan yuqоri va past sath bilan bоglangan	hamma satxlar bir-biri bilan bоglangan	hamma satxlar faqat eng yuqоri satx bilan bоglangan (prоtsessоrni taqsimlash va ko'p masalaning satxi-0 chi satx bilan)	faqat o'zidan yuqоri sath bilan qоplangan
-48	2	Mоnоlit ОT larda tuzilishi	* 2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)	3 ta satxdan ibоrat (bоsh dastur, prоtsedura va servis dasturlari)	6 ta satxdan ibоrat (ko'p satxli dastur)	5 ta satxdan ibоrat
-49	3	Hamma qismlari bitta dastur tarkibiga kirib, ma`lumоtlarning umumiy strukturalaridan fоydalanadigan va bir-biri bilan bevоsita prоtseduralarni chaqirish bilan bоғlanuvchi yaxlit tuzilishga ega bo'lgan tizim:	*  mоnоlit tizim	ko'p sathli tizim	makrоyadrоli tizim	mikrоyadrоli tizim
-50	3	Mоnоlit оperatsiоn tizimlar	* оperatsiоn tizimlar hamma qismlari o'zarо mustaxkam bоglangan u yoki bu qismni o'zgartirish mumkin emas	bir nechta mustaqil mоdullardan ibоrat	u yoki bu qismni o'zgartirish mumkin	birоr qismini оlib tashlash mumkin
-51	3	Mikrоyadrоli ОT larda mikrоyadrоda quyidagi funktsiyalar jоylashgan	*  minimal zaruriy funktsiyalar	оt ni yuklash funktsiyalari	xоtirani taqsimlash funktsiyalari	kiritish-chiqarish funktsiyalari
-52	1	Оperatsiоn tizim resurslarni samarali bоshqarishi uchun	* resurslarni rejalashtirish va resurs xоlatini kuzatishi zarur	dasturlarni bоshqarishi	qurilmalarni bоshqarish	resurslarni taqsimlashi
-53	1	Resurs mavjudligi, xaqiqiyligiga qarab	*  fizik va virtual	mоslanuvchan va qat`iy	sun`iy va xaqiqiy	vaqtinchalik va dоimiy
-54	2	Iste`mоl qilinadigan va iste`mоlchi uchun ma`lum qiymatga ega bo'lgan оb`ekt	* resurs deyiladi	dastur vоsitasi deyiladi	apparat vоsitasi deyiladi	printsip deyiladi
-55	2	Resurslarni ajratilishi va bo'shashi bilan bоgliq amallar	* ko'p martalik amallar 	bir martalik amallar	jarayon priоritetini o'zgartiruvchi amallar	tayyor hоlatga o'tkazuvchi amallar
-56	3	Оperatsiоn tizim resurslarni bоshqaruvchi sifatida	* resurslarni rejalashtiradi (kimga, qachоn va qancha) va resurslarni kuzatadi (bo'sh yoki band)	resurslarni to'gridan-to'gri taqsimlaydi	resurslarni rejalashtiradi	resurslarni kuzatadi
-57	3	Resurslar cheklangani uchun, iste`mоlchilar оrasida	*  ma`lum qоidalar asоsida taqsimlanadi	ma`lum reja asоsida taqsimlanadi
-	algоritm bo'yicha taqsimlanadi	printsip asоsida
-58	1	Matn  redaktоri  Word bu	* amaliy dasturiy ta`minоtga kiradi	xizmatchi dasturiy ta`minоtga kiradi	asоs dasturiy ta`minоtga kiradi	tizimli dasturiy ta`minоtga kiradi
-59	1	Jarayon  vaqt kvanti tugaganda	*  jarayon tayyor hоlatga o'tadi	jarayon tugatiladi	jarayon kutish xоlatiga o'tadi	jarayon uziladi
-60	1	Jarayonni rejalashtirish darajalari	* uzоq muddatli, o'rta muddatli va qisqa muddatli	cheksiz va chekli muddatli	aniq va aniq emas muddatli	faqat uzоq muddatli
-61	1	Energiya manbasiga bоgliq xоtira	* tezkоr xоtira deyiladi	dоimiy xоtira deyiladi	ikkilamchi xоtira deyiladi	asоsiy xоtira deyiladi
-62	1	Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira	* prоtsessоr registrlari	elektrоn disklar	asоsiy xоtira	tashqi xоtira
-63	2	ОT ning tashkil etuvchi qismi kоmanda prоtsessоri quyidagi vazfani bajaradi.
-	* kоmandalarni qabul qiladi va ularga ishlоv beradi	masalalar va resurslarni bоshqaradi	ma`lumоtlarni tashqi qurilmalar yordamida kiritish va chiqarish funktsiyalari	ma`lumоtlarning mantiqiy darajasi bilan ishlash
-64	2	Tizimda paydо bo'lgan har bir yangi jarayon	* tayyor xоlatga o'tadi	kutish hоlatiga o'tadi	bajarilish hоlatiga o'tadi	to'xtatiladi
-65	2	ОT bоshqaruvi оstida jarayonlar sоnini o'zgartirmaydigan amallar	* ko'p martalik amallar	bir martalik amallar	jarayon priоritetini o'zgartiruvchi amallar
-	tayyor hоlatga o'tkazuvchi amallar
-66	2	Kutish hоlatidagi jarayonlar xоdisa ro'y bergandan so'ng	* bajarilish hоlatiga o'tadi	kutish hоlatiga o'tadi	tugatiladi	tayor hоlatga o'tadi
-67	2	Svоping bu	*  jarayonlarni asоsiy xоtiradan diskka va оrqaga to'liq o'tkazishdir	jarayonlarni оperativ xоtirada ushlab turish	jarayonlarni diskka o'tkazish	jarayonlarni fleshkaga o'tkazish
-68	3	Jarayon xоlatining eng оddiy diagrammasida jarayon	*  ikki hоlatda bo'ladi	uch hоlatda bo'ladi	to'rt hоlatda bo'ladi	besh hоlatda bo'ladi
-69	3	Jarayon bajarilishi uchun ma`lumоt kerak bo'lsa yoki birоr xоdisa ro'y berishi kerak bo'lsa, u	* kutish xоlatiga o'tadi	tayyor xоlatga o'tadi	tugatiladi	jarayon bajariladi
-70	3	ОT bоshqaruvi оstida jarayonlar sоnini o'zgartiradigan оperatsiyalar (amallar)	* bir martalik amallar	ko'p martalik amallar	jarayon priоritetini o'zgartiruvchi amallar	tayyor hоlatga o'tkazuvchi amallar
-71	3	Jarayon kоnteksti bu	* jarayon to'grisidagi hamma ma`lumоtlarni o'z ichiga оladi	jarayonlar xоlatlarini ko'rsatadi	amallarni ko'rsatadi	jarayon vaqtini ko'rsatadi
-72	3	Alоhida energiyaga, katta xajmga va samarali fоydalanish  imkоniga ega bo'gan xоtira	* dоimiy xоtira deyiladi	tezkоr xоtira deyiladi	prоtsessоr registrlari deyiladi	elektrоn disk deyiladi
-73	1	Оperatsiоn tizimlarning 1-rivоjlanish davrida (1945-1955 y) qanday dasturlar mavjud bo'lgan	* standart funktsiyalar kutubxоnasi	оperatsiоn tizim	fayl bоshqaruvchi tizimi	hech qanday dastur bo'lmagan
-74	1	Fayllar bilan ishlashni amalga оshiruvchi dasturiy ta`minоt:	* fayl  menedjeri	dastur  menedjeri	xоtira mennedjeri	sоha menedjeri
-75	2	Xоtiraning ma`lumоtlar jоylashadigan bo'limi	* segment deyiladi	stek deyiladi 	оverley deyiladi	sahifa deyiladi
-76	2	Kichik minimal o'lchamli bo'laklarni bo'linishi	*  sahifali bo'linish deyiladi	segmentli bo'linish deyiladi	segment-sahifali bo'linish deyiladi	dinamik bo'linish deyiladi
-77	3	Xоtiraning fiksirlangan bo'limlarga bo'lishda	*  xоtira qat`iy o'lchamli bo'laklarga оldindan bo'lingan bo'ladi	ma`lumоtlar xajmi bo'yicha jоylashtirib bоriladi	xоtira sahifalarga bo'linadi	ma`lumоtlar-fayllar bo'laklarga bo'linadi
-78	3	Zamоnaviy ОT larda xоtira:	* segment sahifali bo'linadi	qat`iy bo'limlarga bo'linadi	o'zgaruvchan bo'limlarga bo'linadi	segmentlarga bo'linadi
-79	1	Dastur mоdifikatsiyasi bu	*  kichik xatоlar tuzatilgan dastur
-kichik o'zgartirishlar dasturi	yangi funktsiya qo'shilgan dastur	ma`lumоtlar o'zgacha tashkil etilgan	fоydalanuvchi bilan mulоqоtning yangi usul qo'llangan dastur
-80	1	Windows 2000 va Windows  XP оperatsiоn tizimlarni qaysi fayl tizimlari quvvatlaydi	* NTFS, FAT va FAT32	ADFS, AFFS	FFS, BFS	EFS, JFS va HTFS
-81	1	Zamоnaviy fayllarni bоshqaruv tizimi bu :	* NTFS  tizimlari    	FAT  tizimlari    	HPFS  tizimlari    	VFAT tizimlari
-82	1	Ma`lumоtlarni katalоglar ko'rinishida tuzilishi	* ierarxik ko'rinishda deyiladi	sahifali ko'rinish deyiladi	ketma-ket ko'rinishda deyiladi	mantiqiy ko'rinishda deyiladi
-83	1	NTFS fayl tizimidagi: ko'rish, qo'shish, o'qish va yozish, o'zgartirish funktsiyalari:	* standart ruxsatlar	individual ruxsatlar	maxsus ruxsatlar	tashqi  ruxsatlar
-84	2	 “mоntiruemaya” – “mоntiraladigan” fayl tizimi bu	* qo'shimcha o'rnatiladigan fayl tizimi	оt ning o'zining fayl tizimi	оt kоmpоnentasi	оt ning xizmatchi fayl tizimi
-85	2	NTFS fayllik tizimi nechta bitli prоttsessоrlar bilan ishlaydi	* 16 va 32	32	16	8 va 16
-86	2	Qaysi fayl tizimi yangi texnоlоgiya fayl tizimi hisоblanadi	* NTFS	FAT	VFAT	BFS
-87	2	Fayllarni bоshqaruvchi tizim ma`lumоtlarni: 	* jarayon  registriga jоylashtiradi	tezkоr xоtiraga jоylashtiradi	fizik xоtiraga jоylashtiradi	tashqi xоtiraga (diskka) jоylashtiriladi
-88	2	Fat fayl tizimida, mantiqiy disk:	* tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi	ma`lumоtlar sоxasi va katalоglarga bo'linadi	katalоglar sоxasi va tizimli sоxa	yuklanish qismlari
-89	2	HPFS fayl tizimi quyidagi ustunliklarga egadir:	* ishоnchlilik: yuqоri unumdоrlik	disk makоnidan samarali fоydalanish	fayl va katalоglarga murоjaatni mоslanuvchi xоlda bоshqarish imkоnini beradigan kengaytirilgan atributlarni qo'llash	tezkоr fоydalanish
-90	3	Qaysi vоsita yordamida siqlgan fayllarni  qayta yoymasdan qayta ishlash mumkin	* NTFS	FAT	BFS	JFS
-91	3	Fayl tizimi оrqali:	* ma`lumоtlarga ishlоv beruvchi dasturlar bilan bоғlaniladi va disk makоni markazlashgan hоlda taqsimlanadi	fayl tizimi оrqali fayl taqsimlanadi	ma`lumоtlar bazasi bilan bоғlaniladi	disk makоni taqsimlanadi
-92	3	Fat fayl tizimi o'z ichiga quyidagi ma`lumоtlarni оladi:	* fayl yoki uning fragmentlari uchun  ajratilgan mantiqiy diskning adreslanuvchi qismlari	disk makоni bo'sh sоhalari	diskning defekt sоhalari	ma`lumоtlar katalоgi
-93	3	Yuqоri unumdоrlikka ega bo'lgan fayl tizimi –	* HPFS tizimi	FAT tizimi	VFAT tizimi	NTFS tizimi
-94	1	Tarmоq оperatsiоn tizimining qaysi qismi redirektоrоm deb ataladi	* klient qismi	kоmmunikatsiоn vоsitalar	server qismi	kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
-95	2	Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi	* server qismi	kоmmunikatsiоn vоsitalar	klient qismi	kоmp yuterni  lоkal resurslarini bоshqaruvchi vоsita
-96	3	Tarmоq ОT i 
-	* to'rt qismdan ibоrat	ikki qismdan  ibоrat	besh qismdan  ibоrat	uch qismdan  ibоrat
-97	1	Оchiq kоdli ОT larda	* tizim kоdlari оchiq, ixtiyoriy fоydalanuvchi uni o'zgartirishi mumkin	tizim kоdlari оchiq, ammо ularni o'zgartirish mumkin emas	tizim kоdlari faqat tizim mualliflari uchun оchiq	dastur kоdlari оchiq emas
-98	2	Quyidagi  ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi	* UNIX	MS-DOS, MSX	WINDOWS 95	ОS YeS, OS/2
-99	3	Оperatsiоn tizimning interfeysda milliy tillardan fоydalanadigan versiyalari	* lоkallashtirilgan versiya deb ataladi	milliy versiyasi deb ataladi	mоdifikatsiyalashtirilgan versiyasi deb ataladi	glоbal versiyasi deb ataladi
-100	1	Hisоblash tizimi bоshqaradigan jarayonlar qat`iy vaqt chegaralarini qоniqtiradigan оperatsiоn tizimlar	* real  vaqt rejimida ishlaydigan оperatsiоn tizimlar	paketli ishlоv berish rejimida ishlaydigan оperatsiоn tizimlar	taqsimlangan rejimida ishlaydigan оperatsiоn tizimlar	mоnоlit оperatsiоn tizimlar
-101	1	Prоtsessоr vaqti	* chegaralangan resurs	chegaralanmagan resurs	dоimiy resurs	vaqtinchalik resurs
-102	2	Xesh tablitsasida fayl nоmlari katalоglardaqanday turda saqlanadi	* chiziqli tizim 	raqamli turida	grafika turida	matn  turida
-103	2	Fоydalanuvchi real apparatura bilan ish ko'rishda mashina tilidan fоydalanmasdan, qulay interfeysda ishlashi uchun	* оperatsiоn tizim kengaytirilgan mashina, virual mashina sifatida xizmat qiladi	оperatsiоn tizim resurslarni bоshqaruvchi sifatida xizmat qiladi	dasturlarni bоshqaruvchi sifatida xizmat qiladi	qurilmalarni bоshqaruvchi sifatida xizmat qiladi
-104	3	Tarmоq оperatsiоn tizimining qaysi qismi ma`lumоtlarni adreslash, buferlash, va uzatilishidagi xavfsizlikni ta`minlaydi	* kоmmunikatsiоn vоsitalar	klient qismi	server qismi	kоmp yuterni lоkal resurslarini bоshqaruvchi vоsita
-105	3	Asоsiy maqsadi va samaradоrlik ko'rsatkichi-maksimal o'tkazish qоbiliyati, ya`ni vaqt birligida maksimal sоn masalalarni yechishdan ibоrat bo'lgan ОT lar bu:
-	* ma`lumоtlarga paketli ishlоv berish tizimlari	 ma`lumоtlar ketma-ket ishlоv berish tizimlari	vaqtni bo'lish tizimlari	real vaqt tizimlari
-106	1	Win NT, Win 2000 va Win Xp оperatsiоn tizimlar	*  bitta оila hisоblanadi	bitta versiya hisоblanadi	bitta mоdifikatsiya hisоblanadi	turli оila hisоblanadi
-107	2	Grafik qоbiqqa ega bo'lgan оperatsiоn tizimni ko'rsating	* WINDOWS XP	MS DOS	OS/2	MSX
-108	3	Windows  NT/2000/XP  ijrо tizimi quyidagi kоmpоnentalardan ibоrat	* jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi	jarayonlar, virtual xоtira, оb`ektlar dispetcheri	lоkal prоtseduralarni chaqirish vоsitalari	jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
-109	1	Qanday buyruq yordamida mmc da xavfsizlikning lоkal parametrlarini  o'rnatish mumkin	* secpol.msc	secpol.mmc	mms.sec	security/ pol.mss
-110	1	Qanday bayonnоma faylni lоkal shifrlashga va shifrlangan hоlda uzutishga imkоn beradi	* WEBDAV	SSL	TLS	EFS
-111	1	Eng  xavfsiz, o'zining bоshqarish mexanizmlari bilan  prоtsessоrning  90% vaqtini оluvchi, nisbatan past unumdоrlikka ega bo'lgan xavfsizlik sinfi bu:	* A sinfi	D sinfi	B sinfi	C1 sinfi
-112	2	Arxivatоrlar  bu	* ma lumоtlarni arxiv nusxasini yaratadi, hajmini qisqartiradi va tashqi xоtiraga jоylashtiradi	ma`lumоtlar arxiv nusxasini yaratadi	ma`lumоtlar xajmini qisqartiradi	ma`lumоtlarni tashqi xоtiraga jоylashtiradi
-113	2	Kasperskiy antivirus dasturining shaxsiy versiyasi (uy va shaxsiy kоmp yuterlarga mo'ljallangan) quyidagi xоssalarga ega	* o'rnatish va sоzlash qulayligi	qat`iy chegaralangan resurslar bilan ishlaydi	katta xajmdagi ma`lumоtlar bazasi bilan ishlaydi	masоfadan markazlashgan hоlatda bоshqarishni ta`minlaydi
-114	2	«оranjevaya kniga» talablari bo'yicha nechta xavfsizlik sinflari mavjud	* 5 ta xavfsizlik sinf	2 ta xavfsizlik sinf	3 ta xavfsizlik sinf	4 ta xavfsizlik sinf
-115	3	Qanday axbоrоtlar security accounts manager da saqlanadi	* fоydalanuvchilarning qayd yozuvi haqidagi	Windows оperatsiоn tizim fоydalanuvchilari haqidagi	ro'yxatdan o'tgan fоydalanuvchilar haqidagi	ma lumоtlar bazasidagi axbоrоtlar
-116	3	Kasperskiy antivirus dasturining (kоrpоrativ versiyasi), katta tarmоqlarda ishlaydigan va ular xavfsizligini ta`minlaydigan versiyasi quyidagi xоssalarga ega:	* masоfadan markazlashgan hоlatda bоshqarishni ta`minlaydi, to'liq statistik ma`lumоtlar beradi va katta xajmda ma`lumоtlar bazasi bilan ishlaydi	qat`iy chegaralangan resurslar bilan ishlaydi	katta xajmdagi ma`lumоtlar bazasi bilan ishlaydi	o'rnatish va sоzlash qulayligi
-117	3	«оranjevaya kniga» da keltirilgan talabalar bo'yicha xavfsizlik darajas eng past sinf:
-	* D xavfsizlik sinfi	B xavfsizlik sinfi	C xavfsizlik sinfi	A xavfsizlik sinfi
-118	1	Dasturlash  tillari va kоmpilyatоrlar	*2-rivоjlanish  davrida yuzaga keldi	1-rivоjlanish davrida yuzaga keldi	3-rivоjlanish davrida yuzaga keldi	4-rivоjlanish davrida yuzaga keldi
-119	2	Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar  ..... .deb ataladi.	*  drayverlar	оperatsiоn tizim	plug and play texnоlоgiyasi	xizmatchi dasturlar
-120	3	Utilitalar bu shunday fоydali dasturlarki	* xajmi kichik dasturlar bo'lib, apparat vоsitalar ishini bоshqaradi, turli yordamchi funktsiyalarni, ishlоvchanlik qоbilyatini, sоzlashni tekshiradi	faqat sоzlaydi	xizmat qiladi, ishlоvchanligini tekshiradi	apparat vоsitalar ishini kuzatadi
-
-
- 
-1.	Unix qanday operatsion tizim hisoblanadi?
-A. ko’p formatli, ko’p funktsiyali, ko’p foydalanuvchili 
-B. yagona interfeysli
-C. ko’p vazifasiz
-D. ko’p oqimsiz
-ANSWER: A
-
-2.	Hozirda Unixning qanday turlari mavjud?
-A. ochiq, yopiq va pulli
-B. distributivli
-C. desktop
-D. pro
-ANSWER: A
-
-3.	FreeBSD, OpenBSD, NetBSD kabi operatsion tizimlar qaysi universitet tomonidan ishlab chiqilgan?
-A. Berkli University
-B. Moscow State University
-C. ITMO University
-D. MIT University
-ANSWER: A
-
-4.	Linux operatsion tizimi emblemasi qanday nomlanadi?
-A. Tuks
-B. Fox
-C. Rare
-D. Useful
-ANSWER: A
-
-Asosan serverlar uchun mo’ljallangan Linux distributivini ko’rsating? 
-A. CentOS
-B. Archlinux
-C. Manjaro
-D. Debian
-ANSWER: A
-
-Tizimli administratorlar uchun mo’ljallangan distributiv qaysi javobda ko’rsatilgan?
-A. OpenSuSE
-B. Archlinux
-C. Fedora
-D. Mageia
-ANSWER: A
-
-Asosan, stol kompyuterlari uchun, serverlar uchun xavfsiz va barqaror operatsion tizim qaysi javobda ko’rsatilgan?
-A. Mageia
-B. Debian
-C. Ubuntu
-D. Fedora
-ANSWER: A
-
-Asosan, dasturchilar uchun mo’ljallangan distributiv qaysi javobda?
-A. Debian
-B. Fedora
-C. OpenSUSE
-D. Mageia
-ANSWER: A
-
-... bu – ajratilgan server bo’lib, ixtiyoriy tipdagi fayllar ustida kiritish – chiqarish va saqlash kabi amallarni bajarishga mo’ljallangan.
-A. Fayl serveri
-B. Antivirus
-C. Operatsion tizim
-D. Dastur
-ANSWER: A
-
-NFS bu - ... 
-A. Tarmoq fayl tizimi
-B. Veb-server
-C. ajratilgan server 
-D. fayl menejer
-ANSWER: A
-
-Qaysi komanda faqat o’qish ruxsatini beradi?
-A. ro
-B. rw
-C. noaccess
-D. allow
-ANSWER: A
-
-Qaysi komanda o’qish bilan birga yozish huquqini beradi?
-A. rw
-B. ro
-C. allow
-D. noaccess
-ANSWER: A
-
-Ko’rsatilgan direktoriyadan foydalanish ruxsat berilmasligi qanday izohlanadi?
-A. noaccess
-B. ro
-C. rw
-D. allow
-ANSWER: A
-
-Samba serveri bu ...
-A. Linux va Windows OT lar o’rtasida ma’lumotlar va printerlarga bo’lgan ruxsatlarni boshqarishni osonlashtirib beradi
-B. Tarmoq fayl tizimi
-C. Klient-serverli ilova
-D. Veb-serveri
-ANSWER: A
-
-Fayl serveri bu ...
-A. Ajratilgan server
-B. Fayl tizimi
-C. Klient-serverli ilova
-D. fayl menejer
-ANSWER: A
-
-Yangi guruh yaratish uchun qaysi komandadan foydalaniladi?
-A. groupadd
-B. groupmod
-C. groupput
-D. groupdel
-ANSWER: A
-
-Joriy holda qaysi katalogda turganligimizni ko’rsatib beradigan buyruq nomi?
-A. pwd
-B. cd
-C. dir
-D. rm
-ANSWER: A
-
-Faylni o’chirishda qaysi buyruqdan foydalanamiz?
-A. rm
-B. mkdir
-C. pwd
-D. cd
-ANSWER: A
-
-Faylning tarkibini ko’rishda qaysi buyruqdan foydalanamiz?
-A. cat
-B. pwd
-C. touch
-D. cp
-ANSWER: A
-
-Linux operatsion tizimi emblemasida qanday jonzot tasvirlangan?
-A. Pingvin
-B. morj
-C. Qunduz
-D. delfin
-ANSWER: A
-
-Linux va Windows operatsion tizimlarni o’rtasida ma’lumotlar va printerlarga bo’lgan ruxsatlarni osonlashtirib boshqarib beruvchi ilovani (serverni) ko’rsating?
-A. Samba
-B. NFS
-C. FTP
-D. DNS
-ANSWER: A
-
-Foydalanuvchilarga tarmoqdagi ajratilgan kompyuterlardagi katalog va fayllar lokal bo’lgan holda murojaatni ta’minlab berish uchun qaysi ilovadan(server) foydalaniladi ?
-A. NFS
-B. FTP
-C. DNS
-D. HTTPS
-ANSWER: A
-
-ls komandasi qanday vazifani bajaradi?
-A. Katalogdagi barcha faylni ko’rsatadi
-B. katalogni o’chiradi
-C. joriy katalogni ko’rsatadi
-D. katalogni yaratadi
-ANSWER: A
-
-Linux operatsion tizim asosan qay maqsadda foydalangan qulay?
-A. Server maqsadida
-B. Klient foydalanuvchi maqsadida
-C. faqat klient maqsadida
-D. serser va klient maqsadida noqulay
-ANSWER: A
-
-Linux tarqalishi hozirgi kunda dunyoda necha foizni tashkil etadi?
-A. 20%
-B. 40%
-C. 60%
-D. 80%
-ANSWER: A
-
-cp komandasi qanday vazifani bajaradi?
-A. Fayl ichidagi ma’lumotni ko’chirib olish uchun
-B. faylni o’chirish
-C. joriy katalogni ko’rsatish
-D. faylni yaratish
-ANSWER: A
-
-chmod komandasi qanday vazifani bajaradi?
-A. Fayllar ustida ruxsatlarni boshqarish
-B. Guruxlar yaratish
-C. Admistratsiyalash
-D. guruhlarni o’chirish
-ANSWER: A
-
-Linux tizim strukturasi nechta qismdan tashkil topgan?
-A. 5
-B. 4
-C. 6
-D. 3
-ANSWER: A
-
-Tizim ishini to’xtatish komandasi?
-A. shutdown
-B. reboot
-C. restart
-D. exit
-ANSWER: A
-
-Ish rejimini to’xtatish komandasi?
-A. logout
-B. shutdown
-C. reboot
-D. restart
-ANSWER: A
-
-Kiritilayotgan buyruqni o’chirish qaysi kombinatsiya orqali amalga oshadi?
-A. CTRL+U
-B. CTRL+X
-C. CTRL+L
-D. CTRL+S
-ANSWER: A
-
-Dasturlar joylashgan katalog qaysi?
-A. usr
-B. root
-C. bin
-D. home
-ANSWER: A
-
-Oldin kiritilgan buyruqlar ichidan qidirish qanday kombinatsiya orqali amalga oshiriladi?
-A. CTRL+R
-B. CTRL+X
-C. CTRL+L
-D. CTRL+S
-ANSWER: A
-
-sudo apt-get upgrade komandasi tasnifi keltirilgan qatorni ko’rsating? 
-A. tizimdagi barcha paketlarni yangilash
-B. dastur o’rnatish
-C. dasturni o’chirish
-D. kompyuterni o’chirish
-ANSWER: A
-
-Faylni chop etish buyrug’i qanday?
-A. echo
-B. man
-C. ls
-D. cp
-ANSWER: A
-
-Linux va yadro versiyasini ko’rish buyrug’ini ko’rsating?
-A. uname -a
-B. chmod
-C. arch
-D. hostname
-ANSWER: A
-
-Yuklovchi va yadro joylashgan katalog qaysi?
-A. boot
-B. sys
-C. bin
-D. root
-ANSWER: A
-
-Bajarilayotgan buyruqni to’xtatish kombinatsiyasini ko’rsating?
-A. CTRL+C
-B. CTRL+X
-C. CTRL+L
-D. CTRL+S
-ANSWER: A
-
-Qurilmalar interfeysi katalogi qanday nomlanadi?
-A. sys
-B. proc
-C. lib
-D. temp
-ANSWER: A
-
-Huquqni maskalash komandasi qanday?
-A. umask
-B. rwrx
-C. chmod
-D. rw
-ANSWER: A
-
-Tizimdagi barcha protsessni ko’rish qanday amalga oshiriladi?
-A. ps-e
-B. ps-x
-C. ps-f
-D. ps-a
-ANSWER: A
-
-Yaratilgan foydalanuvchi qayd yozuvini o’chirish uchun qaysi buyruqdan foydalaniladi?
-A. sudo deluser username
-B. sudo adduser username
-C. sudo accountname
-D. sudo mkdir username
-ANSWER: A
-
-Nano matn redaktorida yangi fayl yaratish uchun qaysi kombinasiyadan foydalaniladi?
-A. nano file 
-B. echo file
-C. cat file
-D. rm file
-ANSWER: A
-
-Root qayd yozuvi huquqi qanday?
-A. Ixtiyoriy amal bajarish mumkin
-B. cheklangan huquq
-C. foydalanuvchi bilan bir xil
-D. mexmon bilan bir xil
-ANSWER: A
-
-Vi fayl redaktorida faylni saqlab chiqish uchun qo’llaniladigan kombinatsiya qaysi?
-A. wq
-B. q!
-C. yy
-D. dd
-ANSWER: A
-
-Linux distrubutivlarini sanang?
-A. mandriva, ubuntu, CentOS
-B. vista,Solaris
-C. Debian, XP
-D. XP, Unix
-ANSWER: A
-
-touch buyrug’i vazifasini ko’rsating?
-A. Yangi fayl yaratish
-B. faylni ko’chirish
-C. faylni nusxalash
-D. joriy katalogni ko’rsatish
-ANSWER: A
-
-boot katalogida nima joylashgan?
-A. Yuklovchi fayl va yadro
-B. dasturlar haqida ma’lumot
-C. sozlanmalar
-D. ma’lumot saqlanadigan katalog
-ANSWER: A
-
-Fayl, katalog, dastur yoki foydalanuvchi huquqini o’zgartirish yoki uni ustida ishlash uchun ishlatiladigan buyruqlarni ko’rsating?
-A. chmod, chown
-B. arch, uptime
-C. cd, mkdir
-D. ipconfig, sudo -s
-ANSWER: A
-
-shutdown -r now buyrug’i nima uchun qo’llaniladi?
-A. tizimni qayta yuklash
-B. tizimni o’chirish
-C. tizimdan chiqish
-D. tizimni uxlash rejimiga o’tqazish
-ANSWER: A
-
-*.s kengaytmali fayl nima maqsadda foydalaniladi?
-A. Dastur uchun ob’ekt kod sifatida
-B. S dasturlash tilining manba fayli sifatida
-C. Ichroji fayl sifatida
-D. Audio fayl sifatida
-ANSWER: A
-
-/ katalog - ?
-A. boot katalog
-B. ildiz katalog
-C. qo’llanma katalog
-D. audio katalog
-ANSWER: A
-
-hostname buyrug’i vazifasini ko’rsating?
-A. tizim nomini ekranga chop qilish
-B. faylni o’chirish
-C. matn faylda mavjud matnlarni ekranga chop qilish
-D. katalog yaratish
-ANSWER: A
-
-/etc katalogida nimalar joylashgan?
-A. sozlanmalar
-B. tizim ma’lumotlari
-C. dasturlar
-D. asosiy drayverlar
-ANSWER: A
-
-*.bz2 kegaytmali fayl qanday fayl? 
-A. siqilgan fayl
-B. audiofayl
-C. matnli fayl
-D. videofayl
-ANSWER: A
-
-Foydalanuvchining asosiy katalogini ko’rsating?
-A. /home
-B. /usr
-C. /lib
-D. /var
-ANSWER: A
-
-Linux operatsion tizimidagi redaktorlarni ko’rsating?
-A. vi, nano, emacs
-B. word, libre office
-C. excel, word,power point
-D. notepad++, notebook
-ANSWER: A
-
-Qattiq diskning bo’limlarni boshqarish uchun foydalaniladigan tizim utilitlar umumiy nomlanishi qanday?
-A. fdisk
-B. chkdsk
-C. noaccess
-D. mount
-ANSWER: A
-
-Vi kim tomonidan yaratilgan?
-A. Bill Joy
-B. Richard Stallman
-C. Bill Geyts
-D. Stiv Jobs
-ANSWER: A
-
-Rrmdir qanday vazifani bajaradi?
-A. katalogni o’chirish
-B. katalogni nusxalash
-C. faylni o’chirish
-D. faylni yaratish
-ANSWER: A
-
-/tmp fayl qanday fayl?
-A. Vaqtinchalik fayllar katalogi
-B. kutubxona fayllar katalogi
-C. qo’llanma katalog
-D. asosiy drayverlar katalogi
-ANSWER: A
-
-date buyrug’ining vazifasi?
-A. Kun vaqtni chiqarish
-B. fayllarni solishtirish
-C. matnni ekranga chiqarish
-D. seanslarni yozib borish
-ANSWER: A
-
-Skript yozishdan oldin qanday belgilar qo’yiladi?
-A. #!
-B. !#
-C. $!
-D. %!
-ANSWER: A
-
-Linux da Windows operatsion tizimidagi Program files katalogi bilan bir xil bo’lgan katalog qaysi? 
-A. /opt
-B. /usr
-C. /var
-D. /home
-ANSWER: A
-
-Kompyuterni ma’lum vaqtdan keyin o’chirish buyrug’i qaysi qatorda to’liq yozilgan?
-A. shutdown –h hh:mm:ss
-B. shutdown –h now
-C. shutdown –c
-D. shutdown –m
-ANSWER: A
-
-C tilida yozilgan kodni kompilyatsya qilish uchun qaysi buyro’qdan foydalaniladi?
-A. gcc 1.c –o 1
-B. nano file.c
-C. cat file.c
-D. echo 1.c
-ANSWER: A
-
-Linux tizimining o’ziga o’rnatilgan matn muxarririni ko’rsating? 
-A. Emacs
-B. Notepad++
-C. Notebook
-D. Bloknot
-ANSWER: A
-
-Nano redaktorida yangi qatorga o’tish uchun qaysi tugmadan foydalaniladi?
-A. o
-B. k
-C. i
-D. x
-ANSWER: A
-
-file.c fayli kompilyatsya jarayonidan o’tgach uni qaysi buyruq orqali ishga tushuramiz?
-A. ./file
-B. gcc file.c –o file
-C. ./file.c
-D. nano file.c
-ANSWER: A
-
-Nano redaktorida faylni saqlab chiqish uchun qanday kombinatsiyadan foydalaniladi?
-A. Ctrl+X
-B. Ctrl+P
-C. Alt+X
-D. Shift+X
-ANSWER: A
-
-ps all buyrug’i nima vazifani bajaradi?
-A. barcha jarayonlarni ko’rsatadi
-B. terminalga oid jarayonlarni ko’rsatadi
-C. barcha jarayonlarni tugatadi 
-D. ma’lum dasturga oid jarayonlarni ko’rsatadi
-ANSWER: A
-
-Parolni  qayta tiklash buyrugini kursating
-A. sudo –k
-B. sudo –s
-C. gksu –s
-D. sudo -r     
-ANSWER: A
-
-ps –a buyrug’i qanday vazifani bajaradi?
-A. terminalga oid jarayonlarni ko’rsatadi
-B. barcha jarayonlarni ko’rsatadi
-C. barcha jarayonlarni tugatadi
-D. oxirgi buyruqni ko’rsatadi
-ANSWER: A
-
-Vi redaktorida saqlab chiqish buyrug’ini kiritishdan oldin qanday kombinatsiya ishlatiladi?
-A. Shift+<<:>>
-B. Ctrl+X
-C. Ctrl+<<:>>
-D. Shift+<<;>>
-ANSWER: A
-
-Fayl yaratish buyrug’ini qo’rsating
-A. touch
-B. echo file
-C. mkdir
-D. mk
-ANSWER: A
-
-find / -name file1 komandasi qanday funktsiyani bajaradi?
-A. / papkasidan file1 ni qidiradi
-B. file1 papkasini o’chiradi
-C. / papkasini file1 deb nomlaydi
-D. file1 ni / deb nomlaydi
-ANSWER: A
-
-Aynan foydalanuvchi tomonidan ishga tushirilgan jarayonlarni tugatish buyrug’ini ko’rsating
-A. pkill –u user
-B. ps ef
-C. ps all
-D. kill all
-ANSWER: A
-
-ps ax|grep firefox buyrug’i qanday vazifani bajaradi?
-A. Firefox dasturiga tegishli jarayonni ko’rsatadi
-B. Firefox dasturiga tegishli jarayonni tugatadi
-C. Firefox dasturini ishga tushuradi
-D. Firefox dasturini o’chiradi
-ANSWER: A
-
-Diskni formatlash buyrug’ini ko’rsating
-A. fd format
-B. m format
-C. mount
-D. mkfc
-ANSWER: A
-
-cal buyrug’i qanday vazifani bajaradi?
-A. Joriy oy kalendarini ko’rsatadi
-B. Joriy yil kalendarini ko’rsatadi
-C. kalkulyator dasturini ishga tushuradi
-D. kompyuter ishlash vaqtini ko’rsatadi
-ANSWER: A
-
-shutdown –r now bilan reboot buyrug’lari nima farqlanadi?
-A. farqi yo’q
-B. reboot buyrug’i imtiyozli
-C. shutdown –r now buyrug’i imtiyozli
-D. shutdown –r now biz belgilagan vaqtdan so’ng bajariladi
-ANSWER: A
-
-Fayl tizimi monitoringi buyrug’ini ko’rsating
-A. mount
-B. mkfc
-C. fsck
-D. mkswap
-ANSWER: A
-
-cat /proc/interrupts  buyrug’i qanday vazifani bajaradi
-A. uzilishlar haqida m’lumot ko’rsatadi
-B. protsessor haqida m’lumot ko’rsatadi    
-C. xotira haqida m’lumot ko’rsatadi    
-D. tizim haqida ma’lumot ko’rsatadi
-ANSWER: A
-
-Tizimdan chiqish uchun qaysi buyruqdan foydalaniladi?
-A.  logout
-B. systemout
-C. shutdown – h now
-D. restart
-ANSWER: A
-
-Rejalashtirilgan kompyuterni o’chirish buyrug’ini bekor qilish buyrug’ini tanlang
-A. shutdown –c
-B. shutdown –h
-C. shutdown –h now
-D. shutdown
-ANSWER: A
-
-passwd  buyrug’i to’g’ri bajarilishi uchun qanday shart bajarilishi kerak?
-A. root sifatida ishga tushurish
-B. joriy papka /( ) bo’lishi kerak
-C. joriy papka foydalanuvchi papkasi bilan bir xil bo’lishi kerak
-D. joriy papka  /home  bo’lishi lozim
-ANSWER: A
-
-Fayl va kataloglarni daraxt shaklida ko’rish uchun qanday buyruq kiritish lozim?
-A. tree
-B. ls -a
-C. pwd
-D. ls -f
-ANSWER: A
-
-arch buyrug’i bilan bir xil vazifani bajaruvchi buyruqni ko’rsating.
-A. uname –m
-B. uname –r
-C. date
-D. cal
-ANSWER: A
-
-cp dir/* buyrug’i qanday vazifani bajaradi?
-A. dir katalogidagi fayllarni joriy papkaga ko’chiradi
-B. joriy papkadagi fayllarni dir katalogiga ko’chiradi
-C. dir katalogidagi fayllarni nusxalaydi
-D. dir  katalogini ochadi
-ANSWER: A
-
-pkg paketini o’rnatish buyrug’ini ko’rsating
-A. apt-get install pkg 
-B. apt-get upgrade
-C. apt-get update 
-D. apt-get -f install pkg
-ANSWER: A
-
-Kompyuter yoqilgan paytdan boshlab ishlash vaqtini ko’rsatish buyrug’ini tanlang
-A. uptime
-B. cal
-C. clock -w
-D. date
-ANSWER: A
-
-whoami buyrug’ining vazifasini ko’rsating
-A. loginni ko’rsatadi
-B. kompyuter nomini ko’rsatadi
-C. foydalanuvchi nomini ko’rsatadi
-D. distributiv nomini ko’rsatadi
-ANSWER: A
-
-sudo bilan gksu buyruqlarining farqi nimada?
-A. gksu da grafik oyna paydo bo’ladi
-B. sudo  buyrug’i imtiyozliroq
-C. gksu buyrug’i imtiyozliroq
-D. farqi yo’q
-ANSWER: A
-
-cd ..  buyrug’i nima vazifani bajaradi?
-A. 1 pag’ona yuqoriga o’tish
-B. 2 pag’ona yuqoriga o’tish
-C. uy direktoriyagya o’tish
-D. /home  direktoriyasiga o’tish
-ANSWER: A
-
-Faylni o’chirish buyrug’ini kursating
-A. rm –f
-B. rm -rf
-C. rmdir
-D. cp
-ANSWER: A
-
-passwd user1 buyrug’i nima vazifani bajaradi?
-A. user1 ning parolini o’zgartiradi
-B. parolni user1 ga o’zgartiradi
-C. user1 ning parolini o’chiradi
-D. user1 ning parolini user1 sifatida o’zgartradi
-ANSWER: A
-
-Yashiringan papkalarni ko’rish uchun qaysi buyruqdan foydalaniladi?
-A. ls -a
-B. ls -f
-C. ls -l
-D. ls
-ANSWER: A
-
-dir1 katalogini yaratish  buyrug’ini ko’rsating
-A. mkdir dir1
-B. mk dir1
-C. rm dir1
-D. rmdir dir1
-ANSWER: A
-
-Foydalanuvchi yaratish buyrug’ini ko’rsating.
-A. useradd user1
-B. userdel  -r user1
-C. usermod -n
-D. groupadd user1
-ANSWER: A
-
-mv buyrug’i qanday vazifani bajaradi?
-A. Faylni qayta nomlab ko’chirish
-B. Faylni o’chirish
-C. Katalogni nusxalash
-D. Katalog yaratish
-ANSWER: A
 
+Daromadlarning o’sishi pulga talab egri chizig’ini
+O’ngga  suradi
 
+Fillips egri chizig’i qanday bog’liqlikni anglatadi?
+ishsizlik  va inflyatsiya o’rtasidagi
 
+Inflyatsiya sabablari nima?
+pul  massasi va pul aylanish tezligini oshishi hamda tovar ishlab chiqarish hajmi kamayishi
+
+Iqtisodiy mohiyatiga qarab soliqlar turlarini belgilang
+egri  va to’g’ri soliqlar
+
+Iqtisodiy mohiyatiga qarab soliqlar turlarini belgilang
+egri  va to’g’ri soliqlar
+
+IS modeli qaysi bozordagi muvozanatni  ifodalaydi?
+Tovar  va xizmatlar
+
+iste’mol, davlat va investitsiya xarajatlaridagi, sof eksportdagi o’zgarish…
+Jami  talabning narxga bog’liq bo’lmagan omillari
+
+Iste’molga chegaralangan moyillik 0,75ni tashkil qilsa, jamg’armaga chegaralangan moyillik qanchani tashkil etadi?
+0. 25
+
+Iste’molga o’rtacha moyillik deganda ... tushuniladi
+ixtiyordagi  daromaddagi iste’mol xarajatlarining ulushi
+
+Jamg’arishga o’rtacha moyillik deganda... tushuniladi
+ixtiyordagi  daromaddagi jamg’arishning ulushi
+
+Klassik nazariya pulga talabni nimaga bog’liq deb xisoblaydi
+foiz  stavkasiga
+
+Klassiklar nazariyasi bo’yicha jamg’armalar va investitsiyalar miqdorini aniqlaydigan asosiy omil...
+Foiz  stavkаsi
+
+Makroiqtisodiy siyosatning muhim  vazifalari nimalardan iborat?
+makroiqtisodiy  barqarorlik, iqtisodiy o’sish va aholi farovonligini ta’minlash
+
+Mikroiqtisodiyotdan farqli ravishda makroiqtisodiyot...
+ustun  ravishda umumlashtirilgan tushunchalar bilan ishlaydi
+
+Pulga bo’lgan talab grafigida qanday ko’rsatkichlarning o’zaro bog’liqliklari ifodalanadi
+foiz  stavkasi va real pul zahiralari miqdoriga talab teskari bog’liklikka ega ekanligi ko’rinadi.
+
+Pulning miqdoriy nazariyasi tenglamasini yana qanday atash mumkin
+Fisher  tenglamasi
+
+Taklifning keskin o’zgarishi qisqa muddatli davrda … olib keladi
+narx  oshishi va ishlab chiqarish hajmi pasayishiga
+
+2017 yil inflyatsiya darajasining o’sish sur’ati ko’rsatkichlari necha foizdan oshmadi?
+14. 4 foizdan
+
+2018 yil mamlakat YaIM o’sish sur’ati qancha bo’lgan?
+5. 3%
+
+2017 yilda YIM dagi sanoat maxsulotlari  ulushi necha foizni tashkil qildi?
+7, 0
+
+2017 yilda YIMda qurilishning ulushi necha foizni tashkil qildi?
+5, 6
+
+A.Smitning mutlaq ustunlik nazariyasidan keyin D.Rikardo nazariyasi qanday nomlanadi?
+nisbiy  ustunlik nazariyasidir
+
+A.Smitning mutlaq ustunlik nazariyasiga ko’ra,
+har  bir mamlakat undagi mavjud sharoitlar va resurslarda ma’lum bir tovarni eng kam xarajatlar hisobiga  ishlab chiqirish imkoniyatiga ega.
+
+AD egi chizig’i qanday omillar ta’sirida o’ng yoki chap tomonga suriladi?
+Narxdan  boshqa omillar ta’sirida
+
+AD-AS egri chiziqlari kesishadigan nuqta nimani ifodalaydi?
+Yalpi  talab va yalpi taklif hajmlari o’zaro teng bo’ladi
+
+AD-AS modeli nimani ifodalaydi?
+Yalpi  talab va yalpi taklif o’rtasidagi bog’liqlikni
+
+AD-AS modeli qanday model?
+Yalpi  talab-yalpi taklif modeli
+
+Advolar bojlarni undirish tartibi qanday?
+Import  qilinayotgan tovar qiymatiga ma’lum foiz tariqasida
+
+Agar iqtisodiyotda korxona, firma, uy xo’jaligi, alohida olingan bozorlar muammosi tadqiq qilinsa, bunday tahlil …
+Mikroiqtisodiy  tahlil
+
+Agar narxlar o’ssa, unday holatda...
+Pulga  bo’lgan talab va foiz stavkasi darajasi o’sadi
+
+Agar narxlar pasaysa, boshqa teng shartlarda...
+Pulga  bo’lgan talab va foiz stavkasi darajasi pasayadi
+
+Agar uy xo’jaliklari o’zining hamma daromadlarini iste’molga ishlatmasdan, sarflanmagan miqdorni bankka joylashtirsa, unda ular…
+Jamg’armaga  ega bo’ladilar
+
+Agregatlash – bu…
+Bir  qancha iqtisodiy ko’rsatkichlar va kategariyalarni yagona makroiqtisodiy ko’rsatkich yoki kategoriyaga umumlashtirish
+
+Amortizatsiyalar quyidagilardan qaysi birini hisoblashda hisobga olinadi?
+Faqat  xarajatlar oqimi usuli bo’yicha YaIMni hisoblashda
+
+AS egri chizig’i qanday kesmalardan iborat?
+Gorizantal,  vertikal, oraliq
+
+AS egri chizig’i qanday omillar ta’sirida o’ng yoki chap tomonga suriladi?
+Narxdan  boshqa omillar ta`sirida
+
+AS egri chizig’ining klassik varianti uzoq muddatli davrda jami talab o’zgarishini ko’zda tutadi,bunda
+ishlab  chiqarish hajmiga ta’sir ko’rsatmaydi, narx darajasiga ta’sir ko’rsatadi
+
+Bir qancha iqtisodiy ko’rsatkichlar va kategariyalarni yagona makroiqtisodiy ko’rsatkich yoki kategoriyaga umumlashtirish….deyiladi
+Agregatlah
+
+boylik samarasi…
+Jami  talabning narx omill
+
+Bozor iqtisodiyotiga o’tishni amalga oshiruvchi bosh islohotchi bu…
+davlat
+
+Bozor iqtisodiyotining muhim afzalliklaridan biri cheklangan resurslar sharoitida…
+Iqtisodiy  resurslarni samarali taqsimlash
+
+Chet el tovarlari oqimini tartibga solishda qanday bojlardan foydalaniladi?
+Import  bojlari
+
+Choralarning aniq yo’nalishlarini ... o’rganadi
+Normativ  makroiqtisodiyot
+
+Daromadlar usuli...
+YaIMni  hisobdash usullaridan biridir
+
+Davlat byudjeti daromadlari qanday tushumlar hisobiga shakllanadi
+soliq  va soliq bo’lmagan tushumlar hisobiga
+
+Davlat jamg`armasi va byudjet taqchilligi o`rtasida qanday bog`liqlik mavjud?
+Davlat  jamgarmasi byudjet taqchilligiga teskari miqdor
+
+Davlat transfert to’lovlarining asosiy hususiyati nimada?
+Uning  evaziga uni oluvchilar davlatga hech narsa bermaydi
+
+Davlatning barqarorlashtirish siyosati - bu…
+Monetar,  fiskal va tashqi savdo siyosat
+ 
+Davlatning makroiqtisodiy siyosati qanday siyosatlarni o`z ichiga oladi?
+Monetar,  fiskal, ijtimoiy va tashqi iqtisodiy siyosat
+ 
+Davriy ishsizlik – bu...
+Ishlab  chiqarishning pasayishi natijasida ishchi kuchiga bo’lgan talabning kamayishidan paydo bo’ladigan ishsizlik
+ 
+Davriy ishsizlik qaysi iqtisodiy siklda paydo bo’ladi?
+Ishlab  chiqarishning pasayishi natijasida turg'unlik davrida  paydo bo’ladi
+ 
+Deflyator qanday ko`rsatkich?
+Narx  indeksi
+ 
+Dotatsiya nima?
+Byudjet  va byudjetdan tashqari fondlardan qaytarib olmaslik sharti bilan xo’jaliklarning zararini qoplash uchun ajratilgan pul mablag’laridir
+ 
+Eksport bojlari nima maqsadda belgilanadi?
+Mamlakat  ichida talab ko’p bo’lgan mahsulotlar taqchilligining oldini olish maqsadida belgilanadi
+ 
+Eksport-import aloqalari yo’lga qo’yilgan mamlakat iqtisodiyoti qanday ataladi?
+Ochiq  iqtisodiyot
+ 
+Ekzogen miqdorlar –bu...
+Tashqi  o’zgaruvchilar
+ 
+Endogen miqdorlar –bu...
+Ichki  o’zgaruvchilar
+ 
+Erkin savdoni sezilarli darajada cheklovchi vosita bo`lib sanalganlarning qaysinisi hisoblanadi?
+Import  boji
+ 
+Fillips egri chizig’i qanday bog’liqlikni anglatadi?
+Ishsizlik  va inflyatsiya o’rtasidagi
+ 
+Fisher tenglamasini ko’rsating
+MxV= YxP
+
+Foiz stavkasi samarasi jami talabning qanday omili?
+Narx  omili
+ 
+foiz stavkasi samarasi…
+Jami  talabning narx omill
+ 
+Friksion ishsizlik – bu …
+Ish  qidirayotgan yoki yaqin vaqtlar ichida ish bilan ta’minlanishni ko’tayotgan ishchi kuchi
+ 
+Friksion,tarkibiy va davriy ishsizlikning qaysi turi eng havflisi?
+Davriy
+
+gorizantal, vertikal, oraliq kesmalari qaysi chiziqqa tegishli
+AS  egri chiziq'iga
+
+Haqiqiy investitsiyalar o’z ichiga oladi
+rejalashtirilgan  va rejalashtirilmagan investitsiyalar miqdorini
+
+Hozirgi davr pulining qadr -qimmati nima bilan o’lchanadi?
+Muomaladagi  pul miqdori bilan o’lchanadi
+
+Ijara xaqi YaIM ni hisoblashning qaysi usulida xisobga olinadi?
+Daromadlar  usulida
+
+Import bojlari nima maqsadda belgilanadi?
+Davlat  byudjetini to’ldirish maqsadida va ichki bozorlarga tushadigan chet el tovarlari oqimini tartibga solish
+ 
+Import operatsiyasi -...
+Mahsulotni  xorijiy sherikdan sotib olish va uni mamlakatga olib kelish
+ 
+Import tariflari kiritilishi natijasida maxsulot baxolari...
+Ko’tariladi
+ 
+import xaridlar samarasi…
+Jami Ttalabning narx omill
+ 
+Importga tariflarning qanday turlari o’zaro farqlanadi?
+Maxsus  va advolar turlari
+ 
+Inflyatsiya sabablari nima?
+Pul  massasi va pul aylanish tezligini oshishi hamda tovar ishlab chiqarish hajmi kamayishi
+
+Inflyatsiyani miqdoran o’lchash usuli qaysi?
+«70 -miqdor qoidasi»
+
+Inflyatsiyaning qanday turlari mavjud?
+Sudraluvchi, yuguruvchi va giperinflyatsiya
+
+Investitsiya funktsiyasi...
+I= e-dr
+
+Investitsiya hajmiga qaysi omil ta`sir ko’rsatadi?
+Foiz  stavkasi darajasi
+
+Investitsiya hajmining YalM hajmiga bog'liqligini xarakterlovchi model…
+akselerator  modeli deyiladi
+
+Iqtisodiy davr fazalari - bu…
+Cho’qqi,  pasayish, quyi, jonlanish
+
+Iqtisodiy davrlar bir-birlari bilan nimasi bilan farq qiladi?
+Davomiyligi  va faolliligiga ko’ra
+
+Iqtisodiy davrlar nechta bosqichni o’z ichiga oladi?
+To’rt
+
+Xususiy korxona qachon yuridik shaxs maqomiga ega bo`ladi
+korxona  tashkil topgan paytdan boshlab 
+
+Iqtisodiy hodisalarni qanday bo’lsa shunday o’rgatadi
+Pozitiv  makroiqtisodiyot
+
+Iqtisodiy o`sish necha usulda aniqlanadi?
+Ikki  xil usulda
+
+iqtisodiyotda korxona, firma, uy xo’jaligi, alohida olingan bozorlar muammosi tadqiq qilinsa, bunday tahlil … deyiladi.
+Mikroiqtisodiy  tahlil
+
+Iqtisodiyotning pasayishi natijasida ishchi kuchiga bo’lgan talab yetarli bo’lmaganda ... olib keladi?
+Davriy  ishsizlikning oshishiga
+
+IS egri chizig’ini siljishiga ta’sir etuvchi omillarni aniqlang?
+Iste’mol  xarajatlari, davlat xaridlari va sof soliqlar
+
+IS egri chizigi qanday bozorni ifodalaydi?
+Tovarlar  va xizmatlar bozorini
+
+IS modeli nimani ifodalaydi?
+Tovar  va xizmatlar bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+
+IS modeli qanday makroiqtisodiy kategoriyalardan iborat?
+Investitsiya,  jamg’arma
+
+IS modeli qaysi modellar yordamida shakllangan?
+Keyns  hochi, Investitsiya
+
+Ish haqi YaIM ning qaysi usulida hisobga olinadi?
+YaIMni  daromadlar oqimi usuli bo’yicha hisoblashda
+
+Ish qidirayotgan yoki yaqin vaqtlar ichida ish bilan ta’minlanishni kutayotganlar qanday ishsizlikka kiradi?
+Friksion  ishsizlik
+
+Ishchi kuchi nima ?
+Ish  bilan bandlar+ ishsizlar
+
+Ishchi kuchiga bo’lgan talab yetarli bo’lmaganda ... olib keladi?
+Davriy  ishsizlikning oshishiga
+
+ishlab chiqarish usuli...
+YaIMni  xisobdash usullaridan biridir
+
+Ishlab chiqarish, bandlilik va inflyatsiya darajasining davriy tebranishlari nima deb ataladi?
+Iqtisodiy  davr (sikl)lar deyiladi
+
+Ishlab chiqarishning potentsial darajasi deb nimaga aytiladi?
+Ishsizlikning  tabiiy darajasi xolatida iqtisodiyotda resurslardan to'la foydalanilganda yaratilishi mumkin bo’lgan maxsulot xajmiga
+==========================================================================================================================================
+Ishsizlar va ish bilan band bo`lganlar birgalikda...
+Ishchi  kuchi hisoblanadi
+ 
+Milliy daromad tarkibiga nimalar kiradi?
+Ijara  haqi, ish haqi, kapitalga foiz, mulkdan olingan daromad va korporatsiya foydasi
+ 
+Mikroiqtisodiyotdan farqli ravishda makroiqtisodiyot
+Ustun  ravishda umumlashtirilgan tushunchalar bilan ishlaydi
+ 
+Maxsus bojlarni undirish tartibi qanday?
+Import  qilinayotgan tovarlar birligiga nisbatan
+ 
+Maxsulotlarning potentsial va xaqiqiy ishlab chiqarilishi o’rtasidagi farq nima deb ataladi?
+Uzilishi  yoki orqada qolishi
+ 
+Makroiqtisodiyotning sub`ektlarini ko`rsating
+Uy  xo`jaliklari, firmalar, davlat va tashqi dunyo
+ 
+Makroiqtisodiyotning sifat ko’rsatkichlari –bu...
+Ishsizlik  va inflatsiya darajasi
+ 
+Makroiqtisodiyotning miqdor ko’rsatkichlarini aniqlang.
+YaIM,  MD, SIM, ID, YaMD
+ 
+Yaqin orada yana ishga joylashishga umid qilayotgan ishlovchi qaysi guruhga taalluqli bo’ladi?
+Ishsizlar  guruhiga
+ 
+Yalpi talab-yalpi taklif modeli to’g’ri ko’rsatilgan javobni ko’rsating
+AD- AS
+ 
+YaIMni xisoblashda noishlab chiqarish bitimlari buyicha tushumlar ...
+Qo`shilmaydi
+ 
+YaIMni xarajatlar bo’yicha hisoblash –bu...
+Iste’mol,  sof eksport, investitsiyalar va davlat xaridi
+ 
+YaIMni hisoblashda sanalganlardan qaysilari hisobga olinadi?
+Uy  xo’jaliklarining iste’mol xarajatlari
+ 
+YaIM hisoblash usullari –bu...
+Daromadlar,  xarajatlar va ishlab chiqarish usuli
+ 
+YaIM -(minus) Amortizatsiya = ?
+Sof ichki  maxsulot
+Ichki daromad
+Milliy daromad
+Shaxsiy daromad
+Xarajatlar yig’indisi bo’yicha hisoblangan YaIMga quyidagi ko’rsatkichlardan qaysi biri kiritilmaydi?
+Ish  haqi va xizmat haqi
+Yalpi investitsiyalar
+Tovar va xizmatlarni sof eksporti
+Tovar va xizmatlarni davlat xaridi
+xarajatlar usulida hisoblash...
+Yaimni  xisobdash usullaridan biridir
+Ishlab chiqarishni xisoblash usullaridan biridir
+Yamd xisoblash usullaridan biridir
+Millliy daromadni xisoblash usullaridan biridir
+Valuta atamasi qisqa ma`noda nimani anglatadi?
+Chet  davlatlarnind pul birligini
+Chet davlatlarnind tovar birligini
+Davlatlatnind almashinuv kursini
+Chet davlatlarnind xizmatlar birligini
+Tovar moddiy zaxiralariga kiradi…
+investitsiyalardagi  kutilmagan o’zgarishlar
+investitsiyalardagi kutilgan o’zgarishlar
+bozordagi tovarlar
+investitsiyalar
+To'la ish bilan bandlik….
+ishchi  kuchining 100 foiz ish bilan ta’minlanganligini bildirmaydi
+Pasayish
+Ko’tarilish
+Cho’qqi, turg’unlik
+To’lov balansi nima?
+Biror  bir mamlakatga chetdan keladigan barcha tushumlar va chetga chiqadigan barcha to`lovlar ko`rsatilgan xujjat
+Mamlakatga chetdan keladigan barcha tushumlar ko`rsatilgan xujjat
+Mamlakatdan chetga chiqadigan barcha to`lovlar ko`rsatilgan xujjat
+Mamlakatning barcha to`lovlari ko`rsatilgan xujjat
+To’la ish bilan bandlik davridagi ishsizlik nima deb ataladi?
+Ishsizlikning  tabiiy darajasi
+Ishsizlikning potentsial darajasi
+Ishsizlikning nominaldarajasi
+Ishsizlikning realdarajasi
+To’la bandlikda qaysi ishsizlik darajalari mavjud bo`ladi?
+Friktsion  ishsizlar, tarkibiy ishsizlar
+Nodavriy ishsizlar
+Davriy ishsizlar
+Barcha ishsizlar
+Tez kunlar ichida yana ishga joylashishga umid qilayotgan shaxs bu…
+Ishsizlar  guruhiga kiradi
+Bandlar guruhiga kiradi
+To’la band bo’lmaganlarga kiradi
+Ishchi guruhiga kiradi
+Tashqi savdoni cheklash usullarining nechtadan oshiqroq turi mavjud.
+50dan  oshiqroq turi mavjud.
+40 dan oshiqroq turi mavjud.
+30 dan oshiqroq turi mavjud.
+20 dan oshiqroq turi mavjud.
+Tashqi savdoda tarif miqdori nimalar asosida aniqlanadi?
+Tarif  stavkasi
+Eksport stavkasi
+Foiz stavkasi
+Import stavkasi
+Tasarrufdagi daromaddagi iste’mol xarajatlarining ulushi nima deb ataladi?
+Iste’molga  o’rtacha moyillik
+Iste’molga cheklangan moyillik
+Istemol ulushi
+Xarajatlar ulushi
+Ta’rif usullariga nimalar kiradi?
+Import  va eksport bojlarini joriy qilish
+Import va eksport operatsiyalari
+Import bojlarini joriy qilish
+Eksport bojlarini joriy qilish
+Subsidiya nima?
+Pul  yoki natura ko’rinishida yordam turi bo’lib, byudjet va byudjetdan tashqari fondlardan to’lanadi
+Pul yoki natura ko’rinishida yordam turi bo’lib, uni korxonalardan olinadi
+Qat’iy maqsadlar uchun beriladigan dotatsiya turi
+Transfert to’lovlari
+Sof xususiy investitsiyalar quyidagilardan qaysi birini hisoblashda hisobga olinadi?
+Xarajatlar  oqimi usuli bo’yicha YaIMni hisoblashda
+Daromadlar oqimi usuli bo’yicha YaIMni hisoblashda
+Xarajatlar oqimi usuli bo’yicha milliy daromadni hisoblashda
+Ixtiyoridagi daromadni hisoblashda
+Sof ichki maxsulot qanday aniqlanadi?
+YaIM- amortizatsiya
+YaIM+amortizatsiya
+YaMD+amortizatsiya
+YaMD-amortizatsiya
+Sof ichki mahsulot nimani o’z ichiga olmaydi?
+Amortizatsiyani
+Sof ichki investitsiyalarni
+Davlat xaridini
+Shaxsiy iste’molni
+Sof eksport qanday ko’rsatkich
+Mamlakatning  import va eksport operatsiyalari bo’yicha xarajatlar o’rtasidagi farq
+Import va eksportning yig'indisi
+Eksport tovarlar
+Eksport operatsiyalari
+SIM qanday hisoblanadi?
+YaIM-  (minus) amortizatsiya
+ShD -(minus) individual soliqlar
+SIM - (minus) biznesga egri soliqlar
+YaIM - (minus) dividentlar
+Shaxsiy tasarrufdagi daromad qanday hisoblanadi ?
+Shaxsiy  daromad minus individual soliqlar
+Shaxsiy daromad plus individual soliqlar
+Ish xaqilar yig`indisi
+Milliy daromad minus shaxsiy daromad
+Savdo to’siqlari –bu...
+Tarif  to’siqlari, notarif to’siqlari
+ichki to’siqlar
+tashqi  to’siqlari
+Eksport cheklovlari
+Sanab o’tilganlardan qaysilari “zahiralar” kategoriyasiga taalluqli?
+Iste’molchilarning  jamg’arilgan boyliklari
+Davlat byudjeti taqchilligi
+Bojlar
+Yordam
+Rivojlangan mamlakatlarda pul massasini aniqlashda qaysi pul agregatlaridan foydalaniladi?
+M1;  m2; m3; m4
+M0; m1; m2; m3; m4; m5
+M1; m2; m3; m4; m5
+M1; m2; m3
+Real YIM qanday xisjblanadi?
+Nominal  YaIM/Deflyator x 100%
+Nominal YIM x Deflyator
+Deflyator /Nominal YIM x 100%
+Deflyator - Nominal YIM
+Real iqtisodiy hodisalarni qanday bo'lsa shundayligicha ... o’rganadi
+Pozitiv  makroiqtisodiyot
+Normativ makroiqtisodiyot
+Pozitiv va normativ makroiqtisodiyot
+Statistika fani
+Quyidagilardan qaysi biri noiqtisodiy ne’mat hisoblanadi?
+Quyosh  nuri
+Teatr, kontsert zali
+Bilim, malaka
+Harbiy kema
+Qaysi model iqtisodiy o’sish modellariga kirmaydi?
+AD-AS  modeli
+Xarrod modeli
+Domar modeli
+R.Solou modeli
+Oraliq maxsulot – bu…
+Qayta  ishlash uchun sotib olinadigan tovar va xizmatlar
+Yakuniy iste’mol uchun sotib olinadigan tugal maxsulot
+Sotish uchun sotib olinadigan tugal maxsulot
+Sotish va kayta ishlash uchun sotib olinadigan tugal maxsulot
+Pirovard mahsulot – bu…
+Yakuniy  iste’mol uchun sotib olinadigan tugal maxsulot
+Qayta ishlash uchun sotib olinadigan tugal mahsulot
+Sotish uchun sotib olinadigan tugal maxsulot
+Sotish va kayta ishlash uchun sotib olinadigan tugal maxsulot
+Nominal YaIM qanday narxlarda hisoblanadi?
+Joriy  narxlarda
+O’zgaruvchan narxlarda
+Chakana narxlarda
+Ulgurji narxlarda
+Normaitiv makroiqtisodiyot nimani o’rganadi?
+Choralarning  aniq yo’nalishlarini o’rganadi
+Real hdisalarni o'rganadi
+Iqtisodiy usullarni o’rganadi
+Ichki iqtisodiy o’zgaruvchilarni
+Korxona va firmalar tovar va xizmatlarni sifatli ishlab chiqarilish uchun nimalar muhim hisoblanadi.
+Ishchi  kuchi resurslar kapital
+Ehtiyoj daromad raqobat
+Xom ashyo va resurslarning narxlari
+A va C javoblar to`g`ri
+Ochiq iqtisodiyot - bu…
+Mamlakatning  fuqarolari halqaro bozorda cheklanmagan miqdorda faoliyat yuritish huquqiga ega
+Xalqaro investitsiyani qisman kirib kelishi mumkin
+Mamlakat aholisi cheklangan holdagi faoliyati
+Tashqi iqtisodiy aloqalarning qisman cheklangan shakli
+Pozitiv makroiqtisodiyot nimani o’rgatadi?
+Iqtisodiy  hodisalarni qanday bo’lsa shundayligicha o’rgatadi
+Iqtisodiy hodisalarni qanday bo’lishini ko’rsatadi
+Iqtisodiy rivojlanishdagi ijobiy tendentsiyalarni o’rganadi
+Bildirilgan fikrlarni tahlil qiladi
+Pul agregatlarini tuzishda qanday mezon asos qilib olingan?
+Likvidlilik  darajasining pasayib borishi
+Likvidlilik darajasining ko’payib borishi
+Likvidlilik darajasining kengayib borishi
+Likvidlilik darajasining torayib borishi
+Pul massasi nimalardan iborat?
+Naqd,  naqdsiz va kvazi pullar
+Naqdsiz pullar
+Naqd pullar va hisob raqamlardagi pullar
+Kvazi pullar
+Pul taklifi nimaga teng?
+Bank  tizimidan tashqaridagi naqd pullar plyus depozitlar (Ms=C+D)
+Bank tizimidan tashqaridagi naqd pullar minus depozitlar (Ms=CxD)
+Bank tizimidan tashqaridagi naqd pullar minus rezerv pullar (Ms=C-R)
+Bank tizimidan tashqaridagi naqd pullar plyus depozitlar (Ms=C+R)
+Pul taklifi o’z ichiga oladi
+bank  tizimidan tashqaridagi naqd pullar va depozitlarni
+naqd pullar va pul bazasi
+naqd pullar va bank rezervlarini
+pul bazasi va bank rezervlarini
+Pulining qadr-qimmati nima bilan o’lchanadi?
+Iqtisodiyotdagi  muomalada bo`lgan pul miqdori bilan o’lchanadi
+Mamlakatning oltin zahirasi bilan
+Mutloq likvidliligi bilan
+Undagi oltin miqdori va narxlar darajasi bilan
+Qanday mamlakat iqtisodiyoti ochiq iqtisodiyot deyiladi ?
+Eksport-import  aloqalari yo’lga qo’yilgan,
+Eksport-import aloqalari yo’lga qo’yilmagan,
+Faqat import aloqalari yo’lga qo’yilgan,
+Faqat eksport aloqalari yo’lga qo’yilgan,
+Qanday sharoitda taklif inflyatsiyasi kelib chiqadi?
+Iqtisodiyotda  tovar va xizmatlar taklifining kamayishi natijasida baxolarning oshishidan paydo bo’ladi
+Iqtisodiyotda tovar va xizmatlar taklifining ko’payishi natijasida baxolarning oshishidan paydo bo’ladi
+Iqtisodiyotda tovar va xizmatlar taklifining ko’payishi natijasida baxolarning oshishidan paydo bo’ladi
+Iqtisodiyotda tovar va xizmatlar taklifining kamayishi natijasida baxolarning pasayishidan paydo bo’ladi
+Qanday xolatda LM egri chizigi chapga siljiydi
+Pul  taklifi kamaysa
+Davlat xarajatlari o’ssa
+Soliqlar kamaysa
+Pul miqdori o’ssa
+Qaysi ko`rsatkich asosiy makroiqtisodiy ko`rsatkich sifatida tan olingan?
+Yaim
+YaMD
+SMD
+Md
+Milliy daromad va biznesga egri soliqlar yig`indisi -bu
+Sof  ichki mahsulot
+Shaxsiy daromad
+Yalpi ichki mahsulot
+Ixtiyordagi daromad
+Monetaristlar iqtisodiyotni barqarorlashtirishning eng maqbul vositasi deb nimani hisoblaydilar?
+Pul  massasi o’zgarishini
+Soliqlar o’zgarishini
+Davlat xaridlari o’zgarishini
+Davlat xarajatlari o’zgarishini
+Mutlaoq ustunlik nazariyasi qaysi olimga tegishli?
+A. Smit
+D.Rikardo
+E.Xeksher
+B.Olin
+Narx omillaridan foiz stavkasi samarasi nimani bildiradi?
+Tovarlar  baxosi darajalarining yuqoriligi pulga bo’lgan talabni oshiradi
+Tovarlar baxosi darajalarining yuqoriligi tovarlarga bo’lgan talabni oshiradi
+Tovarlar baxosi darajalarining yuqoriligi pulga bo’lgan talabni kamaytiradi
+Tovarlar baxosi darajalarining pasayishi pulga bo’lgan talabni oshiradi
+Narx omillaridan import xaridlar samarasi nimani bildiradi
+Tovar  va xizmatlarning ichki narxlari tashqi narxlardan oshib borsa, import maxsulotlariga talab oshadi
+Tovar va xizmatlarning narxlari oshib borsa, maxsulotlariga talab oshadi
+Tovar va xizmatlarning narxlari oshib borsa, maxsulotlariga talab kamayadi
+Tovar va xizmatlarning narxlari oshib borsa, maxsulotlariga talab ko’payadi
+Narxlar indeksi qanday farqni baholash  uchun  ishlatiladi?
+turli  davrdagi “iste’mol savati”ning bozor qiymatidagi farqini
+ikki turli mamlakat narx darajalaridagi farqni baholash uchun
+bazis yildagi ishlab chiqarish tarkibidagi farqini baholash uchun
+ulgurji va chakana narx darajalari o’rtasidagi farqni
+Narxlar indeksi qanday farqni baholash uchun ishlatiladi?
+Turli  davrdagi “iste’mol savati”ning bozor qiymatidagi farqini baholash uchun
+Bazis yildagi ishlab chiqarish tarkibidagi farqini baholash uchun
+Ikki turli mamlakat narx darajalaridagi farqni baholash uchun
+Ulgurji va chakana narx darajalari o’rtasidagi farqni baholash uchun
+Nima uchun oraliq va pirovard maxsulotlarni farqlay bilishimiz kerak
+Bir  maxsulotni ikki marta hisoblamaslik uchun
+Bir maxsulotni ikki joyda  hisoblash uchun
+Bir maxsulotni ikki joyda  iste'mol qilish uchun
+Ikki maxsulotni   iste'mol qilish uchun
+Nisbiy ustunlik nazariyasi kimga tegishli?
+D. Rikardo
+Abba Lerner
+J.Keyns
+J.Xiks
+Noishlab chiqarish bitimlariga nimalar kiradi
+Sof  moliyaviy bitimlar va ishlatilgan tovarlarni sotish
+Maxsulotlarni sotish
+Ishlatilgan tovarlarni sotish
+Bozordagi tovarlarni sotish
+Ishsizlik darajasi qanday aniqlanadi?
+Ishsizlarni  ishchi kuchi soniga nisbatiga(% xisobida)
+Ishchi sonining ishsizlar soni nisbatiga(% xisobida)
+Ishsizlarning jami yig’indisiga
+Ishlamayotganlarning ishlamayotgani sababiga
+Ishsizlik turlari to’liq ko’rsatilgan qatorni aniqlang.
+Friksion,  davriy, strukturaviy
+Davriy, friktsion,mavsumiy
+Strukturaviy, davriy, o'zgarmas
+Friksion, davriy, vaqtinchalik
+ishsizlik va inflyatsiya o’rtasidagi bog'liqlikni ifodalovchi chiziq
+Fillips  egri chizig’i
+Ellips egri chizig’i
+Talab egri chizig’i
+Taklif egri chizig’i
+Ishsizlikning qanday turlari mavjud?
+Friktsion,  davriy va tarkibiy
+Davriy va tarkibiy
+Tarkibiy
+Friksion va davriy
+IS-LM egri chiziqlari kesishadigan nuqta shuni ifodalaydiki bunda…
+Tovarlar  va pul bozoridagi talab va taklif o’zaro teng bo’ladi
+Tovarlar va pul bozoridagi talab taklifdan ortiq bo’ladi
+Tovarlar va pul bozoridagi taklif talabdan ortiq bo’ladi
+Tovarlar bozoridagi talab va taklif o’zaro teng bo’ladi
+IS-LM modeli birinchi bor kim tomondan taklif qilingan
+J. Xiks
+D.Rikardo
+A.Smit
+Abba lerner
+IS-LM modeli qanday bozorlardagi birgalikdagi muvozanat o`rnatilishi mexanizmini xarakterlaydi
+Xam  tovarlar xam pul bozoridagi
+Tovarlar va xizmatlar bozoridagi
+Pul bozoridagi
+Kimmatli qogozlar bozoridagi
+IS-LM modeli....
+Tovarlar  va pul bozoridagi foiz stavkasi bilan daromadlar darajasining muvozanatli darajasini belgilaydi
+Tovarlar va xizmatlar bozoridagi foiz stavkasi bilan daromadlar darajasining muvozanatli darajasini belgilaydi
+Xarajatlar bilan daromadlar darajasining muvozanatli darajasini belgilaydi
+Jama talab va jami taklif modeli
+Iste’mol funktsiyasining formulasi…
+C= a+b Yd
+C=a-b Yd
+C=a+b Yd+1
+C=a+b Yd-1
+Iste’moldagi o’zgarishlarning shu o’zgarishni keltirib chiqargan ixtiyordagi daromad o’zgarishidagi ulushi qanday ataladi?
+Iste’molga  chegaralangan moyillik
+Iste’molga o’rtacha moyillik
+Jamg’armaga o’rtacha moyillik
+Jamg’armaga chegaralangan moyillik
+Iste’molga bo’lgan o`rtaca moyillik qanday aniqlanadi?
+Iste’mol  xarajatini ixtiyordagi daromadga nisbati ko`paytirilgan 100
+Daromad o’zgarishi oqibatida iste’mol xarajatini ko`payishi
+Jami iste’molni jami daromadga iste’moli
+Ehtiyojlarning pul bilan qoplangan qismi
+Iste’molga cheklangan moyillik deganda nima tushuniladi?
+Iste’moldagi  o’zgarishlarning ixtiyordagi daromad o’zgarishlaridagi ulushi
+Iste’molning kamayishi
+Iste’molga o’rtacha moyillikning kamayishi
+Iste’mol qilishni cheklash
+Iste’molga cheklangan moyillik formulasini ko’rsating
+MPC =(dC/dDi)x100%
+MPC=(CxDi)x100%
+MPC=(C/dDi)x100%
+MPC=(dC/Di)x100%
+Iste’molga o’rtacha moyillik deganda...
+Tasarrufdagi  daromaddagi iste’mol xarajatlarining ulushi tushuniladi
+Umumiy daromaddagi iste’mol xarajatlarining ulushi tushuniladi
+Milliy daromaddagi iste’mol xarajatlarining ulushi tushuniladi
+Iste’molga ajratilgan xarajatlar tushuniladi
+Iste’molga o’rtacha moyillik formulasini ko’rsating
+APC =(C/Di)x100%
+APC=(CD/Di)x100%
+APC=(C/DDi)x100%
+APC=(CxDi):100%
+Ixtiyordagi daromad o`z navbatida qanday ko`rsatkichlarga bo`linadi?
+Iste’mol  va jamg`arishga
+Iste’mol va xarajatlarga
+Turli jamg`armalarga
+Daromad va xarajatlarga
+Ixtiyordagi daromad qanday hisoblanadi?
+Shaxsiy  daromad -(minus) individual soliqlar
+YaIM - biznisga egri soliqlar
+YaIM – amortizasiya
+MD-transfertlar
+Ixtiyordagi daromad quyidagicha topiladi
+Shaxsiy  daromad minus individual soliqlar
+Shaxsiy daromad minus transfertlar
+Shaxsiy daromad plyus transfertlar
+Shaxsiy daromad plyus soliqlar
+Ixtiyordagi daromadni berilgan darajasida jamg’arma va iste’molga me’yoriy moyillik miqdorlarning yig’indisi ...
+100  % ga teng
+10 %ga teng
+0 ga teng
+1000 ga teng
+Jamg’arish funktsiyasining formulasi...
+S = -a+(1-b)Yd
+S=ad+(1+b)Yd
+S=-a+(1+b)Yd-2
+S=-ab+(1-b)Yd
+Jamg’arma turlari qaysilar?
+Davlat,  xususiy, boshqa mamlakatlar
+Xususiy, davlat, ijtimoiy
+Xususiy, boshqa mamlakatlar
+Ijtimoiy, xususiy
+Jamg’armaga chekli moyillik formulasini ko’rsating
+MPS =(dS/dDi)x100%
+MPS=SxDi
+MPS= dDi /dS
+MPS= Di - S
+Jamg’armaga o’rtacha moyillik formulasini ko’rsating
+APS =(S/Di)x100%
+APS=SxDi
+APS= dDi /dS
+APS= Di - S
+Jami jamg’armalar qanday turlarga bo’linadi?
+Davlat,  xususiy jamg’armalar
+Umumiy jamg’armalar
+Oraliq jamg’armalar
+Iste’mol jamg’armalari
+Jami taklif chizig`i Keynschilar fikricha…
+Gorizontal  chiziqdan iborat
+Oraliq chiziqdan iborat
+Vertikal chiziqdan iborat
+Vertikal va oraliq chiziqdan iborat
+Jami talabning Keyns kesmasida iqtisodiyotning nisbatan qanday muddatda amal qilishi tavsiflanadi?
+Qisqa
+Uzoq
+O’rta
+Yaqin
+Jami talabning Klassik kesmasida iqtisodiyotning nisbatan qanday muddatda amal qilishi tavsiflanadi?
+Uzoq
+Qisqa
+O’rta
+Yaqin
+Jami talabning narx omillarini ko’rsating.
+Foiz  stavkasi samarasi, boylik samarasi, import xaridlar samarasi
+Boylik samarasi, resurslarning narxini o’zgarishi, narxni o’zgarishi
+Foiz stavkasi samarasi, davlat xarajatlari, import xaridlari samarasi
+Import xaridlar samarasi, iste’molchi daromadini o’zgarishi
+Jami talabning narxga bog’liq bo’lmagan omillari ta`sirida AD chizig`i...
+o`ngga  yoki chapga suriladi
+o`ngga yoki chapga surilmaydi
+pastga yoki chapga suriladi
+o`ngga yoki uqoriga suriladi
+Jami talabning narxga bog’liq bo’lmagan omillarini ko’rsating.
+iste’mol,  davlat va investitsiya xarajatlaridagi, sof eksportdagi o’zgarish
+import haridlari samarasi
+foiz stavkasi samarasi
+boylik samarasi
+Keltirilgan jumlalarning qaysi biri to’g’ri?
+Potentsial  xajmdagi YaIM xaqiqiy YaIM dan katta
+Potentsial xajmdagi YaIM xaqiqiy YaIM dan kichik
+Potentsial xajmdagi YaIM xaqiqiy YaIM ga doimo teng bo’ladi
+Potentsial xajmdagi YaIM xaqiqiy YaIM ga qarab aniqlanadi
+Kembrij tenglamasini ko’rsating
+M =k x PY
+M= PY x Lk
+MxV=YxP
+M=k-PY
+Keynscha  nazariya pulga talabni nimaga bog’liq deb xisoblaydi
+real  daromad hajmi
+foiz stavkasiga
+pulning aylanish tezligi
+pulning taklifiga
+Keynschilar nazariyasi bo’yicha jamg’armalar va investitsiyalar miqdorini aniqlaydigan asosiy omil...
+Aholining  ixtiyordagi daromadi
+Foiz stavkasi
+Aholi jamg’armalari
+Iste’mol xajmi
+LM modeli nimani ifodalaydi?
+Pul  bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+Tovar va xizmatlar bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+Pul bozoridagi xarajatlar stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+Pul bozoridagi foiz stavkasi bilan investitsiya o’rtasidagi bog’liqlikni
+![изображение](https://github.com/James6746/FInal-Exam/assets/79788092/07539825-89ab-4255-95e5-5d57e58a1c60)
+
+
+
+
+
+
+
+Savol va javoblar
+Daromadlarning o’sishi pulga talab egri chizig’ini
+O’ngga  suradi
+
+
+
+Fillips egri chizig’i qanday bog’liqlikni anglatadi?
+ishsizlik  va inflyatsiya o’rtasidagi
+
+
+
+Inflyatsiya sabablari nima?
+pul  massasi va pul aylanish tezligini oshishi hamda tovar ishlab chiqarish hajmi kamayishi
+
+
+
+Iqtisodiy mohiyatiga qarab soliqlar turlarini belgilang
+egri  va to’g’ri soliqlar
+
+
+
+Iqtisodiy mohiyatiga qarab soliqlar turlarini belgilang
+egri  va to’g’ri soliqlar
+
+
+
+IS modeli qaysi bozordagi muvozanatni  ifodalaydi?
+Tovar  va xizmatlar
+
+
+
+iste’mol, davlat va investitsiya xarajatlaridagi, sof eksportdagi o’zgarish…
+Jami  talabning narxga bog’liq bo’lmagan omillari
+
+
+
+Iste’molga chegaralangan moyillik 0,75ni tashkil qilsa, jamg’armaga chegaralangan moyillik qanchani tashkil etadi?
+0. 25
+
+
+
+Iste’molga o’rtacha moyillik deganda ... tushuniladi
+ixtiyordagi  daromaddagi iste’mol xarajatlarining ulushi
+
+
+
+Jamg’arishga o’rtacha moyillik deganda... tushuniladi
+ixtiyordagi  daromaddagi jamg’arishning ulushi
+
+
+
+Klassik nazariya pulga talabni nimaga bog’liq deb xisoblaydi
+foiz  stavkasiga
+
+
+
+Klassiklar nazariyasi bo’yicha jamg’armalar va investitsiyalar miqdorini aniqlaydigan asosiy omil...
+Foiz  stavkаsi
+
+
+
+Makroiqtisodiy siyosatning muhim  vazifalari nimalardan iborat?
+makroiqtisodiy  barqarorlik, iqtisodiy o’sish va aholi farovonligini ta’minlash
+
+
+
+Mikroiqtisodiyotdan farqli ravishda makroiqtisodiyot...
+ustun  ravishda umumlashtirilgan tushunchalar bilan ishlaydi
+
+
+
+Pulga bo’lgan talab grafigida qanday ko’rsatkichlarning o’zaro bog’liqliklari ifodalanadi
+foiz  stavkasi va real pul zahiralari miqdoriga talab teskari bog’liklikka ega ekanligi ko’rinadi.
+foiz stavkasi va real pul zahiralari miqdoriga talab тўғри bog’liklikka ega ekanligi ko’rinadi.
+foiz stavkasi va pul aylanish tezligi miqdoriga talab teskari bog’liklikka ega ekanligi ko’rinadi.
+foiz stavkasi va pul aylanish tezligi miqdoriga talab тўғри bog’liklikka ega ekanligi ko’rinadi.
+Pulning miqdoriy nazariyasi tenglamasini yana qanday atash mumkin
+Fisher  tenglamasi
+Kembrij tenglamasi
+Talab tenglamasi
+Taklif tenglamasi
+Taklifning keskin o’zgarishi qisqa muddatli davrda … olib keladi
+narx  oshishi va ishlab chiqarish hajmi pasayishiga
+narx pasayishi va ishlab chiqarish o’sishiga
+narx va ishlab chiqarish hajmi oshishiga
+narx va ishlab chiqarish hajmi pasayishiga
+2017 yil inflyatsiya darajasining o’sish sur’ati ko’rsatkichlari necha foizdan oshmadi?
+14. 4 foizdan
+13 foizdan
+12 foizdan
+12.5 foizdan
+2018 yil mamlakat YaIM o’sish sur’ati qancha bo’lgan?
+5. 3%
+6.3%
+8.4%
+8.5%
+2017 yilda YIM dagi sanoat maxsulotlari  ulushi necha foizni tashkil qildi?
+7, 0
+6.7
+6.8
+6.9
+2017 yilda YIMda qurilishning ulushi necha foizni tashkil qildi?
+5, 6
+7.8
+5.7
+12.6
+A.Smitning mutlaq ustunlik nazariyasidan keyin D.Rikardo nazariyasi qanday nomlanadi?
+nisbiy  ustunlik nazariyasidir
+mutlaq ustunlik nazariyasidir
+matematik nazariyadir
+nisbiy nazariyadir
+A.Smitning mutlaq ustunlik nazariyasiga ko’ra,
+har  bir mamlakat undagi mavjud sharoitlar va resurslarda ma’lum bir tovarni eng kam xarajatlar hisobiga  ishlab chiqirish imkoniyatiga ega.
+har bir mamlakat undagi mavjud sharoitlar va resurslarda ma’lum bir tovarni eng kam xarajatlar hisobiga  ishlab chiqirish imkoniyatidan bosh tortadi.
+har bir mamlakat undagi mavjud sharoitlar va resurslarda ma’lum bir mamlakatga eng ko’p tovarlarni sotishga xarakat qiladi
+har bir mamlakat undagi mavjud sharoitlar va resurslarda ma’lum tovarlarni boshqa gavlatga sotishni istamaydi
+AD egi chizig’i qanday omillar ta’sirida o’ng yoki chap tomonga suriladi?
+Narxdan  boshqa omillar ta’sirida
+Import xaridlar samarasi ta`sirida
+Narx va daromad ta’sirida
+Taklif oshganda
+AD-AS egri chiziqlari kesishadigan nuqta nimani ifodalaydi?
+Yalpi  talab va yalpi taklif hajmlari o’zaro teng bo’ladi
+Yalpi talab yalpi taklifdan ortiq bo’ladi
+Tovarlar va pul bozoridagi taklif talabdan ortiq bo’ladi
+Xizmatlar va pul bozoridagi taklif talabdan ortiq bo’ladi
+AD-AS modeli nimani ifodalaydi?
+Yalpi  talab va yalpi taklif o’rtasidagi bog’liqlikni
+Tovar va xizmatlar bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+Pul bozoridagi xarajatlar stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+Pul bozoridagi foiz stavkasi bilan investitsiya o’rtasidagi bog’liqlikni
+AD-AS modeli qanday model?
+Yalpi  talab-yalpi taklif modeli
+Talab va taklif modeli
+Tovar va xizmatlar modeli
+Maxsulot taklifi modeli
+Advolar bojlarni undirish tartibi qanday?
+Import  qilinayotgan tovar qiymatiga ma’lum foiz tariqasida
+Kapital harakati hisobining ijobiy qoldig’i
+Kapital harakati hisobining nol qoldig’i
+Joriy operatsiyalar hisobining manfiy qoldig’i
+Agar iqtisodiyotda korxona, firma, uy xo’jaligi, alohida olingan bozorlar muammosi tadqiq qilinsa, bunday tahlil …
+Mikroiqtisodiy  tahlil
+Makroiqtisodiy tahlil
+Ilmiy abstraktiv tahlil
+Normativ tahlil
+Agar narxlar o’ssa, unday holatda...
+Pulga  bo’lgan talab va foiz stavkasi darajasi o’sadi
+Istemolchilar ko`plab tovar va xizmatlarni sotib ola boshlaydilar
+Xarajatlar ko’payadi
+Qayd etilgan narxlardagi qimmatli qog’oz egalarining xarid qobiliyati ko’tariladi
+Agar narxlar pasaysa, boshqa teng shartlarda...
+Pulga  bo’lgan talab va foiz stavkasi darajasi pasayadi
+Qayd etilgan narxlar qimmatli qog’oz egalari o’z xarajatlarini ko’paytiradilar
+Foiz stavkasi o’zgarishiga ta’sirchan xarajatlar ko’payadi
+Qayd etilgan narxlardagi qimmatli qog’oz egalarining xarid qobiliyati pasayadi
+Agar uy xo’jaliklari o’zining hamma daromadlarini iste’molga ishlatmasdan, sarflanmagan miqdorni bankka joylashtirsa, unda ular…
+Jamg’armaga  ega bo’ladilar
+Jamg’armaga ega bo’lmaydilar
+Aktsiyalar sotib oladilar
+Daromadlari kamayib ketadi
+Agregatlash – bu…
+Bir  qancha iqtisodiy ko’rsatkichlar va kategariyalarni yagona makroiqtisodiy ko’rsatkich yoki kategoriyaga umumlashtirish
+Sifat ko’rsatkichlar
+Miqdor ko’rsatkichlar
+Mikroiqtisodiy ko’rsatkichlar
+Amortizatsiyalar quyidagilardan qaysi birini hisoblashda hisobga olinadi?
+Faqat  xarajatlar oqimi usuli bo’yicha YaIMni hisoblashda
+Faqat  daromadlar oqimi usuli bo’yicha YaIMni hisoblashda
+Ham xarajatlar oqimi va ham daromadlar oqimi usullari bo’yicha yaimni hisoblashda
+Ixtiyoridagi daromadni hisoblashda
+AS egri chizig’i qanday kesmalardan iborat?
+Gorizantal,  vertikal, oraliq
+Keyns, klassik, vertikal
+Oraliq, klassik, vertikal
+Gorizontal, keyns, oraliq
+AS egri chizig’i qanday omillar ta’sirida o’ng yoki chap tomonga suriladi?
+Narxdan  boshqa omillar ta`sirida
+Foiz stavkasi samarasi ta`sirida
+Iimport xaridlar samarasi ta`sirida
+Valyutani devalvatsiyasi yordamida
+AS egri chizig’ining klassik varianti uzoq muddatli davrda jami talab o’zgarishini ko’zda tutadi,bunda
+ishlab  chiqarish hajmiga ta’sir ko’rsatmaydi, narx darajasiga ta’sir ko’rsatadi
+narx darajasi va ishlab chiqarishga ta’sir ko’rsatmaydi
+narx darajasi va ishlab chiqarishga ta’sir ko’rsatadi
+narx darajasiga ham, ishlab chiqarish hajmiga ham ta’sir ko’rsatadi
+Bir qancha iqtisodiy ko’rsatkichlar va kategariyalarni yagona makroiqtisodiy ko’rsatkich yoki kategoriyaga umumlashtirish….deyiladi
+Agregatlah
+kategoriya
+ko’rsatkichlar
+yig'ish
+boylik samarasi…
+Jami  talabning narx omill
+Jami talabning narxdan boshqa omill
+Jami taklifning narx omill
+Jami taklifning narxdan boshqa omill
+Bozor iqtisodiyotiga o’tishni amalga oshiruvchi bosh islohotchi bu…
+davlat
+Siyosiy partiyalar
+Kasaba uyushmalari
+Jamoat tashkilotlari
+Bozor iqtisodiyotining muhim afzalliklaridan biri cheklangan resurslar sharoitida…
+Iqtisodiy  resurslarni samarali taqsimlash
+Resurslarni qimmatga sotish
+Resurslarni arzon sotib olish
+Resurslarni arzon sotib olishni va qimmatga sotishni ta’minlash
+Chet el tovarlari oqimini tartibga solishda qanday bojlardan foydalaniladi?
+Import  bojlari
+Eksport bojlari
+Savdo bojlari
+Maxsus bojlar
+Choralarning aniq yo’nalishlarini ... o’rganadi
+Normativ  makroiqtisodiyot
+Pozitiv makroiqtisodiyot
+Pozitiv va normativ makroiqtisodiyot
+Statistika fani
+Daromadlar usuli...
+YaIMni  hisobdash usullaridan biridir
+Ishlab chiqarishni xisoblash usullaridan biridir
+YaMD xisoblash usullaridan biridir
+Millliy daromadni xisoblash usullaridan biridir
+Davlat byudjeti daromadlari qanday tushumlar hisobiga shakllanadi
+soliq  va soliq bo’lmagan tushumlar hisobiga
+davlat foydasi hisobidan
+import hisobidan
+export hisobidan
+Davlat jamg`armasi va byudjet taqchilligi o`rtasida qanday bog`liqlik mavjud?
+Davlat  jamgarmasi byudjet taqchilligiga teskari miqdor
+Mavjud emas
+Davlat jamgarmalari doim byudjet taqchilligidan katta
+Davlat jamg`armalari doim byudjet taqchilligidan kichik
+Davlat transfert to’lovlarining asosiy hususiyati nimada?
+Uning  evaziga uni oluvchilar davlatga hech narsa bermaydi
+Uning evaziga uni oluvchilar davlatga soliq to`laydi
+Uning evaziga uni oluvchilar davlatga ishlab berishlari kerak
+Uning evaziga uni oluvchilar davlatga boj to’laydi
+Davlatning barqarorlashtirish siyosati - bu…
+Monetar,  fiskal va tashqi savdo siyosat
+Monetar va fiskal siyosat
+Fiskal va tashqi savdo siyosati
+Faqat tashqi savdo siyosat
+Davlatning makroiqtisodiy siyosati qanday siyosatlarni o`z ichiga oladi?
+Monetar,  fiskal, ijtimoiy va tashqi iqtisodiy siyosat
+Faqat monetar va fiskal siyosat
+Faqat fiskal va tashqi savdo siyosati
+Tashqi savdo siyosat
+Davriy ishsizlik – bu...
+Ishlab  chiqarishning pasayishi natijasida ishchi kuchiga bo’lgan talabning kamayishidan paydo bo’ladigan ishsizlik
+Ishlab chiqarish strukturasining o’zgarishi natijasida paydo bo’ladi
+Ishlab chiqarishning o’sishi natijasida ishchi kuchiga bo’lgan talabdagi ishsizlik
+Mehnat layoqati yo’qolgan davrdagi ishsizlik
+Davriy ishsizlik qaysi iqtisodiy siklda paydo bo’ladi?
+Ishlab  chiqarishning pasayishi natijasida turg'unlik davrida  paydo bo’ladi
+cho'qi
+ko'tarilish
+retsessiya
+Deflyator qanday ko`rsatkich?
+Narx  indeksi
+Ishsizlik darajasini o`lchaydi
+Joriy narxlar hisoblagichi
+Xarajatlar ko`rsatkichi
+Dotatsiya nima?
+Byudjet  va byudjetdan tashqari fondlardan qaytarib olmaslik sharti bilan xo’jaliklarning zararini qoplash uchun ajratilgan pul mablag’laridir
+Pul yoki natura ko’rinishida yordam turi bo’lib, albatta soliq undirib olinadi
+Qat’iy berilangan shartnoma
+Pul yoki natura ko’rinishida yordam turi bo’lib, albatta qaytarib olinadi
+Eksport bojlari nima maqsadda belgilanadi?
+Mamlakat  ichida talab ko’p bo’lgan mahsulotlar taqchilligining oldini olish maqsadida belgilanadi
+Mamlakat ichida talab ko’p bo’lgan mahsulotlarni sotib yuborish maqsadida belgilanadi
+Eksportni ko’paytirish maqsadida
+Eksportni kamaytirish maqsadida
+Eksport-import aloqalari yo’lga qo’yilgan mamlakat iqtisodiyoti qanday ataladi?
+Ochiq  iqtisodiyot
+Ochiq iqtisodiyot
+Aralash iqtisodiyot
+Sof iqtisodiyot
+Ekzogen miqdorlar –bu...
+Tashqi  o’zgaruvchilar
+Ichki iqtisodiy o’zgaruvchilar
+Pul masasi va foiz stavkasi o’zgarishi
+Valyuta kursini o’zgarish
+Endogen miqdorlar –bu...
+Ichki  o’zgaruvchilar
+Tashqi iqtisodiy o’zgaruvchilar
+Pul massasi va foiz stavkasi o’zgarishi
+Valyuta kursini o’zgarish
+Erkin savdoni sezilarli darajada cheklovchi vosita bo`lib sanalganlarning qaysinisi hisoblanadi?
+Import  boji
+Erkin narx
+Transfertlar
+Keltirilganlarning hech biri
+Fillips egri chizig’i qanday bog’liqlikni anglatadi?
+Ishsizlik  va inflyatsiya o’rtasidagi
+Pul taklifi va inflyatsiya o’rtasidagi
+Foiz darajasi va investitsiya o’rtasidagi
+Iqtisodiy sikl va ishsizlik o’rtasidagi
+Fisher tenglamasini ko’rsating
+MxV= YxP
+M=k x py
+M=k/PY
+M= PY - k
+Foiz stavkasi samarasi jami talabning qanday omili?
+Narx  omili
+Qiymat omili
+Sifat omili
+Teskari omili
+foiz stavkasi samarasi…
+Jami  talabning narx omill
+Jami talabning narxdan boshqa omill
+Jami taklifning narx omill
+Jami taklifning narx omill
+Friksion ishsizlik – bu …
+Ish  qidirayotgan yoki yaqin vaqtlar ichida ish bilan ta’minlanishni ko’tayotgan ishchi kuchi
+Ijtimoiy ishlab chiqarishda band bo’lmaganlar
+Vaqtinchalik ishlayotganlarning bir qismi
+Yaqin orada ishga joylashmayadiganlar
+Friksion,tarkibiy va davriy ishsizlikning qaysi turi eng havflisi?
+Davriy
+Tarkibiy
+Friksion
+Barchasi
+gorizantal, vertikal, oraliq kesmalari qaysi chiziqqa tegishli
+AS  egri chiziq'iga
+AD egri chiziq'iga
+LM egri chiziq'iga
+talab egri chiziq'iga
+Haqiqiy investitsiyalar o’z ichiga oladi
+rejalashtirilgan  va rejalashtirilmagan investitsiyalar miqdorini
+rejalashtirilgan investitsiyalar miqdorini
+rejalashtirilmagan investitsiyalar miqdorini
+tovar moddiy zaxiralarini
+Hozirgi davr pulining qadr -qimmati nima bilan o’lchanadi?
+Muomaladagi  pul miqdori bilan o’lchanadi
+Uning tashqi ko`rinishi bilan
+Mutloq likvidliligi bilan
+Undagi oltin miqdori va narxlar darajasi bilan
+Ijara xaqi YaIM ni hisoblashning qaysi usulida xisobga olinadi?
+Daromadlar  usulida
+Xarajatlar usulida
+Qo`shilgan qiymat usulida
+Barcha usullarda
+Import bojlari nima maqsadda belgilanadi?
+Davlat  byudjetini to’ldirish maqsadida va ichki bozorlarga tushadigan chet el tovarlari oqimini tartibga solish
+Ma mlakatda import tovarlarini ko’paytirish uchun
+Eksportni ko’paytirish maqsadida
+Eksportni kamaytirish maqsadida
+Import operatsiyasi -...
+Mahsulotni  xorijiy sherikdan sotib olish va uni mamlakatga olib kelish
+Maxsulotni xorijiy sherikga sotish
+Maxsulotlarni chet elga chiqarish
+Maxsulotlarni transportirovka qilish
+Import tariflari kiritilishi natijasida maxsulot baxolari...
+Ko’tariladi
+Pasayadi
+O’zgarmaydi
+Sinadi
+import xaridlar samarasi…
+Jami Ttalabning narx omill
+Jami talabning narxdan boshqa omill
+Jami taklifning narx omill
+Jami taklifning narxdan boshqa omill
+Importga tariflarning qanday turlari o’zaro farqlanadi?
+Maxsus  va advolar turlari
+Maxsus va ketma-ket
+Advolar va boj
+Ketma ket
+Inflyatsiya sabablari nima?
+Pul  massasi va pul aylanish tezligini oshishi hamda tovar ishlab chiqarish hajmi kamayishi
+Pul aylanish tezligi oshishi
+Pul aylanish tezligi oshib, tovar ishlab chiqarish hajmi kamayishi
+Pul massasini kamayishi
+Inflyatsiyani miqdoran o’lchash usuli qaysi?
+«70 -miqdor qoidasi»
+«80-miqdor qoidasi»
+«90-miqdor qoidasi»
+«100-miqdor qoidasi»
+Inflyatsiyaning qanday turlari mavjud?
+Sudraluvchi, yuguruvchi va giperinflyatsiya
+Yuruvchi va giperinflyatsiya
+Giperinflyatsiya va turg'un
+Sudraluvchi va yuguruvchi
+Investitsiya funktsiyasi...
+I= e-dr
+I=e+dr+1
+I= -e-dr
+I= -e+dr-1
+Investitsiya hajmiga qaysi omil ta`sir ko’rsatadi?
+Foiz  stavkasi darajasi
+Texnologik o’zgarishlar darajasi
+Import darajasi
+Eksport darajasi
+Investitsiya hajmining YalM hajmiga bog'liqligini xarakterlovchi model…
+akselerator  modeli deyiladi
+investitsiya modeli deyiladi
+pul modeli deyiladi
+talab modeli deyiladi
+Iqtisodiy davr fazalari - bu…
+Cho’qqi,  pasayish, quyi, jonlanish
+Jonlanish, tiklanish, pasayish.retsessiya
+Cho’qqi, quyi, o'zgarmas,retsessiya
+Vaqtinchalik ishlayotganlarning bir qismi
+Iqtisodiy davrlar bir-birlari bilan nimasi bilan farq qiladi?
+Davomiyligi  va faolliligiga ko’ra
+Mexnat unumdorligiga ko’ra
+Fang’texnika yutuqlariga ko’ra
+Iqtisodiyotdagi pul miqdoriga ko’ra
+Iqtisodiy davrlar nechta bosqichni o’z ichiga oladi?
+To’rt
+Ikki
+Uch
+Xususiy korxona qachon yuridik shaxs maqomiga ega bo`ladi
+korxona  tashkil topgan paytdan boshlab 
+korxona mulkdorlari soni ko`paygan paytdan boshlab
+Davlat ro`yhatidan o`tgandan o`tkazilgan paytdan  boshlab 
+korxona ishlab chiqargan mahsuloti soni oshgan paytdan boshlab
+Iqtisodiy hodisalarni qanday bo’lsa shunday o’rgatadi
+Pozitiv  makroiqtisodiyot
+Normativ makroiqtisodiyot
+Rejali makroiqtisodiyot
+Xalqaro makroiqtisodiyot
+Iqtisodiy o`sish necha usulda aniqlanadi?
+Ikki  xil usulda
+Bir xil usulda
+To`rt xil usulda
+Uch xil usulda
+iqtisodiyotda korxona, firma, uy xo’jaligi, alohida olingan bozorlar muammosi tadqiq qilinsa, bunday tahlil … deyiladi.
+Mikroiqtisodiy  tahlil
+Makroiqtisodiy tahlil
+Ilmiy abstraktiv tahlil
+Normativ tahlil
+Iqtisodiyotning pasayishi natijasida ishchi kuchiga bo’lgan talab yetarli bo’lmaganda ... olib keladi?
+Davriy  ishsizlikning oshishiga
+Tarkibiy ishsizlikning oshishiga
+Tarkibiy ishsizlikning oshishiga
+Yashirin ishsizlikning oshishiga
+IS egri chizig’ini siljishiga ta’sir etuvchi omillarni aniqlang?
+Iste’mol  xarajatlari, davlat xaridlari va sof soliqlar
+Davlat xaridlari vas sof soliqlar
+Sof soliqlar
+Iste’mol xarajatlar va sof soliqlar
+IS egri chizigi qanday bozorni ifodalaydi?
+Tovarlar  va xizmatlar bozorini
+Investitsiya bozorini
+Pul bozorini
+Moliya bozorini
+IS modeli nimani ifodalaydi?
+Tovar  va xizmatlar bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+Tovar va xizmatlar bozoridagi foiz stavkasi bilan xarajatlar o’rtasidagi bog’liqlikni
+Tovar va xizmatlar bozoridagi xarajatlar bilan daromadlar o’rtasidagi bog’liqlikni
+Pul bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+IS modeli qanday makroiqtisodiy kategoriyalardan iborat?
+Investitsiya,  jamg’arma
+Iste’mol, jamg’arma
+Daromad, iste’mol
+Iste’mol, jamg’arma
+IS modeli qaysi modellar yordamida shakllangan?
+Keyns  hochi, Investitsiya
+Iste’mol, jamg’arma
+Iste’mol, keyns xochi
+Keyns xochi, pul
+Ish haqi YaIM ning qaysi usulida hisobga olinadi?
+YaIMni  daromadlar oqimi usuli bo’yicha hisoblashda
+Yaimni xarajatlar oqimi usuli bo’yicha hisoblashda
+Sof eksportni hisoblashda
+Davlat korxonalariga sof subsidiyalarni hisoblashda
+Ish qidirayotgan yoki yaqin vaqtlar ichida ish bilan ta’minlanishni kutayotganlar qanday ishsizlikka kiradi?
+Friksion  ishsizlik
+Davriy ishsizlik
+Tarkibiy
+Ciklli
+Ishchi kuchi nima ?
+Ish  bilan bandlar+ ishsizlar
+Ishlashni xoxlovchilar
+Ish bilan bandlar
+Ishlayotganlar
+Ishchi kuchiga bo’lgan talab yetarli bo’lmaganda ... olib keladi?
+Davriy  ishsizlikning oshishiga
+Tarkibiy ishsizlikning oshishiga
+Friksion ishsizlikning oshishiga
+Yashirin ishsizlikning oshishiga
+ishlab chiqarish usuli...
+YaIMni  xisobdash usullaridan biridir
+YaIM ni xisobdash usullaridan biridir
+YaMD xisoblash usullaridan biridir
+Millliy daromadni xisoblash usullaridan biridir
+Ishlab chiqarish, bandlilik va inflyatsiya darajasining davriy tebranishlari nima deb ataladi?
+Iqtisodiy  davr (sikl)lar deyiladi
+Iqtisodiy davr chiziqlari deyiladi
+Iqtisodiy davr chiziqlari deyiladi
+Iqtisodiy sakrashlar deyiladi
+Ishlab chiqarishning potentsial darajasi deb nimaga aytiladi?
+Ishsizlikning  tabiiy darajasi xolatida iqtisodiyotda resurslardan to'la foydalanilganda yaratilishi mumkin bo’lgan maxsulot xajmiga
+Ishsizlikning tabiiy darajasi xolatida iqtisodiyotda yaratilishi mumkin bo’lmagan maxsulot xajmiga
+Ishsizlikning sun’iy darajasi xolatida iqtisodiyotda yaratilishi mumkin bo’lgan maxsulot xajmiga
+Ishlab chiqarish xajmining o’sishiga
+Ishsizlar va ish bilan band bo`lganlar birgalikda...
+Ishchi  kuchi hisoblanadi
+Band aholi hisoblanadi
+Ish bilan to’liq band hisoblanadi
+Iqtisodiy faol aholi hisoblanadi
+Milliy daromad tarkibiga nimalar kiradi?
+Ijara  haqi, ish haqi, kapitalga foiz, mulkdan olingan daromad va korporatsiya foydasi
+Investitsiyalar – jamg’armalar
+Uzoq muddat foydalaniladigan buyumlar va xizmatlar qiymati
+Uy xo’jaliklari+investitsiya+davlat xarajatlari – transfert to’lovlari + bilvosita soliqlar
+Mikroiqtisodiyotdan farqli ravishda makroiqtisodiyot
+Ustun  ravishda umumlashtirilgan tushunchalar bilan ishlaydi
+Tavakkal fikrlarni qo’llamaydi
+Uy xo’jaliklari hulq – atvorini o’rganadi
+Iqtisodiy muvozanat tushunchasidan foydalanadi
+Maxsus bojlarni undirish tartibi qanday?
+Import  qilinayotgan tovarlar birligiga nisbatan
+Import qilinayotgan tovarlar rangiga nisbatan
+Import qilinayotgan tovarlar egasiga nisbatan
+Import qilinayotgan tovarlar foydaliligiga nisbatan
+Maxsulotlarning potentsial va xaqiqiy ishlab chiqarilishi o’rtasidagi farq nima deb ataladi?
+Uzilishi  yoki orqada qolishi
+Nisbati
+Farqi
+yetishmovchilik
+Makroiqtisodiyotning sub`ektlarini ko`rsating
+Uy  xo`jaliklari, firmalar, davlat va tashqi dunyo
+Eksport
+Eksport subsidiyalari
+Demping va eksport subsidiyalari
+Makroiqtisodiyotning sifat ko’rsatkichlari –bu...
+Ishsizlik  va inflatsiya darajasi
+Ishsizlik va ixtiyordagi daromad
+Ixtiyordagi daromad va YaIM
+Inflyatsiya darajasi va YaIM
+Makroiqtisodiyotning miqdor ko’rsatkichlarini aniqlang.
+YaIM,  MD, SIM, ID, YaMD
+Ishsizlik va inflyatsiya darajasi
+Ishsizlik, SHD, SMD
+Inflyatsiya darajasi va YaIM
+Yaqin orada yana ishga joylashishga umid qilayotgan ishlovchi qaysi guruhga taalluqli bo’ladi?
+Ishsizlar  guruhiga
+Ish bilan band bo’lganlar guruhiga
+Ish bilan to’liq band bo’lganlar guruhiga
+To’la band bo’lmaganlar sifatida qaraladi
+Yalpi talab-yalpi taklif modeli to’g’ri ko’rsatilgan javobni ko’rsating
+AD- AS
+AS-LM
+Solou
+IS-LM
+YaIMni xisoblashda noishlab chiqarish bitimlari buyicha tushumlar ...
+Qo`shilmaydi
+Qo'shiladi
+Bo'linadi
+Ko'paytiriladi
+YaIMni xarajatlar bo’yicha hisoblash –bu...
+Iste’mol,  sof eksport, investitsiyalar va davlat xaridi
+Ish haqi, sof eksport, foiz stavkasi
+Foiz stavkasi, davlat haridi, amortizatsiya
+Iste’mol, davlat haridi, ijara haqi
+YaIMni hisoblashda sanalganlardan qaysilari hisobga olinadi?
+Uy  xo’jaliklarining iste’mol xarajatlari
+Iste’mol va doimiy xarajatlar
+«Teksako» korporatsiyasi aktsiyalarini sotib olish
+Uy xo’jaliklarining o’zgarmas xarajatlar
+YaIM hisoblash usullari –bu...
+Daromadlar,  xarajatlar va ishlab chiqarish usuli
+Daromadlar usuli
+Sof eksport usuli
+Ishlab chiqarish usuli
+YaIM -(minus) Amortizatsiya = ?
+Sof ichki  maxsulot
+Ichki daromad
+Milliy daromad
+Shaxsiy daromad
+Xarajatlar yig’indisi bo’yicha hisoblangan YaIMga quyidagi ko’rsatkichlardan qaysi biri kiritilmaydi?
+Ish  haqi va xizmat haqi
+Yalpi investitsiyalar
+Tovar va xizmatlarni sof eksporti
+Tovar va xizmatlarni davlat xaridi
+xarajatlar usulida hisoblash...
+Yaimni  xisobdash usullaridan biridir
+Ishlab chiqarishni xisoblash usullaridan biridir
+Yamd xisoblash usullaridan biridir
+Millliy daromadni xisoblash usullaridan biridir
+Valuta atamasi qisqa ma`noda nimani anglatadi?
+Chet  davlatlarnind pul birligini
+Chet davlatlarnind tovar birligini
+Davlatlatnind almashinuv kursini
+Chet davlatlarnind xizmatlar birligini
+Tovar moddiy zaxiralariga kiradi…
+investitsiyalardagi  kutilmagan o’zgarishlar
+investitsiyalardagi kutilgan o’zgarishlar
+bozordagi tovarlar
+investitsiyalar
+To'la ish bilan bandlik….
+ishchi  kuchining 100 foiz ish bilan ta’minlanganligini bildirmaydi
+Pasayish
+Ko’tarilish
+Cho’qqi, turg’unlik
+To’lov balansi nima?
+Biror  bir mamlakatga chetdan keladigan barcha tushumlar va chetga chiqadigan barcha to`lovlar ko`rsatilgan xujjat
+Mamlakatga chetdan keladigan barcha tushumlar ko`rsatilgan xujjat
+Mamlakatdan chetga chiqadigan barcha to`lovlar ko`rsatilgan xujjat
+Mamlakatning barcha to`lovlari ko`rsatilgan xujjat
+To’la ish bilan bandlik davridagi ishsizlik nima deb ataladi?
+Ishsizlikning  tabiiy darajasi
+Ishsizlikning potentsial darajasi
+Ishsizlikning nominaldarajasi
+Ishsizlikning realdarajasi
+To’la bandlikda qaysi ishsizlik darajalari mavjud bo`ladi?
+Friktsion  ishsizlar, tarkibiy ishsizlar
+Nodavriy ishsizlar
+Davriy ishsizlar
+Barcha ishsizlar
+Tez kunlar ichida yana ishga joylashishga umid qilayotgan shaxs bu…
+Ishsizlar  guruhiga kiradi
+Bandlar guruhiga kiradi
+To’la band bo’lmaganlarga kiradi
+Ishchi guruhiga kiradi
+Tashqi savdoni cheklash usullarining nechtadan oshiqroq turi mavjud.
+50dan  oshiqroq turi mavjud.
+40 dan oshiqroq turi mavjud.
+30 dan oshiqroq turi mavjud.
+20 dan oshiqroq turi mavjud.
+Tashqi savdoda tarif miqdori nimalar asosida aniqlanadi?
+Tarif  stavkasi
+Eksport stavkasi
+Foiz stavkasi
+Import stavkasi
+Tasarrufdagi daromaddagi iste’mol xarajatlarining ulushi nima deb ataladi?
+Iste’molga  o’rtacha moyillik
+Iste’molga cheklangan moyillik
+Istemol ulushi
+Xarajatlar ulushi
+Ta’rif usullariga nimalar kiradi?
+Import  va eksport bojlarini joriy qilish
+Import va eksport operatsiyalari
+Import bojlarini joriy qilish
+Eksport bojlarini joriy qilish
+Subsidiya nima?
+Pul  yoki natura ko’rinishida yordam turi bo’lib, byudjet va byudjetdan tashqari fondlardan to’lanadi
+Pul yoki natura ko’rinishida yordam turi bo’lib, uni korxonalardan olinadi
+Qat’iy maqsadlar uchun beriladigan dotatsiya turi
+Transfert to’lovlari
+Sof xususiy investitsiyalar quyidagilardan qaysi birini hisoblashda hisobga olinadi?
+Xarajatlar  oqimi usuli bo’yicha YaIMni hisoblashda
+Daromadlar oqimi usuli bo’yicha YaIMni hisoblashda
+Xarajatlar oqimi usuli bo’yicha milliy daromadni hisoblashda
+Ixtiyoridagi daromadni hisoblashda
+Sof ichki maxsulot qanday aniqlanadi?
+YaIM- amortizatsiya
+YaIM+amortizatsiya
+YaMD+amortizatsiya
+YaMD-amortizatsiya
+Sof ichki mahsulot nimani o’z ichiga olmaydi?
+Amortizatsiyani
+Sof ichki investitsiyalarni
+Davlat xaridini
+Shaxsiy iste’molni
+Sof eksport qanday ko’rsatkich
+Mamlakatning  import va eksport operatsiyalari bo’yicha xarajatlar o’rtasidagi farq
+Import va eksportning yig'indisi
+Eksport tovarlar
+Eksport operatsiyalari
+SIM qanday hisoblanadi?
+YaIM-  (minus) amortizatsiya
+ShD -(minus) individual soliqlar
+SIM - (minus) biznesga egri soliqlar
+YaIM - (minus) dividentlar
+Shaxsiy tasarrufdagi daromad qanday hisoblanadi ?
+Shaxsiy  daromad minus individual soliqlar
+Shaxsiy daromad plus individual soliqlar
+Ish xaqilar yig`indisi
+Milliy daromad minus shaxsiy daromad
+Savdo to’siqlari –bu...
+Tarif  to’siqlari, notarif to’siqlari
+ichki to’siqlar
+tashqi  to’siqlari
+Eksport cheklovlari
+Sanab o’tilganlardan qaysilari “zahiralar” kategoriyasiga taalluqli?
+Iste’molchilarning  jamg’arilgan boyliklari
+Davlat byudjeti taqchilligi
+Bojlar
+Yordam
+Rivojlangan mamlakatlarda pul massasini aniqlashda qaysi pul agregatlaridan foydalaniladi?
+M1;  m2; m3; m4
+M0; m1; m2; m3; m4; m5
+M1; m2; m3; m4; m5
+M1; m2; m3
+Real YIM qanday xisjblanadi?
+Nominal  YaIM/Deflyator x 100%
+Nominal YIM x Deflyator
+Deflyator /Nominal YIM x 100%
+Deflyator - Nominal YIM
+Real iqtisodiy hodisalarni qanday bo'lsa shundayligicha ... o’rganadi
+Pozitiv  makroiqtisodiyot
+Normativ makroiqtisodiyot
+Pozitiv va normativ makroiqtisodiyot
+Statistika fani
+Quyidagilardan qaysi biri noiqtisodiy ne’mat hisoblanadi?
+Quyosh  nuri
+Teatr, kontsert zali
+Bilim, malaka
+Harbiy kema
+Qaysi model iqtisodiy o’sish modellariga kirmaydi?
+AD-AS  modeli
+Xarrod modeli
+Domar modeli
+R.Solou modeli
+Oraliq maxsulot – bu…
+Qayta  ishlash uchun sotib olinadigan tovar va xizmatlar
+Yakuniy iste’mol uchun sotib olinadigan tugal maxsulot
+Sotish uchun sotib olinadigan tugal maxsulot
+Sotish va kayta ishlash uchun sotib olinadigan tugal maxsulot
+Pirovard mahsulot – bu…
+Yakuniy  iste’mol uchun sotib olinadigan tugal maxsulot
+Qayta ishlash uchun sotib olinadigan tugal mahsulot
+Sotish uchun sotib olinadigan tugal maxsulot
+Sotish va kayta ishlash uchun sotib olinadigan tugal maxsulot
+Nominal YaIM qanday narxlarda hisoblanadi?
+Joriy  narxlarda
+O’zgaruvchan narxlarda
+Chakana narxlarda
+Ulgurji narxlarda
+Normaitiv makroiqtisodiyot nimani o’rganadi?
+Choralarning  aniq yo’nalishlarini o’rganadi
+Real hdisalarni o'rganadi
+Iqtisodiy usullarni o’rganadi
+Ichki iqtisodiy o’zgaruvchilarni
+Korxona va firmalar tovar va xizmatlarni sifatli ishlab chiqarilish uchun nimalar muhim hisoblanadi.
+Ishchi  kuchi resurslar kapital
+Ehtiyoj daromad raqobat
+Xom ashyo va resurslarning narxlari
+A va C javoblar to`g`ri
+Ochiq iqtisodiyot - bu…
+Mamlakatning  fuqarolari halqaro bozorda cheklanmagan miqdorda faoliyat yuritish huquqiga ega
+Xalqaro investitsiyani qisman kirib kelishi mumkin
+Mamlakat aholisi cheklangan holdagi faoliyati
+Tashqi iqtisodiy aloqalarning qisman cheklangan shakli
+Pozitiv makroiqtisodiyot nimani o’rgatadi?
+Iqtisodiy  hodisalarni qanday bo’lsa shundayligicha o’rgatadi
+Iqtisodiy hodisalarni qanday bo’lishini ko’rsatadi
+Iqtisodiy rivojlanishdagi ijobiy tendentsiyalarni o’rganadi
+Bildirilgan fikrlarni tahlil qiladi
+Pul agregatlarini tuzishda qanday mezon asos qilib olingan?
+Likvidlilik  darajasining pasayib borishi
+Likvidlilik darajasining ko’payib borishi
+Likvidlilik darajasining kengayib borishi
+Likvidlilik darajasining torayib borishi
+Pul massasi nimalardan iborat?
+Naqd,  naqdsiz va kvazi pullar
+Naqdsiz pullar
+Naqd pullar va hisob raqamlardagi pullar
+Kvazi pullar
+Pul taklifi nimaga teng?
+Bank  tizimidan tashqaridagi naqd pullar plyus depozitlar (Ms=C+D)
+Bank tizimidan tashqaridagi naqd pullar minus depozitlar (Ms=CxD)
+Bank tizimidan tashqaridagi naqd pullar minus rezerv pullar (Ms=C-R)
+Bank tizimidan tashqaridagi naqd pullar plyus depozitlar (Ms=C+R)
+Pul taklifi o’z ichiga oladi
+bank  tizimidan tashqaridagi naqd pullar va depozitlarni
+naqd pullar va pul bazasi
+naqd pullar va bank rezervlarini
+pul bazasi va bank rezervlarini
+Pulining qadr-qimmati nima bilan o’lchanadi?
+Iqtisodiyotdagi  muomalada bo`lgan pul miqdori bilan o’lchanadi
+Mamlakatning oltin zahirasi bilan
+Mutloq likvidliligi bilan
+Undagi oltin miqdori va narxlar darajasi bilan
+Qanday mamlakat iqtisodiyoti ochiq iqtisodiyot deyiladi ?
+Eksport-import  aloqalari yo’lga qo’yilgan,
+Eksport-import aloqalari yo’lga qo’yilmagan,
+Faqat import aloqalari yo’lga qo’yilgan,
+Faqat eksport aloqalari yo’lga qo’yilgan,
+Qanday sharoitda taklif inflyatsiyasi kelib chiqadi?
+Iqtisodiyotda  tovar va xizmatlar taklifining kamayishi natijasida baxolarning oshishidan paydo bo’ladi
+Iqtisodiyotda tovar va xizmatlar taklifining ko’payishi natijasida baxolarning oshishidan paydo bo’ladi
+Iqtisodiyotda tovar va xizmatlar taklifining ko’payishi natijasida baxolarning oshishidan paydo bo’ladi
+Iqtisodiyotda tovar va xizmatlar taklifining kamayishi natijasida baxolarning pasayishidan paydo bo’ladi
+Qanday xolatda LM egri chizigi chapga siljiydi
+Pul  taklifi kamaysa
+Davlat xarajatlari o’ssa
+Soliqlar kamaysa
+Pul miqdori o’ssa
+Qaysi ko`rsatkich asosiy makroiqtisodiy ko`rsatkich sifatida tan olingan?
+Yaim
+YaMD
+SMD
+Md
+Milliy daromad va biznesga egri soliqlar yig`indisi -bu
+Sof  ichki mahsulot
+Shaxsiy daromad
+Yalpi ichki mahsulot
+Ixtiyordagi daromad
+Monetaristlar iqtisodiyotni barqarorlashtirishning eng maqbul vositasi deb nimani hisoblaydilar?
+Pul  massasi o’zgarishini
+Soliqlar o’zgarishini
+Davlat xaridlari o’zgarishini
+Davlat xarajatlari o’zgarishini
+Mutlaoq ustunlik nazariyasi qaysi olimga tegishli?
+A. Smit
+D.Rikardo
+E.Xeksher
+B.Olin
+Narx omillaridan foiz stavkasi samarasi nimani bildiradi?
+Tovarlar  baxosi darajalarining yuqoriligi pulga bo’lgan talabni oshiradi
+Tovarlar baxosi darajalarining yuqoriligi tovarlarga bo’lgan talabni oshiradi
+Tovarlar baxosi darajalarining yuqoriligi pulga bo’lgan talabni kamaytiradi
+Tovarlar baxosi darajalarining pasayishi pulga bo’lgan talabni oshiradi
+Narx omillaridan import xaridlar samarasi nimani bildiradi
+Tovar  va xizmatlarning ichki narxlari tashqi narxlardan oshib borsa, import maxsulotlariga talab oshadi
+Tovar va xizmatlarning narxlari oshib borsa, maxsulotlariga talab oshadi
+Tovar va xizmatlarning narxlari oshib borsa, maxsulotlariga talab kamayadi
+Tovar va xizmatlarning narxlari oshib borsa, maxsulotlariga talab ko’payadi
+Narxlar indeksi qanday farqni baholash  uchun  ishlatiladi?
+turli  davrdagi “iste’mol savati”ning bozor qiymatidagi farqini
+
+
+
+Narxlar indeksi qanday farqni baholash uchun ishlatiladi?
+Turli  davrdagi “iste’mol savati”ning bozor qiymatidagi farqini baholash uchun
+
+
+
+Nima uchun oraliq va pirovard maxsulotlarni farqlay bilishimiz kerak
+Bir  maxsulotni ikki marta hisoblamaslik uchun
+
+
+
+Nisbiy ustunlik nazariyasi kimga tegishli?
+D. Rikardo
+
+
+
+Noishlab chiqarish bitimlariga nimalar kiradi
+Sof  moliyaviy bitimlar va ishlatilgan tovarlarni sotish
+
+
+
+Ishsizlik darajasi qanday aniqlanadi?
+Ishsizlarni  ishchi kuchi soniga nisbatiga(% xisobida)
+
+
+
+Ishsizlik turlari to’liq ko’rsatilgan qatorni aniqlang.
+Friksion,  davriy, strukturaviy
+
+
+
+ishsizlik va inflyatsiya o’rtasidagi bog'liqlikni ifodalovchi chiziq
+Fillips  egri chizig’i
+
+
+
+Ishsizlikning qanday turlari mavjud?
+Friktsion,  davriy va tarkibiy
+
+
+
+IS-LM egri chiziqlari kesishadigan nuqta shuni ifodalaydiki bunda…
+Tovarlar  va pul bozoridagi talab va taklif o’zaro teng bo’ladi
+
+
+
+IS-LM modeli birinchi bor kim tomondan taklif qilingan
+J. Xiks
+
+
+
+IS-LM modeli qanday bozorlardagi birgalikdagi muvozanat o`rnatilishi mexanizmini xarakterlaydi
+Xam  tovarlar xam pul bozoridagi
+
+
+
+IS-LM modeli....
+Tovarlar  va pul bozoridagi foiz stavkasi bilan daromadlar darajasining muvozanatli darajasini belgilaydi
+
+
+
+Iste’mol funktsiyasining formulasi…
+C= a+b Yd
+
+
+
+Iste’moldagi o’zgarishlarning shu o’zgarishni keltirib chiqargan ixtiyordagi daromad o’zgarishidagi ulushi qanday ataladi?
+Iste’molga  chegaralangan moyillik
+
+
+
+Iste’molga bo’lgan o`rtaca moyillik qanday aniqlanadi?
+Iste’mol  xarajatini ixtiyordagi daromadga nisbati ko`paytirilgan 100
+
+
+
+Iste’molga cheklangan moyillik deganda nima tushuniladi?
+Iste’moldagi  o’zgarishlarning ixtiyordagi daromad o’zgarishlaridagi ulushi
+
+
+
+Iste’molga cheklangan moyillik formulasini ko’rsating
+MPC =(dC/dDi)x100%
+
+
+
+Iste’molga o’rtacha moyillik deganda...
+Tasarrufdagi  daromaddagi iste’mol xarajatlarining ulushi tushuniladi
+
+
+
+Iste’molga o’rtacha moyillik formulasini ko’rsating
+APC =(C/Di)x100%
+
+
+
+Ixtiyordagi daromad o`z navbatida qanday ko`rsatkichlarga bo`linadi?
+Iste’mol  va jamg`arishga
+
+
+
+Ixtiyordagi daromad qanday hisoblanadi?
+Shaxsiy  daromad -(minus) individual soliqlar
+
+
+
+Ixtiyordagi daromad quyidagicha topiladi
+Shaxsiy  daromad minus individual soliqlar
+
+
+
+Ixtiyordagi daromadni berilgan darajasida jamg’arma va iste’molga me’yoriy moyillik miqdorlarning yig’indisi ...
+100  % ga teng
+
+
+
+Jamg’arish funktsiyasining formulasi...
+S = -a+(1-b)Yd
+
+
+
+Jamg’arma turlari qaysilar?
+Davlat,  xususiy, boshqa mamlakatlar
+
+
+
+Jamg’armaga chekli moyillik formulasini ko’rsating
+MPS =(dS/dDi)x100%
+
+
+
+Jamg’armaga o’rtacha moyillik formulasini ko’rsating
+APS =(S/Di)x100%
+
+
+
+Jami jamg’armalar qanday turlarga bo’linadi?
+Davlat,  xususiy jamg’armalar
+
+
+
+Jami taklif chizig`i Keynschilar fikricha…
+Gorizontal  chiziqdan iborat
+
+
+
+Jami talabning Keyns kesmasida iqtisodiyotning nisbatan qanday muddatda amal qilishi tavsiflanadi?
+Qisqa
+
+
+
+Jami talabning Klassik kesmasida iqtisodiyotning nisbatan qanday muddatda amal qilishi tavsiflanadi?
+Uzoq
+
+
+
+Jami talabning narx omillarini ko’rsating.
+Foiz  stavkasi samarasi, boylik samarasi, import xaridlar samarasi
+
+
+
+Jami talabning narxga bog’liq bo’lmagan omillari ta`sirida AD chizig`i...
+o`ngga  yoki chapga suriladi
+
+
+
+Jami talabning narxga bog’liq bo’lmagan omillarini ko’rsating.
+iste’mol,  davlat va investitsiya xarajatlaridagi, sof eksportdagi o’zgarish
+
+
+
+Keltirilgan jumlalarning qaysi biri to’g’ri?
+Potentsial  xajmdagi YaIM xaqiqiy YaIM dan katta
+
+
+
+Kembrij tenglamasini ko’rsating
+M =k x PY
+
+
+
+Keynscha  nazariya pulga talabni nimaga bog’liq deb xisoblaydi
+real  daromad hajmi
+
+
+
+Keynschilar nazariyasi bo’yicha jamg’armalar va investitsiyalar miqdorini aniqlaydigan asosiy omil...
+Aholining  ixtiyordagi daromadi
+
+
+
+LM modeli nimani ifodalaydi?
+Pul  bozoridagi foiz stavkasi bilan daromadlar o’rtasidagi bog’liqlikni
+
+
+
+===========================================================================================
+===========================================================================================
+
+
+                                     Макроиқтисодиёт фанидан 200 та тест.
+
+№ 1. 
+Qiyinligi darajasi – 2
+
+Makroiqtisodiyot qanday darajadagi iqtisodiyot?
+Butun milliy va jahon iqtisodiyoti;
+Butun xalq xo`jaligi;
+ Iqtisodiyotning davlat sektori;
+Iqtisodiyotning kooperativ sektori;
+
+№2. 
+Qiyinligi darajasi – 2
+Milliy iqtisod tarmoq tuzilishining rivojlanishiga ta’sir ko`rsatuvchi asosiy omil nima?
+Mehnat taqsimotining chuqurlashuvi;
+Fan-texnika taraqqiyoti;
+Iqtisodiy integrasiya;
+Mehnat kooperasiyasi;
+
+№ 3.
+Qiyinligi darajasi – 2
+Makroiqtisodiy ko`rsatgichlar yordamida nimalar taxlil qilinadi?
+Milliy ishlab chiqarish xajmi; milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar; milliy iqtisodiyotdagi muvozanatlik va bandlik
+ishlab chiqarish xajmi; milliy iqtisodiyot faoliyat qilishiga ta’sir qiluvchi omillar
+milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar aniqlanadi;
+milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi yotdagi muvozanatlik va bandlikka baxo beriladi;
+
+№ 4.
+Qiyinligi darajasi – 2
+Nima uchun jami ijtimoiy mahsulot ko`rsatgichi milliy iqtisodiyotning rivojlanish darajasini to`liq tavsiflab berolmaydi?
+Oraliq mahsulotlar qiymati bir necha marta hisobga olinadi;
+Faqat moddiy ishlab chiqarish soxalari natijalarini hisobga olish bilan cheklanadi;
+Xizmatlar qiymatini o`z ichiga olmaydi;
+Bozor baxolari bo`yicha hisoblanmaydi;
+
+№ 5.
+Qiyinligi darajasi – 2
+Pirovard mahsulot – bu:
+Iste’mol uchun tayyor bo`lgan, sotilgan yoki sotiladigan tovar va xizmatlarning bozor baxosidagi xajmi;
+Ishlov beriladigan mahsulot;
+Qayta ishlanadigan mahsulot;
+Sotish maqsadida xarid qilingan tovarlar;
+
+№ 6.
+Qiyinligi darajasi –2
+Milliy boylik tushunchasiga quyidagilardan qaysi biri mos?
+ajdodlar mehnati bilan yaratilgan va jamiyatda jamg‘arilib kelingan ne'matlar va tabiat in'omlari yig‘indisi
+holi qo‘lida to‘plangan mablag‘lar
+yer osti va yer usti boyliklari
+ishloq ho‘jaligida yaratilgan mahsulotlar
+
+№ 7.
+Qiyinligi darajasi –
+Ko‘rsatilganlardan qaysi biri iqtisodiy potensialning omillariga kiritilmaydi?
+jamg‘arilgan potensial
+mehnat potensiali
+ilm-ma'rifat potensiali
+texnologik, tabiiy potensial
+
+
+№ 8.
+Qiyinligi darajasi – 2
+Pul nima?
+umumiy ekvivalent vazifasini bajaruvchi mahsus tovar
+maxsus tovar
+qimmatbaho qog‘oz
+valyuta
+
+№ 9.
+Qiyinligi darajasi – 2
+Qiymat qonunining ijtimoiy taraqqiyotdagi eng muhim vazifasi nima?
+texnika taraqqiyotini rag‘batlantiradi
+ishlab chiqarishni tartibga solish
+ijtimoiy mehnat xarajatlarini tejashga undaydi
+tovar ishlab chiqaruvchilarni raqobatlashtiradi
+
+№ 10.
+Qiyinligi darajasi – 2
+Makroiqtisodiy maqsadlar nima?
+Iqtisodiy o‘sish, ishsizlik, inflyatsiya va tashqi savdo balansi
+Iqtisodiy o‘sish, ishsizlik, inflyatsiya va korxona rentabelligi
+ishsizlik, inflyatsiya va tashqi savdo balansi
+monopol bozorning tugatilishi
+
+№ 11.
+Qiyinligi darajasi –
+Makroiqtisodiy muvozanat – bu ........
+tovar va xizmatlar, pul, sarmoya va mehnat bozoridagi muvozanat.
+tovar va xizmatlar bozoridagi muvozanat
+pul bozoridagi muvozanat
+sarmoya bozoridagi muvozanat
+
+
+№ 12.
+Qiyinligi darajasi – 2
+Milliy daromad quyidagicha aniqlanadi
+SM dan egri soliqlarni ayirish orqali
+YaIM dan amortizatsiya xarajatlarini ayirish orqali
+Aholi daromadlariga to‘g‘ri soliqlarni qo‘shish orqali
+YaIM va SMning yig‘indisi hisoblanadi
+
+№ 13.
+Qiyinligi darajasi – 2
+Ouken qonuni nimani ifodalaydi?
+Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni
+Inflyatsiya va ishsizlik o‘rtasidagi munosabatni
+Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni
+Inflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni
+
+№ 14.
+Qiyinligi darajasi – 2
+Fillips egrisi nimani ifodalaydi?
+Inflyatsiya va ishsizlik o‘rtasidagi munosabatni
+Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni
+Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni
+nflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni
+
+№ 15.
+Qiyinligi darajasi – 2
+Makroiqtisodiyot qanday darajadagi iqtisodiyot?
+Butun milliy va jahon iqtisodiyoti
+Butun xalq xo`jaligi
+Iqtisodiyotning davlat sektori
+Iqtisodiyotning kooperativ sektori;
+
+
+№ 16.
+Qiyinligi darajasi – 2
+Milliy iqtisod tarmoq tuzilishining rivojlanishiga ta’sir ko`rsatuvchi asosiy omil nima?
+Mehnat taqsimotining chuqurlashuvi;
+Fan-texnika taraqqiyoti;
+Iqtisodiy integrasiya;
+Mehnat kooperasiyasi;
+
+№ 17.
+Qiyinligi darajasi – 2
+Makroiqtisodiy ko`rsatgichlar yordamida nimalar taxlil qilinadi?
+Milliy ishlab chiqarish xajmi; milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar;
+milliy iqtisodiyotdagi muvozanatlik va bandlik	ishlab chiqarish xajmi;
+milliy iqtisodiyot faoliyat qilishiga ta’sir qiluvchi omillar	milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar aniqlanadi;
+milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi yotdagi muvozanatlik va bandlikka baxo beriladi;
+
+№ 18.
+Qiyinligi darajasi – 2
+Nima uchun jami ijtimoiy mahsulot ko`rsatgichi milliy iqtisodiyotning rivojlanish darajasini to`liq tavsiflab berolmaydi?
+Oraliq mahsulotlar qiymati bir necha marta hisobga olinadi;
+Faqat moddiy ishlab chiqarish soxalari natijalarini hisobga olish bilan cheklanadi;
+Xizmatlar qiymatini o`z ichiga olmaydi;
+Bozor baxolari bo`yicha hisoblanmaydi;
+
+№ 19.
+Qiyinligi darajasi – 2
+Pirovard mahsulot – bu:
+Iste’mol uchun tayyor bo`lgan, sotilgan yoki sotiladigan tovar va xizmatlarning bozor baxosidagi xajmi;
+Ishlov beriladigan mahsulot;
+Qayta ishlanadigan mahsulot;
+Sotish maqsadida xarid qilingan tovarlar;
+
+№ 20.
+Qiyinligi darajasi –2
+Milliy boylik tushunchasiga quyidagilardan qaysi biri mos?
+ajdodlar mehnati bilan yaratilgan va jamiyatda jamg‘arilib kelingan ne'matlar va tabiat in'omlari yig‘indisi
+aholi qo‘lida to‘plangan mablag‘lar
+yer osti va yer usti boyliklari
+qishloq ho‘jaligida yaratilgan mahsulotlar
+
+№ 21.
+Qiyinligi darajasi –2
+Qiymat qonunining ijtimoiy taraqqiyotdagi eng muhim vazifasi nima?
+texnika taraqqiyotini rag‘batlantiradi
+ishlab chiqarishni tartibga solish
+ijtimoiy mehnat xarajatlarini tejashga undaydi
+tovar ishlab chiqaruvchilarni raqobatlashtiradi
+
+№ 22.
+Qiyinligi darajasi – 2
+Mulkiy munosabatlar deganda nimani tushunasiz?	
+mulkni o‘zlashtirish jarayonida vujudga keladigan munosabat
+mulk moddiy boylik degani
+mulk moddiy boyliklar, kiyim-kechaklar, oziq-ovqatlar, zebi-ziynatlar
+mulk biror shaxs yoki korxona, tashkilotlarga tegishli narsa
+
+№ 23.
+Qiyinligi darajasi – 2
+Mulkchilik ob'ektiga quyidagilarning qaysi biri kiritilmaydi?
+xududiy birlashmalar, xar xil tashkilotlar
+yer, suv, konlar
+o‘simlik va xayvonot dunyosi
+mashinalar, uskunalar
+
+№ 24.
+Qiyinligi darajasi –2
+Sotsial – iqtisodiy tizim qanday izoxlanadi?
+Jamiyatning sotsial-iqtisodiy tuzilishi
+Ishlab chiqarishni tashkil etuvchi jarayon
+Jamiyatning ishlab chiqaruvchi kuchlari
+Jamiyatning ishlab chiqarish munosabatlari
+
+№ 25.
+Qiyinligi darajasi – 2
+Mulkiy jixatdan qaraganda sotsial-iqtisodiy tizimlarni qanday toifalarga ajratish mumkin?
+Monostrukturali tizim	Aralash iqtisodiyot
+Natural ishlab chiqarish
+Tovar ishlab chiqarish
+To’g’ri javob yoq
+
+№ 26.
+Qiyinligi darajasi – 2
+Monoiqtisodiyot qanday izoxlanadi?
+Yakka mulk shakliga tayangan iqtisodiyot
+Bozor iqtisodiyotiga asoslangan iqtisodiyot
+Erkin raqobatga asoslangan iqtisodiyot
+Aralash iqtisodiyot
+
+№ 27.
+Qiyinligi darajasi – 2
+Quyidagilardan qaysi biri poliiqtisodiyot tizimiga mansub?
+Turli tuman mulk shaklllariga asoslangan aralash iqtisodiyot
+Bozor iqtisodiyotiga asoslangan iqtisodiyot
+Yakka mulk shakliga asoslangan iqtisodiyot
+Erkin raqobatga asoslangan iqtisodiyot
+
+№ 28.
+Qiyinligi darajasi –2
+Quyidagilardan qaysi biri totalitar rejali iqtisodiy tizimga xos emas?
+Ko`p turli mulkchilikka asoslangan erkin iqtisodiyot
+Iqtisodiyotni davlatlashtirishning yuqori darajasi
+Ishlab chiqarishni reja asosida amalga oshirish
+Siyosatni iqtisodiyotdan ustuvorligi.
+
+№ 29.
+Qiyinligi darajasi – 2
+Firmaning doimiy xarajatlari  bu – ….
+firma mahsulot ishlab chiqarmasa ham sarflanadigan xarajatlar;
+mahsulot ishlab chiqarish hajmi o‘zgarishiga bog‘liq xarajatlar;
+mahsulot ishlab chiqarish uchun sarflangan o‘rtacha xarajatlar;
+me’yoriy xarajatlar;
+
+№ 30.
+Qiyinligi darajasi – 2
+Bozor iqtisodiyotini xarakatga soluvchi vosita xili?
+Raqobat
+Ish kuchi
+Tovarlarning xilma-xilligi
+Manfaatlarning ustunligi
+
+№ 31.
+Qiyinligi darajasi – 2
+Bozor munosabatlari iqtisodning jadal borishini ta'minlovchi qanday kuchni yuzaga chikaradi?
+Iqtisodiy faoliyat erkinligi
+Narxlarning liberallashuvi
+Iqtisodiy monopolizm
+Iqtisodiyotni davlat tomonidan boshqarilishi
+
+№ 32.
+Qiyinligi darajasi – 2
+Bozor iqtisodiyotiga o`tish yo`llarining xususiyatlariga xos belgini aniqlang:
+Sotsial iqtisodiy sharoit
+Geografik joylashuvi
+Jahon xo`jaligida tutgan o`rni
+Iqtisodiy aloqalarning rivojlanishi
+
+№ 33.
+Qiyinligi darajasi – 2
+Quyidagi  ko`rsatilganlardan qaysi biri O`zbekistonning bozor iqtisodiyotiga o`tishda asosiy tamoyillariga xos emas?
+Revolyusion sakrashlar orqali tezlik bilan o`tishi
+Iqtisodiyotning siyosatdan ustuvorligi
+qonunlarning barcha narsalardan ustun turishi
+Bosqichma-bosqich utishni ta'minlash
+
+№ 34.
+Qiyinligi darajasi – 2
+Bozor – bu …
+Ishlab chiqaruvchi va iste'molchilar o`rtasidagi aloqalarni tovar-pul orqali tashkil etilishidan iborat munosabatlar yigindisi
+Davlat korxonalari va jamoa xo`jaliklari o`rtasidagi munosabatlar
+Fermer xo`jaliklari va jamoa xo`jaliklari o`rtasidagi munosabatlar
+Ijaraga beruvchilar va ijaraga oluvchilar o`rtasidagi munosabatlar
+
+№ 35.
+Qiyinligi darajasi – 2
+Bozor ob'ektining tarkibiga quyidagi lardan nimani kiritish mumkin emas?
+yer, suv, tabiiy boyliklar
+Iste'mol tovarlari
+Ishlab chiqarish vositalar bo`lgan tovarlar
+Akliy mehnat maxsuli bo`lgan tovarlar
+
+№ 36.
+Qiyinligi darajasi – 2
+Bozorning sub'ektlari – ishtirokchilari kimlar?
+Sotuvchilar va xaridorlar
+Dillerlar
+Tovar birjalari
+Savdo dukonlari
+
+№ 37.
+Qiyinligi darajasi – 2
+Bozorning vazifalariga quyidagi lardan qaysi biri kirmaydi?
+Iste'molchilarga tovarlarni reklama qilish
+Ishlab chiqarish bilan iste'molni boglash
+Tovarni qiymat shaklidan pul shakliga aylantirish
+Iqtisodiyotni tartibga solishda ishtirok etish
+
+№ 38.
+Qiyinligi darajasi – 2
+Monopollashgan bozorning xillariga quyidagi lardan qaysi biri kirmaydi?
+Rejalashtirilgan bozor
+Monopol raqobatli bozor
+Oligopolistik bozor
+Sof monopoliya bozori
+
+№ 39.
+Qiyinligi darajasi – 2
+Ayirboshlash mikyosi jixatidan bozor bulinadi:
+Iste'mol tovarlari va xizmatlari bozori
+Rejali, tartibga solinadigan bozor
+Mahalliy, hududiy bozor
+Tashqi bozor
+
+№ 40.
+Qiyinligi darajasi – 2
+Bozorning yetuklik darajasiga karab qanday darajalarga bulish mumkin?
+Xozirgi zamon rivojlangan bozori
+Tartiblanadigan bozor
+Rejalashtiriladigan bozor	
+Kapitalistik bozor
+
+№ 41.
+Qiyinligi darajasi – 2
+Talab nima?
+Tolo'vchi qobil, pul bilan ta'minlangan ehtiyoj
+Biron-bir ne'matlar va xizmatlarga bo`lgan extiyoj
+Iste'molchilarning bozordagi xarakati
+Xayotiy extiyoj
+
+№ 42.
+Qiyinligi darajasi – 2
+Talabga ta'sir qiluvchi omillar ichiga qaysi biri kirmaydi?
+Resurslar narxi
+Mahsulotlar narxi	
+Xaridor didi
+Xaridorlar soni
+
+№ 43.
+
+Qiyinligi darajasi – 2
+Bozorda taklif qilinadigan tovar xajmiga narxdan tashkari ta'sir kiladigan omillarga qaysi biri kirmaydi?
+Iste'molchilarning bozordagi xarakati
+Resurslar narxi
+Ishlab chiqarish texnologiyasi
+Narx o`zgarishining kutilishi
+
+№ 44.
+Qiyinligi darajasi – 2
+Nomukammal raqobat turiga quyidagi lardan qaysi biri kiritilmaydi?
+tarmoqlararo raqobat
+monopolistik raqobat
+oligopolistik raqobat
+sof monopoliya raqobati
+
+№ 45.
+Qiyinligi darajasi – 2
+Narxni aniqlang?
+tovar qiymatining puldagi ifodasi
+tovarni ayirboshlash shakli
+tovarga quyilgan xarajatlar miqdori
+ishlab chiqarilgan tovarlarni aniqlovchi omil
+
+№ 46.
+Qiyinligi darajasi – 2
+Narx vazifalariga quyidagi larning qaysi biri kiritilmaydi?
+ishlab chiqarish bilan iste‘molni boglash
+bozor munosabatlarini taminlash
+hisob-kitob, ulchov vazifasi
+iqtisodiy regulyator
+
+№ 47.
+Qiyinligi darajasi – 2
+Moliyaviy resurslar turiga ko`rsat ilganlardan qaysi biri kiritilmaydi?	
+davlat ixtiyoridagi resurs
+mikroresurslar
+makroresurslar
+zaxiradagi resurs
+
+№ 48.
+Qiyinligi darajasi – 2
+Moliyaning vazifalariga ko`rsat ilganlardan qaysi biri kiritilmaydi?
+ishlab chiqarish bilan iste’molchilarni boglash
+taqsimlash
+ragbatlantirish	sotsial ximoya
+To’g’ri javob yoq
+
+№ 49.
+Qiyinligi darajasi – 2
+Davlat moliyasining tarkuibiga quyidagilardan qaysi biri kirmaydi?
+banklarda jamg‘arilgan jamg‘arlmalar
+davlat byudjeti
+byudjetdan tashqari uyushtirilgan pul fondlari
+davlat krediti
+
+№ 50.
+Qiyinligi darajasi – 2
+Davlat daromatlarining manbalarini aniqlang?
+ichki va tashqi manbalar
+aralash manbalar
+jamg‘arlma fondlar
+amortizatsiya fondlar
+
+№ 51.
+Qiyinligi darajasi – 2
+Soliqning vazifalariga qaysi ko‘rsatkichlar kiritilmaydi?
+taqsimlash	
+fiskal
+xo`jalik faoliyatini ragbatlantirish
+aholi ayrim toifalarini sotsial ximoya qilish
+
+№ 52.
+Qiyinligi darajasi – 2
+Quyidagi lardan qaysi biri byudjet daromatlarining manbalari emas?
+milliy daromatning bir qismi
+soliqlar
+aksiz yiginlari bojxona to`lovlari
+To’g’ri javob yoq
+
+№ 53.
+Qiyinligi darajasi – 2
+Byudjet xarajatlarining ishlatilishiga qaysi omil kiritilmaydi?
+jamg‘arlish fondini tashkil qilish uchun
+ishlab chiqarishni rivojlantirish
+sotsial-madaniy sarflar
+davlat boshqarish va mudofa sarflari
+
+№ 54.
+Qiyinligi darajasi – 2
+Bozor iqtisodiyotida taqsimot turiga qaysi biri kiritilmaydi?
+umumiy taqsimot
+taqsimotning dolzarb qoidalari
+noekvivalent taqsimot
+ekvivalent taqsimot
+
+№ 55.
+Qiyinligi darajasi – 2
+Taqsimot natijasida mulk egalariega bo`lmaydigan narsani aniqlang?
+obligatsiya
+ish haqi
+foyda
+pensiya
+
+№ 56.
+Qiyinligi darajasi – 2
+Tumush darajalari bu …
+ehtiyojlarni qadrlash meyorlari
+kishilarning iste’mol buyumlari bilan taminlanishщi
+yil davomida iste’mol qilingan tovarlar va xizmatlar summasi
+hozirgi kundagi iste’mol
+
+№ 57.
+Qiyinligi darajasi – 2
+Ish haqi nimani ifodalaydi?
+ish kuchi sohibining sarflagan mehnatining qiymatini ifodalaydi
+ish kuchini ekvivalentligi
+mehnat haqini
+ish kuchi sohibining tirikchilik vositalari narxini ifodalaydi
+
+№ 58.
+Qiyinligi darajasi – 2
+Turmush darajasiga tasir etuvchi omillarga qaysi biri kirmaydi?
+soliqlar vatulovlar
+pul daromadining miqdori
+narx-navo darajasi
+tovarlarning mo`l-ko`lligi
+
+№ 59.
+Qiyinligi darajasi – 2
+Quyidagi  tariflardan qaysi biri jaxon xo’jaligini tugri ifodalaydi?
+xalqaro iqtisodiy munosabatlar tizimiva ularni amalga oshirishvositalarining
+qo`shni mamlakatlar xo`jaligi
+o`zaro shartnomalar bilan bog `liq davlatlar yigindisi
+bir ijtimoiy tizimga xos mamlakatlar
+
+№ 60.
+Qiyinligi darajasi – 2
+Jaxon xujaligini moddiy asosini tashkil etuvchi omil?
+xalqaro mehnat taqsimoti
+geografik muhit
+shartnomalar
+Do‘stona munosabatlar
+
+№ 61.
+Qiyinligi darajasi – 2
+Xalqaro iqtisodiy munosabatlarning asosiy shakllariga kiritish mumkin emas?
+mamlakatlarning iqtisodiy tashkilotlariga a'zo bulishlari
+savdo-sotiq
+xalqaro kredit
+integratsiya alokalari
+
+№ 62.
+Qiyinligi darajasi – 2
+Jaxon bozorining tarkibiga qaysi ko`rsat kich kiritilmaydi?
+iste’mol tovarlari bozori
+xizmatlar moliya bozorlari
+tovarlar bozori
+ilmiy ishlamalar,mehnat bozori
+
+№ 63.
+Qiyinligi darajasi – 2
+Jaxon bozrlari orqali mamlakatlar orasida taxsimlanadi?
+pul kapitali,ish kuchi,texnologiya
+iqtisodiy resurslar
+ishlab chiqarish kuchlari
+yalpi milliy mahsulot
+
+№ 64.
+Qiyinligi darajasi – 2
+Umum jaxon krediti qanday yunalishda boradi?
+odatdagi kredit,imtiyozli kredit
+uzoq muddatli kredit
+chetga kapital chiqarish
+qisqa muddatli kredit
+
+№ 65.
+Qiyinligi darajasi – 2
+Jaxon xujaligida qanday valyuta kursi ma'kul topilgan?
+suzib yuruvchi(tebranuvchi) valyuta kursi
+qat'iy valyuta kursi
+kelishilgan valyuta turi
+territoriyalarning uziga xos valyuta kursi
+
+№ 66.
+Qiyinligi darajasi – 2
+Mulkchilik sub'ektiga quyidagilardan qay birini kiritish mumkin emas?
+yer, suv, konlar
+ayrim kishilar, oilalar, aholining sotsial guruhlari	
+hududiy birlashmalar
+xar xil jamoalar, ijtimoiy, dikiy tashkilotlar
+
+№ 67.
+Qiyinligi darajasi – 2
+Mulkchilik shakllariga quyidagilardan qaysisini kiritib bo‘lmaydi?
+davlat byudjeti
+xususiy mulk
+davlat mulki
+jamoa mulki
+
+№ 68.
+Qiyinligi darajasi – 2
+Xususiy mulk nima?
+daromad topishga qaratilgan mulk
+oila a'zolarining mulki
+diniy tashkilotlar mulki
+fuqarolar mulki
+
+№ 69.
+Qiyinligi darajasi – 2
+O‘zbekistonda qaysi soha xususiy mulk bo‘la olmaydi?
+yer, yerosti, yerusti boyliklari
+sanoat korxonalari
+xizmat ko‘satish sohasi korxonalari
+binolar, inshoatlar
+
+№ 70.
+Qiyinligi darajasi – 2
+Davlat mulki turlariga quyidagilardan qaysi biri kirmaydi?
+korporativ-guruxiy mulk
+respublika ixtiyoridagi mulk
+Qoraqalpog‘iston Respublikasi mulki
+ma'muriy-hududiy (kommunal) mulk
+№ 71.
+Qiyinligi darajasi – 2
+Aralash mulk tarkibiga quyidagilapdan qaysi biri kiritiladi?
+chet-el fuqarolari, tashkilotlari mulki
+ijtimoiy tashkilotlar mulki
+korporativ-guruxiy mulk
+mahalla mulki
+
+№ 72.
+Qiyinligi darajasi – 2
+Mulkni davlat tasarrufidan chiqarishning maqsadi…
+davlat tomonidan mulkka nisbatan yakka hokimlikni tugatish	
+raqobatchilik muhitini shakllantiri
+mulkni demokratlashtirish
+mulkni tarqatib yuborish
+
+№ 73.
+Qiyinligi darajasi – 2
+O‘zbekistondan boshqa davlatlarda uchramaydigan mulk turi qaysi?
+mahalla mulki
+diniy tashkilotlar mulki
+oila mulki
+ijtimoiy tashkilotlar mulki
+
+№ 74.
+Qiyinligi darajasi – 2
+Quyidagilardan qaysi biri taklif omili emas?
+Xaridorlar miqdori
+mahsulotning tovarlik darajasi
+ishlab chiqaruvchilar miqdori
+resurslar narxi
+
+№ 75.
+Qiyinligi darajasi – 2
+Bozor muvozanati deb ataladi qachonki…
+talab va taklif miqdoran hamda tarkiban mos bo`lsa
+narxlar past bo`lsa
+xaridor va sotuvchilar miqdori teng bo`lsa
+narxlar koniqarli darajada bo`lsa
+
+№ 76.
+Qiyinligi darajasi – 2
+Talab va taklif muvozanatini kim ta'minlaydi?
+bozor mexanizmi
+davlat	
+xaridorlar
+sotuvchilar
+
+№ 77.
+Qiyinligi darajasi – 2
+Tadbirkorlik deb nimaga aytiladi?
+tavakkalchilik asosida, uz mol-mulki javobgarligi asosida ish yuritish
+foyda olish maqsadida ish yuritish
+foyda olish maqsadida, tavakkalchilik asosida iqtisodiy faoliyat yuritish
+yuqori foyda olish maqsadida qo`shimcha korxonalarni tashkil qilish
+
+№ 78.
+ 
+Qiyinligi darajasi – 2
+Tadbirkorlikning muxim belgilariga quyidagilardan qaysi biri kiritilmaydi?
+xo`jalikni reja asosida yuritish
+mulkiy munosabatlarning ishtirokchisi bo`llish
+iqtisodiy erkinlik
+foyda olish maqsadida ish yuritish
+
+№ 79.
+Qiyinligi darajasi – 2
+Aksionerlik korxonalarning asosiy maqsadi
+Ishlab chiqarishda band bo`lmagan mablag`larni birlashtirib, uni yangi yo`nalishlarga sarflash
+Barcha resurslardan samarali foydalanish
+Moddiy resurslardan samarali foydalanish
+Mehnat resurslaridan samarali foydalanish
+
+№ 80.
+Qiyinligi darajasi – 2
+Aksiya nima?
+Daromaddan o`z ulushini olish huquqini ta’minlovchi qimmatbaho qog`oz
+Mulkdan foydalanish xuquqini beradi	
+Mol-mulkka ega bo`ladi
+Qiymatga ega emas.
+
+№ 81.
+Qiyinligi darajasi – 2
+Makroiqtisodiy maqsadlar nima?
+Iqtisodiy o‘sish, ishsizlik, inflyatsiya va tashqi savdo balansi
+Iqtisodiy o‘sish, ishsizlik, inflyatsiya va korxona rentabelligi
+ishsizlik, inflyatsiya va tashqi savdo balansi
+monopol bozorning tugatilishi
+
+№ 82.
+Qiyinligi darajasi – 2
+Makroiqtisodiy muvozanat – bu ........
+tovar va xizmatlar, pul, sarmoya va mehnat bozoridagi muvozanat.
+tovar va xizmatlar bozoridagi muvozanat
+pul bozoridagi muvozanat
+sarmoya bozoridagi muvozanat
+
+№ 83.
+Qiyinligi darajasi – 2
+Milliy daromad quyidagicha aniqlanadi.
+SM dan egri soliqlarni ayirish orqali
+YaIM dan amortizatsiya xarajatlarini ayirish orqali
+Aholi daromadlariga to‘g‘ri soliqlarni qo‘shish orqali
+YaIM va SMning yig‘indisi hisoblanadi
+
+№ 84.
+Qiyinligi darajasi – 2
+Okun qonuni nimani ifodalaydi?
+Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni
+Inflyatsiya va ishsizlik o‘rtasidagi munosabatni
+Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni
+Inflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni
+
+№ 85.
+Qiyinligi darajasi –2
+Fillips egrisi nimani ifodalaydi
+Inflyatsiya va ishsizlik o‘rtasidagi munosabatni
+Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni
+Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni	
+Inflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni
+
+№ 86.
+Qiyinligi darajasi –2
+Monetarizm makroiqtisodiy nazariyasining asosida .......... degan fikr yotadi
+Iqtisodiy islohotlarda pul massasini nazorat qilish katta ahamiyatga ega
+Iqtisodiy islohotlarda davlat aralashuvi katta ahamiyatga ega
+Iqtisodiy islohotlarda chet el investitsiyalari katta ahamiyatga ega
+Iqtisodiy islohotlarda ijtimoiy jamg‘arlmalar katta ahamiyatga ega
+
+№ 87.
+Qiyinligi darajasi –2
+Kunikmaga asoslangan taxminlar – bu ......
+oldingi bo‘lgan hodisalar ta’sirida yuzaga kelgan taxmindir.
+oldingi xodisalarni hisobga olmagan holda bugungi hodisa
+taxlili asosida xosil bo‘lgan taxmindir	
+kechikishlar asosida yuzaga kelgan taxmindir.
+
+№ 88.
+Qiyinligi darajasi – 2
+Ratsional taxminlar – bu ......
+Oldingi hodisalarni hisobga olmagan holda bugungi hodisa
+taxlili asosida hosil bo‘lgan taxmindir
+Oldingi bo‘lgan hodisalar ta’sirida yuzaga kelgan taxmindir.
+Kechikishlar asosida yuzaga kelgan taxmindir.
+
+№ 89.
+Qiyinligi darajasi –2
+Klassik elastik talab egrisining gorizontal xolatda bo‘lishiga asosiy sabab
+ish xaqining elastikligi
+mehnat bozorining shaffofligi
+ish xaqining pastga nisbatan yopishqoqligi
+investitsiya darajasining elastikligi
+
+№ 90.
+Qiyinligi darajasi – 2
+Real foiz darajasi – bu ......
+nominal foiz darajasi bilan infilyatsiya o‘rtasidagi farq
+nominal pul massasi bilan real pul miqdori o‘rtasidagi farq
+kelajakda qilinadigan xarajatlar miqdori
+real foiz darajasi bilan infilyatsiya o‘rtasidagi farq
+
+№ 91.
+Qiyinligi darajasi – 2
+Qanday xususiyatga ega bo‘lgan ashyo pul vazifasini bajarishi mumkin?
+qarzni to‘lay olish qobiliyatiga ega bo‘lgan ashyo.
+Davlat tomonidan qonuniy to‘lov vakolati berilgan.
+Ikkilamchi bozorga ega bo‘lgan ashyo.
+Likvidlilik darajasi yuqori bo‘lgan xar qanday ashyo.
+
+№ 92.
+Qiyinligi darajasi –2
+Pulning klassik funksiyalari qay biri?
+qiymat o‘lchov, ayirbosh va jamg‘arma.
+Rag‘batlantirish, ayirbosh va qiymat o‘lchov.
+Gegemonlik, daromadlarni qayta taqsimlovchi va rag‘batlantiruvchi.
+Jamg‘arma, daromadlarni qayta taqsimlovchi va rag‘batlantiruvchi.
+
+№ 93.
+Qiyinligi darajasi – 2
+Qiymat o‘lchov funksiyasi nuqtai nazardan pul quyidagini ifodalaydi….
+Barcha tovar qiymatini o‘zida aks ettiruvchi tovardir.
+Tovarlarning sifati va miqdorini aks ettiradigan tovardir.	
+qarzni to‘lay olish qobiliyatiga ega bo‘lgan tovardir.
+O‘zaro hisob – kitoblarda tulov vositasi sifatida qatnashadigan tovardir.
+
+№ 94.
+Qiyinligi darajasi – 2
+Pul ayirbosh vositasi funksiyasini bajarishi uchun quyidagi xususiyatlarga ega bo‘lishi kerak…
+Birlikka mos baxo, chidamlilik va bo‘linish.
+Ixchamlilik, chidamlilik va bo‘linish.
+Tashib yurishga qulaylilik, ixchamlilik va bo‘linish.
+Birlikka mos baxo, qulaylilik va ixchamlik.
+
+№ 95.
+Qiyinligi darajasi – 2
+Jamg‘arma vositasi sifatida pul vazifasini bajaruvchi ashyo ……………….. vazifani bajarishi kerak.
+kelajakdagi to‘lovlar uchun o‘lchov
+boylikning qiymatini saqlash
+kelajakdagi  moddiy zararlarni himoyalash
+boylikning moddiy shaklni saqlash
+
+№ 96.
+Qiyinligi darajasi – 2
+Pulning zamonoviy funksiyalari bu…
+rag‘batlantiruvchi, daromadni taqsimlovchi  va kuch-qudrat.
+jamg‘arma, daromadni taqsimlovchi, ayirbosh.
+qiymat o‘lchov, rag‘batlantiruvchi va jamg‘arma.
+ixchamlik, birlikka mos baxo va jamg‘arma.
+
+№ 97.
+Qiyinligi darajasi – 2
+Pul tizimlarining bosqichini to‘g‘ri ko‘rsatib bering?
+Bir metalli, ikki metalli, qog‘oz pul va elektron pul.
+Tovar-pul, natural – pul, elektron pul.	
+Bir metalli, ikki metalli, tovar – pul va natural – pul.
+Ikki metalli, elektron pul.
+
+№ 98.
+Qiyinligi darajasi – 2
+Naqd pul qiymatining naqdsiz pul qiymatiga nisbatan ortishiga asosiy sabab, bu….
+«Qora bozorning» rivojlanishi va norasmiy tadbirkorlik faoliyatining ortishi.
+Tovar ishlab chiqarishning kamayib, iqtisodiyotga ma’muriy aralashuvning ortishi.
+Markaziy bank tomonidan pul massasini boshqarish instrumentlarining optimal shaklda amaliyotga kiritilmasligi.
+Tadbirkorlikning cheklanishi va pul massasining kamayishi.
+
+№ 99.
+Qiyinligi darajasi – 2
+Pul siyosati deganda nimani tushunasiz va olib boruvchi mas’ul tashkilot?
+Pul siyosati markaziy bank tomonidan olib borilib, pul massasini nazorat qilishga yo‘naltiriladi.
+Pul siyosati iqtisod vazirligi tomonidan olib borilib, budjet komamadining oldini olish maqsadida yuritiladi.
+Pul siyosati moliya vazirligi tomonidan amalga oshirilib, pul massasini nazorat qilishga yo‘naltiriladi.
+Pul siyosati markaziy bank tomonidan amalga oshirilib, budjet kamomadini nazorat qilishga yo‘naltiriladi.
+
+№ 100.
+Qiyinligi darajasi – 2
+Friksion ishsizlik nima?
+Yashirish ishsizlik
+Ko‘ngilli ishsizlik
+Ko‘ngilsiz ishsizlik
+Mavsumiy ishsizlik
+
+№ 1.
+Qiyinligi darajasi – 2
+Ko‘ngilli ishsizlik nima?
+Mehnatga layoqatli ishchi kuchining mehnatdan bosh tortishi
+Mehnatga layoqatsiz ishchi kuchining mehnatdan bosh tortishi
+Ish yerlari mavjud bo‘lgan holda mehnatga layoqatli ishchi kuchi tanqisligi
+Mavsumiy ish yerlardagi ishsizlar soni
+
+№ 2. 
+Qiyinligi darajasi – 2
+Ko‘ngilsiz ishsizlik nima?
+Ish yerlari mavjud bo‘lgan holda mehnatga layoqatli ishchi kuchi tanqisligi
+Mehnatga layoqatli ishchi kuchining mehnatdan bosh tortishi
+Mehnatga layoqatsiz ishchi kuchining mehnatdan bosh tortishi
+Mavsumiy ish yerlardagi ishsizlar soni
+
+№ 3.
+Qiyinligi darajasi –2
+Mavsumiy ishsizlik nima?
+Mavsumiy ish yerlardagi ishsizlar soni
+Mehnatga layoqatli ishchi kuchining mehnatdan bosh tortishi
+Mehnatga layoqatsiz ishchi kuchining mehnatdan bosh tortishi
+Ish yerlari mavjud bo‘lgan holda mehnatga layoqatli ishchi kuchi tankisligi
+
+№4.
+Qiyinligi darajasi –2
+Inflyatsiya nima?
+umumiy narxlar darajasining o‘sishi
+maoshlarning oshishi
+ishlab chiqarish hajmining kamayishi
+narxlarning o‘sishi
+
+№ 5.
+Qiyinligi darajasi – 2
+Agar muomiladagi pul miqdori oshsa, buning sababi bo‘ladi:
+pul multiplikatori yuqori bo‘lib, pul manbasini (bazasini) ko‘payishi
+Tijorat banki ortiqcha zaxiralarning pasayishi
+Aholi jami to‘lov mablag‘laridan naqd pul ulushining qisqarishi
+To’gri javob yoq
+
+№ 6.
+Qiyinligi darajasi – 2
+Davlat budjeti defitsiti quyidagi holatlarda tashkil topadi:
+Davlat xarajatlari summasi soliq tushumlaridan oshib ketsa
+Davlat aktivlarini summasi majburiyatlardan oshib ketsa	
+Davlat xarajatlari kamayganda
+Davlat majburiyatlari aktivlardan oshganda
+
+№7.
+Qiyinligi darajasi –2
+Makroiqtisodiyotdagi asosiy sub’ektlardan biri qaysi javobda to‘g‘ri berilgan?
+davlat
+uy xo‘jaliklari
+korxona
+Tijorat banklari
+
+№ 8.
+Qiyinligi darajasi –2
+Pul taklifi va narxlar darajasi o‘zgarmasdan, ishlab chiqarish hajmi oshsa, iqtisodiyotda nima o‘zgarish ro‘y beradi?
+pulga bo‘lgan talab va foiz stavkasi oshadi
+pulga bo‘lgan talab va foiz stavkasi kamayadi
+pulga bo‘lgan talab oshadi va foiz stavkasi kamayadi
+pulga bo‘lgan talab kamayadi va foiz stavkasi oshadi
+
+№ 9.
+Qiyinligi darajasi – 2
+Agar iqtisodiyotda bitimlar miqdori oshsa, unda:
+pulga bo‘lgan transaksion talab oshadi
+pulga bo‘lgan transaksion talab kamayadi
+pul taklifi oshadi
+pul taklifi kamayadi
+
+№ 10.
+Qiyinligi darajasi – 2
+Iqtisodiy yuksalish davrida jami talab:
+oshadi
+o‘zgarmaydi
+kamayadi
+xam oshishi, xam kamayishi mumkin
+
+№ 11.
+Qiyinligi darajasi – 2
+Talab inflyatsiyasiga sabab bo‘ladigan omil qaysi javobda to‘g‘ri berilgan?
+davlat budjeti taqchilligining oshishi	
+neft narxlarining oshishi
+iste’molga me’yoriy moyillikning pasayishi
+iste’molga me’yoriy moyillikning pasayishi,neft narxlarining oshishi
+
+№ 12.
+Qiyinligi darajasi – 2
+Taklif inflyatsiyasiga sabab bo‘ladigan omil qaysi javobda to‘g‘ri berilgan
+davlat budjeti taqchilligining oshishi
+pul massasining oshishi	ish xaqi - maoshlarning oshishi
+Narxlarning oshishi
+To’g’ri javob
+
+№ 13.
+Qiyinligi darajasi – 2
+Bozor iqtisodiyoti sharoitida davlat vazifalariga quyidagilar kirmaydi?
+xususiy bo‘g‘inning mahsulotiga narxlar belgilash
+qonun chiqarish	raqobatbardosh muxitni ximoya qilish
+iqtisodiyotdagi muammolarni xal qilish
+To’g’ri javob yoq
+
+№ 14.
+Qiyinligi darajasi – 2
+Davlat jami xarajatlarning qaysi qismiga ta’sir qilishi mumkin?
+davlatning umumiy xaridlariga
+xususiy investitsiyalarga
+uy xo‘jaliklari kundalik xarajatlariga
+istemolga
+
+№ 15.
+Qiyinligi darajasi – 2
+Nominal almashtirish kursi nima?
+xorijiy valyutaning bir birligiga teng bo‘lgan milliy valyutaning miqdori
+so‘mga sotib olish mumkin bo‘lgan tovar va xizmatlar hajmi
+import narxlar darajasi
+eksport-import narxlar nisbati
+
+№ 16.
+Qiyinligi darajasi –2
+Agar valyuta kursi milliy valyutaning xorijiy valyutaga nisbati tarzida aniqlansa, unda devalvatsiya:
+nominal almashtirish kursining o‘sishi
+nominal almashtirish kursining kamayishi
+import narxlarining kamayishi
+eksport narxlarining oshishi
+
+№ 17.
+Qiyinligi darajasi –2
+Agar valyuta kursi milliy valyutaning xorijiy valyutaga nisbati tarzida aniqlansa, unda revalvatsiya:
+nominal almashtirish kursining kamayishi
+nominal almashtirish kursining o‘sishi
+import narxlarining kamayishi
+eksport narxlarining oshishi
+
+№ 18.
+Qiyinligi darajasi – 2
+Iqtisodiy o‘sish qanday o‘lchanadi?
+real YaIM ning o‘sishi orqali
+mehnat unumdorligining o‘sishi orqali
+kapital bilan ta’minlanganlikning o‘sishi orqali
+tovar aylanishining o‘sishi orqali
+
+№ 19.
+Qiyinligi darajasi – 2
+Inflyatsiya va ishsizlik o‘rtasidagi bog‘lanishni qaysi olim tadqiq qilgan:
+Filipps
+Fridman
+Ouken
+Keyns
+
+№20.
+
+Qiyinligi darajasi – 2
+Bozor iqtisodiyotining qaysi sub’ekti iqtisodiy resurslarni yetkazib beruvchi va pirovard mahsulotlar iste’molchisi hisoblanadi?
+uy xo‘jaliklari
+korxonalar
+davlat tashkilotlari
+davlat muassasalari
+
+№ 21.
+
+Qiyinligi darajasi – 2
+Davlat budjeti – bu:
+xukumat tasarrufida bo‘lgan markazlashgan jamg‘armalar
+maxalliy organlar tasarrufidagi pul jamg‘armalari
+mamlakat butun pul mablag‘lari yig‘indisi
+pul mablag‘lari yig‘indisi
+
+№ 22.
+
+Qiyinligi darajasi – 2
+Nominal YaIM qanday narxlarda hisoblanadi?
+joriy narxlarda
+o‘zgarmas narxlarda
+chakana narxlarda
+ulgurji narxlarda
+
+№ 23.
+
+Qiyinligi darajasi – 2
+Qo‘shilgan qiymat qanday miqdor?
+pirovard mahsulot xajmidan boshqa korxona  va firmalardan sotib olingan xom-ashyo va materiallar qiymatini chiqarib tashlangan miqdor
+pirovard mahsulot xajmidan ish xaqi chiqarib tashlangan miqdor
+pirovard mahsulot xajmidan amortizatsiya ajratmasi chiqarib tashlangan miqdor
+pirovard mahsulot xajmidan o‘zgaruvchi xarajatlar chiqarib tashlangan miqdor
+
+№ 24.
+
+Qiyinligi darajasi – 2
+Aralash iqtisodiyotdagi jami daromad va xarajatlarning doiraviy aylanish modelida milliy bozordagi “o‘yin qoidalari”ni kim belgilaydi?
+davlat
+ishlab chiqarish sohasi
+iste’mol bozori
+bank tizimi
+
+№ 25.
+
+Qiyinligi darajasi – 2
+Real YaIM nima?
+doimiy narxlarda hisoblangan YaIM
+joriy bozor narxlarida hisoblangan YaIM
+pulning o‘zgarib turuvchi kurslarida hisoblangan YaIM
+iqtisodiy xarajatlar bo‘yicha hisoblangan YaIM
+
+№ 26.
+
+Qiyinligi darajasi – 2
+M0 pul agregatiga quyidagilar kiritiladi.
+Naqd pul va tangalar
+Muddatsiz omonatlar
+Muddatli omonatlar
+Valyuta
+
+№27.
+
+Qiyinligi darajasi – 2
+Ochiq bozor operatsiyalari deganda nimani tushunasiz?
+Davlat qimmatbaxo qog‘ozlarining markaziy bank tomonidan oldi – sottisi
+Tijorat banklari tomonidan jalb qilingan mablag‘larga nisbatan majburiy ajratmalar stavkasi
+Kassa rejasi.
+Markaziy bank tomonidan kredit mablag‘lariga o‘rnatilgan foiz  stavkalari eng kam yoki eng yuqori stavkasi.
+
+№28.
+
+Qiyinligi darajasi – 2
+Qayta moliyalash stavkasi deganda nimani tushunasiz?
+Markaziy bank tomonidan kredit mablag‘lariga o‘rnatilgan foiz  stavkalari eng kam yoki eng yuqori stavkasi.
+Davlat qimmatbaxo qog‘ozlarining markaziy bank tomonidan oldi – sottisi
+Tijorat banklari tomonidan jalb qilingan mablag‘larga nisbatan majburiy ajratmalar stavkasi
+Kassa rejasi.
+
+
+
+№ 29.
+Qiyinligi darajasi – 2
+Quyidagi ko'rsatkichlardan qaysi biri sof milliy mahsulot, amortizatsiya to'lovlari va bilvosita soliqlarni qo'shish natijasida olingan qiymatga teng ekanligini ko'rsating:
+yalpi ichki mahsulot;
+yalpi milliy mahsulot;
+qo'shimcha qiymat;
+sof milliy daromad
+
+№ 30.
+
+Qiyinligi darajasi – 2
+Makroiqtisodiyotning asosiy sub'ektlari:
+uy xo'jaliklari;
+markaziy bank;
+sanoat;
+tovarlar va xizmatlar bozori;
+
+№ 31.
+
+Qiyinligi darajasi – 2
+Inflyatsiya sharoitida fuqarolarning daromadlarini o'rganish uchun tahlilning qaysi usuli qo'llaniladi:
+qiyosiy;
+tartibga soluvchi
+statistik;
+o‘rtacha
+
+№ 32.
+
+Qiyinligi darajasi – 2
+Yalpi ichki mahsulot (YaIM) nima?
+barcha yakuniy tovarlar va xizmatlarning bozor qiymati.
+ishlab chiqarilgan barcha tovarlar va xizmatlar yig'indisi
+sotilgan barcha tovarlar va xizmatlar yig'indisi;
+barcha tayyor mahsulotlar va xizmatlar yig'indisi;
+
+№ 33.
+Qiyinligi darajasi – 2
+Yalpi ichki mahsulot o'lchanadi:
+bozor narxlarida;
+asosiy narxlarda;
+ishlab chiqaruvchilar narxlarida;
+eksport narxlarida.
+
+№34.
+Qiyinligi darajasi – 2
+Yalpi ichki mahsulot deflyatori:
+nominal Yalpi ichki mahsulotning real YaMMga nisbatiga teng;
+real YaMMning nominal YaMMga nisbatiga teng;
+inflyatsiyani tezlashishi bilan kamayadi
+joriy narxlarda;
+
+№ 35.
+Qiyinligi darajasi – 2
+Milliy daromad qiymatini aniqlash uchun quyidagilar zarur:
+YaIM qiymatini ishlatilgan asosiy qiymat amortizatsiya miqdoriga kamaytirish mablag;
+YaIM qiymatidan bilvosita soliqlar miqdorini chegirib tashlash;
+YaIM qiymatidan ma'lum bir davr uchun amortizatsiya to'lovlari miqdorini, bilvosita soliqlar miqdorini va hukumat subsidiyalari miqdorini chiqarib tashlash;
+YaIMga davlat ijtimoiy transfert to'lovlari miqdorini qo'shish
+
+№ 36.
+Qiyinligi darajasi – 2
+Agar mamlakatda yil davomida narxlarning umumiy darajasi sezilarli darajada o'sib borsa va tovar va xizmatlar ishlab chiqarish o'zgarmasa, unda boshqa narsalar teng bo'lganda …
+nominal YaIM o'sadi
+real yalpi ichki mahsulot (YaIM) ko'payadi;	
+nominal YaIM kamayadi;
+mamlakatda haqiqiy hayot darajasi ko'tariladi.
+
+№37.
+Qiyinligi darajasi – 2
+Quyidagi ko'rsatkichlardan qaysi biri sof milliy mahsulot, amortizatsiya to'lovlari va bilvosita soliqlarni qo'shish natijasida olingan qiymatga teng ekanligini ko'rsating:
+yalpi ichki mahsulot
+yalpi milliy mahsulot
+qo'shimcha qiymat	
+sof milliy daromad
+
+№ 38.
+Qiyinligi darajasi – 2
+Milliy boylik bu:
+ishlab chiqarish vositalari, to'plangan mulk, tabiiy resurslar, moddiy va madaniy qadriyatlar.
+tabiiy boyliklar va madaniy qadriyatlar;
+tabiiy resurslar va inson resurslari;
+madaniy qadriyatlar
+
+№ 39
+Qiyinligi darajasi – 2
+Transfer to'lovlari:
+mahsulot ishlab chiqarish va xizmatlar ko'rsatish bilan bog'liq bo'lmagan to'lovlar;
+kechiktirilgan to'lovlar;
+ishlab chiqarilgan mahsulotning daromad shakliga ega bo'lmagan qismi;
+ijara daromadlari. 
+
+№ 40.
+Qiyinligi darajasi – 2
+Shaxsiy ixtiyoriy daromad bu:
+soliq va soliqqa tortilmagan majburiy to'lovlarni olib tashlagan holda olingan umumiy daromad
+hisoblangan ish haqi;
+olingan umumiy daromad (ish haqi va boshqa daromadlar)
+real daromadlar
+
+№ 41.
+Qiyinligi darajasi – 2
+Ro'yxatdagi bayonotlardan quyidagilar to'g'ri
+AD egri chizig'i salbiy nishabga ega
+davlat atrof-muhitni muhofaza qilish bo'yicha talablarni kuchaytirganda, bu mahsulot birligi uchun ishlab chiqarish xarajatlarining oshishiga olib keladi va yig'ma ta'minot egri chizig'ini o'ngga siljitadi;
+real ishlab chiqarish hajmining o'sishi narxlarning oshishi bilan birga bo'lishi mumkin emas.
+To’g’ri javob yoq
+
+№ 42.
+Qiyinligi darajasi – 2
+Barcha resurslar jalb qilingan sharoitda YaMMning potentsial hajmiga erishiladi, talabning o'sishi quyidagilarni keltirib chiqaradi:
+doimiy ta'minot bilan narxlarning o'sishiga
+tovarlar taklifining ko'payishiga
+tovarlar taklifining kamayishiga
+doimiy ta'minot bilan narxlarning pasayishiga
+
+
+
+№ 43.
+Qiyinligi darajasi – 2
+Agar narx darajasi ko'tarilib, ishlab chiqarish pasayib ketsa, bunga quyidagilar sabab bo'ladi:
+yig'ma ta'minot egri chizig'ining chapga siljishi;
+yalpi talab egri chizig'ining o'ngga siljishi;
+yalpi talab egri chizig'ining chapga siljishi;
+yalpi ta'minot egri chizig'ining o'ng tomonga siljishi
+
+№44.
+Qiyinligi darajasi – 2
+Yalpi taklif egri chizig'idagi Keyns segmenti:
+gorizontal chiziq bilan ifodalanadi
+ijobiy nishabga ega
+salbiy nishabga ega
+vertikal chiziq bilan ifodalangan
+
+№ 45.
+Qiyinligi darajasi – 2
+Agar davlat xarajatlari va sof eksport nolga teng bo'lishi sharti bilan yalpi taklif yalpi talabdan oshsa, unda:
+tejash rejalashtirilgan sarmoyadan oshib ketadi
+iste'mol va investitsiya xarajatlari yig'indisi jamg'armaga teng
+jamg'armalar investitsiyalarga teng
+jamg'armalar investitsiyalardan kamayadi
+
+№ 46.
+Qiyinligi darajasi – 2
+Iste'mol hajmi va yig'indidagi jamg'arma hajmi quyidagilarga teng:
+daromad hajmi
+iqtisodiy o'sish sharoitida
+ko'proq daromad
+har doim kam daromad
+
+№ 47.
+Qiyinligi darajasi – 2
+Multiplikatorning ta'siri (printsipi) quyidagilarni ko'rsatadi:
+investitsiyalar o'zgarganda daromadning o'zgarishi
+investitsiyalar ko'payishi bilan daromadning o'zgarishi
+investitsiyalar kamayishi bilan daromadning o'zgarishi
+doimiy investitsiya miqdori bilan daromadning o'zgarishi
+
+№ 48
+Qiyinligi darajasi – 2
+Iqtisodiy o'sish sharoitida iste'mol va jamg'arma o'rtasidagi nisbat:
+o'zgaradi
+bir nechta
+Bir biriga teng
+o'zgarmaydi
+
+№ 49.
+Qiyinligi darajasi – 2
+Jamg'arma bu:
+maishiy daromadlarning ma'lum bir vaqt ichida sarflanmagan qismi
+uy xo'jaliklarining barcha to'plangan mulki va aholining jamg'armalari
+daromadlarning qimmatli qog'ozlarga qo'yilgan qismi
+barcha bozor sub'ektlarining naqd pul qoldiqlari
+
+№ 50.
+Qiyinligi darajasi – 2
+Iste'mol bu:
+joriy davrda tovarlar va xizmatlarni sotib olishga sarflangan uy xo'jaliklari daromadlarining bir qismi;
+kelgusi davrda tovar va xizmatlarni sotib olishga mo'ljallangan daromadning bir qismi;	
+bank hisobvaraqlarida to'plangan daromad qoldig'i
+barcha bozor sub'ektlarining naqd pul qoldiqlari;
+
+№ 51.
+Qiyinligi darajasi – 2
+Investitsiyalar:
+barcha turdagi ishlab chiqarish va noishlab chiqarish resurslariga investitsiyalar;
+daromadning joriy davrda sarflanmagan qismi;
+ko'chmas mulkni sotib olish;
+uzoq muddatli mahsulotlarni, shuningdek, valyuta va oltinni sotib olish;
+
+№ 52.
+Qiyinligi darajasi – 2
+Teskari munosabat quyidagilar o'rtasidagi munosabatni ifodalaydi:
+investitsiya xarajatlari va foiz stavkalari darajasi;	
+jamg'arma va foiz stavkalari darajasi;	
+investitsiya xarajatlari va milliy daromad;
+iste'mol xarajatlari va bir martalik daromad;
+
+№ 53.
+Qiyinligi darajasi – 2
+Jamg'arma mablag'laridan oshishi mumkin, agar:
+foiz stavkalari darajasi oshsa;
+uzoq vaqt davomida iqtisodiyotda ortiqcha ishlab chiqarish va ishsizlik mavjud;
+rejali iqtisodiyot sharoitida;
+foiz stavkalari darajasi kamaysa;
+
+№54.
+Qiyinligi darajasi – 2
+Davlat qarzi bu miqdor:
+byudjet defitsiti, byudjet profitsiti;
+byudjet taqchilligi;
+mudofaa xarajatlari;
+davlat xarajatlari;
+
+№55.
+Qiyinligi darajasi – 2
+Davlat qarzining haqiqiy muammolaridan biri bu:
+milliy mahsulotning bir qismi mamlakat tashqarisiga chiqadi;
+ishlab chiqarish samaradorligini oshirish uchun imtiyozlar ko'paymoqda;
+daromadlar tengsizligini kamaytiradi;
+jamg'arma ulushi barcha daromad darajalarida ko'payadi;
+
+№ 56.
+Qiyinligi darajasi – 2
+Makroiqtisodiyotdagi yalpi talab bu:
+iqtisodiyotning barcha makroiqtisodiy sub'ektlarining talabi;
+korxonalarning davlat xarajatlari va investitsiya talabi;
+uy xo'jaliklarining talabi va sof eksport;
+uy xo'jaligi talabi va korxonalarning investitsiya talabi;
+
+№ 57.
+Qiyinligi darajasi – 2
+Kutilayotgan inflyatsiyaning o'sishi Fillips egri chizig'ining (inflyatsiya darajasi vertikal o'qi bo'ylab) siljishiga sabab bo'ladi:
+ushbu o'sishga teng bo'lgan miqdorda.
+inflyatsiya o'sishiga teng miqdorda o'ngga;
+inflyatsiya o'sishiga teng miqdorda chapga;
+ushbu o'sishga teng miqdordagi pasayish;
+
+№ 58.
+Qiyinligi darajasi – 2
+Uzoq muddatli istiqbolda davlat inflyatsiyaga qarshi siyosati quyidagilarga asoslanadi:
+pul massasini cheklash.
+faoliyatning ayrim turlari uchun mablag'larni ko'paytirish;
+grantlar va subsidiyalarning o'sishi;
+byudjet taqchilligining o'sishi;
+
+№ 59.
+Qiyinligi darajasi – 2
+Quyidagi omillardan qaysi biri talab inflyatsiyasini keltirib chiqarishi mumkin?
+davlat qimmatli qog'ozlarining defitsitining o'sishi;
+neft narxining ko'tarilishi;
+iste'mol qilishga chekka moyillikning pasayishi;
+shaxsiy daromad solig'i stavkalarining o'sishi;
+
+№ 60.
+Qiyinligi darajasi – 2
+Agar xomashyo narxlari ko'tarilsa, ish haqi ko'tarilsa va ishlab chiqarish va bandlik pasayib ketsa, demak bu:
+ishlab chiqarish xarajatlari inflyatsiyasi.
+ortiqcha talab inflyatsiyasi;
+stagflyatsiya;
+ortiqcha taklif inflyatsiyasi;
+
+№ 61.
+Qiyinligi darajasi – 2
+Agar dastlab iqtisodiyot uzoq muddatli muvozanat holatida bo'lsa, u holda pul muomalasi tezligining oshishi quyidagilarga olib kelishi mumkin:
+qisqa muddatda ishlab chiqarish hajmining o'sishi va uzoq muddatda narxlarning o'sishi;
+qisqa muddatda mahsulotning pasayishiga va uzoq muddatda narxlarning pasayishiga;
+qisqa muddatda mahsulotning pasayishi va uzoq muddatda narxlarning o'sishi;
+uzoq muddatda ishlab chiqarish hajmining o'sishi va qisqa muddatda narxlarning o'sishi.
+
+№ 62.
+Qiyinligi darajasi – 2
+Klassik model qoidalariga muvofiq:
+yalpi talab darajasi ishlab chiqarish hajmi bilan belgilanadi;
+narxlar va nominal ish haqi qat'iy;
+yalpi ta'minot egri chizig'i vertikal bo'lib, na o'ngga va na chapga siljiy olmaydi;
+iqtisodiyotdagi investitsiyalar va jamg'armalar turli xil omillar bilan belgilanadi va foiz stavkasining o'zgarishi bilan muvozanatlasha olmaydi.
+
+№ 63.
+Qiyinligi darajasi – 2
+Klassik model Yalpi ichki mahsulotning pasayishini narx darajasining pasayishi bilan izohlaydi:
+bir vaqtning o'zida yalpi talab va potentsial Yalpi ichki mahsulotning pasayishi;
+yalpi ichki mahsulotning doimiy potentsiali bilan yalpi talabning o'sishi;
+doimiy yalpi talab bilan potentsial Yalpi ichki mahsulotning o'sishi;
+bir vaqtning o'zida yalpi talab va potentsial Yalpi ichki mahsulotning o'sish;
+
+№64.
+Qiyinligi darajasi – 2
+Narxlar darajasining ko'tarilishi va mamlakatda bir vaqtning o'zida ishsizlik darajasining ko'tarilishi ...
+yalpi taklifning pasayishi bilan bog'liq bo'lishi mumkin;
+mumkin emas;
+faqat markazlashgan tizimda mumkin;
+yalpi talabning pasayishi natijasida yuzaga kelishi mumkin.
+
+№ 65.
+Qiyinligi darajasi – 2
+Iqtisodiyotda uzoq vaqt davomida davlat xarajatlari ko'payishi bilan potentsial darajadagi ishlab chiqarish hajmi bilan nima sodir bo'ladi:
+doimiy ishlab chiqarish hajmi bilan narxlarning umumiy darajasi oshadi;
+doimiy narx darajasi bilan ishlab chiqarish hajmi oshadi;
+ishlab chiqarish hajmi o'zgarmaydi, narxlarning umumiy darajasi pasayadi;
+doimiy narx darajasi bilan ishlab chiqarish hajmi pasayadi ;
+
+№ 66.
+Qiyinligi darajasi – 2
+Pul massasi o'sishining uzoq muddatli oqibatlari quyidagilarda ifodalanadi:
+mahsulot hajmini o'zgartirmasdan narxlar darajasining oshishi;
+narx darajasini o'zgartirmasdan ishlab chiqarishni ko'paytirish;
+narxlar va ishlab chiqarishning parallel o'sishi;
+narxlar darajasida ham, ishlab chiqarilgan mahsulot hajmida ham o'zgarishlarning yo'qligi;
+
+№ 67.
+Qiyinligi darajasi – 2
+Yalpi milliy mahsulot quyidagilarga teng 
+C+ Ig+ G+ Xn;
+A + B + C + D;
+C + Iv + L + Xr;
+C + Iv + L;
+
+№ 68.
+Qiyinligi darajasi – 2
+Daromad bo'yicha YaMMni hisoblashda quyidagilar e'tiborga olinmaydi:
+o'tkazmalar;
+ish haqi;
+foiz;
+foyda;
+
+№ 69.
+Qiyinligi darajasi – 2
+Qanday ko'rsatkichlarni makroiqtisodiy ko'rsatkichlarga kiritish mumkin?
+Inflyatsiya, ishsizlik, real yalpi ichki mahsulot;
+Xarajatlar, umumiy xarajatlar;
+marjinal xarajatlar;
+Mehnat unumdorligi va ish haqi;
+
+№ 70.
+Qiyinligi darajasi – 2
+1929 yil inqirozidan keyin paydo bo'lgan makroiqtisodiyot yo'nalishi, yalpi talabni tartibga solishda hukumatning aralashuvi zarurligini tasdiqladi:
+Keynschilar;
+monetaristlar;
+neoklassik yo'nalish;
+Ratsional kutishlar nazariyasiga asoslangan yo'nalish;
+№ 71.
+Qiyinligi darajasi – 2
+Yopiq iqtisodiyotda daromadlar va xarajatlarning aylanishi shuni isbotlaydi
+Iqtisodiyotdagi daromadlar xarajatlarga teng;
+Iqtisodiyotdagi daromad xarajatlardan kam;
+Iqtisodiyot muvozanatli emas va tashqi kreditlar talab qilinadi;
+Mavjud jamg'armalar va kreditlar hisobiga ko'proq daromad sarflash;
+
+№ 72.
+Qiyinligi darajasi –2
+Makroiqtisodiyotga xos bo'lgan tadqiqot usullarini ayting.
+birlashma;
+ilmiy mavhumlik;
+tahlil va sintez;
+tarixiy va mantiqiy tadqiqotlar;
+
+№ 73.
+Qiyinligi darajasi – 2
+YaIM deflyatori:
+nominal YaIM, real YaIM
+real YaIM, nominal YaIM
+iste'mol narxlari indeksi
+Laspeyres narxlari indeksi;
+
+№ 74.
+Qiyinligi darajasi – 2
+Hisob-kitoblarga ko'ra Markaziy bank birlik M 2 ga teng:
+M 1 + aholining muddatli omonatlari;
+M 1 + muomaladagi naqd pul;
+M 1 + sertifikatlari va davlat zayomlari;
+M 1 + aktsiyalar va obligatsiyalar.
+
+№75.
+Qiyinligi darajasi – 2
+Pulga talabni keltirib chiqaradigan sabablardan biri bu:
+tranzaktsion motiv;
+transplantatsiya motivi;
+transduktsiya motivi;
+transliteratsiya motivi;
+
+№ 76.
+Qiyinligi darajasi – 2
+Makroiqtisodiyotdagi MD qisqartmasi quyidagilarni anglatadi:
+pulga bo'lgan talab;
+pul muomalasining tezligi;
+pul miqdori;
+naqd pul qoldiqlariga talab;
+
+№ 77.
+Qiyinligi darajasi – 2
+Mamlakatda umumiy narx darajasining oshishi qanday nomlanadi?
+inflyatsiya;
+senaraj;
+stagflyatsiya;
+turg'unlik;
+
+№ 78.
+Qiyinligi darajasi – 2
+Yalpi ichki mahsulot va ishsizlik darajasi o'rtasidagi bog'liqlik qanday?
+ishsizlik ko'payadi, YaIM pasayadi;
+ishsizlik o'smoqda, YaIM o'sib bormoqda;
+ishsizlik ko'tariladi, YaIM o'zgarmaydi
+ishsizlik o'zgarmaydi, YaIM tushadi
+
+№ 179.
+Qiyinligi darajasi – 2
+Iste'mol narxlari indeksi nimani ko'rsatadi?
+ma'lum tovar va xizmatlar to'plamining narx darajasi;
+YaIM narxlari darajasi;
+iste'molchilarning istaklari;
+iste'mol savatining tarkibi;
+
+№ 80.
+Qiyinligi darajasi – 2
+Tovarlar va xizmatlarga narx yoki tarifga qo'shimcha to'lovlar shaklida belgilangan soliqlar qanday nomlanadi?
+bilvosita.
+antidemping;
+avtonom;
+import qilingan;
+
+№ 181.
+Qiyinligi darajasi –2
+Byudjet taqchilligini moliyalashtirishning tashqi manbalariga quyidagilar kiradi.
+davlat qimmatli qog'ozlarini chiqarish yo'li bilan chet el valyutasida amalga oshiriladigan davlat ssudalari;
+davlat qimmatli qog'ozlarini chiqarish yo'li bilan amalga oshiriladigan davlat kreditlari
+hukumat tomonidan kredit tashkilotlaridan olingan kreditlar;
+xususiylashtirishdan tushadigan mablag'lar;
+
+№ 182.
+Qiyinligi darajasi – 2
+Ishsizlikning tabiiy darajasi bu:
+to'liq kunlik ishsizlik darajasi;
+butun mehnatga layoqatli aholi ishlamasa;
+ish bilan bandlik darajasi;
+kattalar aholisining ishsiz qismining ma'lum bir foizini;
+
+№ 83.
+Qiyinligi darajasi – 2
+Yalpi milliy mahsulotdan (YaMM) sof milliy mahsulotga (MNP) o'tish uchun quyidagilar zarur:
+asosiy vositalar amortizatsiyasini hisobdan chiqarish;
+sof investitsiya xarajatlarini qo'shish;
+sof investitsiyalarni yalpi ichki mahsulotdan ushlab qolish;
+YaMMga amortizatsiya qo'shish;
+
+№ 84.
+Qiyinligi darajasi –2
+Yalpi ichki mahsulotning potentsial hajmiga hali erishilmagan vaziyatda barcha resurslardan foydalanilmagan bo'lsa, talabning o'sishi quyidagilarni keltirib chiqaradi:
+tovarlar taklifining o'sishiga;
+doimiy ta'minot bilan narxlarning o'sishiga;
+tovarlar taklifining kamayishiga;
+doimiy ta'minot bilan narxlarning kamayishiga;
+
+
+
+№ 85.
+Qiyinligi darajasi – 2
+Yalpi talab egri chizig'ining o'ngga siljishi quyidagilarni aks ettirishi mumkin emas:
+narxlar darajasining o'sishi va bir vaqtning o'zida real YaIMning pasayishi	
+bir vaqtning o'zida narxlar va real YaIM darajasining o'sishi;
+real YaIM o'sishi bo'lmagan taqdirda narxlar darajasining o'sishi;
+narxlar oshmagan taqdirda real YaIMning o'sishi;
+
+№ 86.
+Qiyinligi darajasi – 2
+Yalpi talab egri chizig'i quyidagilar o'rtasidagi munosabatni ifodalaydi:
+narxlar darajasi va tovar va xizmatlarni sotib olishga sarflanadigan xarajatlar umumiy darajasi;
+real darajadagi narxlar darajasi va ishlab chiqarilgan YaIM;
+xaridorlar tan oladigan narx darajasi va sotuvchilarni qoniqtiradigan narx darajasi;	
+real qiymatda ishlab chiqarilgan va iste'mol qilingan YaIM hajm
+
+№ 87.
+Qiyinligi darajasi – 2
+Agar real ishlab chiqarilgan YaIM hajmi muvozanat qiymatidan kam bo'lsa, u holda ishlab chiqaruvchilar:
+kamayadi ishlab chiqarish zaxiralari va ishlab chiqarishni kengaytirish
+ishlab chiqarish zaxiralarini ko'paytirish va ishlab chiqarishni kengaytirish;
+ishlab chiqarish zaxiralarini ham, ishlab chiqarishni ham kamaytirish;
+ishlab chiqarish zaxiralarini ko'paytirish va ishlab chiqarishni kamaytirish;
+
+№88.
+Qiyinligi darajasi –2
+Barcha resurslar jalb qilinganida, YaIMning potentsial hajmiga erishiladi, yalpi talabning o'sishi quyidagilarga olib keladi:
+doimiy ta'minot bilan narxlarning o'sishi;
+tovarlar taklifining o'sishiga;
+doimiy tovar etkazib beriladigan narxlarni pasaytirish;
+tovarlar taklifining kamayishi;
+
+№89.
+Qiyinligi darajasi –2
+Agar biznesga soliqlar o'ssa, unda:
+AS kamayib bormoqda, lekin AD hajmi o'zgarmaydi;
+AD kamayadi, lekin AS hajmi o'zgarmaydi;
+AS va AD qisqartirilgan;
+AS va AD o'sadi;
+
+№90.
+Qiyinligi darajasi – 2
+Keynsian modeli quyidagilarni nazarda tutadi
+potentsialdan past bo'lgan YaIM darajasiga mos keladigan narxlarning ma'lum darajasida gorizontal egri chiziq;
+potentsial YaIM darajasida vertikal AS egri chizig'i;
+foiz stavkalari ta'sirining ta'sirini aks ettiruvchi yengil ijobiy nishab bilan AS egri chizig'i;
+faqat AD ning chapga siljishi bilan;
+
+№ 91.
+Qiyinligi darajasi – 2
+Klassik model narxlar darajasini saqlab qolish bilan birga YaIMning pasayishini quyidagicha izohlaydi:
+bir vaqtning o'zida yalpi talab va potentsial YaIMning pasayishi;
+doimiy potentsial YaIM bilan yalpi talabning o'sishi;
+doimiy AD bilan potentsial YaIMning o'sishi;
+potentsial YaIMning pasayishi bilan ADning o'sishi.
+
+№ 92.
+Qiyinligi darajasi –2
+Uy xo'jaliklarining shaxsiy iste'mol xarajatlari:
+uzoq muddatli va qisqa muddatli tovarlar va xizmatlarni sotib olish uchun uy xo'jaliklari xarajatlari;
+uy xo'jaliklarining uzoq umr ko'riladigan tovar va xizmatlarni sotib olish uchun sarf-xarajatlari;
+to'lovlarni va soliqlarni o'tkazish;
+tovar va xizmatlarni sotib olish uchun uy xarajatlari va shaxsiy soliqlar.
+
+№ 93.
+Qiyinligi darajasi –2
+Narxlar darajasining ko'tarilishi va mamlakatda bir vaqtning o'zida ishsizlik darajasining ko'tarilishi ...
+yalpi taklifning pasayishi bilan bog'liq bo'lishi mumkin;
+mumkin emas;
+faqat markazlashgan tizimda mumkin;
+yalpi talabning pasayishi natijasida yuzaga kelishi mumkin;
+
+№94.
+Qiyinligi darajasi – 2
+Iqtisodiy inqiroz tufayli ishsiz qolganlar ushbu toifaga kiradi.
+davriy ishsizlar;
+tarkibiy ishsizlar;
+ishqalanadigan ishsizlar;
+ixtiyoriy ishsizlar;
+
+№ 95.
+Qiyinligi darajasi – 2
+Iqtisodiyot uchun normal bo'lgan ishsizlik bu:
+ishsizlikning tabiiy darajasi.
+yuqori ish haqi tufayli ishsizlik;
+ishsizlik nafaqalarining past darajasi tufayli ishsizlik;
+jami talabning etishmasligi tufayli ishsizlik;
+
+№ 96.
+Qiyinligi darajasi – 2
+Inflyatsiya darajasining oshishi bilan belgilangan foiz stavkasi bo'lgan davlat obligatsiyalarining bozor narxi:
+pasayishga moyil bo'ladi;
+o'sish tendentsiyasiga ega bo'ladi;
+barqaror va nominal qiymatiga teng bo'ladi;
+nolga tushadi;
+
+№197.
+
+Qiyinligi darajasi – 2
+Davlat tomonidan tartibga solishning iqtisodiy usullarini keng qo'llash:
+bozor mexanizmlari ta'sirini susaytirishi mumkin;
+bozor mexanizmini neytral qoldiradi;
+bozor mexanizmiga ta'sir qilmaydi;
+bozor mexanizmlari ta'sirini kuchaytirishi mumkin;
+
+№ 98.
+Qiyinligi darajasi – 2
+Ta'minot inflyatsiyasi quyidagilarga olib kelishi mumkin:
+ish haqi stavkalarining o'sishi;
+davlat byudjeti kamomadining o'sishi;
+mamlakat to'lov byudjeti taqchilligining o'sishi;
+sof eksport hajmining o'sishi;
+
+№ 99.
+Qiyinligi darajasi –2
+Quyidagi omillardan qaysi biri talab inflyatsiyasini keltirib chiqarishi mumkin?
+davlat qimmatli qog'ozlarining defitsitining o'sishi;
+neft narxining ko'tarilishi;
+iste'mol qilishga chekka moyillikning pasayishi;
+shaxsiy daromad solig'i stavkalarining o'sishi;
+
+№ 100.
+Qiyinligi darajasi – 2
+Monetaristik kontseptsiyaga ko'ra inflyatsiya va ishsizlik o'rtasida teskari bog'liqlik mavjud:
+qisqa muddatda;
+uzoq muddatda;
+ham qisqa, ham uzoq muddatli istiqbolda.
+To’g’ri javob yoq
+
+
+
+
+
+
+AKTSI assistenti                                        N.A.Zuxurova
+AKTSI katta o‘qituvchisi                          G.A. Akramova
+AKTSI kafedra mudiri                               N.A.Iminova
+AKTSIMF dekani                                       F.B.Botirov
+TSNQB boshlig‘i                                        M.A. Sobirov
