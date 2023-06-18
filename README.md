@@ -1,1821 +1,1246 @@
-Test
-1.	Kafolat xatini yozishda quyidagilarning qaysi biridan foydalanilmaydi?
-A)	A3 qog’ozidan
-B)	A4 qog’ozdan
-C)	Kompanyaning firma blankidan
-D)	Elektron pochtadan
+1.	Statik tahlil sinovdan o‘tayotgan dasturiy ta'minotning dinamik bajarilishini ….
+-  o‘z ichiga olmaydi;
+- o‘z ichiga oladi;
+- ta'minlaydi;
+- ta'minlamaydi;
 
-2.	Kafolat xatini yozishda sizga nima tavsiya qilinmaydi?
-A)	Bo’yoqdor so’zlardan foydalanish
-B)	Maqsadlilik va qisqaroqlik
-C)	Aniqlik va soddalik
-D)	Muvofiq yozish uslubi
+2.	Statik tahlil dasturni ishga tushirishdan oldin yuzaga kelishi mumkin bo‘lgan nuqsonlarni dastlabki bosqichda …..
+- aniqlay oladi;
+- aniqlay olamadi;
+- faqat o‘rganadi;
+- o‘rganmaydi.
 
-3.	Kafolat xatida jismoniy shaxs uchun talab qilinmaydigan ma’lumot qaysi?
-A)	Imzolangan sana
-B)	Pasport ma'lumotlari va yashash manzili
-C)	Xatdagi murojaatning mohiyati
-D)	Imzo
+3.	……….kodlashdan so‘ng va birlamchi sinovlarini bajarishdan oldin amalga oshiriladi.
+-	statik tahlil;
+-	iqtisodiy tahlil;
+-	dinamik tahlil;
+-	moliyaviy tahlil.
 
-4.	Xizmat xatlari nechtagacha masalani qamrab olishi mumkin?
-A)	Faqat bitta agar qarindosh bolsa bir nechta bo’lishi mumkin
-B)	Faqat bitta
-C)	Ixtyoriy
-D)	Ikkita masaladan oshmasligi kerak
+4.	      Statik tahlilni manba kodini avtomatik ravishda 'Yurish' va mos kelmaydigan qoidalarni aniqlash uchun …..
+-	mashina amalga oshirishi mumkin;
+-	mashina amalga oshira olmaydi;
+-	qo‘l mehnati talab etiladi;
+-	foydalaniladi.
 
-5.	Xizmat xatlari haqidaga qaysi jumla o’rinsiz?
-A)	Uni faqatgina pochta orqali yuborsa boladi
-B)	xizmat xati bitta varaqdan kattaroq bo'lmasligi kerak
-C)	uni faqatgina firma blankalariga yoki A4 qog’ozga yozsa bo’ladi
-D)	u rasmiy shaxs tomonidan imzolangan bo’lishi kerak
+5.	Statik tahlilning asosiy afzalligi shundaki, u integratsiya va keyingi sinovlarga tayyor bo‘lguncha…………..
+- kod bilan bog'liq muammolarni topadi;
+- kod bilan bog'liq muammolarni topmaydi;
+- muammolarni bartaraf etmaydi;
+- muammolarni o‘rganmaydi.
 
-6.	So’rov xati uchun quyidagilardan qaysi biriga yo’l qo’ymaslik kerak?
-A)	Iltilof so’zlardan foydalanmaslik
-B)	So’rovni asoslash
-C)	Tan olish 
-D)	Hamdardlik so’zlardan foydalanish
+6.	Statik kodni tahlil qilishning afzalligi:
 
-7.	So’rov xati imkon qadar … bo’lishi kerak.
-A)	Qisqa va aniq
-B)	Tushunarli va sodda
-C)	Uzun va tushunarli
-D)	Bo’yoqdor va tushunarli
+-	manba kodini boshqa yoki kelajakdagi ishlab chiquvchilar osongina tushunishlari mumkin;
+-	kodning zaif tomonlarini aniq joyda topmaydi;
+-	muammolarni bartaraf etmaydi;
+-	muammolarni o‘rganmaydi.
 
-8.	Tashdiq xatida A4 qog’ozning yuqori chap burchagida qanday ma’lumotlar bo’lishi kerak?
-A)	O’z tashkilotingiz haqidagi ma’lumot
-B)	Adresat ma'lumotlari
-C)	Hech narsa yozilmaydi
-D)	Faqat sana yoziladi
-
-9.	Tashdiq xatida A4 qog’ozning yuqori o’ng burchagida qanday ma’lumotlar bo’lishi kerak?
-A)	Adresat ma'lumotlari
-B)	O’z tashkilotingiz haqidagi ma’lumot
-C)	Hech narsa yozilmaydi
-D)	Faqat sana yoziladi
-
-10.	 Tasdiq xatining asosiy qismi lakonik bolishi kerak va nechta jumladan iborat bo’lishi kerak?
-A)	1-2
-B)	4-5
-C)	Ixtyoriy
-D)	3-4 
-11.	/Delo/ Ish yuritish papkasi bu:
-A.	bir masalaga tegishli yoki alohida muqovaga kiritish.
-B.	bir masalaga tegishli xujjatdir;
-C.	bir uchastka faoliyatiga tegishli xujjat;
-D.	hamma javoblar to`g'ri.
-
-12.	 Nomenklatura ishi bu:
-A. korxonada	saqlanish	muddatini	ko’rsatish	bilan	olib	boriladigan xujjatlar ro’yxati;
-B. bu korxonada olib boriladigan ishlar;
-C. korxona arxivida saqlanish muddati ko’rsatilgan ishlar ro’yxati;
-D. to'g'ri javob yo'q.
-
-13.	Ish yuritish papkasiga kiritilmaydi:
-A. qoralama xujjatlar;
-B. ijro etilgan xujjatlar;
-C. nusxa;
-D. ijro etilmagan xujjatlar.
-
-14.	 Xujjatlarni ro’yxatga olish bu:
-A. ijro etishni nazoratini tashkil etish.
-B. administrativ faoliyatini isbotlash uchun;
-C. xujjatlarni saqlash uchun;
-D. ma’lumot olish uchun;
-
-15.	 Kichik korxonalar uchun xujjatlarni qayd qilish formasi to’g’ri keladi:
-A. markazlashtirilgan;
-B. nomarkazlashtirilgan;
-C. aralash;
-D. A va C javoblari.
-16.	 Tashkiliy farmoyishi xujjatlariga qaysilari kirmaydi?
-A. shaxsiy faoliyatiga oid xujjatlar;
-B. ma’lumotsimon axborot;
-C. tashkiliy xujjatlar;
-D. farmoyish xujjatlari.
-
-17.	 Tashkiliy xujjatlarning farqli tomonlari:
-A. amal qilish davomiyligi;
-B. ularni tashkil qilish va qo’llanish tezligi;
-C. tashkiliy norma va nomativlarning;
-D. harakat qilish davomiyligi.
-
-18.	 Umumiy faoliyatiga oid buyruqlar:
-A. ijro etishga oid;
-B. kadrlar faoliyati bo’yicha;
-C. shaxsiy faoliyati bo’yicha;
-D. initsiativ.
-
-19.	 Buyruq matnini bo’lish mumkin:
-A. ikki qismga;
-B. uch qismga;
-C. to’rt qismga;
-D. besh qismga.
-
-20.	 Protokol /majlis bayoni/ matnda echiladigan /hal etiladigan/ masalalar quyidagi tartibda yoziladi:
-A. eshitildi, so’zga chiqdilar, qaror qilindi;
-B. qaror qilinadi, so’zga chiqdilar, eshitildi;
-C. so’zga chiqdilar, eshitildi, qaror qilindi;
-D. so’zga chiqdilar, qaror qilindi, eshitildi.
-21.	 Olinma hujjatlar 
-A.	-boshqa tashkilotlardan keladigan hujjatlar.
-B.	- boshqa tashkilotlarga yuboriladigan hujjatlar
-C.	- tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-D.	TUGRI javob yuq
-22.	 Jo'natma hujjatlar –
-A. boshqa tashkilotlarga yuboriladigan hujjatlar
-B. - tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-C.- boshqa tashkilotlardan keladigan hujjatlar.
-D. Tugri javob yuq 
-23.	Ichki hujjatlar. 
-A.	Ayni muassasaning o'zida tuziladigan va shu muassasa ichida foydalaniladigan hujjatlardir.
-B. Muayyan muassasaga boshqa tashkilot yoki ayrim shaxslardan keladigan hujjatlardir.
-C. - muayyan bir masalani o'z ichiga oladi. Murakkab hujjatlar - ikki yoki undan ortiq masalani o'z ichiga oladi.
-D. boshqaruvning muayyan bir xil vaziyatlari bilan bog'lik, bir-biriga o'xshash va ko'p takrorlanadigan masalalar yuzasidan tuzilgan matnlarni o'z ichiga oladi.
-24.  Tashqi hujjatlar. 
-A. Muayyan muassasaga boshqa tashkilot yoki ayrim shaxslardan keladigan hujjatlardir.
-B. muayyan bir masalani o'z ichiga oladi. Murakkab hujjatlar - ikki yoki undan ortiq masalani o'z ichiga oladi.
- C. boshqaruvning muayyan bir xil vaziyatlari bilan bog'lik, bir-biriga o'xshash va ko'p takrorlanadigan masalalar yuzasidan tuzilgan matnlarni o'z ichiga oladi
-D. Tugri javob yuq
-25. Sodda hujjatlar – 
-A. muayyan bir soda masalani o'z ichiga oladi,
-B. - tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-C.- boshqa tashkilotlardan keladigan hujjatlar.
-D. Tugri javob yuq
-27. Namunaviy hujjatlar
-A. boshqaruvning muayyan bir xil vaziyatlari bilan bog'lik, bir-biriga o'xshash va ko'p takrorlanadigan masalalar yuzasidan tuzilgan matnlarni o'z ichiga oladi
-B. - tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-C.- boshqa tashkilotlardan keladigan hujjatlar.
-D. Tugri javob yuq
-
-28. Qolipli hujjatlar 
-A. odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha "yozmoq" emas, balki "to'ldirmoq" so'zi ishlatiladi.
-B. - tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-C.- boshqa tashkilotlardan keladigan hujjatlar.
-D. Tugri javob yuq
-29. Asl pusxa 
-A. har qanday hujjatning asli, birinchi rasmiy nusxasidir. Asl nusxaning aynan qayta ko'chirilgan shakli nusxa deb yuritiladi, odatda nusxaning o'ng tomonidagi Yuqoridagi burchagiga "nusxa"- degan belgi qo'yiladi.
-B. odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha "yozmoq" emas, balki "to'ldirmoq" so'zi ishlatiladi.
-C. - tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-D.- boshqa tashkilotlardan keladigan hujjatlar.
-30. Tashkiliy hujjatlar
-A. mazmunan tashkilot, muassasa va korxonalarning xuquqiy maqomi, tarkibiy tarmoqlari va xodimlari, boshqaruv jarayonining borishida jamoa ishtirokining qayd qilinishi, boshqa tashkilotlar bilan aloqalarning xuquqiy tomonlari kabi masalalarini aks ettiradi.
-B. har qanday hujjatning asli, birinchi rasmiy nusxasidir. Asl nusxaning aynan qayta ko'chirilgan shakli nusxa deb yuritiladi, odatda nusxaning o'ng tomonidagi Yuqoridagi burchagiga "nusxa"- degan belgi qo'yiladi.
-B. odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha "yozmoq" emas, balki "to'ldirmoq" so'zi ishlatiladi.
-C. - tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-
-31. Ariza nima?
-A. muayyan muassasa yoki mansabdor shaxs nomiga biror iltimos mazmunida yoziladigan rasmiy hujjat, eng koʻp tarqalgan ish qogʻozi.
-B. bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir.
-C. Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat.
-D. Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat.
-32. Bayonnoma  nima?
-A. Turli yig‘ilish, kengash va boshqa tur anjumanlarning borishini, majlis qatnashchilarining chiqishlari va ular qabul qilgan qarorlarni aniq, siqiq holda qayd qiluvchi rasmiy hujjatNormativ (me’yoriy) hujjat - faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjat
-B. Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat
-C. bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir.
-D. Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat.
+7.	Statik kod tahlilining cheklovlari:
+-	agar tahlil qo‘lda o‘tkazilsa, bu ko‘p vaqt talab etadi;
+-	muammolarni bartaraf etmaydi;
+-	muammolarni o‘rganmaydi;
+-	kodning zaif tomonlarini aniq joyda topmaydi;
 
 
-33. Bildirishnoma nima?
-A. Muayyan muassasa (tarkibiy qism) rahbariga xizmat faoliyati bilan aloqador muhim masalalar yuzasidan yoki yuqori idora, mansabdor shaxsga biron-bir voqea va hodisa haqida xabardor qilish zarurati tug‘ilganda taqdim etiladigan mufassal yozma axborot.
-B. tashkiliy hujjatl
-C. farmoyish hujjati
-D. ma’lumot-axborot hujjatlarga kiruvchi ma’lumot
-34. Vasiyatnoma nima?
-A. bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir.
-B. ichki mehnat tartibi qoidalari
-C. tashkilot, korxona muassasa o‘rtasida xizmat aloqalari
-D. asosiy faoliyatga oid buyruqlar ishni tashkil qilish
-35. Dalolatnoma nima?
-A. Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat.
-B. ichki mehnat tartiboti, ya‘ni unda ishni tashkil etish, xodimlar bilan ma’muriyat o'rtasidagi majburiyatlar, ta'tillar berish tartibi, ichki tartib aks ettiradigan hujjat
-C. korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-D. elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot
+8.	Kodni dinamik tahlil qilishning afzalliklari:
+-	bu ish vaqti muhitidagi zaifliklarni aniqlaydi;
+-	muammolarni bartaraf etmaydi;
+-	muammolarni o‘rganmaydi;
+-	kodning zaif tomonlarini aniq joyda topmaydi.
 
-36. Ishonchnoma nima?
-A. Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat.
-B. Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat.
-C. korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-D. elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot
-37. Ma’lumotnoma nima?
-A. Bo‘lgan voqea yoki mavjud holatlarni bildirish-axborot berish mazmunida ifodalaydigan hujjat
-B. yuridik faktlarni tasdiqlaydigan guvohnoma
-C. shaxsning biron ishga oid vakolatini ko'rsatadigan guvohnoma
-D. korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-38. Yo’riqnoma nima?
-A. qonun yoki boshqa me’yoriy hujjatlami tanishtirish maqsadida chiqariladigan huquqiy hujjat 
-B. faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjat
-C. muassasa yoki korxonani o‘zida tuziladigan va shu korxona ichida foydalaniladigan hujjatlar
-D. ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat
+9.	Dinamik kod tahlilining cheklovlari:
+-	аvtomatlashtirilgan vositalar, hamma narsa hal qilinayotgani to‘g'risida noto‘g'ri ma'lumot beradi;
+-	muammolarni bartaraf etmaydi;
+-	muammolarni o‘rganmaydi;
+-	kodning zaif tomonlarini aniq joyda topmaydi.
 
-39. Tavsifnoma nima?
-A. Ma'lum bir shaxsning mehnat va ijtimoiy faoliyati, shuningdek, uning o‘ziga xos xislat va fazilatlarini aks ettiruvchi rasmiy hujjat
-B. ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat
-C. xususiylashtirilmagan hujjat?
-D. Bo‘lgan voqea yoki mavjud holatlarni bildirish-axborot berish mazmunida ifodalaydigan hujjat
-40. Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat
-A. Ma'lum bir shaxs tomonidan o‘z shaxsiy hayoti va faoliyati haqida bayon qilingan yozuv
-B. Bo‘lgan voqea yoki mavjud holatlarni bildirish-axborot berish mazmunida ifodalaydigan hujjat
-C. Ma'lum bir shaxsning mehnat va ijtimoiy faoliyati, shuningdek, uning o‘ziga xos xislat va fazilatlarini aks ettiruvchi rasmiy hujjat
-D. barcha javoblar to’g’ri
-41. Qonunlar rasman e’lon qilingandan nechi kun o’tgach kuchga kiradi?
-A. 10 kun
-B. 7 kun
-C. 5 ish kuni
-D.1 kun
-42.O‘zbekiston Respublikasi Konstitutsiyasining nechinchi bobi «Konstitutsiya va qonunning ustunligi» deb nomlanadi?
-A.III
-B. I
-C. II
-D. V
-43.Asosiy qonun?
-A.	Konstitutsiya
-B.	Preambula
-C.	1 modda
-D.	7 modda
-44.“Davlat organi yoki mansabdor shaxsning oʻz vakolati doirasida muayyan maqsadga erishish yoʻlida qabul qiladigan va biror oqibat keltirib chiqaradigan hujjati” bu nima?
-A.	Qaror
-B.	Farmon
-C.	Nizom
-D.	Buyruq
-45.Inson huquq va erkinliklari ustuvorligi, ochiqlik, tashabbuskorlik …. vazirligining asosiy qadriyatlaridan biridir.
-A.	Adliya
-B.	Ichki ishlar
-C.	Tashqi ishlar
-D.	Ekologiya 
-46.Buyruq qanday qismlardan tarkib topkan?
-A.	asosiy matni asoslovchi (kirish) va farmoyish
-B.	asosiy matni asoslovchi (kirish)
-C.	farmoyish
-D.	tog’ri javob yoq
-47.Sud qarori qanday deb nomlanadi?
-A.	xususiy ajrim
-B.	ozgartirilmas
-C.	final qaror
-D.	tog’ri javob yoq
-48.Oʻzbekiston Respublikasi Qonunlari nechta guruhga bolinadi?
-A.	4
-B.	7
-C.	2
-49.Guvohnoma, yo‘riqnoma, nizom qoida, ustav, shartnomalar qanday hujjatlar sirasiga kiradi?
-A.	Tashkiliy
-B.	Oddiy
-C.	Meyoriy
-D.	Ixtioriy 
-50. Buyruqning farmoyish qismi yangi satrdan qanday so‘zini bosh harflar bilan ikki nuqta qo‘yib yozishdan boshlanadi?
-A.	Buyuraman
-B.	Qilishingizni sorayman
-C.	Aytaman
-51. Hujjatlar mazmuniga ko’ra qaysi turlarga bo’linadi?
-A. sodda va murakkab 
-B. tashkiliy va farmoyish
-C. ichki va tashqi
-D. ma’lumot-axborot, tashkiliy va farmoyish
-52. Tashkiliy hujjatlarga qaysi hujjatlar kiradi?
-A. guvohnoma,yo‘riqnoma, nizom, shartnoma
-B. taklifnoma, telegramma, xatlar
-C. buyruq, ko‘rsatma, farmoyish
-D. ariza, bayonnoma, dalolatnoma, ishonchnoma
-53. Taklifnoma, telegramma, xatlar qo‘llanish doirasi, maqsad va vazifalariga ko‘ra qaysi hujjat guruhiga kiradi?
-A. xizmat yozishmalari
-B. tashkiliy hujjatlar
-C. farmoyish hujjatlar
-D. ma’lumot-axborot hujjatlar
-54. Tashkiliy hujjatlarda qanday masalalar aks etadi?
-A. boshqa tashkilotlar bilan aloqalarning huquqiy tomonlari 
-B. ichki mehnat tartibi qoidalari
-C. tashkilot, korxona muassasa o‘rtasida xizmat aloqalari
-D. asosiy faoliyatga oid buyruqlar ishni tashkil qilish
+10.	Agar vaqt o‘tgan sari tizim holati yoki tizim holati bilan birga uning tarkibiy tuzilmasi ham o‘zgarsa, bunday tizim ............deb ataladi.
+-	dinamik tizim;
+-	statik tizim;
+-	klassik tizim;
+-	evolyusion tizim.
 
-55. Shartnoma nima?
-A. ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat 
-B. ichki mehnat tartiboti, ya‘ni unda ishni tashkil etish, xodimlar bilan ma’muriyat o'rtasidagi majburiyatlar, ta'tillar berish tartibi, ichki tartib aks ettiradigan hujjat
-C. korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-D. elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot
-56. Guvohnoma vazifasi noto'g'ri ko'rsatilgan qatorni ko'rsating:
-A. muassasa yoki uning tarkibiy bo'linmalarining tuzlilshi, huquqi, vazlfalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydi 
-B. muayyan shaxsning biron ishga (masalan, taftish o'tkazishga) oid vakolatini ko'rsatadi
-C. muayyan shaxsning xizmat va boshqa holatlarni ko’rsatadi
-D. xodimga safar vaqtida yuklatilgan xizmat vazifasini bajarishga vakolat beradi
-57. Guvohnomani qaysi turi moliyaviy hujjat hisoblanadi?
-A. xizmat safari guvohnomasi
-B. yuridik faktlarni tasdiqlaydigan guvohnoma
-C. shaxsning biron ishga oid vakolatini ko'rsatadigan guvohnoma
-D. barcha javoblar to'g'ri
-58. Yo’riqnoma nima?
-A. qonun yoki boshqa me’yoriy hujjatlami tanishtirish maqsadida chiqariladigan huquqiy hujjat 
-B. faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjat
-C. muassasa yoki korxonani o‘zida tuziladigan va shu korxona ichida foydalaniladigan hujjatlar
-D. ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat
-59. Yo’riqnomalarni kim chiqaradi?
-A. davlat organlari 
-B. jismoniy shaxslar
-C. xususiy tashkilotlar
-D. to'g'ri javob yo'q
-60. Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat
-A. nizom 
-B. farmoyish
-C. yo’riqnoma
-D. buyruq
-61. “Davlat tili haqida”gi Qonunning qaysi moddasida davlat hokimiyati va boshqaruv organlarida ishning davlat tilida yuritilishi va zaruriyatga qarab boshqa tillarga tarjima qilinishi ta'kidlab o‘tilgan?
-A.	9-moddasida
-B.	1-moddasida
-C.	19-moddasida
-D.	10-moddasida
-62. Ish yuritish huijatlari qo‘llanish doirasi, maqsad va vazifalariga ko‘ra qaysi guruhlarga bo‘linadi?
-A.	Tashkiliy, farmoyish, ma’lumot-axborot hujjatlari va xizmat yozishmalari 
-B.	Shaxsiy va rasmiy hujjatlar
-C.	Soda va murakkab hujjatlar 
-D.	Barcha javoblar to’g’ri
-63. Hujjatlarda tartib sonlari qaysi variantda to’g’ri ifodalangan?  
-A.	1-chorak, II chorak
-B.	1nchi chorak, IInchi chorak
-C.	1-chorak, II-chorak
-D.	1 chorak, II chorak
-64. Bayonot, nota, bitim, memorandum hujjatlari qaysi munosabatlarga doir?
-A.	Diplomatik munosabatlar
-B.	Idoraviy-ma’muriy munosabatlar
-C.	Huquqiy munosabatlar
-D.	Shahsiy munosabatlar 
-65. Dalolatnoma, buyruq va farmoyishlar qaysi munosabatlarga doir?
-a)	Idoraviy-ma’muriy munosabatlar
-b)	Diplomatik munosabatlar
-c)	Huquqiy munosabatlar
-d)	Shahsiy munosabatlar 
-66. Rekvizit deb nimaga aytiladi?
-a)	Hujjatni rasmiylashtirishning majburiy elementiga aytiladi
-b)	Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat.
-c)	Elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot.
-d)	Faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjatga aytiladi.
-67. Nizomning asosiy zaruriy qismlari qaysilar?
-A.	Tasdiqlash ustxati, muassasa nomi, hujjat nomi, hujjat matni, sana va joy.
-B.	Muassasa nomi, hujjat nomi, hujjat matni, sana va joy.
-C.	Tasdiqlash ustxati, muassasa nomi, hujjat matni, sana va joy.
-D.	Tasdiqlash ustxati, muassasa nomi, hujjat nomi, hujjat matni, sana va joy, elektron pochta manzili, O‘zbekiston Respublikasining gerbi.
-68. Ichki hujjat nima?
-A.	Muassasa yoki korxonani o‘zida tuzi-ladigan va shu korxona ichida foyda-laniladigan hujjatlardir
-B.	Korxonaga, boshqa tash-kilot va ayrim shaxslardan keladigan hujjatlardir.
-C.	Yakka shaxs tomonidan yoziladigan, ularning xizmat faoliyatlaridan tashqaridagi yoki jamoat ishlarini bajarish bilan bog‘liq masalalarga tegishli bo‘ladigan hujjatlardir.
-D.	Ikki yoki undan ortiq tomonning fuqarolik huquqlari va majburiyatlarini belgilash, o‘zgartirish yoki to`xtatish yo`lidagi kelishuvidir.
-69. Ish yuritish asosi nima?
-A.	Hujjat
-B.	Shartnoma
-C.	Nozom
-D.	Farmoish
-10. Hujjatning sanasini qanday tarzida ifodalash mumkin?
-A.	2022-yil 8-iyun, 08.06.22
-B.	2022 yil 8 iyun, 08.06.22
-C.	2022-yil 8-iyun
-D.	2022chi yil 8chi iyun, 08.06.22
-70. Boshqarish jarayonini amalga oshirish uchun zarur bo’lgan faktlar – bu?
-A)	Hujjat      B) Manba     C) Kitob    D) Ma’lumot
+11.	  Аgar vaqt o‘tgan sari tizimning holati va tarkibiy tuzilmasi o‘zgarmasa, bunday tizim ............deb ataladi.
+- statik tizim;
+- dinamik tizim;
+- klassik tizim;
+- evolyusion tizim.
 
-71. Arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiradigan muassasa – bu?
-             A) Arxiv   B) Manba   C) Kitob   D) Ma’lumot
+12.	 Dinamik tizimlar o‘z navbatida klassik va evolyusion tizimlarga bo‘linadi. Agar vaqt o‘tgan sari tizim holati o‘zgarib, uning tarkibiy tuzilmasi o‘zgarmasa, bunday dinamik tizim .............deb ataladi.
+- klassik tizim;
+- statik tizim;
+- dinamik tizim;
+- evolyusion tizim.
 
-72. Arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiradigan tashkilotning tarkibiy bo‘linmasi;
-A)	Idoraviy arxiv      B) Hujjat       C) Arxiv        D) Xrolonogik belgi
+13.	Dinamik tizimlar o‘z navbatida klassik va evolyusion tizimlarga bo‘linadi. Agar vaqt o‘tgan sari tizim holati o‘zgarib, uning tarkibiy tuzilmasi o‘zgarsa, bunday dinamik tizim ............deb ataladi.
+-	evolyusion tizim;
+-	klassik tizim;
+-	statik tizim;
+-	dinamik tizim.
 
-73. Hujjatlarning yo‘qolib ketmasligi va ularning talab etilgan jismoniy holatda bo‘lishi uchun hujjatlar saqlanishiga maqbul shart-sharoitlar yaratish, me’yorlarga rioya etish va hujjatlar saqlanishini ta’minlash kabi tadbirlar majmuasi
-A)	Hujjatlarni saqlanishini ta’minlash  B) Hujjat   C) Arxiv   D) Xrolonogik belgi
+14.	Jinoyatga qarshi kurashish tizimida vaqt o‘tgan sari haq to‘lash fondida moliyaviy mablag‘lar etishmasligi sababli tergovchilar maoshi kamayib ketdi. Bu esa jinoyatlarni fosh qilish darajasining tushib ketishiga sabab bo‘ldi, chunki tizimda qo‘nimsizlik oshib ketdi. Shu bilan birga, tizimning tashkiliy-funksional, moddiy-texnik tuzilmasi va hokazo tuzilmalari saqlanib qoldi. Bu misol qaysi bir tizimga xos?
+- klassik;
+- statik;
+- dinamik;
+- evolyusion.
 
-74. Bunda hujjatlar qalendar davrlari bo’yicha guruxlanadi
-(oylar bo’yicha hisobotlar)
-A)	Xrolonogik belgi      B) Hujjat       C) Arxiv        D) Idoraviy arxiv
 
-75. Davlat organi sud, korxona,  muassasa,  tashkilotga,  jamoat birlashmasi va fuqarolarning o‘z-o‘zini boshqarish organlariga biron-bir masala boʻyicha yakka tartibda yoki jamoa boʻlib ogʻzaki yoxud yozma ravishda qilingan shikoyat –
-A)	Shaxsiy ariza  B) Hujjat       C) Arxiv        D) Idoraviy arxiv
+15.	 Ko‘p qavatli uyning holati o‘n yildan keyin quvurlarni alishtirish va devorlarni oxaklash kabi ta’mirlash ishlarini amalga oshirishni talab qildi, lekin uyning arxitekturali tuzilmasi saqlanib qoldi. Bu misol qaysi bir tizimga xos?
+- klassik;
+- statik;
+- dinamik;
+- evolyusion.
 
-76. «Kadrlarni hisobga olish bo'yicha shaxsiy varaqa» 
-A)	Bu hujjat ishga qabul qilishda asosiy hujjat hisoblanadi  B) Hujjat     C) Arxiv        D) Idoraviy arxiv
+16.	Oliy Majlis oldin bir palatali edi, lekin vaqt o‘tgan sari uning tashkiliy-funksional tuzilmasi o‘zgardi – ya’ni, u ikki palatali bo‘ldi va buning natijasida qonun chiqaruvchi hokimiyati organlari tizimi takomillashdi. Bu misol qaysi bir tizimga xos?
+- evolyusion;
+- statik;
+- dinamik;
+- klassik.
 
-77. Nazorat hujjatlari va topshiriqlar ijrosi haqidagi ma’lumotlar har oyning
-____  sanasi xolatiga ko’ra umumlashtiriladi va raxbariyatga ma’lum qilinadi.
-A) Birinchi    B) Ikkinchi   C) Ahamiyatsiz   D) Uchinchi
+17.	Statik tahlil usullariga quyidagilardan qaysi birini kiritish mumkin?
+-	tahlil, sintez, induksiya, deduksiya, аnalogiya, ideallashtirish, saralab olish, konkretlashtirish, tasniflash;
+-	faqat umumlashtirish, induksiya va deduksiya;
+-	faqat аnalogiya, ideallashtirish va saralab olish;
+-	faqat tahlil va sintez.
 
-78. Hujjatlarni ro’yxatga quyishning asosiy maqsadi ____ va o’z vaqtida foydalanish uchun qiynalmasdan topishdir.
-A)	ish yuritishni to’g’ri yo’lga qo’yish B) vaqtdan yutish   C) tartibga solish  D) to’g’ri javob yo’q
+18.	Agar tizim tashqaridan o‘rganilsa, tizimning tashqi muhit bilan o‘zaro aloqasi yoki tizimning funksiyalari ko‘rib chiqiladi, ya’ni bu erda ..........qo‘llaniladi.
+-	funksional yondashuv;
+-	klassik yondashuv;
+-	keynscha yondashuv;
+-	neoklassik yondashuv.
 
-79. Yuqori organlar hujjatlari bo’yicha farmoyish va topshiriqlarni bajarish
-borasida buyruqlar
-tayyorlash – 
-A)	7 kungacha      B) 3 kungacha      C) 9 kungacha   D) 1 oygacha
-80. Qog'oz shaklida yozishmalar registri ____ formatidagi kitob bo'lib, tipografik usulda, tegishli ustunlar bilan tuzilgan.
-A)	A4      B) A5    C) A3   D) A6
-81. Fuqarolik Kodeksida 30 ga yaqin qonunlar aniq ko'rsatilgan, ulardan 20 ga yaqini nimalarni o’z ichiga oladi?
-A.	Shartnoma
-B.	Kodeks
-C.	Ariza
-82. Shartnomalar tomonlar kelishuvga erishgandan so'ng kuchga kirganda qanday deb hisoblanadi?
-A.	Konsensiv
-B.	Kooperativ
-C.	Koldan
-83. Nima ishlab chiqarish va iste'mol o'rtasidagi eng samarali va moslashuvchan aloqa vositasi?
-A.	Shartnoma
-B.	Qonun
-C.	Tense 
-84. Shartnoma qanday munosabatlarni individual huquqiy tartibga solishning eng muhim vositasi?
-A.	Mulkiy va nomulkiy
-B.	Pulli va pulsiz
-C.	Aloqali va aloqasiz
-85. Fuqarolik Kodeksining to'rtinchi bo'limi nima?
-A.	"Majburiyatlarning ayrim turlari"
-B.	“majburiyatlarning hamma turlari
-C.	Majburiyatlaring 4/2 qismi
-86. Shartnomaning kuchga kirish vaqti va uning amal qilish muddati qaysi-moddaga muvofiq belgilanadi?
-A.	425
-B.	712
-C.	002
-87. Nechinci bobda ko'zda tutilgan ikki tomonlama va ko'p tomonlama bitimlar to'g'risidagi qoidalar shartnomalarga nisbatan qo'llaniladi?
-A.	9 
-B.	12
-C.	7
-88. Shartnoma ("kelishuv") faqat ushbu holatda qanday pozitsiyani egallagan sub'ektlar o'rtasida mavjud bo'lishi mumkin?
-A.	Teng
-B.	Noteng 
-C.	Bazi
-89. Fuqarolik Kodeksining nechinchi moddasi biz birinchi navbatda narsalarni berish to'g'risida gaplashayotganimizni tasdiqlashi kerak?
-A.	224
-B.	715
-C.	721
-90.  Fuqarolik Kodeksining nechinchi moddasida qonunda yoki shartnomada ko'rsatilgan me'yorlardan ayrim cheklashlarga yo'l qo'yiladi?
-A.328
-B.758
-C.668
-100. ___ muayyan bir masalani o’z ichiga oladi?
-A. sodda hujjatlar 
-B. murakkab xujjatlar
-C. bayonnomalar
-D. ma’lumot-axborot, tashkiliy va farmoyish
+19.	Agar tizim ichkaridan o‘rganilsa, tizimning tuzilmasi, tarkibiy qismlari va ular orasidagi o‘zaro aloqalar ko‘rib chiqiladi, ya’ni bu – 
+-	tuzilmaviy yondashuvni qo‘llash jarayonidir;
+-	funksional yondashuv;
+-	klassik yondashuv;
+-	neoklassik yondashuv.
 
-101. ___ ikki yoki undan ortiq masalani o’z ichiga oladi?
-A. murakkab xujjatlar 
-B. sodda hujjatlar
-C. bayonnomalar
-D. ma’lumot-axborot, tashkiliy va farmoyish
+20.	Tuzilmaviy yondashuv ...
+-	tizimning qanday tuzilganligi, qanday qismlardan tarkib topganligi va ular qanday bog‘liqligini o‘rganishda qo‘llaniladi;
+-	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish va shu asosda tizimning dinamik hususiyatlari haqida xulosalar chiqarishga qaratilgan;
+-	beshta bosqichdan iborat bo‘ladi;
+-	uch bosqichdan iborat bo‘ladi.
+-	
+21.	Tuzilmaviy yondashuv ... bosqichdan iborat bo‘ladi
+-	ikkita bosqichdan iborat bo‘ladi;
+-	bitta bosqichdan iborat bo‘ladi;
+-	beshta bosqichdan iborat bo‘ladi;
+-	uch bosqichdan iborat bo‘ladi.
 
-102. Hujjatlarda tilning ikki vazifasi bor, bular …
-A. informativ va volyuntativ
-B. informativ va buyruq
-C. informativ va iqtisodiy
-D. to’g’ri javob yo’q
+22.	Tuzilmaviy yondashuv ikkita bosqichdan iborat bo‘ladi: 
+-	boshida tizimning barcha muhim qismlari aniqlanadi va ular elementlar sifatida namoyon qilinadi; keyin tizimning tuzilmasi aniqlanadi;
+-	tizimning barcha muhim qismlari aniqlanadi va ular elementlar sifatida namoyon qilinadi; keyin tizimning funksiyasi aniqlanadi;
+-	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish va shu asosda tizimning dinamik hususiyatlari haqida xulosalar chiqarish;
+-	yuqori va quyi.
 
-103. Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lgan voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat?
-A. dalolatnoma 
-B. buyruq, farmon
-C. tavsifnoma
-D. tavsiyanoma
+23.	Tizimli yondashuvdan oldin tuzilmaviy va funksional yondashuvlar amalga oshirilgan bo‘lishi.......
+-	shart;
+-	shart emas;
+-	muhim;
+-	maqsadga muvofiq.
 
-104. Ma’lum bir shaxsning mehnat va ijtimoiy faoliyati, shuningdek, uning o‘ziga xos xislat va fazilatlarini aks ettiruvchi rasmiy hujjat?
-A. tavsifnoma 
-B. dalolatnoma
-C. ariza
-D. taklifnoma
+24.	Tizimli yondashuvni tor ma’noda…….
+-	 tuzilmaviy va funksional yondashuvlar sintezi sifatida ko‘rsa bo‘ladi;
+-	klassik va neoklassik yondashuvlar sintezi sifatida ko‘rsa bo‘ladi;
+-	klassik va keynscha yondashuvni bildiradi;
+-	funksional va klassik yondashuvni anglatadi.
 
-105. Biror shaxsni ma’lum lavozimga yoki ijtimoiy-siyosiy tashkilotlarga a’zo bo‘lish uchun tavsiya etuvchi rasmiy hujjat?
-A. tavsiyanoma 
-B. dalolatnoma
-C. tarjimayi hol
-D. tilxat
+25.	Keng ma’noda tizimli yondashuv, tizim ishlashining samaradorligini o‘rganishni, ya’ni …………………….ham o‘zida qamrab oladi.
+-	texnik-iqtisodiy yondashuvni;
+-	klassik va neoklassik yondashuvni;
+-	klassik va keynscha yondashuvni;
+-	funksional va klassik yondashuvni.
 
-106. Ma’lum bir shaxsdan yoki muassasadan pul, hujjat, qimmatbaho buyumlar yoxud boshqa biror narsa olinganligini tasdiqlovchi rasmiy yozma hujjat.
-A. tilxat
-B. dalolatnoma
-C. ariza
-D. barcha javoblar to'g'ri
+26.	Dinamik yondashuv ……
+-	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish va shu asosda tizimning dinamik hususiyatlari haqida xulosalar chiqarishga qaratilgan;
+-	faqat tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqishga qaratilgan;
+-	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqishga qaratilmagan;
+-	faqatgina tizimning dinamik hususiyatlari haqida xulosalar chiqarishga qaratilgan.
 
-107. … Xizmat sohasidagi, xizmatga aloqador masalani, uning ayrim jihatlarini yozma izohlovchi va muassasa I (bo‘lim) rahbariga (ichki) yoki yuqori tashkilotga (tashqi) yo‘llanuvchi hujjatdir.
+27.	Tizimning dinamikasi deganda ……..
+-	 uning holati, tuzilmasi, funksiyalari, ishlashi samaradorligining vaqt o‘tishi bilan o‘zgarib borishi tushuniladi;
+-	uning holati, tuzilmasi, funksiyalari, ishlashi samaradorligining vaqt o‘tishi bilan o‘zgarmasligi tushuniladi;
+-	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish tushuniladi;
+-	tizimning dinamik hususiyatlari haqida xulosalar chiqarish tushuniladi.
 
-A. tushuntirish xati 
-B. dalolatnoma
-C. tavsifnoma
-D. nizom
+28.	Tizimning dinamik o‘zgarishini …….. dinamik o‘zgarish turlariga tasniflasa bo‘ladi.
+-	klassik (orqaga qayta oladigan) va noklassik (orqaga qayta olmas, evolyusion);
+-	 klassik va keynscha;
+-	funksional va klassik; 
+-	texnik-iqtisodiy.
 
-108. … Muayyan bir shart yoki va’dani tasdiqlash maqsadida tuziladi.
-A. kafolat xati 
-B. dalolatnoma
-C. nizom
-D. to'g'ri javob yo'q
+29.	     ............ tizimlar, vaqt o‘tishi sari, albatta, evolyusion va orqaga qaytmas tarzda o‘zgarishadi.
+-	biologik va ijtimoiy;
+-	revolusion;
+-	klassik;
+-	keynscha.
+30.	“Tizim” tushunchasi   .....   so‘zdan olingan.
+-	grekcha;
+-	italyancha;
+-	ruscha;
+-	inglizcha.
 
-109. …shartnoma turlaridan biri bo‘lib, u orqali muassasalar bilan ularning hisobida turmaydigan xodim(lar) o‘rtasidagi o‘zaro munosabatlar rasmiylashtiriladi.
+31.	“Tizim” grekchadan  -   ……
+-	bir-biri bilan bog‘langan va o‘zaro munosabatlarda bo‘lgan va aniq butunlikni, birlikni hosil qiladigan ko‘plab elementlardir;
+-	bir-biri bilan bog‘langan va o‘zaro munosabatlarda bo‘lgan sanoqli elementlardir;
+-	aniq butunlikni, birlikni hosil qilmaydi;
+-	o‘zaro munosabatlarda bo‘lgan elementlardir.
 
-A. mehnat bitimi 
-B. farmoyish
-C. yo’riqnoma
-D. dalolatnoma
-110.Bo`sh qoldirilgan joyni to`ldiring. Mehnat daftarchasi O‘zbekiston Respublikasi Adliya vazirligi tomonidan ….-yil 29-yanvarda 402-son bilan davlat ro‘yxatidan o‘tkazilgan Yo‘riqnoma asosida yuritiladi.
-A.	1998
-B.	1997
-C.	1999
-D.	1996
-111.Mehnat bitimi kamida nechta nusxada tuziladi?
-A.	Ikki nusxada
-B.	Uch nusxada
-C.	To`rt nusxada 
-D.	Bitta nusxa yetarli
-112.Mehnat stajiga ega bo`lmagan xodimlarga muassasada necha kun ishlaganlaridan keyin mehnat daftarchasi yuritilishi lozim?
-A.	Besh kun ishlagandan keyin
-B.	Birinchi ish kunidan
-C.	Uchinchi ish kunidan
-D.	Ish staji yo`q xodimga mehnat daftarchasi tutilmaydi
-113.Mehnat kodeksinig qaysi moddalariga muvofiq,ayrim fuqarolar ixtiyorida mehnat shartnomasi asosida ishlayotgan jismoniy shaxslarga mehnat daftarchasini yuritmaslik noqonuniy hisoblanadi?
-A.	1- va 5- moddalariga 
-B.	Faqat 1-moddasiga
-C.	Faqat 5-moddasiga 
-D.	3- va 7- moddalariga
-114.Yo`riqnoma talabiga asosan,ish beruvchi mehnat daftarchasiga kiritilgan har qanmday yozuv haqida daftarcha egasini necha kun muddat ichida tanishtirishi lozim?
-A.	Uch kun
-B.	Besh kun
-C.	Ikki kun
-D.	Yeti-o`n kun 
-115.Quyidagilardan qaysi biri mehnat daftarchasiga yozilmaydi:1-intizomiy jazolar to`g`risidagi ma`lumotlar;2-mehnat shartnomasini bekor qilish asoslari ya`ni sabablari haqidagi ma`lumotlar;3-xodimning tug`ilgan yili va sanasi
-A.	1 va 2
-B.	1 va 3
-C.	2 va 3
-D.	Faqat 3
-116.Qachon xodimga mehnat shartnomasini berish taqiqlanadi?
-A.	Ish davomida
-B.	Uyda vaqti
-C.	Ko`chada vaqti
-D.	To`g`ri javob yo`q
-117.Mehnat shartnomasi bekor qilingan kuni ish beruvchi mehnat kodeksining qaysi moddasiga binoan xodimga uning mehnat daftarchasi va mehnat shartnomasini bekor qilish to`g`risidagi buyruqning nusxasini berishi shart?
-A.	108-moddaga binoan
-B.	107-moddaga binoan
-C.	103-moddaga binoan
-D.	89-moddaga binoan
-118.Mehnat daftarchasiga kiritiladigan ma`lumotlar ehtiyotkorlik bilan qaysi rangdagi siyoh bilan yoziladi?
-A.	Qora, ko`k va binafsha
-B.	Qora va qizil 
-C.	Faqat qora
-D.	Faqat ko`k
-119.Xodim to`g`risidagi ma`lumotlar mehnat daftarchasining nechinchi betiga yoziladi?
-A.	Birinchi betiga 
-B.	Ikkinchi betiga 
-C.	To`g`ri javob yo`q
-D.	Uchinchi betiga
-120. Hujjatlar  tuzilishiga ko`ra  nechta  turga  bo`linadi?       
-A.  sodda  va  murakkab
-B. ichki  va tashqi  hujjatlar 
-C.  namunaviy  va  qolipli            
-D.  rasmiy  va  shaxsiy
-121. Tashkiliy  hujjatlarga  qaysilar  kiradi?
-A. Buyruq , buyruqdan ko`chirma , farmoyish , ko`rsatma
-B. Ariza , bayonnoma  , bildirishnoma , dalolatnoma
-C.  Guvohnoma , yo`riqnoma , nizom , ustav  , shartnoma
-D.  Adres , taklifnoma , xatlar , telegramma
-122. Hujjatlar  matni  qanday  talablar  asosida  ko`riladi? 
-A. barcha  javoblar  to`g`ri 
-B. xoslik , aniqlik             
-C. ixchamlik , lo`ndalik
-D. mazmu`niy  to`liqlik                    
-123. Rasmiy xat turlari berilgan qatorni belgilang.
-A. iltimos xat, eslatma xat 
-B. kafolat xati, tushuntirish xati  
-C. ilova xat, tabrik xati 
-D. farmoyish xat, tilxat   
- 124. Ko‘chirma olinadigan hujjat turini belgilang.
-A. buyruq, bayonnoma	
-B. tilxat, ishonchnoma
-C. farmoyish, dalolatnoma	
-D. tavsufnoma, tavsiyanoma
-125. Hujjatlar tegishlilik jihatidan ... hujjatlarga bo‘linadi.
-A. rasmiy yoki shaxsiy 
- B. xizmat yoki rasmiy
-C. shaxsiy yoki xizmat
-D. idoraviy yoki rasmiy
-126. Buyruq, ko‘rsatma, farmoyish kabi hujjatlar xizmat mavqeyiga ko‘ra qanday hujjatlar hisoblanadi?
-A. farmoyish hujjatlar
-B.  tashkiliy hujjatlar   
-C.  ma’lumotsimon 
-D. axborot hujjatlar
-127. Qanday hujjat turi kotib tomonidan rasmiylashtiriladi?
-A.  bayonnoma
-B.  ma’lumotnoma   
-C.  dalolatnoma	
-D.  tavsifnoma  
-128. Tarjimayi holga qo‘yiladigan qaysi talablar noto‘g‘ri?
-A.  barcha talablar to‘g‘ri
-B.  hikoya uslubida bo‘lib, I shaxs tilidan yoziladi 
-C.  ma’lumotlar xronologiya asosida, aniq sanalar bilan beriladi
-D.  u bilan tanishgan kishi muallifning hayot yo‘li va faoliyati haqida tasavvurga ega bo‘lishi kerak
-129.Quyidagi hujjatlarni  qaysi  birida  da`vat   etish , axborot  o`z aksini topadi
-A.  buyruq       
-B. bildirgi            
-C. ishonchnoma         
-D. ma`lumotnoma
-130. Bosma ish qog‘oziga yoziladigan hujjatlar berilgan qatorni aniqlang.
-A.   ma’lumotnoma, shartnoma
-B.  ishonchnoma, farmoyish
-C.  dalolatnoma, buyruq
-D.   bayonnoma, xizmat yozishmalari
+32.	“Tizim” – 
+-	qismlardan tuzilgan bir butun, bog‘lanish ma’nosini anglatadi;
+-	qismlarga bo‘linish ma’nosini bildiradi;
+-	umumlashtirish ma’nosini anglatadi;
+-	harakat ma’nosini anglatadi.
+-	
+33.	Tizimlar bir-biridan ……………..
+-	tarkibi va qanday maqsadda qo‘llanilishi bilan farqlanadi;
+-	bir xil maqsadda qo‘llanilishi bilan tavsiflanadi;
+-	tarkiban bir xil bo‘lishi bilan ko‘zga tashlanadi;
+-	farqlanmaydi.
 
-131. Mansabdor shaxsning talabi bilan yoziladigan hujjat nima?
-A. talabnoma
-B. buyruq       
-C. bayonnoma
-D. tushintirish xati      
+34.	Element .........
+-	 tizimning uzviy qismi bo‘lib, u tashqi xususiyatlari nuqtai nazaridan bo‘linmaydigan mustaqil ob’ekt deb tushuniladi;
+-	tashqi xususiyatlari nuqtai nazaridan bo‘linadigan mustaqil ob’ektdir;
+-	mustaqil ob’ektdir;
+-	tizimning uzviy qismi emas.
+-	
+35.	Tizimni tahlil qilish jarayonida uni 
+-	quyi tizimlarga bo‘lish mumkin;
+-	quyi tizimlarga bo‘lish mumkin emas;
+-	umumlashtirish kerak;
+-	sintez qilish kerak;
 
-132.Qaysi hujjat turlari yozilish shakliga ko‘ra o‘xshash?
-A. tavsifnoma, tavsiyanoma
-B.  buyruq, bayonnoma, farmoyish
-C.  dalolatnoma, da’vo arizasi, shartnoma
-D.  tilxat, ishonchnoma, ma’lumotnoma
+36.	Quyi tizim - ……
+-	tizimdan ma’lum qoidaga binoan ajratilgan, tabiati ixtiyoriy, o‘zaro bog‘langan elementlarning bir qism to‘plami;
+-	o‘zaro bog‘lanmagan elementlarning bir qism to‘plami;
+-	mustaqil tizim deb qaralmaydi;
+-	tizimning uzviy qismi emas.
 
-133. Qaysi holatlarda bildirishnoma yoziladi?
-A.  voqea– hodisalar haqida xabardor qilish, ayrim masalalarga  xulosa va takliflar berishda;
-B.  talab qilingan voqea– hodisalar haqida axborot berishda;
-C. voqea, hodisalar yoki mavjud holatni huquqiy jihatdan isbotlash yoki tasdiqlashda;
-D.  sodir etilgan ba’zi hatti– harakatlar isbotlab tushuntirilganda;
+37.	Har qanday tizim ….
+-	quyi tizimdan iborat;
+-	quyi tizimdan iborat emas;
+-	mustaqil tizim deb qaralmaydi;
+-	quyi tizimlarga bo‘linmaydi.
 
-134. Quyidagi matn qaysi uslubga mansub? 
-Men dunyoga kelgan kundanoq 
-Vatanim deb seni uyg'ondim
-Odam baxti birgina senda 
-Bo'luriga mukammal qondim.
-A.  badiiy uslub 
-B. So'zlashuv uslubi 
-C.  rasmiy uslub 
-D.   publitsistik uslub
+38.	Agar tizim kirish va chiqish yo‘llariga ega bo‘lsa, ya’ni tizimlar ma’lum vaqtda modda, energiya, axborot kirgizish va chiqarish imkoniyatlari mavjud bo‘lsa, bu tizimga tarkibiy ob’ekt sifatida qaraladi va bu tizim…….
+-	 dinamik tizim xisoblanadi;
+-	static tizim xisoblanadi;
+-	quyi tizim xisoblanadi;
+-	muqobil tizim xisoblanadi.
 
-135. Berilgan matndan adabiy talaffuzdan chetlashgan so'z shakllarini aniqlang? U shu istiholaga borib, gapni boshqa yaqqa burdi:
-... Shaharda dong chig'argan bir milisa oshpaz bor.
-A.  yaqqa
-B.  Istihola  
-C.  oshpaz   
-D.   Yaqqa, chig'argan, milisa, oshpaz
-136. Muassasaning asosiy va kundalik vazifalarini hal etish maqsadida qo‘llaniladigan hujjat  
-A. buyruq deyiladi   
-B. farmoyish deyiladi	
-C. hisobat deyiladi         
-D. bayonnoma deyiladi  
+39.	Ob’ektni tizim deb hisoblash uchun u nechta xususiyatga ega bo‘lishi lozim
+-	to‘rta;
+-	uchta;
+-	ikkita;
+-	bitta.
+
+40.	Ob’ektni tizim deb hisoblash uchun u qanday xususiyatlarga ega bo‘lishi lozim?
+-	yaxlitlilik, aloqalar, tashkil etish va integrativ sifatlar;
+-	faqat yaxlitlilik, aloqalar va tashkil etish;
+-	faqat yaxlitlilik;
+-	faqat aloqalar va tashkil etish.
+
+41.	Tizim elementlari o‘rtasida …..
+-	jiddiy aloqalar mavjud;
+-	jiddiy aloqalar mavjud emas;
+-	aloqalar umuman y o‘q;
+-	aloqalar kuchsiz.
+
+
+
+42.	Tizimning paydo bo‘lishi uchun ………
+-	tartibga solingan aloqalarni shakllantirish, ya’ni aniq tuzilmasi, tizimni tashkil etish kerak;
+-	tizimni o‘rganish kerak;
+-	tizimni tahlil qilish kerak;
+-	aloqalarni kuchaytirish kerak;
+
+43.	Tizimda integrativ sifatlarning mavjudligi  ……..
+-	tizimga umumiy holda xos, ammo ularning biror bir elementiga alohida tegishli bo‘lmagan sifatdir;
+-	tizimga umumiy holda xos emas;
+-	tizimning biror bir elementiga ham xos bo‘lgan sifatdir;
+-	tizimni tahlil qilish kerakligini anglatadi.
+
+44.	Tizimli tadqiqotlar deganda  ………..
+-	 ilmiy nazariyalar, konsepsiyalar va usullarning birlashmasi tushuniladi;
+-	tizimni tahlil qilish kerakligi tushuniladi;
+-	tizimni o‘rganish tushuniladi;
+-	tizimda aloqalarni kuchaytirish tushuniladi.
+
+45.	Tizimli tadqiq etishning asosiy vazifalari: 
+-	tizim elementlari, aloqalari va strukturasini, elementlar o‘rtasidagi bog‘liqlikni ajratishdir;
+-	tizim elementlari, aloqalari va strukturasini, elementlar o‘rtasidagi bog‘liqlikni o‘rganishdir;
+-	tizimni tahlil qilishdir;
+-	tizimda aloqalarni kuchaytirishdir.
+
+
+46.	Tizimli tahlil uning qanday asosiy xususiyatlariga muvofiq amalga oshiriladi?
+-	murakkablik, ierarxiya, yaxlitlik, tuzilish;
+-	oddiylik va 	murakkablik;
+-	quyi va yuqori darajalilik;
+-	faqat murakkablik va ierarxiya.
+
 	
-137. Biror narsa olinganligini tasdiqlovchi rasmiy hujjat nima deyiladi?
-A.  tasdiq xati
-B.  bildirishnoma		
-C.  tilxat  
-D. tushuntirish xati   
+47.	 Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+-	qaror qabul qilishdan oldin, qarorga tegishli barcha axborotni oling;
+-	ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
 
-138. Buyruq, ko‘rsatma, farmoyish kabi hujjatlar xizmat mavqeyiga ko‘ra qanday hujjatlar hisoblanadi?
-A. farmoyish hujjatlar
-B.  tashkiliy hujjatlar   
-C.  ma’lumotsimon 
-D.  axborot hujjatlar
+48.	 Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+-	agar biror narsa siz uchun noma’lum bo‘lib qolganligini sezsangiz, qaror qabul qilmang;
+-	ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
 
-139.Qanday hujjat turi kotib tomonidan rasmiylashtiriladi?
-A. bayonnoma
-B. ma’lumotnoma  
-C. dalolatnoma	
-D. shartnoma
+49.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+-	o‘zingizga hayajonli va shubhali xulosalar chiqarishga imkon bermang. Muammoga xolis va sovuqqon holda yondashing;
+-	ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
+50.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+-	Qaror qabul qilishda mantiqiy yondashishga harakat qiling;
+-	ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
 
+51.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+-	barchani qoniqtiradigan variantni topishga harakat qilmang, chunki buning sira iloji yo‘q;
+-	ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
+
+52.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+-	me’yor darajasida tavakkal (risk) qilishni o‘rganing, lekin juda ehtiyot bo‘ling;
+-	ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
+
+53.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
+- xato qilishdan aslo qo‘rqmang;
+- ko‘plab axborot yig‘ish shart emas;
+-	qaror qabul qilishda mantiqiy yondashish shart emas;
+-	muammoni ko‘tarmaslikka harakat qiling.
+54.	 Aнтагонистик ўйинлар назариясининг асосчиси:
+-	Djon fon Neyman;
+-	Albert Eynshteyn;
+-	Nils Bor;
+-	Grigoriy Perelman.
+
+55.	Ziddiyatli vaziyatlarda ikkita yoki bir necha tomon bir biriga qarshi yurishsa ......
+-	 ziddiyatli holat vujudga keladi;
+-	ziddiyatli holat vujudga kelmaydi;
+-	diplomatik munosabatlar o‘rnatish kerak;
+-	harbiy vaziyatda urush boshlanadi.
+
+56.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
+-	 bozordagi sotuvchi va xaridor; o‘zaro raqobatdosh firmalar; 
+-	o‘qituvchi va talaba o‘rtasidagi munosabat;;
+-	ota va ona o‘rtasidagi munosabat;
+-	guruhdoshlar o‘rtasidagi munosabat.
+
+57.	 Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
+-	urush holatida bo‘lgan tomonlarning harbiy harakatlari;
+-	o‘qituvchi va talaba o‘rtasidagi munosabat;;
+-	ota va ona o‘rtasidagi munosabat;
+-	guruhdoshlar o‘rtasidagi munosabat.
+
+
+58.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
+-	sport musobaqalari; 
+-	o‘qituvchi va talaba o‘rtasidagi munosabat;;
+-	ota va ona o‘rtasidagi munosabat;
+-	guruhdoshlar o‘rtasidagi munosabat.
+59.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
+-	prokuror va advokat qarorlari; 
+-	o‘qituvchi va talaba o‘rtasidagi munosabat;;
+-	ota va ona o‘rtasidagi munosabat;
+-	guruhdoshlar o‘rtasidagi munosabat.
+
+
+60.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
+-	jinoyatchi va tergovchi harakatlari; 
+-	o‘qituvchi va talaba o‘rtasidagi munosabat;
+-	ota va ona o‘rtasidagi munosabat;
+-	guruhdoshlar o‘rtasidagi munosabat.
+
+
+61.	O‘yinlar nazariyasi - ziddiyatli vaziyatlarni ....
+-	matematik modellashtirish bilan shug‘ullanadigan matematik ilmiy yo‘nalish;
+-	imitatsion modellashtirish bilan shug‘ullanadigan ilmiy yo‘nalish;
+-	malumotlarni modellashtirish bilan shug‘ullanadigan ilmiy yo‘nalish;
+-	iqtisodiy modellashtirish bilan shug‘ullanadigan ilmiy yo‘nalish.
+
+62.	 O‘yinlar nazariyasining asosiy maqsadi, ziddiyatli vaziyat ishtirokchilari uchun ratsional strategiyalarni tanlash ………. hisoblanadi.
+-	usullarini ishlab chiqish;
+-	dasturlarini ishlab chiqish;
+-	rejalarini ishlab chiqish;
+-	matritsasini ishlab chiqish.
+
+63.	 O‘yinlar nazariyasi fanidagi asosiy tushunchalarni ko‘rsating: 
+-	o‘yin, o‘yinchi, yutuq, strategiya, optimal strategiya, to‘lov matritsasi;
+-	variatsiya va dispersiya;
+-	induksiya va deduksiya;
+-	tahlil va sintez.
+
+64.	To‘lov matritsasi -  bu …………….
+-	o‘yinchilar yurishlarining kombinatsiyalarini va ularga tegishli yutuqlarni ko‘rsatuvchi jadval;
+-	to‘lov tizimi;
+-	matematik formula;
+-	bu o‘yinlar nazariyasi atamasi emas.
+
+65.	Antogonistik o‘yin – bu………
+-	 o‘yinlar nazariyasi atamasi hisoblanib, unda yutuqlari qarama-qarshi bo‘lgan ikki yoki undan ortiq o‘yinchilar bo‘ladi va hamkorliksiz o‘ynaladigan o‘yindir;
+-	o‘yinlar nazariyasi atamasi hisoblanmaydi;
+-	hamkorlik bilan o‘ynaladigan o‘yindir;
+-	bitta o‘yinchi bo‘ladi.
+
+66.	 Xar juftlik strategiyalarida yutuqlar yig‘indisi ……… teng bo‘lgan o‘yin - antagonistik o‘yin.
+-	nolga;
+-	yuzga;
+-	millionga;
+-	milliardga.
+
+
+67.	 Agar o‘yinda ikkita ishtirokchi bo‘lsa, u holda antagonistik o‘yin – shunday o‘yinki, undagi bir o‘yinchining yutug‘i ikkinchi o‘yinchining ......
+-	yutkazishiga teng bo‘ladi;
+-	yutishiga teng bo‘ladi;
+-	yo‘q bo‘lishiga sabab bo‘ladi;
+-	o‘limiga sabab bo‘ladi.
+
+68.	 Antagonistik o‘yinda quyidagilardan  kaysilari berilgan bo‘lishi shart?
+-	birinchi o‘yinchining strategiyalari, ikkinchi o‘yinchining strategiyalari, to‘lov matritsasi;
+-	faqat to‘lov matritsasi;
+-	faqat birinchi o‘yinchining strategiyalari;
+-	faqat ikkinchi o‘yinchining strategiyalari.
+
+69.	 Mashhur olim ........noantagonistik o‘yinlar nazariyasining asoschisi sifatida e’tirof etiladi.
+-	Djon Nesh;
+-	Albert Eynshteyn;
+-	Nils Bor;
+-	Grigoriy Perelman.
+
+
+70.	Noantagonistik o‘yindagi asosiy farazlardan birini korsating:
+ - o‘yinchilar ratsional (oqilona) qarorlarni qabul qiladi; 
+-  o‘yinchilar ratsional (oqilona) qarorlarni qabul qilmaydi;
+- o‘yinchilar strategik harakatlarni amalga oshirmaydi;
+- statik o‘yinlarda o‘yinchilar bir vaqtda yurishmaydi.
+
+71.	 Xar juftlik strategiyalarida yutuqlar yig‘indisi ………..teng bo‘lmagan o‘yin - noantagonistik o‘yinlar hisoblanadi.
+-	nolga;
+-	yuzga;
+-	millionga;
+-	milliardga.
+
+72.	Statik o‘yinlarda ………..
+-	o‘yinchilar bir vaqtda yuradilar;
+-	o‘yinchilar turli vaqtda yuradilar;
+-	 o‘yinchilar ketma-ket yurishadi;
+-	o‘yinchilar umuman yurishmaydi.
+
+73.	 Dinamik o‘yinlarda …………
+-	o‘yinchilar ketma-ket yurishadi;
+-	o‘yinchilar bir vaqtda yuradilar;
+-	o‘yinchilar turli vaqtda yuradilar;
+-	o‘yinchilar umuman yurishmaydi.
+74.	 Statistik kuzatish deganda ......
+-	o‘rganiladigan ommaviy ijtimoiy hodisa va voqealar bo‘yicha kerakli bo‘lgan ma’lumotlarni to‘plash, yig‘ish jarayoni tushuniladi;
+-	ma’lumotlarni o‘rganish jarayoni tushuniladi;
+-	ma’lumotlarni tahlil qilish jarayoni tushuniladi;
+-	ma’lumotlarni sintez qilish jarayoni tushuniladi;
+
+75.	 Statistik kuzatishning uslubiy dasturi qanday qismlardan tashkil topgan?
+-	kuzatish maqsadi va vazifalari, kuzatish dasturi, kuzatish obyekti, kuzatish birligi;
+-	faqat kuzatish dasturi va kuzatish obyekti;
+-	faqat kuzatish maqsadi va vazifalari;
+-	kuzatish obyekti va kuzatish birligi.
+
+76.	Kuzatish obyekti deganda …….
+-	o‘rganiladigan ijtimoiy hodisalar birliklarining to‘plami tushuniladi;
+-	o‘rganiladigan ijtimoiy hodisalar tushuniladi;
+-	ma’lumotlarni o‘rganish jarayoni tushuniladi;
+-	ma’lumotlarni tahlil qilish jarayoni tushuniladi;
+
+77.	Hodisalarni qayd qilishda sodir bo‘ladigan xatolarni qanday ikki turga ajratish mumkin?
+-	tasodifiy va muntazam xatolar;
+-	 takrorlanmas  va davriy xatolar;
+-	 tabiiy va davriy xatolar;
+-	unitilmas xatolar.
+
+78.	 Svodkalash …..
+-	 oddiy va murakab svodkalashlarga  bo‘linadi;
+-	takrorlanmas  va davriy svodkalashlarga  bo‘linadi;
+-	tabiiy va davriy svodkalashlarga  bo‘linadi;
+-	darajali svodkalashlarga  bo‘linadi.
+
+79.	Oddiy svodkalash deganda olingan ma`lumotlarni guruhlarga ……to‘plam bo‘yicha umumiy yakunlarni chiqarish tushuniladi.
+-	bo‘lmasdan;
+-	bo‘lib;
+-	ajratib;
+-	kiritib.
+
+
+80.	Murakkab svodkalash deyilganda ma`lumotlarni dasturda ko‘zda tutilgan belgilar asosida  ayrim  guruhlarga …..
+-	bo‘lib o‘rganish tushuniladi;
+-	bo‘lmasdan;
+-	ajratib;
+-	kiritib.
+
+81.	Statistik ………….deb, ijtimoiy hodisa va jarayonlarni chuqur va har tomonlama o‘rganish maqsadida eng muhim, xarakterli belgilar bo‘yicha bir xil guruh va guruhchalarga ajratib o‘rganishga aytiladi.
+-	guruhlash;
+-	kuzatuv;
+-	svodkalash;
+-	integrasiya.
+
+82.	 Guruhlashni samaradorlik darajasi bo‘yicha......... guruhlarga bo‘lish mumkin:
+-	ilg`or, o‘rta, qoloq;
+-	yirik, o‘rta, kichik;
+-	davlat, jamoa, xususiy;
+-	katta va kichik.
+
+83.	 Guruhlashni katta kichikligiga qarab......... guruhlarga bo‘lish mumkin:
+-	yirik, o‘rta, kichik;
+-	ilg`or, o‘rta, qoloq;
+-	davlat, jamoa, xususiy;
+-	katta va kichik.
  
-140. Qanday nutqni boy deyish mumkin?
-A.  Tilning ifoda vositalaridan foydalanish
-B.  So'zlarni o'z o'rniga qo'yish
-C.  Nutq hamma vaqt aniq, ravshan bo'lishi
-D. so`zlar o`z o`rnida qo`llansa
-
-141. Matndagi tasviriy vositalarni aniqlang ? 
-Bugun erta turib tongni ko'rdim
-Oq shohi ro'moli boshida 
-Ufq kiyintirib, go'zal falak 
-Sochini taraydi qoshida.
-A. Oq shohi ro'moli
-B.  Tongni ko'rdim 
-C.  Go'zal falak      
-D.  Sochini taraydi
-
-142.  Matnning uslubini aniqlang ?
-Suv molekulasi uch atomdan: bir atom kislorod va ikki atom vodoroddan iborat. Oqsil molekulasi bo'lsa, yuz minglab atomlardan tashkil topgandir.
-A. Ilmiy    
-B. Badiiy
-C. So'zlashuv    
-D. Publitsistik
-
-143. Qanday hollarda nutq to'g'ri bo'lmasligi mumkin?
-A.  Adabiy til normalari buzilsa.  Talaffuz normalari buzilsa
-B.   Adabiy til normalariga rioya qilinganda
-C. Talaffuz normalariga rioya qilinsa
-
-144.  So'zlashuv uslubining asosiy belgilari qaysi javobda berilgan?
-A. Oddiylik, betakalluflik
-B.  Oddiylik, tantanavorlik    
-C.  Oddiylik, betakalluflik, hayajonlilik
-D.  Badiiylik, jozibadorlik  
-
-145. Rasmiy uslubda qanday matnlar tuziladi?
-A. Hujjatlar, ish yuritish qog'ozlari
-B. E'lonlar, she'rlar, romanlar.
-C.  Qarorlar, idorahujjatlari,.dostonlar
-D. E'lonlar, qarorlar, qonunlar 
-
-146. Publitsistik uslubga xos xususiyatni toping?.
-A.  Mantiqiylik, izchillik 
-B.  Ilmiylik, soddalik     
-C.  Tantanavorlik, j o' shqinlik 
-D.  badiiylik
-
-147. Ilmiy uslubga xos xususiyatni belgilang?.
-A.  So'z va atamalarni ko'proq qo'llash
-B.  Ko'chma ma'noli so'zlarni qo'llash
-C.  Eskirgan so'zlarni qo'llash
-D. Neologizmlarni qo'llash.
-
-148. Hujjatga aloqador bo‘lmagan hukmni aniqlang.
-A. barcha hukm to‘g‘ri
-B. shaxsning hayoti davomidagi faoliyatini qayd etib boruvchi yozma vosita
-C. rasmiy munosabatlarni ifodalovshi va qayd etuvchi rasmiy vosita
-D. xabar beruvchi yoki buyuruvshi yozma vosita
-
-149. ...Ish qog‘ozlari qanday yoziladi?
-A. Barcha javoblar to‘g‘ri
-B. qisqa, ravon, aniq va mantiqli bayon etiladi
-C.  hujjatning nomi yoki sarlavha to‘lig‘icha bosh harflar bilan yoziladi
-D. matn I shaxs yoki III shaxs tilidan yoziladi
-E. rahbar nomidan yoki ayrim shaxs tomonidan yoziladi
-
-150. Tarixiy hujjatlar berilgan qatorni toping.
-A. tilxat, farmon, bitim, patta
-B. kafolat xati, bayonnoma, tuzilma
-C. yo‘riqnoma, nizom, da’vo xati
-D. farmoyish, ko‘rsatma, bildirishnoma
-
-151.  Hujjatlar matniga qo‘yiladigan eng muhim talablardan biri
-A. xolislik
-B. qisqalik 
-C. soddalik      
-D. mazmundorlik
-
-152. Hujjatchilik tilining o‘ziga xos uslubi
-A. aniqlik, ixchamlik, lo‘ndalik, mazmuniy to‘liqlik
-B. oddiylik, xolislik, butunlik, aniqlik
-C. soddalik,  xolislik, butunlik, aniqlik, talabchanlik
-D.  xolislik, butunlik, aniqlik, mazmuniy to‘liqlik
-
-153. Hujjat matni qaysi shaxs tilidan yoziladi?
-A. 1,3   
-B. 2,3    
-C. 1,2     
-D. 2,1
-
-154. “Davlat tili haqida”gi Qonun necha moddadan iborat?
-A. 24 moddadan
-B. 23 moddadan   
-C. 25 moddadan   
-D. 26 moddadan
-
-155. Kirill yozuviga asoslangan yangi o’zbek alifbosi qachon qabul qilingan?
-A. 1940 yil 8– may   
-B. 1956 yil 4– aprel   
-C. 1993 yil 2– sentabr    
-D. 1995 yil 24– avgust
-
-156. Lotinlashtirilgan o’zbek alifbosi nechanchi yillarni o’z ichiga oladi?
-A. 1929– 1940 y
-B. 1928– 1941y    
-C. 1928– 1940 y   
-D.  1929– 1941 y
-
-157. Hujjatlar tegishlilik jihatidan ... hujjatlarga bo‘linadi.
-A.  rasmiy yoki shaxsiy
-B.	xizmat yoki rasmiy
-C.	shaxsiy yoki xizmat
-D. idoraviy yoki rasmiy
-158. Ma’muriy– boshqaruv faoliyatida xizmat mavqeiga ko‘ra hujjatlar qanday tasnif qilinadi?
-A.  tashkiliy hujjatlar, farmoyish hujjatlari, ma’lumot– axborot hujjatlari, xizmat yozishmalari
-B.  tashkiliy hujjatlar, ma’lumot– axborot hujjatlari, shaxsiy hujjatlar
-C. tashkiliy hujjatlar, rasmiy hujjatlar, ma’lumot– axborot hujjatlari, xizmat yozishmalari
-D. shaxsiy hujjatlar
-
-159. Hujjatning qaysi turida ma’lum bir davr mobaynidagi faoliyat natijalari aks ettiriladi? 
-A. hisobot
-B. ma’lumotnoma                          
-C.  bildirgi                                      
-D. majlis bayoni. 
-
-160.Tarjimayi hol qaysi uslubda yoziladi?
-  A.   rasmiy uslubda
-D.	publitsistik uslub                     
-E.	 badiiy uslubda                                                                          
-F.	ilmiy  uslubda                          
+84.	Guruhlashni mulkchilik shakliga qarab ......... guruhlarga bo‘lish mumkin:
+-	davlat, jamoa, xususiy;
+-	yirik, o‘rta, kichik;
+-	ilg`or, o‘rta, qoloq;
+-	katta va kichik.
+-	 
+85.	Ko‘zlangan maqsad va vazifalarni hal qilish nuqtayi nazaridan statistik guruhlash 3 turga:
+-	tipologik, тuzulmaviy, analitik guruhlashlarga bo‘linadi;
+-	yirik, o‘rta, kichik guruhlashlarga bo‘linadi;
+-	ilg`or, o‘rta, qoloq guruhlashlarga bo‘linadi;
+-	katta va kichik guruhlashlarga bo‘linadi.
 
 
 
-=============================================
+86.	Tipologik guruhlash yordamida to‘plamning turli xildagi birliklari sifat jihatdan............
+-	bir xil guruhlarga, bir xil tiplarga ajratiladi;
+-	har xil guruhlarga, har xil tiplarga ajratiladi;
+-	o‘rganiladi;
+-	o‘rganilmaydi;
 
-1.Qanday xat vazirliklar, elchixonalar, vakolatxonalar o‘rtasidagi yozishma bo'lib, biror mansabdor shaxs nomidan yoziladi?
-*Rasmiy xat
-Tabrik xat
-Iltimos xat
-Da'vo xat
-2.Biror mamlakatning davlat ahamiyatiga ega masalalar yuzasidan bergan murojaatnomasi nima deb ataladi?
-*Bayonot
-Farmoyish
-Buyruq
-Dalolatnoma
-3. Diplomatik hujjatlarda hujjat yuborilayotgan mamlakatning nomlanishida, shaxsning lavozimi, ismi, familiyasi va otaismini yozishda, unga murojaat shakllarida biron-bir xatoga yo‘l qo‘yish mumkinmi?
-*mumkin emas
-mumkin
-ba'zi xollarda
-to'g'ri javob yo'q
-4. Jo‘natilgan iltimos va so‘rov xatlarga javob olinmasa, shuningdek, tuzilgan shartnomalar muddati buzilganida yoki unga amal qilinmagan hollarda qanday xat yuboriladi.?
-*eslatma xat
-yozma xat
-da'vo xat
-tabrik xat
-5. M a’lum bir muassasa tomonidan yuborilgan iltimos va so‘rovlarga javob tarzida yoziladigan xatlarning bir turi nimadeb ataladi?
-*tasdiq xat
-shikoyat xat
-da'vo xati
-taklif xati
-6. Telegrammaning har bir so‘zi uchun pul to‘lanadimi?
-*ha
-yo'q
-ba'zan
-to'g'ri javob yo'q
-7. Xizmat telegrammalari  necha nusxada tayyorlanadi?
-*ikki
-uch
-bir 
-to'rt
-8. Muayyan vaqt uchun rejalashtirilgan ish yoki vazifa, topshiriqlaming bajarilishi, amaliy dolzarb ishlar, xizmat va ilmiy safarlar yakuni haqida ma’lumot beruvchi hujjatnima deb ataladi?
-*Hisobot
-Ariza
-Qonun
-Bildirgi
-9. Tavsifnoma matni nechinchi shaxs tilidan bayon qilinadi?
-*uchinchi
-ikkinchi
-birinchi
-to'g'ri javob yo'q
-10. M a’lumotnoma o‘z xususiyati va mazmuniga ko‘ra nechiga  bo‘linadi?
-*xizmat ma’lumotnomasi va shaxsiy ma’lumotnomaga
-yuridik ma’lumotnomasi va shaxsiy ma’lumotnomaga
- idoraviy ma’lumotnomasi va shaxsiy ma’lumotnomaga
-qonuniy ma’lumotnomasi va shaxsiy ma’lumotnomaga
-11.  Qanday ishonchnomalar mulkni boshqarish bilan aloqador turli-tuman ishlarni amalga oshirish huquqini beradi.
-*Umumiy ishonchnoma
-huquqiy ishonchnomalar
-yuridik ishonchnomalar
-vaqtinchalik beriladigan ishonchnomalar
-12. Muayyan davr davomida bir qancha bir turdagi vazifalami bajarish vakolatini beruvchi ishonchnomalar nima  deyiladi
-*maxsus ishonchnomalar
-rasmiy ishonchnomalar
-huquqiy ishonchnomalar
-yuridik ishonchnomalar
-13. Rasmiy ishonchnomalarda ulaming amal qilish (o‘z kuchini saqlash) muddati ko‘rsatilgan bo‘ladimi?.
-*Ko'rsatilgan bo'ladi
-Ko'rsatilgan bo'lmaydi
-Muddat belgilanmaydi
-To'g'ri javob yo'q
-14. Qanday ishonchnomalar davlat muassasalari, kasaba uyushmasi, fermer xo‘jaligi, jamoat tashkilotlari muayyan lavozimli shaxsga uning muayyan tashkilot tomonidan ish yuritishga vakil qilinganini bildirish uchun beriladi?
-*Rasmiy (xizmat sohasidagi) ishonchnomalar
-Avtomashina boshqarish uchun ishonchnomalar
-Uy joy oldi sottisini amalga oshirish uchun ishonchnomalar
-To'g'ri javob yo'q
-15. Vasiyat qiluvchi yoki meros qoldiruvchi vasiyatnoma tuzilganidan keyin uni istagan paytda bekor qilish va o‘zgartirish borasida erkin bo‘lib, bunda u bekor qilish yoki o‘zgartirish sabablarini ko‘rsatishga majburmi? 
-*majbur emas
-majbur
-ba'zi xollarda majbur
-to'g'ri javob yo'q
-16. Kim o‘z mol-mulkini (uning bir qismini) bir yoki bir necha merosxo‘rga, shu bilan birga, yuridik shaxslarga, davlatga yoki fuqarolaming o‘zini o‘zi boshqarish idoralariga vasiyat qilish huquqiga ega?
-*Vasiyat qiluvchi
-Sotib oluvchi
-Ruxsat beruvchi 
-Ishga oluvchi
-17.  Nima bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir?
-*Vasiyatnoma
-Dalolatnoma
-Shartnoma
-Ruxsatnoma
-18. Kimga yo'llanganiga qarab bildirishnoma qanday turlarga ajraladi?
-*ichki va tashqi
-sodda va murakkab
-yozma va og'zaki
-ma'lum va noma'lum
-19. Fuqarolar o‘zlarining amaldagi qonunchilikda belgilab qo‘yilgan huquq va majburiyatlarini himoya qilish yoki ulaming ijro qilinishini talab etib, da’vo, iltimos yoki shikoyat mazmunidagi arizalami yozadilar. Shuning uchun ham bunday arizalaming aksariyati qanday arizalar deb yuritiladi?
-*da’vo arizalari
-buyruq arizalari
-iltimos ariza
-ariza
-20. Farmoyishda muayyan xodimga uning xizmat lavozimi vazifalariga kirmaydigan ishlar yuklatilsa, «qanday» so‘z qo‘llanadi?
-*Tavsiya etaman
-buyuraman
-iltimos qilaman
-tasdiqlayman
-21.  Buyruqdan kо ‘chirma  elektron shaklda olinganda, qanday imzo yoki QR kod bilan yoxud boshqa himoya vositalari bilan ham tasdiqlanishi mumkin?
-*elektron raqamli imzo
-oddiy imzo
-tasdiq imzo
-qonuniy imzo
-22. Buyruqdan ko‘chirma, odatda, blankaga yozilib, tasdiqlab beriladi: «qaysi» jumla bilan kotib (yoki buyruqdan ko‘chirma beruvchi shaxs) imzo chekadi?
-*Asliga to‘g‘ri
-To'g'ri ko'chirilgan
-To'g'ri yuritilgan
-To'g'ri yozilgan
-23.  Qanday buyruqlar biror xodim ishga qabul qilinganda yoki bo‘shatilganda, boshqa bo‘limga o‘tkazilganda, shuningdek, muayyan xodim mukofotlanganda, mehnat ta’tiliga chiqqanda va shu kabi hollarda beriladi?
-*Kadrlarning shaxsiy tarkibiga oid buyruq yoki individual buyruqlar
-Shaxsiy buyruqlar
-Jamoaviy buyruqlar
-Ishlash uchun buyruqlar
-24. Uy-joy ijarasi haqidagi shartnoma muayyan uy-joy yaqinidagi qaysi idora tomonidan tasdiqlanadi?
-*notarial idora
-adliya idorasi
-arxiv idorasi
-moliya idorasi
-25. Pul mablag'lari va moddiy-tovar boyliklarini saqlash uchun mas’ul bo'lgan shaxslar bilan nima  haqida yozma shartnoma tuziladi?
-*to‘liq shaxsiy moddiy javobgarlik
-shaxsiy bitim
-mehnat bitimi
-idoraviy bitim
-26.  Nima muayyan munosabat doirasidagi faoliyat yoki biror davlat organi, tashkilot, muassasaning tuzilishi, vazifasini yo‘naltirib turadigan asosiy nizom va qoidalar majmuidir?
-*Ustav
-Bitim
-Yo'riqnoma
-Guvohnoma
-27. Xizmat guvohnomasi ishga qabul qilish to‘g‘risidagi buyruq va kimning qarori asosida belgilanadi hamda kadrlar bilan ishlash xizmatlari yoki boshqa xizmatlar tomonidan beriladi?
-*birinchi rahbar
-yuridik shaxs
-jismoniy shaxs
-xolis odam
-28. Xizmat guvohnomasi xodimning pasporti о'rnini bosadimi?
-*Yo'q
-Ha
-Ba'zi xollarda
-To'g'ri javob yo'q
-29. Nima davlat va xo‘jalik boshqaruvi organlari, mahalliy davlat hokimiyati organlari xodimlariga beriladi hamda xodimning shaxsi va lavozimini tasdiqlaydigan hujjat hisoblanadi.?
-*Xizmat guvohnomasi
-Mehnat bitimi
-Dalolatnoma
-Rasmiy hujjat
-30. Hujjatlarning elektron shakldagi nusxalari 0 ‘zbekiston Respublikasi Qonun hujjatlari
-ma’lumotlari milliy bazasi -keltirilgan qatorni aniqlang!
-*lex.uz
-mib.uz
-gov.uz
-dtm.uz
-31. Hujjatlar matniga qo‘yiladigan eng muhim talablardan biri - nima?
-xolislik
-*samimiylik
-qonuniylik
-ishonchlilik
-32. Kim arxivdagi hujjatlar va hujjatlar yig‘majildlarining o‘z vaqtida qaytarilishini nazorat qilib boradi?
-*Arxiv mudiri
-Arxiv qo'riqchisi
-Arxiv xodimi
-Yurist
-33. Arxivdan olingan hujjatlar zarurat tugashi bilanoq, biroq nechi kundan kechiktirmasdan, arxivga qaytarilishi kerak?
-*15 kun
-1 kun
-2 kun
-3 kun
-34. Hujjatlar va hujjatlar yig‘majildlari arxivda 0 ‘zbekiston Respublikasi qaysi idorasi tomonidan belgilangan tartibda saqlanadi?
-*0 ‘zarxiv agentligi
-Adliya vazirligi
-Oliy majlis
-Davlat idoralari
-35. Kim hujjatlarni va hujjatlar yig‘majildlarini qabul qilishda ularning to‘g‘ri to'ldirilganligini tekshiradi?
-*Idoraviy arxiv mudiri
-Kassir
-Mudir
-Direktor
-36. O’zbekiston Respublikasi qaysi hujjatida ham Davlat tilining maqomi huquqiy jihatdan mustahkamlab qo’yildi?
-*Konstitutsiyasida
-Dalolatnomasida
-Shartnomasida
-Farmoyishida
-37. Nechinchi yil  «Davlat tili haqida»gi Qonun qabul qilinib, o’zbek tiliga Davlat tili maqomi berildi.?
-*1989 yil
-1999 yil
-2000 yil
-1992 yil
-38. Biron-bir tadbir haqida xabardor qilish uchun qo‘llanuvchi yozma axborot nima?
-*e’lon
-bildirishnoma
-hujjat
-qonun
-39. Hujjatlar matniga qo‘yiladigan eng muhim talablardan biri qaysi?
-*xolislik
-qisqalik
-soddalik
-mazmundorlik
-40. Qanday hollarda nutq to'g'ri bo'lmasligi mumkin?
-*Adabiy til normalari buzilsa.
-Talaffuz normalari buzilsa
-Adabiy til normalariga rioya qilinganda
-Talaffuz normalariga rioya qilinsa
-41. Rasmiy xat turlari berilgan qatorni belgilang.
-*iltimos xat, eslatma xat
-ilova xat, tabrik xati
-farmoyish xat, tilxat  
-kafolat xati, tushuntirish xati 
-42. Hujjatlar  matni  qanday  talablar  asosida  ko`riladi?
-*barcha  javoblar  to`g`ri
-xoslik , aniqlik
-ixchamlik , lo`ndalik
-mazmu`niy  to`liqlik 
-43. Xodim to`g`risidagi ma`lumotlar mehnat daftarchasining nechinchi betiga yoziladi?
-*Birinchi betiga
-Ikkinchi betiga
-Uchinchi betiga
-To`g`ri javob yo`q
-44. Mehnat daftarchasiga kiritiladigan ma`lumotlar ehtiyotkorlik bilan qaysi rangdagi siyoh bilan yoziladi?
-*Qora, ko`k va binafsha
-Qora va qizil
-Faqat qora
-Faqat ko`k
-45. Mehnat shartnomasi bekor qilingan kuni ish beruvchi mehnat kodeksining qaysi moddasiga binoan xodimga uning mehnat daftarchasi va mehnat shartnomasini bekor qilish to`g`risidagi buyruqning nusxasini berishi shart?
-*108-moddaga binoan
-107-moddaga binoan
-103-moddaga binoan
-89-moddaga binoan
-46. Qachon xodimga mehnat shartnomasini berish taqiqlanadi?
-*Ish davomida
-Uyda vaqti
-Ko`chada vaqti
-To`g`ri javob yo`q
-47. Quyidagilardan qaysi biri mehnat daftarchasiga yozilmaydi:?
-1-intizomiy jazolar to`g`risidagi ma`lumotlar;
-2-mehnat shartnomasini bekor qilish asoslari ya`ni sabablari haqidagi ma`lumotlar;
-3-xodimning tug`ilgan yili va sanasi
-*1 va 2
-1 va 3
-2 va 3
-Faqat 3
-48.Yo`riqnoma talabiga asosan, ish beruvchi mehnat daftarchasiga kiritilgan har qanmday yozuv haqida daftarcha egasini necha kun muddat ichida tanishtirishi lozim?
-*Uch kun
-Besh kun
-Ikki kun
-Yeti-o`n kun
-49.Mehnat stajiga ega bo`lmagan xodimlarga muassasada necha kun ishlaganlaridan keyin mehnat daftarchasi yuritilishi lozim?
-*Besh kun ishlagandan keyin
-Birinchi ish kunidan
-Uchinchi ish kunidan
-50.Ish staji yo`q xodimga mehnat daftarchasi tutilmaydi
-Mehnat bitimi kamida nechta nusxada tuziladi?
-*Ikki nusxada
-Uch nusxada
-To`rt nusxada
-Bitta nusxada
-51.
-…....shartnoma turlaridan biri bo‘lib, u orqali muassasalar bilan ularning hisobida turmaydigan xodim(lar) o‘rtasidagi o‘zaro munosabatlar rasmiylashtiriladi.?
-*mehnat bitimi
-farmoyish
-yo’riqnoma
-dalolatnoma
-52. Qanday hujjat muayyan bir shart yoki va’dani tasdiqlash maqsadida tuziladi?
-*kafolat xati
-dalolatnoma
-nizom
-to'g'ri javob yo'q
-53. Xizmat sohasidagi, xizmatga aloqador masalani, uning ayrim jihatlarini yozma izohlovchi va muassasa I (bo‘lim) rahbariga (ichki) yoki yuqori tashkilotga (tashqi) yo‘llanuvchi hujjat nima deb ataladi?
-*tushuntirish xati
-dalolatnoma
-tavsifnoma
-nizom
-54. Ma’lum bir shaxsdan yoki muassasadan pul, hujjat, qimmatbaho buyumlar yoxud boshqa biror narsa olinganligini tasdiqlovchi rasmiy yozma hujjat nima deb ataladi?
-*tilxat
-dalolatnoma
-ariza
-barcha javoblar to'g'ri
-55. Biror shaxsni ma’lum lavozimga yoki ijtimoiy-siyosiy tashkilotlarga a’zo bo‘lish uchun tavsiya etuvchi rasmiy hujjat?
-*tavsiyanoma
-dalolatnoma
-tarjimayi hol
-tilxat
-56. Hujjatlarda tilning ikki vazifasi bor, bular qaysilar?
-*informativ va volyuntativ
-informativ va buyruq
-informativ va iqtisodiy
-to’g’ri javob yo’q
-57. ___ ikki yoki undan ortiq masalani o’z ichiga oladi?
-*murakkab xujjatlar
-sodda hujjatlar
-ma’lumot-axborot, tashkiliy va farmoyish
-xat
-58. ___ muayyan bir masalani o’z ichiga oladi?
-*sodda hujjatlar
-murakkab xujjatlar
-bayonnomalar
-ma’lumot-axborot, tashkiliy va farmoyish
-59. Shartnoma qanday munosabatlarni individual huquqiy tartibga solishning eng muhim vositasi?
-*Mulkiy va nomulkiy
-Pulli va pulsiz
-Aloqali va aloqasiz
-Qonuniy va noqonuniy
-60. Nima ishlab chiqarish va iste'mol o'rtasidagi eng samarali va moslashuvchan aloqa vositasi?
-*Shartnoma
-Qonun
-Ariza
-Xat
-61. Shartnomalar tomonlar kelishuvga erishgandan so'ng kuchga kirganda qanday deb hisoblanadi?
-*Konsensiv
-Kooperativ
-Koldan
-Qonun
-62. Nazorat hujjatlari va topshiriqlar ijrosi haqidagi ma’lumotlar har oyning
-nechinchi sanasi xolatiga ko’ra umumlashtiriladi va raxbariyatga ma’lum qilinadi.?
-*Birinchi
-Ikkinchi
-Ahamiyatsiz
-Uchinchi
-63. Davlat organi sud, korxona,  muassasa,  tashkilotga,  jamoat birlashmasiva fuqarolarning o‘z-o‘zini boshqarish organlarigabiron-bir masala boʻyicha yakka tartibda yoki jamoa boʻlib ogʻzaki yoxud yozma ravishda qilingan shikoyat – nima deb ataladi?
-*Shaxsiy ariza 
-Arxiv hujjat
-Iltimos xati
-Talabnoma
-64. Hujjatlarning yo‘qolib ketmasligi va ularning talab etilgan jismoniy holatda bo‘lishi uchun hujjatlar saqlanishiga maqbul shart-sharoitlar yaratish, me’yorlarga rioya etish va hujjatlar saqlanishini ta’minlash kabi tadbirlar majmuasi nima deb ataladi?
-*Hujjatlarni saqlanishini ta’minlash
-Xodimlarni ish bilan ta'minlash
-Jismoniy shaxslar bilan ishlash
-Yuridik xizmat ko'rsatish
-65. Arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiradigan tashkilotning tarkibiy bo‘linmasi nima deb ataladi?
-*Idoraviy arxiv bo'linmasi
-Hujjatlar bilan ishlash bo'linmasi
-Xodimlar bilan ishlash bo'linmasi
-Jismoniy shaxslar bilan ishlash bo'linmasi
-66. Arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiradigan muassasa – bu?
-*Arxiv
-Bosmaxona
-kutubxona
-Asliya vazirligi
-67. Ichki hujjat nima?
-*Muassasa yoki korxonani o‘zida tuziladigan va shu korxona ichida foydalaniladigan hujjatlardir
-Korxonaga, boshqa tash-kilot va ayrim shaxslardan keladigan hujjatlardir.
-Yakka shaxs tomonidan yoziladigan, ularning xizmat faoliyatlaridan tashqaridagi yoki jamoat ishlarini bajarish bilan bog‘liq masalalarga tegishli bo‘ladigan hujjatlardir.
-Ikki yoki undan ortiq tomonning fuqarolik huquqlari va majburiyatlarini belgilash, o‘zgartirish yoki to`xtatish yo`lidagi kelishuvidir.
-68. Nizomning asosiy zaruriy qismlari qaysilar?
-*Tasdiqlash ustxati, muassasa nomi, hujjat nomi, hujjat matni, sana va joy.
-Muassasa nomi, hujjat nomi, hujjat matni, sana va joy shaxsiy varraqa
-Tasdiqlash ustxati, muassasa nomi, hujjat matni, sana va joy iltimos xati
-Tasdiqlash ustxati, muassasa nomi, hujjat nomi, hujjat matni, sana va joy, elektron pochta manzili, O‘zbekiston Respublikasining gerbi.
-69. Rekvizit deb nimaga aytiladi?
-*Hujjatni rasmiylashtirishning majburiy elementiga aytiladi
-Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat.
-Elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot.
-Faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjatga aytiladi.
-70. Dalolatnoma, buyruq va farmoyishlar hujjat yuritishning qaysi munosabatlariga doir?
-*Idoraviy-ma’muriy munosabatlar
-Diplomatik munosabatlar
-Huquqiy munosabatlar
-Shahsiy munosabatlar
-71. Bayonot, nota, bitim, memorandum hujjatlari qaysi munosabatlarga doir?
-*Diplomatik munosabatlar
-Idoraviy-ma’muriy munosabatlar
-Huquqiy munosabatlar
-Shaxsiy munosabatlar
-72. Ish yuritish huijatlari qo‘llanish doirasi, maqsad va vazifalariga ko‘ra qaysi guruhlarga bo‘linadi?
-*Tashkiliy, farmoyish, ma’lumot-axborot hujjatlari va xizmat yozishmalari
-Shaxsiy va rasmiy hujjatlar
-Soda va murakkab hujjatlar
-Barcha javoblar to’g’ri
-73. “Davlat tili haqida”gi Qonunning qaysi moddasida davlat hokimiyati va boshqaruv organlarida ishning davlat tilida yuritilishi va zaruriyatga qarab boshqa tillarga tarjima qilinishi ta'kidlab o‘tilgan?
-*9-moddasida
-1-moddasida
-19-moddasida
-10-moddasida
-74. Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat.........
-*nizom
-farmoyish
-qonun
-buyruq
-75. Yo’riqnomalar kim tomonidan tuziladi?
-*davlat organlari
-jismoniy shaxslar
-xususiy tashkilotlar
-to'g'ri javob yo'q
-76.  Boshqarish jarayonini amalga oshirish uchun zarur bo’lgan faktlar – bu?
-* Hujjat
-Manba
-Kitob
-Ma’lumot
-77. Ish yuritish asosi nima?
-* Hujjat
-Shartnoma
-Nozom
-Farmoish
-78. Guvohnomani qaysi turi moliyaviy hujjat hisoblanadi?
-* xizmat safari guvohnomasi
-yuridik faktlarni tasdiqlaydigan guvohnoma
-shaxsning biron ishga oid vakolatini ko'rsatadigan guvohnoma
-barcha javoblar to'g'ri
-79. Guvohnoma vazifasi noto'g'ri ko'rsatilgan qatorni ko'rsating:
-* muassasa yoki uning tarkibiy bo'linmalarining tuzilishi, huquqi, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydi
-muayyan shaxsning biron ishga (masalan, taftish o'tkazishga) oid vakolatini ko'rsatadi
-muayyan shaxsning xizmat va boshqa holatlarni ko’rsatadi
-xodimga safar vaqtida yuklatilgan xizmat vazifasini bajarishga vakolat beradi
-80. Shartnoma nima?
-* ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat
-ichki mehnat tartiboti, ya‘ni unda ishni tashkil etish, xodimlar bilan ma’muriyat o'rtasidagi majburiyatlar, ta'tillar berish tartibi, ichki tartib aks ettiradigan hujjat
-korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot
-81. Taklifnoma, telegramma, xatlar qo‘llanish doirasi, maqsad va vazifalariga ko‘ra qaysi hujjat guruhiga kiradi?
-* xizmat yozishmalari
-tashkiliy hujjatlar
-farmoyish hujjatlar
-ma’lumot-axborot hujjatlar
-82. Buyruqning farmoyish qismi yangi satrdan qanday so‘zini bosh harflar bilan ikki nuqta qo‘yib yozishdan boshlanadi?
-* Buyuraman
-Qilishingizni so'rayman
-Qaror qilindi
-Aytaman
-83. Guvohnoma, yo‘riqnoma, nizom qoida, ustav, shartnomalar qanday hujjatlar sirasiga kiradi?
-* Tashkiliy
-Oddiy
-Me'yoriy
-Ixtioriy
-84. Sud qarori qanday deb nomlanadi?
-* xususiy ajrim
-Ozgartirilmas
-final qaror
-tog’ri javob yoq
-85. Buyruq qanday qismlardan tarkib topkan?
-* asosiy matni asoslovchi (kirish) va farmoyish
-asosiy matni asoslovchi (kirish)
-farmoyish
-tog’ri javob yoq
-86. “Davlat organi yoki mansabdor shaxsning oʻz vakolati doirasida muayyan maqsadga erishish yoʻlida qabul qiladigan va biror oqibat keltirib chiqaradigan hujjati” bu nima?
-* Qaror
-Farmon
-Nizom
-Buyruq
-87. Qonunlar rasman e’lon qilingandan nechi kun o’tgach kuchga kiradi?
-* 10 kun
-7 kun
-3 kun
-1 kun
-88. Yo’riqnoma nima?
-* qonun yoki boshqa me’yoriy hujjatlami tanishtirish maqsadida chiqariladigan huquqiy hujjat
-faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjat
-muassasa yoki korxonani o‘zida tuziladigan va shu korxona ichida foydalaniladigan hujjatlar
-ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat
-89. Ma’lumotnoma nima?
-* Bo‘lgan voqea yoki mavjud holatlarni bildirish-axborot berish mazmunida ifodalaydigan hujjat
-yuridik faktlarni tasdiqlaydigan guvohnoma
-shaxsning biron ishga oid vakolatini ko'rsatadigan guvohnoma
-korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-90. Ishonchnoma nima?
-* Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat.
-Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat.
-korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot
-91. Dalolatnoma nima?
-* Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat.
-ichki mehnat tartiboti, ya‘ni unda ishni tashkil etish, xodimlar bilan ma’muriyat o'rtasidagi majburiyatlar, ta'tillar berish tartibi, ichki tartib aks ettiradigan hujjat
-korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat
-elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot
-92. Vasiyatnoma nima?
-* bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir.
-ichki mehnat tartibi qoidalari
-tashkilot, korxona muassasa o‘rtasida xizmat aloqalari
-asosiy faoliyatga oid buyruqlar ishni tashkil qilish
-93. Bildirishnoma nima?
-* Muayyan muassasa (tarkibiy qism) rahbariga xizmat faoliyati bilan aloqador muhim masalalar yuzasidan yoki yuqori idora, mansabdor shaxsga biron-bir voqea va hodisa haqida xabardor qilish zarurati tug‘ilganda taqdim etiladigan mufassal yozma axborot.
-Tashkiliy hujjat
-Farmoyish hujjati
-Ma’lumot-axborot hujjatlarga kiruvchi ma’lumot
-94. Bayonnoma  nima?
-* Turli yig‘ilish, kengash va boshqa tur anjumanlarning borishini, majlis qatnashchilarining chiqishlari va ular qabul qilgan qarorlarni aniq, siqiq holda qayd qiluvchi rasmiy hujjat 
-Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat
-Bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir.
-Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat.
-95. Ariza nima?
-* muayyan muassasa yoki mansabdor shaxs nomiga biror iltimos mazmunida yoziladigan rasmiy hujjat, eng koʻp tarqalgan ish qogʻozi.
-bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir.
-Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat.
-Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat.
-96. Tashkiliy hujjatlar nima?
-* mazmunan tashkilot, muassasa va korxonalarning xuquqiy maqomi, tarkibiy tarmoqlari va xodimlari, boshqaruv jarayonining borishida jamoa ishtirokining qayd qilinishi, boshqa tashkilotlar bilan aloqalarning xuquqiy tomonlari kabi masalalarini aks ettiradi.
-har qanday hujjatning asli, birinchi rasmiy nusxasidir. Asl nusxaning aynan qayta ko'chirilgan shakli nusxa deb yuritiladi, odatda nusxaning o'ng tomonidagi Yuqoridagi burchagiga "nusxa"- degan belgi qo'yiladi.
-odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha "yozmoq" emas, balki "to'ldirmoq" so'zi ishlatiladi.
-tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-97. Asl nusxa nima?
-* har qanday hujjatning asli, birinchi rasmiy nusxasidir. Asl nusxaning aynan qayta ko'chirilgan shakli nusxa deb yuritiladi, odatda nusxaning o'ng tomonidagi Yuqoridagi burchagiga "nusxa"- degan belgi qo'yiladi.
-odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha "yozmoq" emas, balki "to'ldirmoq" so'zi ishlatiladi.
-tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar.
-boshqa tashkilotlardan keladigan hujjatlar.
-98. Qolipli hujjatlar nima?
-* odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha "yozmoq" emas, balki "to'ldirmoq" so'zi ishlatiladi.
-tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar
-boshqa tashkilotlardan keladigan hujjatlar
-to'g'ri javob yo'q
-99. Namunaviy hujjatlar nima?
-* boshqaruvning muayyan bir xil vaziyatlari bilan bog'lik, bir-biriga o'xshash va ko'p takrorlanadigan masalalar yuzasidan tuzilgan matnlarni o'z ichiga oladi
-tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar
-boshqa tashkilotlardan keladigan hujjatlar
-to'g'ri javob yo'q
-100. Sodda hujjatlar –nima?
-* tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar. 
-muayyan bir soda masalani o'z ichiga oladi
-boshqa tashkilotlardan keladigan hujjatlar
-to'g'ri javob yo'q
-101. Tashdiq xatida A4 qog’ozning yuqori o’ng burchagida qanday ma’lumotlar bo’lishi kerak?
-* Adresat ma'lumotlari
-O’z tashkilotingiz haqidagi ma’lumot
-Hech narsa yozilmaydi
-Faqat sana yoziladi
+87.	Tuzilmaviy guruhlash yordamida bir xil tipdagi, sifat  jihatidan bir xil bo‘lgan bo‘lgan guruhlarning …………….
+- salmog`i hisoblanadi;
+- salmog`i hisoblanmaydi; 
+- o‘zaro bog`lanishi o‘rganiladi;
+- o‘zaro bog`lanishi o‘rganilmaydi.
 
-102. Tasdiq xatida A4 qog’ozning yuqori chap burchagida qanday ma’lumotlar bo’lishi kerak?
-* O’z tashkilotingiz haqidagi ma’lumot
-Adresat ma'lumotlari
-Hech narsa yozilmaydi
-Faqat sana yoziladi
-103. So’rov xati imkon qadar qanday bo’lishi kerak?
-* Qisqa va aniq
-Tushunarli va sodda
-Uzun va tushunarli
-Bo’yoqdor va tushunarli
-104. So’rov xati uchun quyidagilardan qaysi biriga yo’l qo’ymaslik kerak?
-* Iltifot so’zlardan foydalanmaslik
-So’rovni asoslash
-Tan olish
-Hamdardlik so’zlardan foydalanish
-105. Shaxsiy hujjatlar qaysi qatorda to‘g‘ri yozilgan?
-* shaxsiy arizalar, shikoyat arizalar
-ilova xat, eslatma xat, axborot xat
-tasdiq xat, so‘rov xat, ariza
-ishonchnoma, so‘rov xat,
+88.	Analitik guruhlash yordamida hodisalar o‘rtasidagi …..
+-	o‘zaro bog`lanish o‘rganiladi;
+-	o‘zaro bog`lanish o‘rganilmaydi;
+-	munosabat o‘rganiladi;
+-	munosabat o‘rganilmaydi.
 
-106. Qaysi qatorda javob talab qilinmaydigan hujjatlar yozilgan?
-* Tasdiq xat, ilova xat, eslatma xat, axborot xat
-Tasdiq xat, so‘rov xat, da’vo xat
-ilova xat, da’vo xat, tasdiq xat
-Hammasi to‘g‘ri
-107. Muassasa yoki ayrim shaxslar faoliyati bian bog‘liq biron– bir sodir bo‘lgan voqea, hodisa, ish– harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat– bu…
-* dalolatnoma
-Tilxat
-tushuntirish xati
-bildirgi
-108. Xizmat sohasidagi, xizmatga aloqador masalani, uning ba’zi bir jihatlarini yozma izohlovchi va muassasa rahbariga yoki yuqori tashkilotga yo‘llanuvchi hujjat —
-* bildirgi
-Dalolatnoma
-tushuntirish xati
-tilxat
-109. Qaysi hujjatda xodimning ijobiy va salbiy xislatlari ko‘rsatiladi?
-* tavsifnoma
-Bildirgi
-tushuntirish xati
-tarjimayi hol
-110. Tarjimayi holda fe’llarning qaysi zamon shakli qo‘llanadi?
-* hozirgi va o‘tgan zamon 
-faqat hozirgi zamon
-hozirgi va kelasi zamon
-faqat o‘tgan zamon
-111. Ish yuritish hujjatining xizmat yozishmalari guruhiga taalluqli bo‘lmagan turini toping.
-* taklifnoma
-Telegramma
-Xatlar
-Tilxat
-112. Xizmat xatining muallifi – ...
-* xatni jo‘natadigan tashkilot
-xatni tayyorlagan xodim
-xatni jo‘natgan xodim
-xatni imzolagan rahbar
-113. Adressga yuborilayotgan hujjatlar haqida xabar beruvchi xat turini ko‘rsating.
-* eslatma xati
-yo‘llanma xati
-tasdiq xati
-kafolat xati
-114. Xizmat xatlari odatda quyidagi jumla bilan tugaydi: …
-* hurmat bilan
-sizning iltimosingizga binoan
-sizning takliflaringiz ko‘rib chiqildi
-… munosabati bilan
-115. Kafolat xati bu – …
-* biror narsa yoki ish uchun haq to‘lanishiga ishontiradigan hujjat
-biror narsaning muddati tugayotganligini ma’lum qiladigan hujjat
-tadbirga taklif qiladigan hujjat
-qimmatbaho buyumning yetkazilganligini tasdiqlovchi hujjat
-116. Hujjat tuzilgan joy qaysi hujjatda qo‘yilmaydi?
-* farmoyishda
-Buyruqda
-Bildirgida
-majlis bayonida
-117. Dalolatnomada qaysi sana qo‘yiladi?
-* tekshiruv o‘tkazilgan sana
-hujjat tuzilgan sana
-hujjat imzolangan sana
-hujjat bilan tanishtirilgan sana
-118. Majlis bayonida qaysi sana qo‘yiladi?
-* yig‘ilish o‘tkazilgan sana
-hujjat rasmiylashtirilgan sana
-hujjat imzolangan sana
-hujjat tasdiqlangan sana
-119, Hujjatning qaysi turida hujjat nomi ko‘rsatilmaydi?
-* xat
-majlis bayonidan ko‘chirma
-bildirgi
-hisobot
-120. Axborot qayd etilgan hamda uni vaqt va makonda uzatish imkonini beruvchi moddiy obyekt bu– …
-*  hujjat
-Guvohnoma
-Dalil
-Xat
-121. Hujjatning qaysi turida ma’lum bir davr mobaynidagi faoliyat natijalari aks ettiriladi?
-* hisobot
-ma’lumotnoma
-bildirgi
-majlis bayoni
+89.	 Svodkalash va guruhlash natijalari……………
+-	jadval ko‘rinishida ifodalanadi;
+-	jadval ko‘rinishida ifodalanmaydi;
+-	o‘zaro bog`lanishda o‘rganiladi;
+-	o‘zaro bog`lanishda o‘rganilmaydi.
 
-122. Hujjatlar tegishlilik jihatidan qanday hujjatlarga bo‘linadi?
-* rasmiy yoki shaxsiy
-xizmat yoki rasmiy
-shaxsiy yoki xizmat
-idoraviy yoki rasmiy
-123. Qanday hollarda nutq to'g'ri bo'lmasligi mumkin?
-* Adabiy til normalari buzilsa. Talaffuz normalari buzilsa
-Adabiy til normalariga rioya qilinganda
-Talaffuz normalariga rioya qilinsa
-To'g'ri javob yo'q
-124. Qaysi holatlarda bildirishnoma yoziladi?
-* voqea– hodisalar haqida xabardor qilish, ayrim masalalarga xulosa va takliflar berishda;
-talab qilingan voqea– hodisalar haqida axborot berishda;
-voqea, hodisalar yoki mavjud holatni huquqiy jihatdan isbotlash yoki tasdiqlashda;
-sodir etilgan ba’zi hatti– harakatlar isbotlab tushuntirilganda;
-125. Qaysi hujjat turlari yozilish shakliga ko‘ra o‘xshash?
-* tavsifnoma, tavsiyanoma
-buyruq, bayonnoma, farmoyish
-dalolatnoma, da’vo arizasi, shartnoma
-tilxat, ishonchnoma, ma’lumotnoma
-126. Mansabdor shaxsning talabi bilan yoziladigan hujjat nima?
-*talabnoma
-tushintirish xati
-ariza
-buyruq
-127. Bosma ish qog‘oziga yoziladigan hujjatlar berilgan qatorni aniqlang.
-*ma’lumotnoma, shartnoma
-dalolatnoma, buyruq
-bayonnoma, xizmat yozishmalari
-ishonchnoma, farmoyish
-128. ”Tavsiya qilaman”,”Ruxsat beraman” kabi iboralar qaysi hujjatga tegishli?
-*farmoyish
-Dalolatnoma
-Hisobot
-Tilxat
-129. Kadrlarning shaxsiy tarkibiga oid buyruqlar qanchagacha muddatga saqlanadi?
-*40 yil
-20 yil
-30 yil
-50 yil
-130. Xizmat arizalari bilan da’vo arizalari o’rtasida qanday farq bor?
-*Da’vo arizasida to’rtburchakchak muhrini bo’lmasligi bilan.
-Bosma ish qog’oziga yoziladi.
-Bosma ish qog’oziga yozilmaydi.
-Da’vo arizasida to’rtburchakchak muhrini bo’lishligi bilan.
-131. Ish yuritishning tarixdagi dastlabki nomi nima?
-*munshaot
-qolipli hujjat
-muhrdor
-munshiy
-132. Hujjatlar yaratilish o’rniga ko’ra qanday hujjatlarga bo’linadi?
-*Ichki va tashqi hujjatlar
-Oddiy hujjatlar
-Xususiy hujjatlar
-Murakkab hujjatlar
-133.Hujjatlarni o’zbek tilida yuritish haqidagi qonun qachon qabul qilindi?
-*1994– yil
-1993-yil
-1989– yil
-1991– yil
-134. Diolog qaysi uslubga xos?
-*so’zlashuv va badiiy
-so’zlashuv va ommabop
-so’zlashuv va ilm
-badiiy
-135. Ritorika qanday ilm?
-*notiqlik san’atining nazariy asoslari
-yozma nutq haqida ma’lumot beruvchi ilm
-nutq uslublari haqida fan
-nutq madaniyati haqida fan
-136. Notiqning eng muhim vazifasi nima?
-*real voqelikni tinglovchiga chiroyli uslubda yetkazish
-tinglovchini ishontirish
-chiroyli so’zlash
-Notiqning eng muhim vazifasi nima?
-137. Xizmat yozishmalarida qanday qoliplashgan so‘zlardan foydalanish mumkin?
-*“Sizga ...ni ma’lum qilamiz” “Sizga ...ni eslatamiz”
-“Sizga ...ni ma’lum qilamiz”
-“Sizga ...ni eslatamiz”
-to‘g‘ri javob berilmagan
-138. Sharqda X– XIX asrlarda keng qo‘llangan hujjatlar qatorini belgilang.
-*yorliq, bitimlar, arznoma, vasiqa, tilxat
-noma, tilxat, arznoma, vasiyatnoma, farmon
-bildirgi, bitimlar, vasiqa, tilxat, vasiyatnoma
-tilxat, arznoma, bitimlar, dalolatnoma
-139. Rasmiy uslubda qaysi so`z turkumidagi so`zlardan keng foydalaniladi?
-*ot
-fe`l
-sifat
-olmosh
-140. Qolibli hujjatlarga qaysi hujjat kiradi?
-*xizmat safari guvohnomasi
-ma`lumotnoma
-dalolarnoma
-tavsifnoma
-141. Ikki yoki undan ortiq masalani o`z ichiga oladigan hujjat qaysi?
-*murakkab hujjat
-sodda hujjat
-tashqi hujjat
-ichki hujjat
-142. Tavsiyanomaning oxirgi zaruriy qismi qaysi?
-*muhr
-Imzo
-Sana
-Matn
-143. Qanday nutqni boy deyish mumkin?
-*Tilning ifoda vositalaridan foydalanilgan
-So'zlarni o'z o'rniga qo'yishni
-Nutq hamma vaqt aniq, ravshan bo'lishi
-Rasmiy nutqni
-144. Munshaot nima?
-*ish yuritish
-xat turi
-munosabat turi
-rasmiy uslub
-145. Bayonnomaning birinchi zaruriy qismi qaysi?
-*muassa nomi
-shartli raqam
-hujjatning nomi
-sarlavha
-146. So`zlashuv uslubi nechaga bo`linadi?
-*2 ga
-4 ga 
-3 ga
-5 ga
-147. O`zbekiston Respublikasi Konistitutsiasining nechanchi moddasi davlat tili to`g`risida yozilgan?
-*4 – moddasi
-6 – moddasi
-3 – moddasi
-5 – moddasi
-148. Yotoqxonada yashovchilar belgilangan tartib – intizom
-va tozalikka rioya qilmagan taqdirda yotoqxonadan chiqariladi.
-Ushbu gap nutq uslublarining qaysi turiga mansub
-*rasmiy – idoraviy
-Badiiy
-Publisistik
-so`zlashuv
-149. Oqsil juda murakkab yuqori molekulali birikmadir. Suv molekulasi uch atom vodoroddan iborat. Bu qaysi uslubda yozilgan?
-*Ilmiy uslub
-Badiiy uslub
-Publitsistik uslub
-So'zlashuv uslubi
-150. Badiiy uslubga xos xususiyat qaysi javobda berilgan?
-*Obrazlilik, estetik ta'sir etish vazifasi
-Soddalik, tantanavorlik
-Badiiylik, atamalarni qo'llash
-Tasviriy vositalarni qo'llamaslik
-151.Ilmiy uslubga xos xususiyatni belgilang?
-*So'z va atamalarni ko'proq qo'llash
-Ko'chma ma'noli so'zlarni qo'llash
-Eskirgan so'zlarni qo'llash
-Neologizmlarni qo'llash
-152. Publitsistik uslubga xos xususiyatni toping?
-*Mantiqiylik, izchillik
-Ilmiylik, soddalik
-Tantanavorlik, jo'shqinlik
-Ilmiylik
-153. Rasmiy uslubda qanday matnlar tuziladi?
-*Hujjatlar, ish yuritish qog'ozlari
-Qarorlar, idorahujjatlari,.dostonlar
-E'lonlar, she'rlar, romanlar.
-E'lonlar, qarorlar, qonunlar
-154. So'zlashuv uslubining asosiy belgilari qaysi javobda berilgan?
-*Oddiylik, betakalluflik
-Oddiylik, tantanavorlik
-Betakalluflik, ilmiylik
-Oddiylik, betakalluflik, hayajonlilik
-155. Hujjatlar tegishlilik jihatidan qanday hujjatlarga bo‘linadi?
-*rasmiy yoki shaxsiy
-idoraviy yoki rasmiy
-shaxsiy yoki xizmat
-xizmat yoki rasmiy
-156. Lotin yozuvidagi “O`zbek tilining asosiy imlo qoidalari “ qachon tasdiqlangan?
-*1995 yil 24 avgust
-1940 yil 8 may
-1956 yil 4 aprel
-1993 yil 2 sentabr
-157. Kirill yozuvidagi “O`zbek tilining asosiy imlo qoidalari “ qachon tasdiqlangan?
-*1994 yil 24 avgust
-1993 yil 2 sentabr
-1956 yil 4 aprel
-1940 yil 8may
-158. “ Davlat tili haqida “gi qonunning nechanchi moddasida “O`zbekiston Respublikasining Davlat tili – o`zbek tilidir “deb yozilgan ?
-*1– moddasida
-2– moddasida
-3– moddasida
-4– moddasida
-159. Hujjat matni qaysi shaxs tilidan yoziladi?
-*1,3
-2,1
-2,3
-1,2
-160. Tarjimayi holga qo‘yiladigan qaysi talablar noto‘g‘ri?
-*barcha talablar to‘g‘ri
-hikoya uslubida bo‘lib, I shaxs tilidan yoziladi
-ma’lumotlar xronologiya asosida, aniq sanalar bilan beriladi
-u bilan tanishgan kishi muallifning hayot yo‘li va faoliyati haqida tasavvurga ega bo‘lishi kerak
-161. Qanday hujjat turi kotib tomonidan rasmiylashtiriladi?
-*bayonnoma
-Tavsifnoma
-Dalolatnoma
-ma’lumotnoma
-162. Buyruq, ko‘rsatma, farmoyish kabi hujjatlar xizmat mavqeyiga ko‘ra qanday hujjatlar hisoblanadi?
-*farmoyish hujjatlar
-tashkiliy hujjatlar
-ma’lumotsimon
-axborot hujjatlar
-163. Biror narsa olinganligini tasdiqlovchi rasmiy hujjat nima deyiladi?
-*tasdiq xati
-Tilxat
-Bildirishnoma
-Ishonchnoma
-164. Muassasaning asosiy va kundalik vazifalarini hal etish maqsadida qo‘llaniladigan hujjat nima deyiladi?
-*buyruq deyiladi
-bayonnoma deyiladi
-hisobot deyiladi
-farmoyish deyiladi
-165. Ko‘chirma olinadigan hujjat turini belgilang.
-*buyruq, bayonnoma
-tilxat, ishonchnoma
-farmoyish, dalolatnoma
-tavsifnoma, tavsiyanoma
-166. Rasmiy xat turlari berilgan qatorni belgilang.
-*iltimos xat, eslatma xat
-farmoyish xat, tilxat
-ilova xat, tabrik xati
-kafolat xati, tushuntirish xati
-167. Tavsifnoma nima?
-*ma’muriyat yoki shaxs tomonidan beriladigan, shaxsning xususiyatlari qayd etiladigan rasmiy hujjat
-Shaxsning mehnat va ijtimoiy faoliyati o‘ziga xos xislat va fazilatni aks ettiruvchi hujjat
-o‘z shaxsiy hayoti va faoliyatini bayon qiladigan hujjat
-Muassasa tomonidan fuqarolarning turmushi va ish faoliyatidagi voqea– hodisalar va holatlarni tasdiqlab beruvshi rasmiy hujjat
-168. O‘z nomidan ish ko‘rish uchun yoziladigan vakolatli hujjat nima deb yuritiladi?
-*dalolatnoma
-kafolat xati
-shartnoma
-bildirishnoma
-169. Qaysi javobda nom to`gri yozilgan?
-*Osiyo Taraqqiyot Banki
-Osiyo taraqqiyot banki
-osiyo taraqqiyot banki
-osiyo Taraqqiyot banki
-170. Xizmat xatlari nechta zaruriy qismni o`z ichiga oladi?
-*24 ta
-19 ta
-16 ta
-22 ta
-171. Quyidagi hujjatlarning qaysi biri rasmiy uslubning diplomatik uslubda yoziladi?
-*konversiya
-Qonun
-jinoiy doklat
-bildirgi
-172. Shaxsiy yoki mulkiy sug`urta shartnomasi, zarurat tug`ilganda sug`urtachiga qarshi davo qo`zg`atib zararni undirish uchun sudga taqdim etiladigan rasmiy hujjat qaysi?
-*polis
-Investitsiya
-Aksiya
-lizing 
-173. Qaysi javobda publitistik uslubga to`g`ri tarif berilgan?
-*ommaviy axborot vositalari uslubi
-voqiylikni badiiy tasvir vositalari orqali ifodalash uslubi
-ish yuritish qog`ozlari uslubi
-atamalarga tayanib fikrni aniq va ixcham shaklda bayon qiluvchi uslub
-174. Adabiy me`yor saqlangan so`zlar qatorini belgilang
-*yarmi, bag`ri, ayrilmoq, ikkala
-artis, grip, dramma, darax
-pasay, chopdas, qayrilmoq, sanalmoq
-giyohvan, xojir, g`ish, mas
-175. 1995 – yilda qabul qilingan imlo qoidasiga ko`ra quyidagi so`zlarning qaysi biri qo`shib yoziladi?
-*kir sovun
-tarjimayi xol
-liq to`la
-och sariq
-176. Talabalarning o`quv – tadqiqot ishlarini nomlang….
-*nazorat ish, referat, kurs ishi, bitiruv malakaviy ish
-risola, anatatsiya, maqola
-tezis, taqriz, maqola
-ilmiy ma’ruza, axborot, xisobot
-177. Referatda yagona fikr hukmronlik qiladimi yoki fikrlar majmui beriladimi?
-*fikrlar majmui beriladi
-kamida beshta fikr aytiladi
-yagona fikr fukmronlik qilinadi va u to`liq isbot etiladi
-faqatgina tanqidiy fikr beriladi
-178. ”Taqriz,, qaysi tilning atamasi va u qanday ma`nolarni beradi?
-*arabcha so`z bayon qilish so`zlash , tasdiqlash ma`nolarini beradi
-tojikcha so`z asarning qimmatini belgilash,
-forscha so`z asarni tahlil etish,
-forscha– tojikcha so`z asarning o`rnini aniqlash,
-179. Rasmiy ishonchnoma nechta zaruriy qismdan iborat?
-*8 ta
-10 ta
-11 ta
-12 ta
-180. Ma`lumot – axborot hujjatlari dan Ariza nechta zaruriy qismdan iborat?
-*7 ta
-9 ta
-11 ta
-10 ta
-181. O`zbek tili qaysi til oilasiga kiradi?
-*oltoy tillari oilasining turkiy turkumiga
-hind– yevropa tillari oilasining eron tillari turkumiga
-hind– yevropa tillari oilasining slavyan tillari turkumiga
-oltoy tillari oilasining eron turkumiga
-182. Qaysi hujjat turi kun tartibi, qaror kabi qismlardan iborat?
-*bayonnoma
-Farmoyish
-Dalolatnoma
-Hisobot
-183. Jamiyatning barcha a’zolari yozishi mumkin bo‘lgan hujjat turlarini belgilang.
-*ishonchnoma, tilxat, ariza
-bildirishnoma, e’lon, tavsiyanoma
-tushuntirish xati, tilxat, hisobot
-ma’lumotnoma, ariza, e’lon
-184. Iltimos, taklif yoki shikoyat mazmunida yoziladigan hujjat nima?
-*ariza
-ma’lumotnoma
-ishonchnoma
-bildirishnoma
-185. Tarixiy hujjatlar berilgan qatorni toping.
-*tilxat, farmon, bitim, patta
-farmoyish, ko‘rsatma, bildirishnoma
-yo‘riqnoma, nizom, da’vo xati
-kafolat xati, bayonnoma, tuzilma
-186. Ish qog‘ozlari qanday yoziladi?
-*Barcha javoblar to‘g‘ri
-matn I shaxs yoki III shaxs tilidan yoziladi
-hujjatning nomi yoki sarlavha to‘lig‘icha bosh harflar bilan yoziladi.
-qisqa, ravon, aniq va mantiqli bayon etiladi.
-187. Hujjatga aloqador bo‘lmagan hukmni aniqlang.
-*barcha hukm to‘g‘ri
-xabar beruvchi yoki buyuruvshi yozma vosita
-rasmiy munosabatlarni ifodalovshi va qayd etuvchi rasmiy vosita
-shaxsning hayoti davomidagi faoliyatini qayd etib boruvchi yozma vosita
-188. Qaysi javobda hujjatga aloqador bo‘lmagan qismlar keltirilgan?
-*hujjat matnini izohlashga ko‘mak beruvchi grafik shakllar va rasmlar
-tasdiqlash ustxati, shartli raqam (indeks), sana
-sarlavha, tasdiqlovchi imzo, muhr
-hujjatning nomi, ilova mavjudligi haqidagi qayd
-189. Hujjat matnlarida nimalar bayon etiladi?
-*yozilish sabablari ko‘rsatiladi, taklif va xulosalar beriladi
-rasmiy munosabatlarni ifodalaydi
-axborot, voqea– hodisalar badiiy vositalar orqali bayon etiladi
-rasmiy xarakterda bo`lmaydi
-190. Ma`lumot – axborot hujjatlar guruhiga qaysi hujjatlar kiradi?
-*ariza, bayonnoma, bildirishnoma, dalolatnoma,
-e`lon, hisobot, buyruq, ariza
-guvohnoma, hisobot, tilxat, buyruq
-ma`lumotnoma, shartnoma, e`lon, vasiyatnoma
-191. Lotin yozuviga asoslangan yangi o`zbek alifbosi joriy etish to`g`risidagi qonun qachon qabul qilingan?
-*1993 –yil 2– sentabr kuni
-1992– yil 3– mart kuni
-1989 –yil 21– mart kuni
-1993 –yil 6– may kuni
-192. Mamuriy boshqaruv faoliyatida xizmat mavqeiga ko`ra hujjatlar qanday guruhlarga bo`linadi?
-*barcha javoblar to`g`ri
-hizmat yozishmalari
-ma`lumot – axborot hujjatlari
-tashkiliy , farmoyish hujjatlari
-193. Hujjatlar tayyorlanish xususiyatiga ko‘ra qanday bo‘ladi?
-*hujjatlar asl nusxada bo‘lib, zarurat tug‘ilganda nusxa olinadi
-qoralama, asl nusxa, nusxa, ko‘chirma
-asl nusxa, ikkinchi nusxa
-qoralama, asl nusxa, nusxa, ikkinchi nusxa, ko‘chirmа
-194. Farmoyish hujjatlari guruhiga qanday hujjatlar kiradi?
-*buyruq , ko`rsatma , farmoyish
-guvohnoma , yo`riqnoma , dalolatnoma
-farmoyish , ariza , bayonnoma
-hisobot , buyruq , dalolatnoma
-195. Qonun matnllari, farmonlar, buyruqlar, ariza, hujjatlar qaysi uslubda yoziladi?
-*rasmiy uslub
-ilmiy uslub
-so`zlashuv uslubi
-badiiy uslub
-196. Hujjatlar matni qanday talablar asosida ko`riladi?
-*barcha javoblar to`g`ri
-mazmuniy to`liqlik
-ixchamlik , lo`ndalik
-xoslik , aniqlik
-197. Tashkiliy hujjatlarga qaysilar kiradi?
-*Buyruq, buyruqdan ko`chirma, farmoyish, ko`rsatma
-Ariza , bayonnoma , bildirishnoma , dalolatnoma
-Guvohnoma, yo`riqnoma, nizom, ustav, shartnoma
-Adres, taklifnoma, xatlar, teligramma
-198. Hujjatlar tuzilishiga ko`ra nechta turga bo`linadi?
-*sodda va murakkab
-ichki va tashqi
-namunaviy va qolipli
-rasmiy va shaxsiy
-199. Rasmiy uslubda, qanday matnlar tuziladi?
-*e`lonlar, qonunlar, qarorlar
-hujjatlar, ish yuritish qog`ozlari
-qaror, idora hujjatlari, doston
-e`lon, she`r, zamon
-200. Bayonnoma nechta asosiy zaruriy qismdan iborat ?
-*11 ta
-9 ta 
-8 ta
-3 ta
+90.	 Statistikadagi jadvallar tuzilishi jihatidan……..
+-	tikka va yotiq chiziqlarning kesishmasidan tashkil topadi;
+-	tikka va yotiq chiziqlarning kesishmasidan tashkil topmaydi;
+-	faqat tikka chiziqlardan tashkil topadi;
+-	faqat yotiq chiziqlardan tashkil topadi.
+
+91.	Ega xarakteriga qarab, statistik jadvallar ............ jadvallar ga bo‘linadi.
+-	oddiy, guruhiy, kombinatsion;
+-	murakkab, chiziqli, chiziqsiz;
+-	murakkab, chiziqli, kombinatsion;
+-	murakkab, chiziqsiz, kombinatsion;
+
+92.	...................jadvallar deyilganda, egasi faqat hodisalar yillar, obyektlar ro‘yhatidan tashkil topgan jadvallar tushuniladi. Bu yerda xech qanday ishlov berilmasdan, to‘g`ridan to‘g`ri boshlang`ich kuzatish materiallaridan olinadi.
+-	оddiy;
+-	guruhiy;
+-	kombinatsion;
+-	chiziqsiz.
+93.	 Jadval egasi biron-bir belgi bo‘yicha guruhlarga ajratilgan bo‘lsa, bunday jadvallar …………… deyiladi. 
+-	guruhiy jadvallar;
+-	оddiy;
+-	kombinatsion;
+-	chiziqli.
+
+94.	Agar muhim belgi  bo‘yicha guruhlangan jadval egasi yana guruhchalarga ajratilsa yoki jadval kesimi ham guruhlangan ko‘rinishda bo‘lsa, u holda bunday jadvallar .................. deyiladi.
+
+-	kombinatsion;
+-	guruhiy jadvallar;
+-	оddiy;
+-	chiziqsiz.
+
+95.	“Variatsiya” so‘zi lotincha “variatio” so‘zidan kelib chiqqan bo‘lib, .......
+-	o‘zgarish, farq, tebranish manosini bildiradi;
+-	to‘plam birliklarining o‘rtachasini bildiradi;
+-	to‘plam birliklarining eng kattasini bildiradi;
+-	to‘plam birliklarining eng kichigi manosini bildiradi;
+
+96.	O‘rganilayotgan belgining ……………….. variatsiyalari bo‘ladi.
+-	tasodifiy va surunkali;
+-	оddiy va murakkab;
+-	chiziqli va chiziqsiz;
+-	guruhiy va kombinatsion.
+
+97.	Tasodifiy variatsiyani …….
+-	boshqarib bo‘lmaydi;
+-	boshqarib bo‘ladi;
+-	ta’sir o‘tkaziladi;
+-	ta’sir ko‘rsatish mumkin.
+
+98.	Surunkali variatsiyaga qisman bo‘lsada,…………
+-	ta’sir o‘tkazish mumkin;
+-	boshqarib bo‘lmaydi;
+-	ta’sir o‘tkazish mumkin emas;
+-	ta’sir o‘tkazib bo‘lmaydi.
+
+
+99.	Variatsion kenglik (R)  deganda, belgining ................tushuniladi.
+-	eng katta va kichik hadlari orasidagi farq (tafovut);
+-	yuqori va quyi hadlari;
+-	maksimal va minimal qiymati;
+-	eng  katta qiymati.
+
+100.	Statistika jadvallari tarihiga nazar tashlaydigan bo‘lsak, ularni birinchi bo‘lib …………………………….. o‘zining iqtisodiy-statistik tadqiqoti “Butun Rossiya davlatini gullash darajasi” (1727 y.) asarida qo‘llagan.
+-	buyuk rus olimi N.K.Kirilov;
+-	ingliz olimi Peterson;
+-	xitoy olimi Bao Li;
+-	xind olimi Arshmi.
+ 
+101.	Statistik jadvallar ……..
+-	XVIII asrda paydo bo‘lgan;
+-	XV asrda paydo bo‘lgan;
+-	X asrda paydo bo‘lgan;
+-	XII asrda paydo bo‘lgan.
+
+102.	Statistik jadvallar deb, o‘rganilayotgan hodisa va voqealar to‘grisidagi ma'lumotlarni …………
+-	tartibli, ko‘rgazmali ifodalashga aytiladi; 
+-	tartibsiz ifodalashga aytiladi;
+-	tahlil qilishga aytiladi;
+-	sintez qilishga aytiladi.
+
+103.	Gorizontal chiziqlar - ………… vertical – ..........deyiladi.
+-	qatorlar, ustunlar; 
+-	chiziqli, chiziqsiz;
+-	oddiy, murakkab;
+-	juft, toq.
+
+104.	Tuzilgan, lekin raqamlar bilan to‘ldirilmagan jadvalni, statistik jadvalning ……………deyiladi.
+-	maketi;
+-	ustuni;
+-	qatori;
+-	usuli.
+
+
+105.	Har qanday tuzilgan va to‘ldirilgan jadval ………………….
+-	umumiy nomga ega bo‘lishi kerak;
+-	umumiy nomga ega bo‘lishi kerak emas;
+-	jadvalning umumiy nomi uni tagida keltirilishi kerak;
+-	jadval faqat qatorlardan iborat bo‘ladi.
+
+106.	Statistik jadvallar, ega harakteriga qarab: …………..jadvallarga bo‘linadi.
+-	oddiy; guruhiy (gruppali); kombinacion;
+-	murakkab, guruhiy (gruppali); 
+-	analitik, tipologik;
+-	mahsus tayinlangan.
+
+107.	Statistik jadvallar, kesim harakteriga qarab: ........ jadvallarga bo‘linadi.
+-	kesimi oddiy ishlab chizilgan; kesim kombinaciya ishlab chiqilgan;
+-	murakkab, guruhiy (gruppali); 
+-	analitik; tipologik;
+-	mahsus tayinlangan.
+
+108.	Statistik jadvallar, guruhlash maqsadi bo‘yicha: ...............jadvallarga bo‘linadi.
+-	informaciya tavsifli; analitik; tipologik; mahsus tayinlangan;
+-	murakkab, guruhiy (gruppali); 
+-	analitik; tipologik;
+-	mahsus tayinlangan.
+
+109.	Jadvaldagi qatorlar va ustunlar ....................... 
+-	nomlanadi va iloji boricha nomerlanadi;
+-	nomlanmaydi va nomerlanmaydi;
+-	faqat nomerlanadi;
+-	bir xil nomlanishi kerak.
+
+110.	Oddiy jadvallar deb,......... jadvallarga aytiladi.
+-	egasi faqat hodisalar, yillar, ob'ektlar ro‘yhatidan tashkil topgan;
+-	qatorlar, ustunlardan tashkil topgan lekin nomlanmagan; 
+-	faqat ustunlardan tashkil topgan;
+-	faqat qatorlardan tashkil topgan.
+
+111.	Oddiy jadvallar, ma'lumotlarni berilishiga qarab ………...
+-	sanoqli, territorial va xronologik jadvallarga bo‘linadi;
+-	ob'ektlar ro‘yhatidan tashkil topgan bo‘ladi;
+-	faqat ustunlardan tashkil topgan bo‘ladi;
+-	faqat qatorlardan tashkil topgan bo‘ladi.
+
+
+112.	Agar o‘rganilayotgan to‘plam juda murakkab bo‘lsa, u qolda uni bitta jadval yordamida emas, balki.............................
+-	bir-biri bilan boqlangan bir nechta jadvalda ifodalash zarur;
+-	bir-biri bilan boqlanmagan bir nechta jadvalda ifodalash zarur;
+-	bitta jadval yordamida ifodalash zarur;
+-	ikkita jadvalda ifodalash zarur.
+
+
+113.	Jadvalning umumiy sarlavhasi uning mazmunining …… ifodasi bo‘lishi kerak.  
+-	qisqa;
+-	uzun;
+-	ingliz tilidagi;
+-	lotin alifbosidagi.
+
+114.	Jadvalda o‘zaro bogliq ma'lumotlar ………….keltiriladi.
+-	yonma-yon;
+-	boshqa ustunlarda;
+-	boshqa ustun va qatorlarda;
+-	boshqa qatorlarda.
+
+115.	Jadvalda ko‘rsatkichlar bir-birini tekshira oladigan ………….. tamoyilida joylashtirilishi kerak.
+-	“soddadan murakkabga”;
+-	“murakkabdan soddaga”;
+-	quyidan yuqoriga;
+-	yuqoridan quyiga.
+
+116.	Jadvallarda keltirilgan ma'lumotlar ……….
+-	manbai ko‘rsatilishi kerak;
+-	manbai ko‘rsatilmasa ham bo‘ladi;
+-	faqat yili ko‘rsatilishi kerak;
+-	faqat  muallifi ko‘rsatilishi kerak.
+
+117.	Birinchi bo‘lib statistik ma'lumotlarni grafiklarda tasvirlanishiga asos solgan olimni ko‘rsating:
+-	ingliz iqtisodchisi U.Pleyf (1786);
+-	ingliz iqtisodchisi J. Keyns (1930);
+-	Albert Eynshteyn  (1910);
+-	Isaac Newton (1700).
+
+118.	Statistik grafiklar – bu … ……………………………………
+- raqamli miqdorlar va ularning nisbatini nuqta, chiziq, figura va boshqa geometrik shaklda shartli tasvirlanishidir;
+- raqamli miqdorlar va ularning nisbati faqat nuqta shaklda shartli tasvirlanishidir;
+- faqat qatorlar va ustunlardan tashkil topgan tasvirlardir;
+- umumiy nomga ega bo‘lmaydi.
+
+119.	Grafik tasvirning asosiy elementlari: 
+-	grafik obraz; grafik maydon; grafik maydon o‘lchov birliklari; masshtab; shkala; grafik talqin;
+-	faqatgina grafik obraz; grafik maydon;
+-	faqat grafik maydon o‘lchov birliklari;
+-	shkala va grafik talqin.
+
+120.	………….. statistik grafiklarda  raqamlar bilan ifodalangan ko‘rsatkichlarni grafik maydonda tasviriy nisbatlarga aylantiradi.
+-	masshtab;
+-	shkala; 
+-	 grafik;
+-	grafik maydon.
+
+121.	…………….. quyidagi uch unsurdan iborat: shkala tayanchi, shkala raqamlari, shkala nuqtalar.
+-	shkala; 
+-	 grafik;
+-	grafik maydon;
+-	masshtab.
+
+122.	……………………………..aniq raqamlar kabi o‘qilishi mumkin bo‘lgan, nuqtalar bilan ajratilgan chiziq tushuniladi.
+shkala; 
+ grafik;
+grafik maydon;
+masshtab.
+
+123.	………………..  grafikning mohiyatini, mazmunini so‘z bilan ifodalanishini ta'minlaydi.
+grafik talqin;
+grafik;
+grafik maydon;
+masshtab.
+
+
+
+124.	...................bu statistik ma'lumotlar ifodalanadigan nuqta, chizik va figuralar to‘plamidan iborat geometrik belgilardir.
+
+grafik tasvir;
+grafik talqin;
+grafik;
+masshtab.
+
+125.	......................grafikni hosil qiluvchi geometrik belgilar joylashtiriladigan maydondir. Grafik maydon o‘z vazifasiga qarab aniqlanadi.
+grafik maydon;
+grafik talqin;
+grafik;
+masshtab.
+
+
+126.	......................grafik tasvir joylashtiriladigan maydonning koordinatalar tizimi, ya'ni grafik maydonning o‘lchovini ifodalovchi to‘r.
+maydon o‘lchovlari;
+grafik talqin;
+grafik;
+masshtab.
+
+127.	Diagramma shakllari:
+ustunli diagrammalar, lentali diagrammalar, chiziqli diagrammalar, figurali diagrammalar, sektorli yoki doirasimon diagrammalar;
+ustunli diagrammalar, lentali diagrammalar, chiziqli diagrammalar;
+lentali diagrammalar, chiziqli diagrammalar;
+chiziqli diagrammalar, figurali diagrammalar, sektorli yoki doirasimon diagrammalar.
+
+128.	Jadvallar har xil turdagi chastotalarni aks ettirishi mumkin. Chastotalar shakllari:
+mutlaq, nisbiy va kumulyativ chastotalar;
+o‘rta va yuqori darajali chastotalar;
+o‘rta va quyi darajali chastotalar;
+quyi va yuqori darajali chastotalar.
+
+129.	Statistik ma'lumotlarni tahlil qilishda …………… bosqichni ajratish mumkin.
+analitik va tavsiflovch;
+o‘rta va yuqori darajali;
+o‘rta va quyi darajali;
+quyi va yuqori darajali.
+
+130.	……………….oxirgi bo'lib, u to'plangan ma'lumotlarning qulay shaklda - grafikalar, diagrammalar, boshqaruv panellarida taqdim etilishini o'z ichiga oladi.
+ta'riflovchi bosqich;
+o‘rta va yuqori darajali bosqich;
+o‘rta va quyi darajali bosqich;
+quyi va yuqori darajali bosqich.
+
+
+131.	Analitik bosqich usullari:
+statistik kuzatuv, ma'lumotlarning qisqacha mazmuni, mutlaq va nisbiy statistik qiymatni aniqlash, namuna olish usuli, korrelyatsiya va regressiya tahlili, vaqt qatori usuli;
+statistik kuzatuv, ma'lumotlarning qisqacha mazmuni, mutlaq va nisbiy statistik qiymatni aniqlash, namuna olish usuli,;
+namuna olish usuli, korrelyatsiya va regressiya tahlili, vaqt qatori usuli;
+ma'lumotlarning qisqacha mazmuni, mutlaq va nisbiy statistik qiymatni aniqlash, namuna olish usuli;
+
+132.	……………………natural, shartli natural va qiymat (pul) o‘lchov birliklarida ifodalanadi.
+mutlaq miqdorlar;
+nisbiy miqdorlar;
+o‘rtacha miqdorlar;
+chastotalar.
+
+133.	Ikki solishtirma mutlaq miqdorni taqqoslash natijasida olingan natijaga …………………….deyiladi.
+nisbiy miqdor;
+mutlaq miqdor;
+o‘rtacha miqdor;
+chastota.
+
+134.	Toshkent shahri mavjud aholisi 2018 yil boshiga kelib 3,4 mln.kishiga etdi deylik. Bu mutlaq miqdor oldingi yillarga nisbatan Toshkent shahri aholisi ko‘payganligi yoki ozayganligi haqida bizga .......
+ma'lumot bera olmaydi;
+ma'lumot bera oladi;
+xabar beradi;
+yordam beradi.
+
+
+135.	A4 qog'oz varag'ining chiziqli o'lchamlarini “Lomonosov” chinni zavodi tomonidan ishlab chiqarilgan mahsulotlar miqdori bilan taqqoslashimiz mumkinmi, bunday taqqoslash bizga biror narsa beradimi?
+y o‘q;
+ha;
+beradi;
+ha, beradi.
+
+136.	Agarda taqqoslanadigan miqdor birga tenglashtirib olinsa, u holda nisbiy miqdorlar ..............................    ifodalanadi.
+кoeffitsientda;
+sonlarda;
+chastotalarda;
+grafiklarda.
+
+137.	………………o‘rganilayotgan miqdor taqqoslanganga nisbatan necha marta katta, ko‘p yoki kichik ekanligini ko‘rsatadi.
+koeffitsient;
+sonlar;
+chastotalar;
+grafiklar.
+
+138.	Oziq-ovqat do‘konida dushanba kuni 6,60 mln. so‘mga tovarlar sotilgan, yakshanba kuni esa – 9,90 mln.so‘mga tovarlar sotildi. Agarda, 6,60 mln. so‘mni birga teng deb qabul qilsak, 9,90 mln. so‘m necha birlikni tashkil etadi va necha martta ko‘p tovarlar sotilgan? 
+ (9,90:6,60) =1,5 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 1,5 marta ko‘p tovarlar sotilgan;
+(9,90х6,60) = 65,34 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 65,34 marta ko‘p tovarlar sotilgan;
+(9,90 - 6,60) = 3,3 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 3,3 marta ko‘p tovarlar sotilgan;
+(9,90 + 6,60) =16,5 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 16,5 marta ko‘p tovarlar sotilgan.
+
+139.	Biz o‘zbek kompaniyasining ko‘rsatkichlarini Yaponiya kompaniyasi ko‘rsatkichlari bilan taqqoslashdan oldin, taqqoslanadigan ko‘rsatkichlar ikkala mamlakatda ham .................
+-	bir xil metodologiya bilan aniqlanganligiga ishonch hosil qilishimiz kerak;
+-	bir xil metodologiya bilan aniqlangan bo‘lishi shart emas;
+-	o‘zbek kompaniyasining ko‘rsatkichlarini Yaponiya kompaniyasi ko‘rsatkichlari bilan taqqoslash mumkin emas;
+-	har xil metodologiya bilan aniqlangan bo‘lishi kerak.
+140.	……….bog‘langan elementlardan tashkil topgan va maqsadga intilayotgan ob’ektdir.
+-	murakkab tizim;
+-	yopiq tizim;
+-	ochiq tizim;
+-	sub’ekt.
+
+141.	  ……… - predmet uchun ob’ektning eng muhim bo‘lgan hususiyatlari, qismlari, ularning orasidagi munosabatlarini alohida ajratib olish va boshqa ahamiyatsiz hususiyatlari, qismlari va munosabatlaridan voz kechish usulidir.
+saralab olish usuli;
+konkretlashtirish usuli;
+tasniflash (klassifikatsiya) usuli;
+ideallashtirish usuli.
+
+142.	 ………… usuli – muayan predmetni o‘rganish natijasida real xayotda uchramaydigan, etalon yoki ideal sifatida ko‘riladigan modelni yaratish va uning hususiyatlarini real xayotda uchraydigan ob’ekt hususiyatlari bilan taqqoslash usulidir
+- ideallashtirish;
+- saralab olish; 
+- tasniflash klassifikatsiya; 
+- konkretlashtirish.
+
+143.	  ………… usuli – ob’ekt va predmet to‘g‘risidagi abstrakt, hamda ideallashtirilgan bilimlarni real hayotdagi xodisalar to‘g‘risidagi bilimlar orasidagi tafovutni kamaytirish usulidir.
+- konkretlashtirish; 
+- saralab olish; 
+- analogiya; 
+- deduksiya.
+ 
+144.	  …………. usuli muayan ob’ektlar (elementlar) to‘plamidan muayan tasniflash alomati bo‘yicha tasniflar (klasslar, quyi to‘plamlar) ni tuzish usulidir. Tasniflash alomati – elementning hususiyati yoki tavsifidir
+- tasniflash klassifikatsiya;
+- ideallashtirish; 
+- deduksiya; 
+- saralab olish.
+ 
+145.	.  ………….. usuli o‘rganish predmetini bo‘laklarga bo‘lib o‘rganishni nazarda tutadi.
+- tahlil;
+- sintez; 
+- induksiya; 
+- deduksiya.
+ 
+146.	. …………. esa predmetning o‘rganilgan bo‘laklarini birlashtirishni va tahlil natijalarini umumlashtirishni nazarda tutadi.
+- sintez usuli;
+- analogiya usuli; 
+- deduksiya usuli;
+- tahlil usuli.
+
+147.	.  ..............usuli – muayan predmetni o‘rganish natijasida hususiyatlar bo‘yicha olingan bilimlarni analogik predmetga qo‘llash usulidir
+- analogiya; 
+- induksiya;
+- sintez;
+- tahlil.
+
+148.	.  ............. - hususiy xodisalar hususiyatlaridan olingan fikr bildirishdan (ya’ni asosdan) umumiy xodisalar hususiyatlaridan olingan fikr bildirishni (ya’ni xulosani) keltirib chiqarish usulidir
+- induksiya usuli;
+- analogiya usuli;
+- tahlil usuli;
+- deduksiya usuli.
+
+149.	.  .............. usuli – umumiy fikr bildirishdan (asosdan) hususiy fikr bildirishga (xulosaga) o‘tish usulidir. Bunda umumiy fikr bildirish (asos) haqiqat deb faraz qilinadi?
+- deduksiya;
+- sintez usuli;
+- induksiya usuli;
+- tahlil usuli.
+
+150.	.   Agar tizimning ayrim elementlari o‘z navbatida tuzilma shaklida bir- biri bilan bog‘langan elementlardan tashkil topgan bo‘lsa, bunday elementlar to‘plami qanday tizim deyiladi?
+- quyi tizim;
+- tizim komponenti;
+- yuqori tizim;
+- tashqi muhit;
+
+151.	. Agar sub’ekt va ob’ekt ajralmas bo‘lib tizimni shakllantirishsa va uning tashqi muhiti umuman inobatga olinmasa, bunday tizim qanday tizim deyiladi?
+- yopiq tizim;
+- ochiq tizim;
+- quyi tizim;
+- yuqori tizim.
+
+152.	.  Agar tashqi muhit tizim holatiga ta’sir qilsa va bu hol inobatga olinsa, u holda qanday tizim haqida so‘z gapirsa bo‘ladi.
+- ochiq tizim;
+- quyi tizim;
+- ochiq tizim;
+- yuqori tizim.
+
+153.	.  Tashqi muhit bilan aloqa qilish bo‘yicha tizimlar qanday bo‘ladi?
+- ochiq va yopiq;
+- tabiiy va sun’iy;
+- sun’iy va tabiiy;
+- moddiy va abstrakt.
+
+154.	. Agar vaqt o‘tgan sari tizim holati yoki tizim holati bilan birga uning tarkibiy tuzilmasi ham o‘zgarsa, bunday tizim qanday tizim deb ataladi?
+- dinamik tizim;
+- statik tizim;
+- klassik tizim;
+- evolyusion tizim.
+
+155.	.  Agar vaqt o‘tgan sari tizimning holati va tarkibiy tuzilmasi o‘zgarmasa, bunday tizim qanday tizim deb ataladi?
+- statik tizim;
+- dinamik tizim;
+- evolyusion tizim;
+- klassik tizim.
+
+156.	.  Har bir yurishda erishiladigan (pul yoki ball yoki boshqa ko‘rinishda ifodalanadigan) natija qanday vaziyatlar hisoblanadi?
+- yutuq vaziyatlar;
+- strategiya vaziyatlar;
+- to‘lov matritsasi;
+- ziddiyatli vaziyatlar.
+
+157.	  Tizimli yondashuv boshqa rivojlangan mamlakatlarda keng tarqalgan Yaponiyada qaror qabul qilishda necha% vaqt taalluqli bo’lganlarning barchasi bilan kelishishiga va necha% esa uni amalga oshirishga sarflanadi.
+- 90%/10%;
+- 90%/30%;
+- 70%/20%;
+- 10%/50%.
+
+158.	Asosida, ya’ni boshqaruvning tizim nazariyasi, tizim va muhit o‘rtasida va tizim ichida (axborotni uzatish), shuningdek, muhitga nisbatan tizim funksiyalarini boshqarish (teskari aloqa)ga bogiiq boladi.
+- kibernetika nazariyasi;
+- tarmoqlar nazariyasi;
+- avtomatlar nazariyasi;
+- graflar nazariyasi.
+
+159.	  Bu funksiya firma yoki tashkilot ko‘rsatkichlarining metod va formalarini ishlab chiqadi. Masalan buxgalteriya hisoboti, moliyaviy hisob-kitob, boshqaruv hisoboti va boshqalar
+- hisobga olish;
+- tahlil qilish analiz qilish;
+- tog’ri javob yo‘q;
+- tashkillashtirish.
+
+160.	 Qanday qarorlar katta korxonalar miqyosida qabul qilinib, rivojlanish istiqbollarini qabul qilishga xizmat qiladi?
+- strategik qarorlar;
+- taktik qarorlar;
+- operativ qarorlar; 
+- qarorni qo'llab-quvvatlash. 
+
+161.	 Tez qabul qilinib, ayrim ish joylari, kichik korxonalarga xos bo‘lgan qarorlar  -  bu……..
+- operativ qarorlar;
+- qo'llab-quvvatlash qarori; 
+- taktik qarorlar; 
+- strategik qarorlar.
+
+162.	Bu turdagi qarorlar katta korxonalarning ayrim bolinmalarida qabul qilinadi
+- taktik qarorlar;
+- operativ qarorlar;
+- strategik qarorlar; 
+- qo'llab-quvvatlash qarori.
+
+
+163.	 Qanday (parallel yurishli) o‘yinlar: yig‘indisi konstant bo‘lgan o‘yinlar xisoblanadi? Bu o‘yinlar doimo yutuqlar matritsasi orqali beriladi.
+- statik;
+- taktik;
+- teoretik;
+- antagonistic. 
+
+
+164.	……… ko‘rsatkichlar orasidagi korrelyasiya yuqori bo‘lmasligi kerak. 
+- bog‘liqsiz;
+- regressiya;
+- tasodifiy;
+- kauzallik.
+
+
+165.	Nechanchi yilda Norbert Viner tomonidan kibernetika deb nomlangan yangi fan yaratildi?
+- 1948;
+- 1940;
+- 1935;
+- 1950.
+
+166.	Lyudvig fon Bertalanfi Nechanchi yilda murakkab tizimlar nazariyasiga birinchi bo‘lib asos soldi?
+- 1901–1972;
+- 1950–1970;
+- 1930–1965;
+- 1910–1999.
+
+
+167.	Qanday tuzilma tabiatda va jamiyatda ob’ektiv ravishda yaralgan tizimlar: atom, xujayra, inson, jamiyat va xok.
+- tabiiy tizimlar;
+- predmetli tuzilma;
+- tashkiliy tuzilma;
+- funksional tuzilma.
+
+
+168.	Bu ushbu tizimga tegishli bo‘lmagan elementlardan iborat tizim bolib boshqacha aytganda xossalarining o‘zgarishi tizimga ta’sir etuvchi barcha obyektlar hamda tizim holatining natijasida o‘z xossasini o‘zgartiruvchi obyektlar to‘plami.
+- muhit;
+- aloqa;
+- tasir; 
+- tasodifiy.
+
+
+169.	Har bir tizimda barcha iyerarxik darajalardan yuqori turuvchi markaziy bo‘g‘in bo‘lishi
+- markazlashtirilganlik; 
+- geterogenlik;
+- bog‘liqsizlik;
+- organic.
+
+170.	........................    fan sohasi sifatida jamiyatdagi ijtimoiy hodisa va jarayonlar haqidagi sonli ma’lumotlarni yig‘ish, qayta ishlash va tahlil qilishning texnika va usullari tizimini ishlab chiqadi. 
+- ijtimoiy statistika;
+- moliyaviy statistika;
+- mehnat statistikasi;
+- tibbiy statistika.
+
+171.	………………………… sifatida davlat statistika organlari va boshqa tashkilotlar tomonidan muayyan ijtimoiy jarayonlarni tavsiflovchi sonli materiallarni to'plash va umumlashtirish bo'yicha ishlarni bajarishga qaratilgan. 
+- ijtimoiy statistika amaliyot sohasi;
+- moliyaviy statistika;
+- mehnat statistikasi;
+- tibbiy statistika.
+
+172.	“Ijtimoiy statistika” tushunchasi faoliyat sohasi sifatida qanday ikkita talqinga ega? 
+- fan va amaliy sohalar;
+- mehnat va tibbiy sohalar; 
+- sotsiologiya va psixologiya sohalari;
+- demografiya va aholi statistikasi.
+
+173.	“Ijtimoiy statistika” da fan sohasi va amaliy faoliyat sohalari ………….
+- faqat birlik, o'zaro bog'liqlikda rivojlanishi kerak va rivojlanishi mumkin;
+- o'zaro bog'liqlikda rivojlanishi kerak emas;
+- o'zaro bog'liqlikda rivojlanishi mumkin emas;
+- bir-biriga qarama-qarshi rivojlanishi kerak.
+
+174.	Hisobga olinayotgan ma’lumotlarning mazmuni murakkablashib, davlat va iqtisodiyotni boshqarishda ularning ahamiyati ortishi bilan ma’lumotlarni ……
+-	hisobga olish va umumlashtirishning murakkab usullariga ehtiyoj paydo bo‘ladi;
+-	hisobga olish va umumlashtirishning murakkab usullariga ehtiyoj paydo bo‘lmaydi;
+-	hisobga olish o'zgarmaydi;
+-	hisobga olish o'zgaradi.
+
+
+175.	Ijtimoiy statistika boshqa bilim sohalari bilan – 
+- sotsiologiya, psixologiya, demografiya, aholi statistikasi, mehnat iqtisodiyoti, tibbiy statistika va boshqalar bilan bogliq;
+- sotsiologiya, psixologiya, demografiya, aholi statistikasi, mehnat iqtisodiyoti, tibbiy statistika va boshqalar bilan bogliq emas;
+- kimyo va jismoniy tarbiya;
+- astronomiya va fizika.
+
+176.	………………..aholi sonining dinamikasini, aholi tarkibini, uni ko'paytirishni o'rganadi.
+- aholi statistikasi;
+- mehnat statistikasi; 
+- sotsiologiya; 
+- psixologiya.
+
+177.	Aholi sonini aniqlash manbalari:
+- vaqt-vaqti bilan o’tkazilib turiladigan aholi ro’yxati; aholining tabiiy o’sishi yoki kamayishi bo’yicha ma’lumotlar; aholining mexanik harakatlari bo’yicha ma’lumotlar;
+- faqat vaqt-vaqti bilan o’tkazilib turiladigan aholi ro’yxati;
+- faqat aholining tabiiy o’sishi yoki kamayishi bo’yicha ma’lumotlar;
+- aholining mexanik harakatlari bo’yicha ma’lumotlar;
+
+178.	…………….aholi deganda  aholini  ro’yhatdan o’tkazayotganda sanalari ( qaysi aholi punktida yashayotganidan qatiy nazar) mazkur aholi punktida doimiy yashovchi aholini tushunamiz.
+- doimiy;
+- mavjud;
+- vaqtinchalik yashovchi;
+- vaqtinchalik yo’q.
+
+179.	................ro’yhatga olish vaqtida ( yashash joyi doimiy yoki vaqtinchalik bo’lishidan qatiy nazar) mazkur  aholi punktlarida bor bo’lgan aholi tushuniladi.
+- mavjud aholi deganda; 
+- doimiy;
+- vaqtinchalik yashovchi;
+- vaqtinchalik yo’q.
+
+180.	.............. -  aholini ro’yhatga olish momentlaridan boshlab shu aholi punktidan tashqariga ketgan kishilar tushuniladi. 
+- vaqtinchalik yo’qlar; 
+- mavjud aholi deganda; 
+- doimiy;
+- vaqtinchalik yashovchi.
+
+181.	.............   jumlasiga (kritik) aholini ro’yhatga olish momentida aynan shu joyda hozir bolgan, lekin doimiy yashash joyidan tashqari bo’lgan shaxslar kiradi.
+- vaqtinchalik yashovchilar;
+- mavjud aholi deganda; 
+- doimiy;
+- vaqtinchalik yo’qlar.
+
+182.	Dunyo aholisi 2050 yilga borib ……………erishishi rejalashtirilmoqda.
+
+-	9,7 milliardga;
+-	12,7 milliardga;
+-	19,7 milliardga;
+-	15 milliardga.
+
+183.	................. nuqsonlarni aniqlashning eng qadimgi va foydali usullaridan biri. Bu manba kodini birgalikda sinchkovlik bilan o'qish va uni takomillashtirish bo'yicha tavsiyalar berishdan iborat. Kodni o'qish jarayoni kelajakda xato bo'lishi mumkin bo'lgan xatolar yoki kod bo'limlarini ochib beradi.
+- Сode review
+- HelixQAC
+- Goanna Studio
+- CodeSonar
+
+184.	Kodlash standartlari
+- MISRA, CWE, SEI CERT
+- C, C++, C#, Java, Ada, Fortran, Perl, Ruby
+- C, C++, C#, Java, Ada, Fortran, Perl, Ruby, MISRA, CWE, SEI CERT
+- MISRA, CWE, SEI CERT, Perl, Ruby
+
+185.	Mobil ilova kodining statik tahlili
+- jismoniy, ijtimoiy, ilovalar, apparat, tizim;
+- apparat; ilovalar, apparat, tizim;
+- tizim;
+- ilovalar, tizim;
+
+186.	…………….deb o‘rtacha kvadrat chetlanishning kvadrat ildizdan chiqarilgan miqdoriga aytiladi:
+o‘rtacha kvadratik chetlanish;
+variatsiya koeffitsienti;
+-   variatsion kenglik;
+- surunkali variatsiya.
+
+187.	O'rnatilgan tizimlar uchun dasturiy ta'minot kodini tahlil qilishning asosiy turlari
+-	Ikkilik tahlil, keng qamrovli xavfsizlik, parallellikni tekshirish, standartlarni qo'llab-quvvatlash
+-	keng qamrovli xavfsizlik, parallellikni tekshirish, standartlarni qo'llab-quvvatlash
+-	parallellikni tekshirish, standartlarni qo'llab-quvvatlash
+-	parallellikni tekshirish, standartlarni qo'llab-quvvatlash, Ikkilik tahlil
+
+188.	 O'rnatilgan tizimlar uchun mavjud statik analizatorlar
+-	Polyspace Bug Finder, HelixQAC, Goanna Studio, CodeSonar, Imagix 4D
+-	HelixQAC, Goanna Studio, CodeSonar, Imagix 4D, iTerm2
+-	HelixQAC, Goanna Studio, CodeSonar, Imagix 4D, Cmder
+-	Polyspace Bug Finder, HelixQAC, Goanna Studio, WebStorm
+
+189.	Statanaliz vositalarining xilma-xilligi
+-	Kompilyatsiya / tahlil qilish (ansible-syntax-check, terraform validate), Kompilyator ogohlantirishlari, Imlo tekshiruvi, Konfiguratsiya testlari
+-	Kompilyator ogohlantirishlari, Imlo tekshiruvi, Konfiguratsiya testlari
+-	Kompilyatsiya / tahlil qilish, Imlo tekshiruvi, Konfiguratsiya testlari
+-	Dinamik, statik va binar tahlil
 
 
 
 
+190.	Kodlarni tahlil qilish turlari
+
+-	Dinamik, statik va binar tahlil
+-	Statik va binar tahlil
+-	Dinamik va statik tahlil
+-	Dinamik va binar tahl
+
+191.	Avtomatlashtirilgan kod tahlilining asosiy muammosini qanday hal qilish mumkin?
+-	loyqa mantiqning matematik apparatiga asoslangan zaifliklarga qarshi kurash mexanizmi - Fuzzy Logic Engine (FLE), bu sizga chiziqli filtrlarni nozik sozlash, noto'g'ri pozitivlarni kamaytirish va zaifliklarni aniqlashda aniqlikni yo'qotish o'rtasidagi muvozanatni saqlash imkonini beradi.
+-	Siz "Mashinani o'rganish - sun'iy intellekt" - analizatorni qo'lda o'qitishga harakat qilishingiz mumkin.
+-	Siz GitHub-da tarixni kuzatishingiz va kod o'zgarishlari yoki tuzatishlardagi naqshlarni qidirishingiz mumkin.
+-	analizator xato mavjudligi haqida ogohlantirish berishi kerak bo'lgan qismlarni ko'rsatadigan haqiqiy ilovalar kodini belgilang.
+
+192.	Kodni qanday himoya qilish kerak
+-	Code Review, Unit-testlar, dinamik kod tahlili, statik kod tahlili, ishlab chiquvchi testi
+- Code Review, C, C++, C#, Java, Ada, Fortran, Perl, Ruby 
+- Unit-testlar,  MISRA, CWE, SEI CERT, Perl, Ruby
+-	dinamik kod tahlili, statik kod tahlili, Java
+
+193.	Statik kod tahlilining kamchiliklari
+-	Statik kod tahlili yuqori darajadagi xatolarni aniqlay olmaydi, noto'g'ri signal
+-	Analizator charchaydi
+-	agar bunday naqsh haqida bilmasa, xatolarni topa olmaydi
+-	noto'g'ri signal
+
+194.	Statik tahlilda qo'llaniladigan texnologiyalar
+-	Naqshni moslashtirish (naqsh asosidagi tahlil), Xulosa yozing, Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
+-	Xulosa yozing, Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
+-	Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
+-	Naqshni moslashtirish (naqsh asosidagi tahlil), Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
+
+195.	Bu qanday texnologiya 
+ 
+
+-	Naqshni moslashtirish (naqsh asosidagi tahlil)
+-	Xulosa yozing
+-	 Usul izohlari
+-	Ma'lumotlar oqimini tahlil qilish
+-	Ramziy ijro
+196.	Bu qanday texnologiya 
+ 
+-	Xulosa yozing
+-	Naqshni moslashtirish (naqsh asosidagi tahlil)
+-	Usul izohlari
+-	Ma'lumotlar oqimini tahlil qilish
+-	Ramziy ijro
+
+197.	Bu qanday texnologiya 
+ 
+-	Usul izohlari 
+-	Naqshni moslashtirish (naqsh asosidagi tahlil)
+-	Xulosa yozing
+-	 Ma'lumotlar oqimini tahlil qilish
+-	Ramziy ijro
+
+
+198.	Bu qanday texnologiya 
+ 
+-	Ma'lumotlar oqimini tahlil qilish
+-	Naqshni moslashtirish (naqsh asosidagi tahlil)
+-	Xulosa yozing
+-	 Usul izohlari
+-	Ramziy ijro
+
+
+199.	Bu qanday texnologiya 
+ 
+-	Ramziy ijro
+-	Naqshni moslashtirish (naqsh asosidagi tahlil)
+-	Xulosa yozing
+-	 Usul izohlari
+-	Ma'lumotlar oqimini tahlil qilish
+
+200.	Kompilyator qanday vazifani bajarayapti ? 
+ 
+-	Kompilyator buferni qayta yozish kodini olib tashlaydi
+-	Kompilyator bufer kodini olib tashlaydi
+-	Kompilyator keraksiz kodni olib tashlaydi
+-	Kompilyator buzilgan kodni olib tashlaydi
 
 
 
