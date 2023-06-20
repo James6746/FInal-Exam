@@ -1,1246 +1,997 @@
-1.	Statik tahlil sinovdan o‘tayotgan dasturiy ta'minotning dinamik bajarilishini ….
--  o‘z ichiga olmaydi;
-- o‘z ichiga oladi;
-- ta'minlaydi;
-- ta'minlamaydi;
-
-2.	Statik tahlil dasturni ishga tushirishdan oldin yuzaga kelishi mumkin bo‘lgan nuqsonlarni dastlabki bosqichda …..
-- aniqlay oladi;
-- aniqlay olamadi;
-- faqat o‘rganadi;
-- o‘rganmaydi.
-
-3.	……….kodlashdan so‘ng va birlamchi sinovlarini bajarishdan oldin amalga oshiriladi.
--	statik tahlil;
--	iqtisodiy tahlil;
--	dinamik tahlil;
--	moliyaviy tahlil.
-
-4.	      Statik tahlilni manba kodini avtomatik ravishda 'Yurish' va mos kelmaydigan qoidalarni aniqlash uchun …..
--	mashina amalga oshirishi mumkin;
--	mashina amalga oshira olmaydi;
--	qo‘l mehnati talab etiladi;
--	foydalaniladi.
-
-5.	Statik tahlilning asosiy afzalligi shundaki, u integratsiya va keyingi sinovlarga tayyor bo‘lguncha…………..
-- kod bilan bog'liq muammolarni topadi;
-- kod bilan bog'liq muammolarni topmaydi;
-- muammolarni bartaraf etmaydi;
-- muammolarni o‘rganmaydi.
-
-6.	Statik kodni tahlil qilishning afzalligi:
-
--	manba kodini boshqa yoki kelajakdagi ishlab chiquvchilar osongina tushunishlari mumkin;
--	kodning zaif tomonlarini aniq joyda topmaydi;
--	muammolarni bartaraf etmaydi;
--	muammolarni o‘rganmaydi.
-
-7.	Statik kod tahlilining cheklovlari:
--	agar tahlil qo‘lda o‘tkazilsa, bu ko‘p vaqt talab etadi;
--	muammolarni bartaraf etmaydi;
--	muammolarni o‘rganmaydi;
--	kodning zaif tomonlarini aniq joyda topmaydi;
-
-
-8.	Kodni dinamik tahlil qilishning afzalliklari:
--	bu ish vaqti muhitidagi zaifliklarni aniqlaydi;
--	muammolarni bartaraf etmaydi;
--	muammolarni o‘rganmaydi;
--	kodning zaif tomonlarini aniq joyda topmaydi.
-
-9.	Dinamik kod tahlilining cheklovlari:
--	аvtomatlashtirilgan vositalar, hamma narsa hal qilinayotgani to‘g'risida noto‘g'ri ma'lumot beradi;
--	muammolarni bartaraf etmaydi;
--	muammolarni o‘rganmaydi;
--	kodning zaif tomonlarini aniq joyda topmaydi.
-
-10.	Agar vaqt o‘tgan sari tizim holati yoki tizim holati bilan birga uning tarkibiy tuzilmasi ham o‘zgarsa, bunday tizim ............deb ataladi.
--	dinamik tizim;
--	statik tizim;
--	klassik tizim;
--	evolyusion tizim.
-
-11.	  Аgar vaqt o‘tgan sari tizimning holati va tarkibiy tuzilmasi o‘zgarmasa, bunday tizim ............deb ataladi.
-- statik tizim;
-- dinamik tizim;
-- klassik tizim;
-- evolyusion tizim.
-
-12.	 Dinamik tizimlar o‘z navbatida klassik va evolyusion tizimlarga bo‘linadi. Agar vaqt o‘tgan sari tizim holati o‘zgarib, uning tarkibiy tuzilmasi o‘zgarmasa, bunday dinamik tizim .............deb ataladi.
-- klassik tizim;
-- statik tizim;
-- dinamik tizim;
-- evolyusion tizim.
-
-13.	Dinamik tizimlar o‘z navbatida klassik va evolyusion tizimlarga bo‘linadi. Agar vaqt o‘tgan sari tizim holati o‘zgarib, uning tarkibiy tuzilmasi o‘zgarsa, bunday dinamik tizim ............deb ataladi.
--	evolyusion tizim;
--	klassik tizim;
--	statik tizim;
--	dinamik tizim.
-
-14.	Jinoyatga qarshi kurashish tizimida vaqt o‘tgan sari haq to‘lash fondida moliyaviy mablag‘lar etishmasligi sababli tergovchilar maoshi kamayib ketdi. Bu esa jinoyatlarni fosh qilish darajasining tushib ketishiga sabab bo‘ldi, chunki tizimda qo‘nimsizlik oshib ketdi. Shu bilan birga, tizimning tashkiliy-funksional, moddiy-texnik tuzilmasi va hokazo tuzilmalari saqlanib qoldi. Bu misol qaysi bir tizimga xos?
-- klassik;
-- statik;
-- dinamik;
-- evolyusion.
-
-
-15.	 Ko‘p qavatli uyning holati o‘n yildan keyin quvurlarni alishtirish va devorlarni oxaklash kabi ta’mirlash ishlarini amalga oshirishni talab qildi, lekin uyning arxitekturali tuzilmasi saqlanib qoldi. Bu misol qaysi bir tizimga xos?
-- klassik;
-- statik;
-- dinamik;
-- evolyusion.
-
-16.	Oliy Majlis oldin bir palatali edi, lekin vaqt o‘tgan sari uning tashkiliy-funksional tuzilmasi o‘zgardi – ya’ni, u ikki palatali bo‘ldi va buning natijasida qonun chiqaruvchi hokimiyati organlari tizimi takomillashdi. Bu misol qaysi bir tizimga xos?
-- evolyusion;
-- statik;
-- dinamik;
-- klassik.
-
-17.	Statik tahlil usullariga quyidagilardan qaysi birini kiritish mumkin?
--	tahlil, sintez, induksiya, deduksiya, аnalogiya, ideallashtirish, saralab olish, konkretlashtirish, tasniflash;
--	faqat umumlashtirish, induksiya va deduksiya;
--	faqat аnalogiya, ideallashtirish va saralab olish;
--	faqat tahlil va sintez.
-
-18.	Agar tizim tashqaridan o‘rganilsa, tizimning tashqi muhit bilan o‘zaro aloqasi yoki tizimning funksiyalari ko‘rib chiqiladi, ya’ni bu erda ..........qo‘llaniladi.
--	funksional yondashuv;
--	klassik yondashuv;
--	keynscha yondashuv;
--	neoklassik yondashuv.
-
-19.	Agar tizim ichkaridan o‘rganilsa, tizimning tuzilmasi, tarkibiy qismlari va ular orasidagi o‘zaro aloqalar ko‘rib chiqiladi, ya’ni bu – 
--	tuzilmaviy yondashuvni qo‘llash jarayonidir;
--	funksional yondashuv;
--	klassik yondashuv;
--	neoklassik yondashuv.
-
-20.	Tuzilmaviy yondashuv ...
--	tizimning qanday tuzilganligi, qanday qismlardan tarkib topganligi va ular qanday bog‘liqligini o‘rganishda qo‘llaniladi;
--	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish va shu asosda tizimning dinamik hususiyatlari haqida xulosalar chiqarishga qaratilgan;
--	beshta bosqichdan iborat bo‘ladi;
--	uch bosqichdan iborat bo‘ladi.
--	
-21.	Tuzilmaviy yondashuv ... bosqichdan iborat bo‘ladi
--	ikkita bosqichdan iborat bo‘ladi;
--	bitta bosqichdan iborat bo‘ladi;
--	beshta bosqichdan iborat bo‘ladi;
--	uch bosqichdan iborat bo‘ladi.
-
-22.	Tuzilmaviy yondashuv ikkita bosqichdan iborat bo‘ladi: 
--	boshida tizimning barcha muhim qismlari aniqlanadi va ular elementlar sifatida namoyon qilinadi; keyin tizimning tuzilmasi aniqlanadi;
--	tizimning barcha muhim qismlari aniqlanadi va ular elementlar sifatida namoyon qilinadi; keyin tizimning funksiyasi aniqlanadi;
--	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish va shu asosda tizimning dinamik hususiyatlari haqida xulosalar chiqarish;
--	yuqori va quyi.
-
-23.	Tizimli yondashuvdan oldin tuzilmaviy va funksional yondashuvlar amalga oshirilgan bo‘lishi.......
--	shart;
--	shart emas;
--	muhim;
--	maqsadga muvofiq.
-
-24.	Tizimli yondashuvni tor ma’noda…….
--	 tuzilmaviy va funksional yondashuvlar sintezi sifatida ko‘rsa bo‘ladi;
--	klassik va neoklassik yondashuvlar sintezi sifatida ko‘rsa bo‘ladi;
--	klassik va keynscha yondashuvni bildiradi;
--	funksional va klassik yondashuvni anglatadi.
-
-25.	Keng ma’noda tizimli yondashuv, tizim ishlashining samaradorligini o‘rganishni, ya’ni …………………….ham o‘zida qamrab oladi.
--	texnik-iqtisodiy yondashuvni;
--	klassik va neoklassik yondashuvni;
--	klassik va keynscha yondashuvni;
--	funksional va klassik yondashuvni.
-
-26.	Dinamik yondashuv ……
--	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish va shu asosda tizimning dinamik hususiyatlari haqida xulosalar chiqarishga qaratilgan;
--	faqat tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqishga qaratilgan;
--	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqishga qaratilmagan;
--	faqatgina tizimning dinamik hususiyatlari haqida xulosalar chiqarishga qaratilgan.
-
-27.	Tizimning dinamikasi deganda ……..
--	 uning holati, tuzilmasi, funksiyalari, ishlashi samaradorligining vaqt o‘tishi bilan o‘zgarib borishi tushuniladi;
--	uning holati, tuzilmasi, funksiyalari, ishlashi samaradorligining vaqt o‘tishi bilan o‘zgarmasligi tushuniladi;
--	tizim elementlari va uning quyi tizimlarining dinamik modellarini ishlab chiqish tushuniladi;
--	tizimning dinamik hususiyatlari haqida xulosalar chiqarish tushuniladi.
-
-28.	Tizimning dinamik o‘zgarishini …….. dinamik o‘zgarish turlariga tasniflasa bo‘ladi.
--	klassik (orqaga qayta oladigan) va noklassik (orqaga qayta olmas, evolyusion);
--	 klassik va keynscha;
--	funksional va klassik; 
--	texnik-iqtisodiy.
-
-29.	     ............ tizimlar, vaqt o‘tishi sari, albatta, evolyusion va orqaga qaytmas tarzda o‘zgarishadi.
--	biologik va ijtimoiy;
--	revolusion;
--	klassik;
--	keynscha.
-30.	“Tizim” tushunchasi   .....   so‘zdan olingan.
--	grekcha;
--	italyancha;
--	ruscha;
--	inglizcha.
-
-31.	“Tizim” grekchadan  -   ……
--	bir-biri bilan bog‘langan va o‘zaro munosabatlarda bo‘lgan va aniq butunlikni, birlikni hosil qiladigan ko‘plab elementlardir;
--	bir-biri bilan bog‘langan va o‘zaro munosabatlarda bo‘lgan sanoqli elementlardir;
--	aniq butunlikni, birlikni hosil qilmaydi;
--	o‘zaro munosabatlarda bo‘lgan elementlardir.
-
-32.	“Tizim” – 
--	qismlardan tuzilgan bir butun, bog‘lanish ma’nosini anglatadi;
--	qismlarga bo‘linish ma’nosini bildiradi;
--	umumlashtirish ma’nosini anglatadi;
--	harakat ma’nosini anglatadi.
--	
-33.	Tizimlar bir-biridan ……………..
--	tarkibi va qanday maqsadda qo‘llanilishi bilan farqlanadi;
--	bir xil maqsadda qo‘llanilishi bilan tavsiflanadi;
--	tarkiban bir xil bo‘lishi bilan ko‘zga tashlanadi;
--	farqlanmaydi.
-
-34.	Element .........
--	 tizimning uzviy qismi bo‘lib, u tashqi xususiyatlari nuqtai nazaridan bo‘linmaydigan mustaqil ob’ekt deb tushuniladi;
--	tashqi xususiyatlari nuqtai nazaridan bo‘linadigan mustaqil ob’ektdir;
--	mustaqil ob’ektdir;
--	tizimning uzviy qismi emas.
--	
-35.	Tizimni tahlil qilish jarayonida uni 
--	quyi tizimlarga bo‘lish mumkin;
--	quyi tizimlarga bo‘lish mumkin emas;
--	umumlashtirish kerak;
--	sintez qilish kerak;
-
-36.	Quyi tizim - ……
--	tizimdan ma’lum qoidaga binoan ajratilgan, tabiati ixtiyoriy, o‘zaro bog‘langan elementlarning bir qism to‘plami;
--	o‘zaro bog‘lanmagan elementlarning bir qism to‘plami;
--	mustaqil tizim deb qaralmaydi;
--	tizimning uzviy qismi emas.
-
-37.	Har qanday tizim ….
--	quyi tizimdan iborat;
--	quyi tizimdan iborat emas;
--	mustaqil tizim deb qaralmaydi;
--	quyi tizimlarga bo‘linmaydi.
-
-38.	Agar tizim kirish va chiqish yo‘llariga ega bo‘lsa, ya’ni tizimlar ma’lum vaqtda modda, energiya, axborot kirgizish va chiqarish imkoniyatlari mavjud bo‘lsa, bu tizimga tarkibiy ob’ekt sifatida qaraladi va bu tizim…….
--	 dinamik tizim xisoblanadi;
--	static tizim xisoblanadi;
--	quyi tizim xisoblanadi;
--	muqobil tizim xisoblanadi.
-
-39.	Ob’ektni tizim deb hisoblash uchun u nechta xususiyatga ega bo‘lishi lozim
--	to‘rta;
--	uchta;
--	ikkita;
--	bitta.
-
-40.	Ob’ektni tizim deb hisoblash uchun u qanday xususiyatlarga ega bo‘lishi lozim?
--	yaxlitlilik, aloqalar, tashkil etish va integrativ sifatlar;
--	faqat yaxlitlilik, aloqalar va tashkil etish;
--	faqat yaxlitlilik;
--	faqat aloqalar va tashkil etish.
-
-41.	Tizim elementlari o‘rtasida …..
--	jiddiy aloqalar mavjud;
--	jiddiy aloqalar mavjud emas;
--	aloqalar umuman y o‘q;
--	aloqalar kuchsiz.
-
-
-
-42.	Tizimning paydo bo‘lishi uchun ………
--	tartibga solingan aloqalarni shakllantirish, ya’ni aniq tuzilmasi, tizimni tashkil etish kerak;
--	tizimni o‘rganish kerak;
--	tizimni tahlil qilish kerak;
--	aloqalarni kuchaytirish kerak;
-
-43.	Tizimda integrativ sifatlarning mavjudligi  ……..
--	tizimga umumiy holda xos, ammo ularning biror bir elementiga alohida tegishli bo‘lmagan sifatdir;
--	tizimga umumiy holda xos emas;
--	tizimning biror bir elementiga ham xos bo‘lgan sifatdir;
--	tizimni tahlil qilish kerakligini anglatadi.
-
-44.	Tizimli tadqiqotlar deganda  ………..
--	 ilmiy nazariyalar, konsepsiyalar va usullarning birlashmasi tushuniladi;
--	tizimni tahlil qilish kerakligi tushuniladi;
--	tizimni o‘rganish tushuniladi;
--	tizimda aloqalarni kuchaytirish tushuniladi.
-
-45.	Tizimli tadqiq etishning asosiy vazifalari: 
--	tizim elementlari, aloqalari va strukturasini, elementlar o‘rtasidagi bog‘liqlikni ajratishdir;
--	tizim elementlari, aloqalari va strukturasini, elementlar o‘rtasidagi bog‘liqlikni o‘rganishdir;
--	tizimni tahlil qilishdir;
--	tizimda aloqalarni kuchaytirishdir.
-
-
-46.	Tizimli tahlil uning qanday asosiy xususiyatlariga muvofiq amalga oshiriladi?
--	murakkablik, ierarxiya, yaxlitlik, tuzilish;
--	oddiylik va 	murakkablik;
--	quyi va yuqori darajalilik;
--	faqat murakkablik va ierarxiya.
-
-	
-47.	 Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
--	qaror qabul qilishdan oldin, qarorga tegishli barcha axborotni oling;
--	ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-
-48.	 Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
--	agar biror narsa siz uchun noma’lum bo‘lib qolganligini sezsangiz, qaror qabul qilmang;
--	ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-
-49.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
--	o‘zingizga hayajonli va shubhali xulosalar chiqarishga imkon bermang. Muammoga xolis va sovuqqon holda yondashing;
--	ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-50.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
--	Qaror qabul qilishda mantiqiy yondashishga harakat qiling;
--	ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-
-51.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
--	barchani qoniqtiradigan variantni topishga harakat qilmang, chunki buning sira iloji yo‘q;
--	ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-
-52.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
--	me’yor darajasida tavakkal (risk) qilishni o‘rganing, lekin juda ehtiyot bo‘ling;
--	ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-
-53.	Amerikalik sotsiolog olim B.Rapoportning boshqaruv qarorlarini qabul qilish qoidalaridan biri:
-- xato qilishdan aslo qo‘rqmang;
-- ko‘plab axborot yig‘ish shart emas;
--	qaror qabul qilishda mantiqiy yondashish shart emas;
--	muammoni ko‘tarmaslikka harakat qiling.
-54.	 Aнтагонистик ўйинлар назариясининг асосчиси:
--	Djon fon Neyman;
--	Albert Eynshteyn;
--	Nils Bor;
--	Grigoriy Perelman.
-
-55.	Ziddiyatli vaziyatlarda ikkita yoki bir necha tomon bir biriga qarshi yurishsa ......
--	 ziddiyatli holat vujudga keladi;
--	ziddiyatli holat vujudga kelmaydi;
--	diplomatik munosabatlar o‘rnatish kerak;
--	harbiy vaziyatda urush boshlanadi.
-
-56.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
--	 bozordagi sotuvchi va xaridor; o‘zaro raqobatdosh firmalar; 
--	o‘qituvchi va talaba o‘rtasidagi munosabat;;
--	ota va ona o‘rtasidagi munosabat;
--	guruhdoshlar o‘rtasidagi munosabat.
-
-57.	 Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
--	urush holatida bo‘lgan tomonlarning harbiy harakatlari;
--	o‘qituvchi va talaba o‘rtasidagi munosabat;;
--	ota va ona o‘rtasidagi munosabat;
--	guruhdoshlar o‘rtasidagi munosabat.
-
-
-58.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
--	sport musobaqalari; 
--	o‘qituvchi va talaba o‘rtasidagi munosabat;;
--	ota va ona o‘rtasidagi munosabat;
--	guruhdoshlar o‘rtasidagi munosabat.
-59.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
--	prokuror va advokat qarorlari; 
--	o‘qituvchi va talaba o‘rtasidagi munosabat;;
--	ota va ona o‘rtasidagi munosabat;
--	guruhdoshlar o‘rtasidagi munosabat.
-
-
-60.	Ziddiyatli vaziyatlarga quyidagilardan qaysi biri misol bo‘la oladi?
--	jinoyatchi va tergovchi harakatlari; 
--	o‘qituvchi va talaba o‘rtasidagi munosabat;
--	ota va ona o‘rtasidagi munosabat;
--	guruhdoshlar o‘rtasidagi munosabat.
-
-
-61.	O‘yinlar nazariyasi - ziddiyatli vaziyatlarni ....
--	matematik modellashtirish bilan shug‘ullanadigan matematik ilmiy yo‘nalish;
--	imitatsion modellashtirish bilan shug‘ullanadigan ilmiy yo‘nalish;
--	malumotlarni modellashtirish bilan shug‘ullanadigan ilmiy yo‘nalish;
--	iqtisodiy modellashtirish bilan shug‘ullanadigan ilmiy yo‘nalish.
-
-62.	 O‘yinlar nazariyasining asosiy maqsadi, ziddiyatli vaziyat ishtirokchilari uchun ratsional strategiyalarni tanlash ………. hisoblanadi.
--	usullarini ishlab chiqish;
--	dasturlarini ishlab chiqish;
--	rejalarini ishlab chiqish;
--	matritsasini ishlab chiqish.
-
-63.	 O‘yinlar nazariyasi fanidagi asosiy tushunchalarni ko‘rsating: 
--	o‘yin, o‘yinchi, yutuq, strategiya, optimal strategiya, to‘lov matritsasi;
--	variatsiya va dispersiya;
--	induksiya va deduksiya;
--	tahlil va sintez.
-
-64.	To‘lov matritsasi -  bu …………….
--	o‘yinchilar yurishlarining kombinatsiyalarini va ularga tegishli yutuqlarni ko‘rsatuvchi jadval;
--	to‘lov tizimi;
--	matematik formula;
--	bu o‘yinlar nazariyasi atamasi emas.
-
-65.	Antogonistik o‘yin – bu………
--	 o‘yinlar nazariyasi atamasi hisoblanib, unda yutuqlari qarama-qarshi bo‘lgan ikki yoki undan ortiq o‘yinchilar bo‘ladi va hamkorliksiz o‘ynaladigan o‘yindir;
--	o‘yinlar nazariyasi atamasi hisoblanmaydi;
--	hamkorlik bilan o‘ynaladigan o‘yindir;
--	bitta o‘yinchi bo‘ladi.
-
-66.	 Xar juftlik strategiyalarida yutuqlar yig‘indisi ……… teng bo‘lgan o‘yin - antagonistik o‘yin.
--	nolga;
--	yuzga;
--	millionga;
--	milliardga.
-
-
-67.	 Agar o‘yinda ikkita ishtirokchi bo‘lsa, u holda antagonistik o‘yin – shunday o‘yinki, undagi bir o‘yinchining yutug‘i ikkinchi o‘yinchining ......
--	yutkazishiga teng bo‘ladi;
--	yutishiga teng bo‘ladi;
--	yo‘q bo‘lishiga sabab bo‘ladi;
--	o‘limiga sabab bo‘ladi.
-
-68.	 Antagonistik o‘yinda quyidagilardan  kaysilari berilgan bo‘lishi shart?
--	birinchi o‘yinchining strategiyalari, ikkinchi o‘yinchining strategiyalari, to‘lov matritsasi;
--	faqat to‘lov matritsasi;
--	faqat birinchi o‘yinchining strategiyalari;
--	faqat ikkinchi o‘yinchining strategiyalari.
-
-69.	 Mashhur olim ........noantagonistik o‘yinlar nazariyasining asoschisi sifatida e’tirof etiladi.
--	Djon Nesh;
--	Albert Eynshteyn;
--	Nils Bor;
--	Grigoriy Perelman.
-
-
-70.	Noantagonistik o‘yindagi asosiy farazlardan birini korsating:
- - o‘yinchilar ratsional (oqilona) qarorlarni qabul qiladi; 
--  o‘yinchilar ratsional (oqilona) qarorlarni qabul qilmaydi;
-- o‘yinchilar strategik harakatlarni amalga oshirmaydi;
-- statik o‘yinlarda o‘yinchilar bir vaqtda yurishmaydi.
-
-71.	 Xar juftlik strategiyalarida yutuqlar yig‘indisi ………..teng bo‘lmagan o‘yin - noantagonistik o‘yinlar hisoblanadi.
--	nolga;
--	yuzga;
--	millionga;
--	milliardga.
-
-72.	Statik o‘yinlarda ………..
--	o‘yinchilar bir vaqtda yuradilar;
--	o‘yinchilar turli vaqtda yuradilar;
--	 o‘yinchilar ketma-ket yurishadi;
--	o‘yinchilar umuman yurishmaydi.
-
-73.	 Dinamik o‘yinlarda …………
--	o‘yinchilar ketma-ket yurishadi;
--	o‘yinchilar bir vaqtda yuradilar;
--	o‘yinchilar turli vaqtda yuradilar;
--	o‘yinchilar umuman yurishmaydi.
-74.	 Statistik kuzatish deganda ......
--	o‘rganiladigan ommaviy ijtimoiy hodisa va voqealar bo‘yicha kerakli bo‘lgan ma’lumotlarni to‘plash, yig‘ish jarayoni tushuniladi;
--	ma’lumotlarni o‘rganish jarayoni tushuniladi;
--	ma’lumotlarni tahlil qilish jarayoni tushuniladi;
--	ma’lumotlarni sintez qilish jarayoni tushuniladi;
-
-75.	 Statistik kuzatishning uslubiy dasturi qanday qismlardan tashkil topgan?
--	kuzatish maqsadi va vazifalari, kuzatish dasturi, kuzatish obyekti, kuzatish birligi;
--	faqat kuzatish dasturi va kuzatish obyekti;
--	faqat kuzatish maqsadi va vazifalari;
--	kuzatish obyekti va kuzatish birligi.
-
-76.	Kuzatish obyekti deganda …….
--	o‘rganiladigan ijtimoiy hodisalar birliklarining to‘plami tushuniladi;
--	o‘rganiladigan ijtimoiy hodisalar tushuniladi;
--	ma’lumotlarni o‘rganish jarayoni tushuniladi;
--	ma’lumotlarni tahlil qilish jarayoni tushuniladi;
-
-77.	Hodisalarni qayd qilishda sodir bo‘ladigan xatolarni qanday ikki turga ajratish mumkin?
--	tasodifiy va muntazam xatolar;
--	 takrorlanmas  va davriy xatolar;
--	 tabiiy va davriy xatolar;
--	unitilmas xatolar.
-
-78.	 Svodkalash …..
--	 oddiy va murakab svodkalashlarga  bo‘linadi;
--	takrorlanmas  va davriy svodkalashlarga  bo‘linadi;
--	tabiiy va davriy svodkalashlarga  bo‘linadi;
--	darajali svodkalashlarga  bo‘linadi.
-
-79.	Oddiy svodkalash deganda olingan ma`lumotlarni guruhlarga ……to‘plam bo‘yicha umumiy yakunlarni chiqarish tushuniladi.
--	bo‘lmasdan;
--	bo‘lib;
--	ajratib;
--	kiritib.
-
-
-80.	Murakkab svodkalash deyilganda ma`lumotlarni dasturda ko‘zda tutilgan belgilar asosida  ayrim  guruhlarga …..
--	bo‘lib o‘rganish tushuniladi;
--	bo‘lmasdan;
--	ajratib;
--	kiritib.
-
-81.	Statistik ………….deb, ijtimoiy hodisa va jarayonlarni chuqur va har tomonlama o‘rganish maqsadida eng muhim, xarakterli belgilar bo‘yicha bir xil guruh va guruhchalarga ajratib o‘rganishga aytiladi.
--	guruhlash;
--	kuzatuv;
--	svodkalash;
--	integrasiya.
-
-82.	 Guruhlashni samaradorlik darajasi bo‘yicha......... guruhlarga bo‘lish mumkin:
--	ilg`or, o‘rta, qoloq;
--	yirik, o‘rta, kichik;
--	davlat, jamoa, xususiy;
--	katta va kichik.
-
-83.	 Guruhlashni katta kichikligiga qarab......... guruhlarga bo‘lish mumkin:
--	yirik, o‘rta, kichik;
--	ilg`or, o‘rta, qoloq;
--	davlat, jamoa, xususiy;
--	katta va kichik.
- 
-84.	Guruhlashni mulkchilik shakliga qarab ......... guruhlarga bo‘lish mumkin:
--	davlat, jamoa, xususiy;
--	yirik, o‘rta, kichik;
--	ilg`or, o‘rta, qoloq;
--	katta va kichik.
--	 
-85.	Ko‘zlangan maqsad va vazifalarni hal qilish nuqtayi nazaridan statistik guruhlash 3 turga:
--	tipologik, тuzulmaviy, analitik guruhlashlarga bo‘linadi;
--	yirik, o‘rta, kichik guruhlashlarga bo‘linadi;
--	ilg`or, o‘rta, qoloq guruhlashlarga bo‘linadi;
--	katta va kichik guruhlashlarga bo‘linadi.
-
-
-
-86.	Tipologik guruhlash yordamida to‘plamning turli xildagi birliklari sifat jihatdan............
--	bir xil guruhlarga, bir xil tiplarga ajratiladi;
--	har xil guruhlarga, har xil tiplarga ajratiladi;
--	o‘rganiladi;
--	o‘rganilmaydi;
-
-87.	Tuzilmaviy guruhlash yordamida bir xil tipdagi, sifat  jihatidan bir xil bo‘lgan bo‘lgan guruhlarning …………….
-- salmog`i hisoblanadi;
-- salmog`i hisoblanmaydi; 
-- o‘zaro bog`lanishi o‘rganiladi;
-- o‘zaro bog`lanishi o‘rganilmaydi.
-
-88.	Analitik guruhlash yordamida hodisalar o‘rtasidagi …..
--	o‘zaro bog`lanish o‘rganiladi;
--	o‘zaro bog`lanish o‘rganilmaydi;
--	munosabat o‘rganiladi;
--	munosabat o‘rganilmaydi.
-
-89.	 Svodkalash va guruhlash natijalari……………
--	jadval ko‘rinishida ifodalanadi;
--	jadval ko‘rinishida ifodalanmaydi;
--	o‘zaro bog`lanishda o‘rganiladi;
--	o‘zaro bog`lanishda o‘rganilmaydi.
-
-90.	 Statistikadagi jadvallar tuzilishi jihatidan……..
--	tikka va yotiq chiziqlarning kesishmasidan tashkil topadi;
--	tikka va yotiq chiziqlarning kesishmasidan tashkil topmaydi;
--	faqat tikka chiziqlardan tashkil topadi;
--	faqat yotiq chiziqlardan tashkil topadi.
-
-91.	Ega xarakteriga qarab, statistik jadvallar ............ jadvallar ga bo‘linadi.
--	oddiy, guruhiy, kombinatsion;
--	murakkab, chiziqli, chiziqsiz;
--	murakkab, chiziqli, kombinatsion;
--	murakkab, chiziqsiz, kombinatsion;
-
-92.	...................jadvallar deyilganda, egasi faqat hodisalar yillar, obyektlar ro‘yhatidan tashkil topgan jadvallar tushuniladi. Bu yerda xech qanday ishlov berilmasdan, to‘g`ridan to‘g`ri boshlang`ich kuzatish materiallaridan olinadi.
--	оddiy;
--	guruhiy;
--	kombinatsion;
--	chiziqsiz.
-93.	 Jadval egasi biron-bir belgi bo‘yicha guruhlarga ajratilgan bo‘lsa, bunday jadvallar …………… deyiladi. 
--	guruhiy jadvallar;
--	оddiy;
--	kombinatsion;
--	chiziqli.
-
-94.	Agar muhim belgi  bo‘yicha guruhlangan jadval egasi yana guruhchalarga ajratilsa yoki jadval kesimi ham guruhlangan ko‘rinishda bo‘lsa, u holda bunday jadvallar .................. deyiladi.
-
--	kombinatsion;
--	guruhiy jadvallar;
--	оddiy;
--	chiziqsiz.
-
-95.	“Variatsiya” so‘zi lotincha “variatio” so‘zidan kelib chiqqan bo‘lib, .......
--	o‘zgarish, farq, tebranish manosini bildiradi;
--	to‘plam birliklarining o‘rtachasini bildiradi;
--	to‘plam birliklarining eng kattasini bildiradi;
--	to‘plam birliklarining eng kichigi manosini bildiradi;
-
-96.	O‘rganilayotgan belgining ……………….. variatsiyalari bo‘ladi.
--	tasodifiy va surunkali;
--	оddiy va murakkab;
--	chiziqli va chiziqsiz;
--	guruhiy va kombinatsion.
-
-97.	Tasodifiy variatsiyani …….
--	boshqarib bo‘lmaydi;
--	boshqarib bo‘ladi;
--	ta’sir o‘tkaziladi;
--	ta’sir ko‘rsatish mumkin.
-
-98.	Surunkali variatsiyaga qisman bo‘lsada,…………
--	ta’sir o‘tkazish mumkin;
--	boshqarib bo‘lmaydi;
--	ta’sir o‘tkazish mumkin emas;
--	ta’sir o‘tkazib bo‘lmaydi.
-
-
-99.	Variatsion kenglik (R)  deganda, belgining ................tushuniladi.
--	eng katta va kichik hadlari orasidagi farq (tafovut);
--	yuqori va quyi hadlari;
--	maksimal va minimal qiymati;
--	eng  katta qiymati.
-
-100.	Statistika jadvallari tarihiga nazar tashlaydigan bo‘lsak, ularni birinchi bo‘lib …………………………….. o‘zining iqtisodiy-statistik tadqiqoti “Butun Rossiya davlatini gullash darajasi” (1727 y.) asarida qo‘llagan.
--	buyuk rus olimi N.K.Kirilov;
--	ingliz olimi Peterson;
--	xitoy olimi Bao Li;
--	xind olimi Arshmi.
- 
-101.	Statistik jadvallar ……..
--	XVIII asrda paydo bo‘lgan;
--	XV asrda paydo bo‘lgan;
--	X asrda paydo bo‘lgan;
--	XII asrda paydo bo‘lgan.
-
-102.	Statistik jadvallar deb, o‘rganilayotgan hodisa va voqealar to‘grisidagi ma'lumotlarni …………
--	tartibli, ko‘rgazmali ifodalashga aytiladi; 
--	tartibsiz ifodalashga aytiladi;
--	tahlil qilishga aytiladi;
--	sintez qilishga aytiladi.
-
-103.	Gorizontal chiziqlar - ………… vertical – ..........deyiladi.
--	qatorlar, ustunlar; 
--	chiziqli, chiziqsiz;
--	oddiy, murakkab;
--	juft, toq.
-
-104.	Tuzilgan, lekin raqamlar bilan to‘ldirilmagan jadvalni, statistik jadvalning ……………deyiladi.
--	maketi;
--	ustuni;
--	qatori;
--	usuli.
-
-
-105.	Har qanday tuzilgan va to‘ldirilgan jadval ………………….
--	umumiy nomga ega bo‘lishi kerak;
--	umumiy nomga ega bo‘lishi kerak emas;
--	jadvalning umumiy nomi uni tagida keltirilishi kerak;
--	jadval faqat qatorlardan iborat bo‘ladi.
-
-106.	Statistik jadvallar, ega harakteriga qarab: …………..jadvallarga bo‘linadi.
--	oddiy; guruhiy (gruppali); kombinacion;
--	murakkab, guruhiy (gruppali); 
--	analitik, tipologik;
--	mahsus tayinlangan.
-
-107.	Statistik jadvallar, kesim harakteriga qarab: ........ jadvallarga bo‘linadi.
--	kesimi oddiy ishlab chizilgan; kesim kombinaciya ishlab chiqilgan;
--	murakkab, guruhiy (gruppali); 
--	analitik; tipologik;
--	mahsus tayinlangan.
-
-108.	Statistik jadvallar, guruhlash maqsadi bo‘yicha: ...............jadvallarga bo‘linadi.
--	informaciya tavsifli; analitik; tipologik; mahsus tayinlangan;
--	murakkab, guruhiy (gruppali); 
--	analitik; tipologik;
--	mahsus tayinlangan.
-
-109.	Jadvaldagi qatorlar va ustunlar ....................... 
--	nomlanadi va iloji boricha nomerlanadi;
--	nomlanmaydi va nomerlanmaydi;
--	faqat nomerlanadi;
--	bir xil nomlanishi kerak.
-
-110.	Oddiy jadvallar deb,......... jadvallarga aytiladi.
--	egasi faqat hodisalar, yillar, ob'ektlar ro‘yhatidan tashkil topgan;
--	qatorlar, ustunlardan tashkil topgan lekin nomlanmagan; 
--	faqat ustunlardan tashkil topgan;
--	faqat qatorlardan tashkil topgan.
-
-111.	Oddiy jadvallar, ma'lumotlarni berilishiga qarab ………...
--	sanoqli, territorial va xronologik jadvallarga bo‘linadi;
--	ob'ektlar ro‘yhatidan tashkil topgan bo‘ladi;
--	faqat ustunlardan tashkil topgan bo‘ladi;
--	faqat qatorlardan tashkil topgan bo‘ladi.
-
-
-112.	Agar o‘rganilayotgan to‘plam juda murakkab bo‘lsa, u qolda uni bitta jadval yordamida emas, balki.............................
--	bir-biri bilan boqlangan bir nechta jadvalda ifodalash zarur;
--	bir-biri bilan boqlanmagan bir nechta jadvalda ifodalash zarur;
--	bitta jadval yordamida ifodalash zarur;
--	ikkita jadvalda ifodalash zarur.
-
-
-113.	Jadvalning umumiy sarlavhasi uning mazmunining …… ifodasi bo‘lishi kerak.  
--	qisqa;
--	uzun;
--	ingliz tilidagi;
--	lotin alifbosidagi.
-
-114.	Jadvalda o‘zaro bogliq ma'lumotlar ………….keltiriladi.
--	yonma-yon;
--	boshqa ustunlarda;
--	boshqa ustun va qatorlarda;
--	boshqa qatorlarda.
-
-115.	Jadvalda ko‘rsatkichlar bir-birini tekshira oladigan ………….. tamoyilida joylashtirilishi kerak.
--	“soddadan murakkabga”;
--	“murakkabdan soddaga”;
--	quyidan yuqoriga;
--	yuqoridan quyiga.
-
-116.	Jadvallarda keltirilgan ma'lumotlar ……….
--	manbai ko‘rsatilishi kerak;
--	manbai ko‘rsatilmasa ham bo‘ladi;
--	faqat yili ko‘rsatilishi kerak;
--	faqat  muallifi ko‘rsatilishi kerak.
-
-117.	Birinchi bo‘lib statistik ma'lumotlarni grafiklarda tasvirlanishiga asos solgan olimni ko‘rsating:
--	ingliz iqtisodchisi U.Pleyf (1786);
--	ingliz iqtisodchisi J. Keyns (1930);
--	Albert Eynshteyn  (1910);
--	Isaac Newton (1700).
-
-118.	Statistik grafiklar – bu … ……………………………………
-- raqamli miqdorlar va ularning nisbatini nuqta, chiziq, figura va boshqa geometrik shaklda shartli tasvirlanishidir;
-- raqamli miqdorlar va ularning nisbati faqat nuqta shaklda shartli tasvirlanishidir;
-- faqat qatorlar va ustunlardan tashkil topgan tasvirlardir;
-- umumiy nomga ega bo‘lmaydi.
-
-119.	Grafik tasvirning asosiy elementlari: 
--	grafik obraz; grafik maydon; grafik maydon o‘lchov birliklari; masshtab; shkala; grafik talqin;
--	faqatgina grafik obraz; grafik maydon;
--	faqat grafik maydon o‘lchov birliklari;
--	shkala va grafik talqin.
-
-120.	………….. statistik grafiklarda  raqamlar bilan ifodalangan ko‘rsatkichlarni grafik maydonda tasviriy nisbatlarga aylantiradi.
--	masshtab;
--	shkala; 
--	 grafik;
--	grafik maydon.
-
-121.	…………….. quyidagi uch unsurdan iborat: shkala tayanchi, shkala raqamlari, shkala nuqtalar.
--	shkala; 
--	 grafik;
--	grafik maydon;
--	masshtab.
-
-122.	……………………………..aniq raqamlar kabi o‘qilishi mumkin bo‘lgan, nuqtalar bilan ajratilgan chiziq tushuniladi.
-shkala; 
- grafik;
-grafik maydon;
-masshtab.
-
-123.	………………..  grafikning mohiyatini, mazmunini so‘z bilan ifodalanishini ta'minlaydi.
-grafik talqin;
-grafik;
-grafik maydon;
-masshtab.
-
-
-
-124.	...................bu statistik ma'lumotlar ifodalanadigan nuqta, chizik va figuralar to‘plamidan iborat geometrik belgilardir.
-
-grafik tasvir;
-grafik talqin;
-grafik;
-masshtab.
-
-125.	......................grafikni hosil qiluvchi geometrik belgilar joylashtiriladigan maydondir. Grafik maydon o‘z vazifasiga qarab aniqlanadi.
-grafik maydon;
-grafik talqin;
-grafik;
-masshtab.
-
-
-126.	......................grafik tasvir joylashtiriladigan maydonning koordinatalar tizimi, ya'ni grafik maydonning o‘lchovini ifodalovchi to‘r.
-maydon o‘lchovlari;
-grafik talqin;
-grafik;
-masshtab.
-
-127.	Diagramma shakllari:
-ustunli diagrammalar, lentali diagrammalar, chiziqli diagrammalar, figurali diagrammalar, sektorli yoki doirasimon diagrammalar;
-ustunli diagrammalar, lentali diagrammalar, chiziqli diagrammalar;
-lentali diagrammalar, chiziqli diagrammalar;
-chiziqli diagrammalar, figurali diagrammalar, sektorli yoki doirasimon diagrammalar.
-
-128.	Jadvallar har xil turdagi chastotalarni aks ettirishi mumkin. Chastotalar shakllari:
-mutlaq, nisbiy va kumulyativ chastotalar;
-o‘rta va yuqori darajali chastotalar;
-o‘rta va quyi darajali chastotalar;
-quyi va yuqori darajali chastotalar.
-
-129.	Statistik ma'lumotlarni tahlil qilishda …………… bosqichni ajratish mumkin.
-analitik va tavsiflovch;
-o‘rta va yuqori darajali;
-o‘rta va quyi darajali;
-quyi va yuqori darajali.
-
-130.	……………….oxirgi bo'lib, u to'plangan ma'lumotlarning qulay shaklda - grafikalar, diagrammalar, boshqaruv panellarida taqdim etilishini o'z ichiga oladi.
-ta'riflovchi bosqich;
-o‘rta va yuqori darajali bosqich;
-o‘rta va quyi darajali bosqich;
-quyi va yuqori darajali bosqich.
-
-
-131.	Analitik bosqich usullari:
-statistik kuzatuv, ma'lumotlarning qisqacha mazmuni, mutlaq va nisbiy statistik qiymatni aniqlash, namuna olish usuli, korrelyatsiya va regressiya tahlili, vaqt qatori usuli;
-statistik kuzatuv, ma'lumotlarning qisqacha mazmuni, mutlaq va nisbiy statistik qiymatni aniqlash, namuna olish usuli,;
-namuna olish usuli, korrelyatsiya va regressiya tahlili, vaqt qatori usuli;
-ma'lumotlarning qisqacha mazmuni, mutlaq va nisbiy statistik qiymatni aniqlash, namuna olish usuli;
-
-132.	……………………natural, shartli natural va qiymat (pul) o‘lchov birliklarida ifodalanadi.
-mutlaq miqdorlar;
-nisbiy miqdorlar;
-o‘rtacha miqdorlar;
-chastotalar.
-
-133.	Ikki solishtirma mutlaq miqdorni taqqoslash natijasida olingan natijaga …………………….deyiladi.
-nisbiy miqdor;
-mutlaq miqdor;
-o‘rtacha miqdor;
-chastota.
-
-134.	Toshkent shahri mavjud aholisi 2018 yil boshiga kelib 3,4 mln.kishiga etdi deylik. Bu mutlaq miqdor oldingi yillarga nisbatan Toshkent shahri aholisi ko‘payganligi yoki ozayganligi haqida bizga .......
-ma'lumot bera olmaydi;
-ma'lumot bera oladi;
-xabar beradi;
-yordam beradi.
-
-
-135.	A4 qog'oz varag'ining chiziqli o'lchamlarini “Lomonosov” chinni zavodi tomonidan ishlab chiqarilgan mahsulotlar miqdori bilan taqqoslashimiz mumkinmi, bunday taqqoslash bizga biror narsa beradimi?
-y o‘q;
-ha;
-beradi;
-ha, beradi.
-
-136.	Agarda taqqoslanadigan miqdor birga tenglashtirib olinsa, u holda nisbiy miqdorlar ..............................    ifodalanadi.
-кoeffitsientda;
-sonlarda;
-chastotalarda;
-grafiklarda.
-
-137.	………………o‘rganilayotgan miqdor taqqoslanganga nisbatan necha marta katta, ko‘p yoki kichik ekanligini ko‘rsatadi.
-koeffitsient;
-sonlar;
-chastotalar;
-grafiklar.
-
-138.	Oziq-ovqat do‘konida dushanba kuni 6,60 mln. so‘mga tovarlar sotilgan, yakshanba kuni esa – 9,90 mln.so‘mga tovarlar sotildi. Agarda, 6,60 mln. so‘mni birga teng deb qabul qilsak, 9,90 mln. so‘m necha birlikni tashkil etadi va necha martta ko‘p tovarlar sotilgan? 
- (9,90:6,60) =1,5 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 1,5 marta ko‘p tovarlar sotilgan;
-(9,90х6,60) = 65,34 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 65,34 marta ko‘p tovarlar sotilgan;
-(9,90 - 6,60) = 3,3 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 3,3 marta ko‘p tovarlar sotilgan;
-(9,90 + 6,60) =16,5 birlikni. Demak oziq-ovqat do‘konida yakshanba kuni juma kuniga nisbatan 16,5 marta ko‘p tovarlar sotilgan.
-
-139.	Biz o‘zbek kompaniyasining ko‘rsatkichlarini Yaponiya kompaniyasi ko‘rsatkichlari bilan taqqoslashdan oldin, taqqoslanadigan ko‘rsatkichlar ikkala mamlakatda ham .................
--	bir xil metodologiya bilan aniqlanganligiga ishonch hosil qilishimiz kerak;
--	bir xil metodologiya bilan aniqlangan bo‘lishi shart emas;
--	o‘zbek kompaniyasining ko‘rsatkichlarini Yaponiya kompaniyasi ko‘rsatkichlari bilan taqqoslash mumkin emas;
--	har xil metodologiya bilan aniqlangan bo‘lishi kerak.
-140.	……….bog‘langan elementlardan tashkil topgan va maqsadga intilayotgan ob’ektdir.
--	murakkab tizim;
--	yopiq tizim;
--	ochiq tizim;
--	sub’ekt.
-
-141.	  ……… - predmet uchun ob’ektning eng muhim bo‘lgan hususiyatlari, qismlari, ularning orasidagi munosabatlarini alohida ajratib olish va boshqa ahamiyatsiz hususiyatlari, qismlari va munosabatlaridan voz kechish usulidir.
-saralab olish usuli;
-konkretlashtirish usuli;
-tasniflash (klassifikatsiya) usuli;
-ideallashtirish usuli.
-
-142.	 ………… usuli – muayan predmetni o‘rganish natijasida real xayotda uchramaydigan, etalon yoki ideal sifatida ko‘riladigan modelni yaratish va uning hususiyatlarini real xayotda uchraydigan ob’ekt hususiyatlari bilan taqqoslash usulidir
-- ideallashtirish;
-- saralab olish; 
-- tasniflash klassifikatsiya; 
-- konkretlashtirish.
-
-143.	  ………… usuli – ob’ekt va predmet to‘g‘risidagi abstrakt, hamda ideallashtirilgan bilimlarni real hayotdagi xodisalar to‘g‘risidagi bilimlar orasidagi tafovutni kamaytirish usulidir.
-- konkretlashtirish; 
-- saralab olish; 
-- analogiya; 
-- deduksiya.
- 
-144.	  …………. usuli muayan ob’ektlar (elementlar) to‘plamidan muayan tasniflash alomati bo‘yicha tasniflar (klasslar, quyi to‘plamlar) ni tuzish usulidir. Tasniflash alomati – elementning hususiyati yoki tavsifidir
-- tasniflash klassifikatsiya;
-- ideallashtirish; 
-- deduksiya; 
-- saralab olish.
- 
-145.	.  ………….. usuli o‘rganish predmetini bo‘laklarga bo‘lib o‘rganishni nazarda tutadi.
-- tahlil;
-- sintez; 
-- induksiya; 
-- deduksiya.
- 
-146.	. …………. esa predmetning o‘rganilgan bo‘laklarini birlashtirishni va tahlil natijalarini umumlashtirishni nazarda tutadi.
-- sintez usuli;
-- analogiya usuli; 
-- deduksiya usuli;
-- tahlil usuli.
-
-147.	.  ..............usuli – muayan predmetni o‘rganish natijasida hususiyatlar bo‘yicha olingan bilimlarni analogik predmetga qo‘llash usulidir
-- analogiya; 
-- induksiya;
-- sintez;
-- tahlil.
-
-148.	.  ............. - hususiy xodisalar hususiyatlaridan olingan fikr bildirishdan (ya’ni asosdan) umumiy xodisalar hususiyatlaridan olingan fikr bildirishni (ya’ni xulosani) keltirib chiqarish usulidir
-- induksiya usuli;
-- analogiya usuli;
-- tahlil usuli;
-- deduksiya usuli.
-
-149.	.  .............. usuli – umumiy fikr bildirishdan (asosdan) hususiy fikr bildirishga (xulosaga) o‘tish usulidir. Bunda umumiy fikr bildirish (asos) haqiqat deb faraz qilinadi?
-- deduksiya;
-- sintez usuli;
-- induksiya usuli;
-- tahlil usuli.
-
-150.	.   Agar tizimning ayrim elementlari o‘z navbatida tuzilma shaklida bir- biri bilan bog‘langan elementlardan tashkil topgan bo‘lsa, bunday elementlar to‘plami qanday tizim deyiladi?
-- quyi tizim;
-- tizim komponenti;
-- yuqori tizim;
-- tashqi muhit;
-
-151.	. Agar sub’ekt va ob’ekt ajralmas bo‘lib tizimni shakllantirishsa va uning tashqi muhiti umuman inobatga olinmasa, bunday tizim qanday tizim deyiladi?
-- yopiq tizim;
-- ochiq tizim;
-- quyi tizim;
-- yuqori tizim.
-
-152.	.  Agar tashqi muhit tizim holatiga ta’sir qilsa va bu hol inobatga olinsa, u holda qanday tizim haqida so‘z gapirsa bo‘ladi.
-- ochiq tizim;
-- quyi tizim;
-- ochiq tizim;
-- yuqori tizim.
-
-153.	.  Tashqi muhit bilan aloqa qilish bo‘yicha tizimlar qanday bo‘ladi?
-- ochiq va yopiq;
-- tabiiy va sun’iy;
-- sun’iy va tabiiy;
-- moddiy va abstrakt.
-
-154.	. Agar vaqt o‘tgan sari tizim holati yoki tizim holati bilan birga uning tarkibiy tuzilmasi ham o‘zgarsa, bunday tizim qanday tizim deb ataladi?
-- dinamik tizim;
-- statik tizim;
-- klassik tizim;
-- evolyusion tizim.
-
-155.	.  Agar vaqt o‘tgan sari tizimning holati va tarkibiy tuzilmasi o‘zgarmasa, bunday tizim qanday tizim deb ataladi?
-- statik tizim;
-- dinamik tizim;
-- evolyusion tizim;
-- klassik tizim.
-
-156.	.  Har bir yurishda erishiladigan (pul yoki ball yoki boshqa ko‘rinishda ifodalanadigan) natija qanday vaziyatlar hisoblanadi?
-- yutuq vaziyatlar;
-- strategiya vaziyatlar;
-- to‘lov matritsasi;
-- ziddiyatli vaziyatlar.
-
-157.	  Tizimli yondashuv boshqa rivojlangan mamlakatlarda keng tarqalgan Yaponiyada qaror qabul qilishda necha% vaqt taalluqli bo’lganlarning barchasi bilan kelishishiga va necha% esa uni amalga oshirishga sarflanadi.
-- 90%/10%;
-- 90%/30%;
-- 70%/20%;
-- 10%/50%.
-
-158.	Asosida, ya’ni boshqaruvning tizim nazariyasi, tizim va muhit o‘rtasida va tizim ichida (axborotni uzatish), shuningdek, muhitga nisbatan tizim funksiyalarini boshqarish (teskari aloqa)ga bogiiq boladi.
-- kibernetika nazariyasi;
-- tarmoqlar nazariyasi;
-- avtomatlar nazariyasi;
-- graflar nazariyasi.
-
-159.	  Bu funksiya firma yoki tashkilot ko‘rsatkichlarining metod va formalarini ishlab chiqadi. Masalan buxgalteriya hisoboti, moliyaviy hisob-kitob, boshqaruv hisoboti va boshqalar
-- hisobga olish;
-- tahlil qilish analiz qilish;
-- tog’ri javob yo‘q;
-- tashkillashtirish.
-
-160.	 Qanday qarorlar katta korxonalar miqyosida qabul qilinib, rivojlanish istiqbollarini qabul qilishga xizmat qiladi?
-- strategik qarorlar;
-- taktik qarorlar;
-- operativ qarorlar; 
-- qarorni qo'llab-quvvatlash. 
-
-161.	 Tez qabul qilinib, ayrim ish joylari, kichik korxonalarga xos bo‘lgan qarorlar  -  bu……..
-- operativ qarorlar;
-- qo'llab-quvvatlash qarori; 
-- taktik qarorlar; 
-- strategik qarorlar.
-
-162.	Bu turdagi qarorlar katta korxonalarning ayrim bolinmalarida qabul qilinadi
-- taktik qarorlar;
-- operativ qarorlar;
-- strategik qarorlar; 
-- qo'llab-quvvatlash qarori.
-
-
-163.	 Qanday (parallel yurishli) o‘yinlar: yig‘indisi konstant bo‘lgan o‘yinlar xisoblanadi? Bu o‘yinlar doimo yutuqlar matritsasi orqali beriladi.
-- statik;
-- taktik;
-- teoretik;
-- antagonistic. 
-
-
-164.	……… ko‘rsatkichlar orasidagi korrelyasiya yuqori bo‘lmasligi kerak. 
-- bog‘liqsiz;
-- regressiya;
-- tasodifiy;
-- kauzallik.
-
-
-165.	Nechanchi yilda Norbert Viner tomonidan kibernetika deb nomlangan yangi fan yaratildi?
-- 1948;
-- 1940;
-- 1935;
-- 1950.
-
-166.	Lyudvig fon Bertalanfi Nechanchi yilda murakkab tizimlar nazariyasiga birinchi bo‘lib asos soldi?
-- 1901–1972;
-- 1950–1970;
-- 1930–1965;
-- 1910–1999.
-
-
-167.	Qanday tuzilma tabiatda va jamiyatda ob’ektiv ravishda yaralgan tizimlar: atom, xujayra, inson, jamiyat va xok.
-- tabiiy tizimlar;
-- predmetli tuzilma;
-- tashkiliy tuzilma;
-- funksional tuzilma.
-
-
-168.	Bu ushbu tizimga tegishli bo‘lmagan elementlardan iborat tizim bolib boshqacha aytganda xossalarining o‘zgarishi tizimga ta’sir etuvchi barcha obyektlar hamda tizim holatining natijasida o‘z xossasini o‘zgartiruvchi obyektlar to‘plami.
-- muhit;
-- aloqa;
-- tasir; 
-- tasodifiy.
-
-
-169.	Har bir tizimda barcha iyerarxik darajalardan yuqori turuvchi markaziy bo‘g‘in bo‘lishi
-- markazlashtirilganlik; 
-- geterogenlik;
-- bog‘liqsizlik;
-- organic.
-
-170.	........................    fan sohasi sifatida jamiyatdagi ijtimoiy hodisa va jarayonlar haqidagi sonli ma’lumotlarni yig‘ish, qayta ishlash va tahlil qilishning texnika va usullari tizimini ishlab chiqadi. 
-- ijtimoiy statistika;
-- moliyaviy statistika;
-- mehnat statistikasi;
-- tibbiy statistika.
-
-171.	………………………… sifatida davlat statistika organlari va boshqa tashkilotlar tomonidan muayyan ijtimoiy jarayonlarni tavsiflovchi sonli materiallarni to'plash va umumlashtirish bo'yicha ishlarni bajarishga qaratilgan. 
-- ijtimoiy statistika amaliyot sohasi;
-- moliyaviy statistika;
-- mehnat statistikasi;
-- tibbiy statistika.
-
-172.	“Ijtimoiy statistika” tushunchasi faoliyat sohasi sifatida qanday ikkita talqinga ega? 
-- fan va amaliy sohalar;
-- mehnat va tibbiy sohalar; 
-- sotsiologiya va psixologiya sohalari;
-- demografiya va aholi statistikasi.
-
-173.	“Ijtimoiy statistika” da fan sohasi va amaliy faoliyat sohalari ………….
-- faqat birlik, o'zaro bog'liqlikda rivojlanishi kerak va rivojlanishi mumkin;
-- o'zaro bog'liqlikda rivojlanishi kerak emas;
-- o'zaro bog'liqlikda rivojlanishi mumkin emas;
-- bir-biriga qarama-qarshi rivojlanishi kerak.
-
-174.	Hisobga olinayotgan ma’lumotlarning mazmuni murakkablashib, davlat va iqtisodiyotni boshqarishda ularning ahamiyati ortishi bilan ma’lumotlarni ……
--	hisobga olish va umumlashtirishning murakkab usullariga ehtiyoj paydo bo‘ladi;
--	hisobga olish va umumlashtirishning murakkab usullariga ehtiyoj paydo bo‘lmaydi;
--	hisobga olish o'zgarmaydi;
--	hisobga olish o'zgaradi.
-
-
-175.	Ijtimoiy statistika boshqa bilim sohalari bilan – 
-- sotsiologiya, psixologiya, demografiya, aholi statistikasi, mehnat iqtisodiyoti, tibbiy statistika va boshqalar bilan bogliq;
-- sotsiologiya, psixologiya, demografiya, aholi statistikasi, mehnat iqtisodiyoti, tibbiy statistika va boshqalar bilan bogliq emas;
-- kimyo va jismoniy tarbiya;
-- astronomiya va fizika.
-
-176.	………………..aholi sonining dinamikasini, aholi tarkibini, uni ko'paytirishni o'rganadi.
-- aholi statistikasi;
-- mehnat statistikasi; 
-- sotsiologiya; 
-- psixologiya.
-
-177.	Aholi sonini aniqlash manbalari:
-- vaqt-vaqti bilan o’tkazilib turiladigan aholi ro’yxati; aholining tabiiy o’sishi yoki kamayishi bo’yicha ma’lumotlar; aholining mexanik harakatlari bo’yicha ma’lumotlar;
-- faqat vaqt-vaqti bilan o’tkazilib turiladigan aholi ro’yxati;
-- faqat aholining tabiiy o’sishi yoki kamayishi bo’yicha ma’lumotlar;
-- aholining mexanik harakatlari bo’yicha ma’lumotlar;
-
-178.	…………….aholi deganda  aholini  ro’yhatdan o’tkazayotganda sanalari ( qaysi aholi punktida yashayotganidan qatiy nazar) mazkur aholi punktida doimiy yashovchi aholini tushunamiz.
-- doimiy;
-- mavjud;
-- vaqtinchalik yashovchi;
-- vaqtinchalik yo’q.
-
-179.	................ro’yhatga olish vaqtida ( yashash joyi doimiy yoki vaqtinchalik bo’lishidan qatiy nazar) mazkur  aholi punktlarida bor bo’lgan aholi tushuniladi.
-- mavjud aholi deganda; 
-- doimiy;
-- vaqtinchalik yashovchi;
-- vaqtinchalik yo’q.
-
-180.	.............. -  aholini ro’yhatga olish momentlaridan boshlab shu aholi punktidan tashqariga ketgan kishilar tushuniladi. 
-- vaqtinchalik yo’qlar; 
-- mavjud aholi deganda; 
-- doimiy;
-- vaqtinchalik yashovchi.
-
-181.	.............   jumlasiga (kritik) aholini ro’yhatga olish momentida aynan shu joyda hozir bolgan, lekin doimiy yashash joyidan tashqari bo’lgan shaxslar kiradi.
-- vaqtinchalik yashovchilar;
-- mavjud aholi deganda; 
-- doimiy;
-- vaqtinchalik yo’qlar.
-
-182.	Dunyo aholisi 2050 yilga borib ……………erishishi rejalashtirilmoqda.
-
--	9,7 milliardga;
--	12,7 milliardga;
--	19,7 milliardga;
--	15 milliardga.
-
-183.	................. nuqsonlarni aniqlashning eng qadimgi va foydali usullaridan biri. Bu manba kodini birgalikda sinchkovlik bilan o'qish va uni takomillashtirish bo'yicha tavsiyalar berishdan iborat. Kodni o'qish jarayoni kelajakda xato bo'lishi mumkin bo'lgan xatolar yoki kod bo'limlarini ochib beradi.
-- Сode review
-- HelixQAC
-- Goanna Studio
-- CodeSonar
-
-184.	Kodlash standartlari
-- MISRA, CWE, SEI CERT
-- C, C++, C#, Java, Ada, Fortran, Perl, Ruby
-- C, C++, C#, Java, Ada, Fortran, Perl, Ruby, MISRA, CWE, SEI CERT
-- MISRA, CWE, SEI CERT, Perl, Ruby
-
-185.	Mobil ilova kodining statik tahlili
-- jismoniy, ijtimoiy, ilovalar, apparat, tizim;
-- apparat; ilovalar, apparat, tizim;
-- tizim;
-- ilovalar, tizim;
-
-186.	…………….deb o‘rtacha kvadrat chetlanishning kvadrat ildizdan chiqarilgan miqdoriga aytiladi:
-o‘rtacha kvadratik chetlanish;
-variatsiya koeffitsienti;
--   variatsion kenglik;
-- surunkali variatsiya.
-
-187.	O'rnatilgan tizimlar uchun dasturiy ta'minot kodini tahlil qilishning asosiy turlari
--	Ikkilik tahlil, keng qamrovli xavfsizlik, parallellikni tekshirish, standartlarni qo'llab-quvvatlash
--	keng qamrovli xavfsizlik, parallellikni tekshirish, standartlarni qo'llab-quvvatlash
--	parallellikni tekshirish, standartlarni qo'llab-quvvatlash
--	parallellikni tekshirish, standartlarni qo'llab-quvvatlash, Ikkilik tahlil
-
-188.	 O'rnatilgan tizimlar uchun mavjud statik analizatorlar
--	Polyspace Bug Finder, HelixQAC, Goanna Studio, CodeSonar, Imagix 4D
--	HelixQAC, Goanna Studio, CodeSonar, Imagix 4D, iTerm2
--	HelixQAC, Goanna Studio, CodeSonar, Imagix 4D, Cmder
--	Polyspace Bug Finder, HelixQAC, Goanna Studio, WebStorm
-
-189.	Statanaliz vositalarining xilma-xilligi
--	Kompilyatsiya / tahlil qilish (ansible-syntax-check, terraform validate), Kompilyator ogohlantirishlari, Imlo tekshiruvi, Konfiguratsiya testlari
--	Kompilyator ogohlantirishlari, Imlo tekshiruvi, Konfiguratsiya testlari
--	Kompilyatsiya / tahlil qilish, Imlo tekshiruvi, Konfiguratsiya testlari
--	Dinamik, statik va binar tahlil
-
-
-
-
-190.	Kodlarni tahlil qilish turlari
-
--	Dinamik, statik va binar tahlil
--	Statik va binar tahlil
--	Dinamik va statik tahlil
--	Dinamik va binar tahl
-
-191.	Avtomatlashtirilgan kod tahlilining asosiy muammosini qanday hal qilish mumkin?
--	loyqa mantiqning matematik apparatiga asoslangan zaifliklarga qarshi kurash mexanizmi - Fuzzy Logic Engine (FLE), bu sizga chiziqli filtrlarni nozik sozlash, noto'g'ri pozitivlarni kamaytirish va zaifliklarni aniqlashda aniqlikni yo'qotish o'rtasidagi muvozanatni saqlash imkonini beradi.
--	Siz "Mashinani o'rganish - sun'iy intellekt" - analizatorni qo'lda o'qitishga harakat qilishingiz mumkin.
--	Siz GitHub-da tarixni kuzatishingiz va kod o'zgarishlari yoki tuzatishlardagi naqshlarni qidirishingiz mumkin.
--	analizator xato mavjudligi haqida ogohlantirish berishi kerak bo'lgan qismlarni ko'rsatadigan haqiqiy ilovalar kodini belgilang.
-
-192.	Kodni qanday himoya qilish kerak
--	Code Review, Unit-testlar, dinamik kod tahlili, statik kod tahlili, ishlab chiquvchi testi
-- Code Review, C, C++, C#, Java, Ada, Fortran, Perl, Ruby 
-- Unit-testlar,  MISRA, CWE, SEI CERT, Perl, Ruby
--	dinamik kod tahlili, statik kod tahlili, Java
-
-193.	Statik kod tahlilining kamchiliklari
--	Statik kod tahlili yuqori darajadagi xatolarni aniqlay olmaydi, noto'g'ri signal
--	Analizator charchaydi
--	agar bunday naqsh haqida bilmasa, xatolarni topa olmaydi
--	noto'g'ri signal
-
-194.	Statik tahlilda qo'llaniladigan texnologiyalar
--	Naqshni moslashtirish (naqsh asosidagi tahlil), Xulosa yozing, Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
--	Xulosa yozing, Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
--	Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
--	Naqshni moslashtirish (naqsh asosidagi tahlil), Usul izohlari,  Ma'lumotlar oqimini tahlil qilish, Ramziy ijro
-
-195.	Bu qanday texnologiya 
- 
-
--	Naqshni moslashtirish (naqsh asosidagi tahlil)
--	Xulosa yozing
--	 Usul izohlari
--	Ma'lumotlar oqimini tahlil qilish
--	Ramziy ijro
-196.	Bu qanday texnologiya 
- 
--	Xulosa yozing
--	Naqshni moslashtirish (naqsh asosidagi tahlil)
--	Usul izohlari
--	Ma'lumotlar oqimini tahlil qilish
--	Ramziy ijro
-
-197.	Bu qanday texnologiya 
- 
--	Usul izohlari 
--	Naqshni moslashtirish (naqsh asosidagi tahlil)
--	Xulosa yozing
--	 Ma'lumotlar oqimini tahlil qilish
--	Ramziy ijro
-
-
-198.	Bu qanday texnologiya 
- 
--	Ma'lumotlar oqimini tahlil qilish
--	Naqshni moslashtirish (naqsh asosidagi tahlil)
--	Xulosa yozing
--	 Usul izohlari
--	Ramziy ijro
-
-
-199.	Bu qanday texnologiya 
- 
--	Ramziy ijro
--	Naqshni moslashtirish (naqsh asosidagi tahlil)
--	Xulosa yozing
--	 Usul izohlari
--	Ma'lumotlar oqimini tahlil qilish
-
-200.	Kompilyator qanday vazifani bajarayapti ? 
- 
--	Kompilyator buferni qayta yozish kodini olib tashlaydi
--	Kompilyator bufer kodini olib tashlaydi
--	Kompilyator keraksiz kodni olib tashlaydi
--	Kompilyator buzilgan kodni olib tashlaydi
-
-
+Savol va javoblar
+Biznesning mohiyati ... dan tashkil topadi.
+moddiy, moliyaviy, iqtisodiy, mehnat va axborot resurslari
+moddiy, moliyaviy, iqtisodiy va axborot resurslari
+moddiy, moliyaviy, ijtimoiy va axborot resurslari
+moddiy, moliyaviy, mehnat va axborot resurslari
+Biznes belgilari ...
+Foyda olishga qaratilgan maqsad, xavf-xatar, novatorlik, mas'uliyat, iqtisodiy barqarorlik
+Foyda olishga qaratilgan maqsad, yangilik, javobgarlik, rentabellik
+Foyda olishga qaratilgan maqsad, ovoz xavfi, innovatsiya, javobgarlik, moliyaviy barqarorlik
+Foyda olishga qaratilgan maqsad, risklarni boshqarish
+Yangi boshqaruv uslubiga nimalar kiradi?
+Globallashuv, moslashuvchan tuzilmalar, maqbul markazsizlashtirish, uddaburonlik, tarqatish, virtuallik, ochiqlik
+Globallashuv, moslashuvchan tuzilmalar, markazlashtirish, uddaburonlik, qisman ochiqlik, tarqatish, lokalizatsiya
+Globallashuv, iyyerarxiya, maqbul markazsizlashtirish, tezkorlik, tarqatish, virtuallik
+Globallashuv, moslashuvchan tuzilmalar, markazlashtirish, tarqatish, lokalizatsiya, virtuallik, ochiqlik
+Biznesning asosiy vazifalari:
+menejment, logistika, ishlab chiqarishni boshqarish, inson resurslarini boshqarish, marketing, buxgaltyeriya va moliyaviy boshqaruv
+menejment, ishlab chiqarishni boshqarish, marketing, buxgaltyeriya va moliyaviy boshqaruv
+menejment, ishlab chiqarishni boshqarish, iqtisod, buxgaltyeriya va moliyaviy boshqaruv, logistika
+menejment, logistika, ishlab chiqarishni boshqarish, HRM, marketing
+ Bozorda ma'lum bo'lgan firma uchinchi tomon kompaniyalarga bir qator funktsiyalarni o'tkazib beradigan autsorsing shakli, o'zini dispetcherning rolida qoldirishi - bu ...
+biznes jarayoni autsorsingi
+takomillashtirilgan autsorsing
+ichki autsorsing
+qisman autsorsing
+Korxonaning asosiy faoliyati bilan bog'liq bo'lmagan barcha ishlari,bular...
+asosiy bo'lmagan ish turlari
+qo'shma korxona
+strategik hamkorlik
+ishlab chiqarish sohasida hamkorlik
+Tadbirkorlikning asosiy jihatlari qaysilar:
+Mas’uliyat, tavakkalchilik, yangilikka intilish, tashabbuskorlik
+Tashabbuskorlik, layoqatsizlik, tavakkalchilik, bekorchilik 
+Tavakkalchilik, mas’uliyat, yangilikka intilish, surbetlik
+Tashabbuskorlik, intuziazm, affarizmlik, bilimsizlik
+Tijorat tadbirkorligi deb nimaga aytiladi?
+tovar-pul munosabatlari va savdo-ayirboshlash operatsiyalariga, ya’ni tovar va xizmatlarni qayta sotishga asoslangan faoliyat..
+iste’molchilarga reklama maqsadida mahsulot ishlab chiqarish yoki xizmat ko‘rsatishga yo‘naltirilgan faoliyat
+pul va qimmatli qog‘ozlar oldi-sotdisi bilan bog‘liq tadbirkorlik faoliyati. 
+turli xil kutilmagan holatlar natijasida yuzaga keladigan moliyaviy muammolardan muhofaza qilish faoliyati.
+Moliyaviy tadbirkorlik deb nimaga aytiladi?
+pul va qimmatli qog‘ozlar oldi-sotdisi bilan bog‘liq tadbirkorlik faoliyati.
+tovar-pul munosabatlari va savdo-ayirboshlash opyeratsiyalariga, ya’ni tovar va xizmatlarni qayta sotishga asoslangan faoliyat.
+turli xil kutilmagan holatlar natijasida yuzaga keladigan moliyaviy muammolardan muhofaza qilish faoliyati.
+iste’molchilarga sotish maqsadida mahsulot ishlab chiqarish yoki xizmat ko‘rsatishga yo‘naltirilgan faoliyat.
+Tadbirkorlik turi deb nimaga aytiladi?
+tadbirkorlik faoliyati yo‘nalishi, kapital kiritish sohasi va faoliyat natijasiga ko‘ra farqlanuvchi belgilar tizimi.
+turli xil kutilmagan holatlar natijasida yuzaga keladigan moliyaviy muammolardan muhofaza qilish faoliyati.
+faoliyat yuzasidan hamkorlar, boshqa tadbirkorlar va davlat idoralari bilan munosabati jihatidan farqlanuvchi belgilar tizimidir.
+fuqarolik huquq va majburiyatlarining subyektlari hisoblanuvchi korxona, muassasa, tashkilotlar.
+Quyidagi ta’riflardan qaysi biri to‘g‘ri?
+«Biznes» so‘zi inglizcha so‘z bo‘lib, u tadbirkorlik faoliyati yoki boshqacha so‘z bilan aytganda  kishilarni foyda olishga qaratilgan tadbirkorlik faoliyatidir;
+«Biznes» so‘zi fransuzchadan olingan bo‘lib, u tadbirkorlik faoliyati yoki boshqacha so‘z bilan aytganda  kishilarni foyda olishga qaratilgan tadbirkorlik faoliyatidir;
+Ingliz tilidan olingan bo‘lib, boshqaruv faoliyati degan ma’noni anglatadi;
+Grekcha so‘zdan olingan bo‘lib, xususiy tadbirkorlik bilan shug‘ullanish ma’nosini bildiradi.
+Biznes rejaning rezyumesi necha qismdan iborat?
+10 qismdan; 
+2 qismdan;
+1 qismdan;
+4 qismdan.
+Biznes rejaning qaysi tarkibiy qismida kredit bilan bog‘liq xizmatlar ko‘riladi?
+Moliyaviy rejasida;
+Marketing rejasida;
+Boshqaruv qismida;
+Rezyumeda.
+…………… loyihaning mazmunini qisqacha aks ettiruvchi reja maqsadlarini o‘z ichiga oladi. Nuqtalar o‘rnini to‘ldiradigan so‘zni toping.
+Kirish;
+Xulosa;
+Asosiy qism;
+maqsadlar.
+Iqtisodiy samaradorlik nimalarda namoyon bo‘ladi?
+Yalpi ichki mahsulot va milliy daromadda;
+Xodimlarni malakasini oshirishda;
+Sifatli mahsulot ishlab chiqarishda;
+Xodimlarni to‘g‘ri tanlashda
+Bozor kon’yunkturasi nima?
+Ma’lum davrda tovarlar va xizmatlar sotilishidagi imkoniyatlarni ifodalovchi iqtisodiy shart-sharoitlar majmui;
+Ma’lum davrda tovarlar va xizmatlar sotilishidagi imkoniyatlarni tahlil etuvchi xodimlar majmui;
+Ma’lum davrda tovarlar va xizmatlar sotilishidagi imkoniyatlarni oldindan prognoz qilish uslublari majmui;
+Ma’lum vaqt oralig‘ida jami sotilgan tovar va xizmatlar hajmi.
+Marketingning nazorat turlari to‘g‘ri ko‘rsatilgan qatorni toping.
+Yillik nazorat, samaradorlik, daromadlilik, strategik;
+Samaradorlik, daromadlilik va strategik;
+Yillik, olti oylik va choraklik;
+Olti oylik va choraklik.
+Korxona deganda nimani tushunasiz:
+Mahsulotlar, tovarlar ishlab chiqarish, xizmatlar koʻrstish, ishlarni bajarish uchun tashkil etiladi. Iqtisodiy faoliyatning xilma-xil turlari bilan shugʻullanadi.
+Savdo va ishlab chiqarish sohasida yuzaga kelgan iqtisodiy birlik.
+Ishlab chiqaruvchi tadbirkor.
+Moliyaviy markazlashgan va huquqiy belgilangan iqtisodiy birlik.
+Firma deganda nimani tushunasiz:
+ Korxona, kompaniya, xoʻjalik va tijorat tashkilotlarining umumiy nomi.
+ Savdo va ishlab chiqarish sohasida yuzaga kelgan iqtisodiy birlik.
+     Xududiy, texnik va funksional bog‘langan ishlab chiqaruvchi birlik.
+     Moliyaviy markazlashgan va huquqiy belgilangan iqtisodiy birlik.
+Tadbirkor deganda:
+daromad olish maqsadida, mas’uliyatni zimmasiga olgan holda, jamiyatga foyda keltiruvchi biron-bir iqtisodiy faoliyat bilan shug‘ullanadigan shaxs tushuniladi.
+Ishlab chiqarishga mo‘ljallangan muassasa.
+moliyaviy va iqtisodiy jihatdan belgilangan birlik.
+ma’lum bir ishlab chiqarish yo‘nalishiga qaratilgan tarmoq.
+Ishlab chiqarish tarmog‘i deganda nimani tushunasiz:
+ma’lum bir ishlab chiqarish yo‘nalishiga qaratilgan tarmoq.
+Ishlab chiqarishga mo‘ljallangan muassasa.
+moliyaviy va iqtisodiy jihatdan belgilangan birlik.
+Xudud, funksional va texnik jixatdan belgilangan birlik.
+Tadbirkorning asosiy maqsadi:
+Daromadini maksimallashtirish.
+Ijtimoiy sohani rivojlantirish.
+infrastrukturani rivojlantirish.
+aholi daromadlarini oshirish.
+Qaysi turdagi tempyerament rahbar uchun umuman to‘g‘ri kelmaydi?
+Melanxolik
+Flegmatik
+Sangvinik
+Xolyerik
+Avtoritar rahbarlik uslubining eng jiddiy kamchiligini ko‘rsating
+ Ortiqcha o‘ziga ishonish
+Avantyurizm
+Professional bilimlarni noto‘g‘ri baholash
+Hokimiyatga intilish
+Demokratik rahbarlik uslubining eng muhim afzalligi?
+Bo'ysunuvchilar kompaniya hayotida ishtirok etadilar va o'zlariga yuklangan vazifalarni bajarishda mustaqil ravishda qarorlar qabul qiladilar
+Boshqarishda inson omilini hisobga olish
+Huquq va vakolatlarni taqsimlash
+Boshqaruvda jamoatchilikka intilish
+Ish joyiga ijtimoiy va kasbiy adaptatsiya uchun murakkab kasb ishchisiga taxminan qancha vaqt ketadi?
+ 3 oy
+ 1 oy
+ 5 oy 
+ 10 oy
+Nizolarni hal qilishda qaysi strategiya ma’qul?
+Barcha javoblar to'g'ri
+ Aybdorni aniqlab jazolash
+ Huquqlarni tiklash va kofalatlash
+Kelishuvga erishish
+Salbiy tanqidning asosiy kamchiligi nimada?
+ Nizoning kelib chiqishi
+ Yo‘nalishning o‘ziga xosligi
+ Xodimning himoyaviy reaksiyasi
+ Tarkibining pastligi
+Korxonada xodimlarni boshqarish metodlarining asosiy guruhlarini ajrating
+ Ijtimoiy psixologik
+ Iqtisodiy
+ Statistik
+ Administrativ
+Bo‘sh ish o‘rniga xodimning qisqacha mehnat biografiyasi nima deb ataladi?
+ Xodim anketasi
+ Avtobiografiya
+ Reklama e’loni
+ Professional programma
+Marketing konsepsiyasi – 
+ bu iste’molchilar extiyojini qondirishga yo‘naltirilgan g‘oyalar, talablardir.
+Internet tarmog‘i orqali o‘zaro hamkorlik qiladigan har qanday tashqilotlardir
+Internet tarmoqlari resurslaridan foydalanishga asoslangan online marketing
+ marketing maqsadi yo‘lida elektron pochtadan foydalanishning yana bir yondashuvidir
+Marketingni asosiy kompleksi nechta tarkibiy unsurdan iborat?
+ 4 ta
+5 ta
+6 ta
+7 ta
+Marketing kompleksi  tarkibiy unsurlari keltirilgan qatorni  ko‘rsating.
+tovar (product), narx (price), ilgarilatish (promotion), joy (place).   
+narx (price), ilgarilatish (promotion), joy (place).
+tovar (product), ilgarilatish (promotion), joy (place).  
+tovar (product), narx (price), ilgarilatish (promotion).
+E-mail  marketing-bu
+elektron pochta orqali mahsulot va xizmatlarni siljitishga karatilgan soxadir.
+tovar (product), narx (price), ilgarilatish (promotion), joy (place).  
+tovar (product), ilgarilatish (promotion), joy (place).  
+tovar (product), narx (price), ilgarilatish (promotion).
+Reklama – bu 
+firma va u taklif qilayotgan tovar imidjini va shuhratini yaratish uchun ommaviy axborot vositalaridagi pulli joy hamda vaqtdan foydalanishdir.
+tovar (product), narx (price), ilgarilatish (promotion), joy (place).  
+tovar (product), ilgarilatish (promotion), joy (place).  
+elektron pochta orqali mahsulot va xizmatlarni siljitishga karatilgan soxadir.
+Reklama kompaniyasining konsepsiyalari keltirilgan qatorni ko‘rsating.
+ reklama g‘oyasi, reklamada dalillash tezislari, reklama xabarlariga xos xususiyatlar, reklamani tarqatish vositalarini tanlashni asoslash, reklama kompaniyasining turi va mantiqi
+ reklama g‘oyasi, reklamada dalillash tezislari, reklamani tarqatish vositalarini tanlashni asoslash, reklama kompaniyasining turi va mantiqi.
+ reklamada dalillash tezislari, reklama xabarlariga xos xususiyatlar, reklamani tarqatish vositalarini tanlashni asoslash.
+ reklama g‘oyasi, reklama xabarlariga xos xususiyatlar, reklama kompaniyasining turi va mantiqi.
+“Iste’molchilarning huquqlarini himoya qilish to‘g‘risida”gi qonun qachon qabul qilingan?
+ 26.04.1996 y
+ 24.02.1994 y
+ 25.03.1995 y
+ 23.01.1993 y
+Iste’molchi- bu.................. 
+ foyda chiqarib olish bilan bog‘liq bo‘lmagan holda shaxsiy iste’mol yoki boshqa maqsadlarda tovar sotib oluvchi, ish, xizmatga buyurtma beruvchi yoxud shu niyatda bo‘lgan fuqaro (jismoniy shaxs);
+ ishlab chiqaruvchi faoliyatining iste’molchiga shartnoma bo‘yicha sotish uchun mo‘ljallangan mahsuli, shu jumladan import mahsuloti
+ maslahatlar bermasdan faqat bitimni bozorga chiqaruvchi broker hisoblanadi.  
+ xususiy shaxs bevosita birjada bitimlarni amalga oshirish huquqiga ega emas.
+Bozorda «yakkaxonlik» bu...
+ xaridorlarni o’ziga jalb qilish va faqat shu sotuvchining mollarini iste’mol qilishga yo’nalishi xarakat;
+ bozorda faqat o'zi, diversiffikasiya shaklda savdoni olib borish;
+ xaridor bilan yuzma-yuz 
+ ma’lumotni yakka xaridorlarga etkazish.
+Korxonalarning ishlab chiqarish darajasiga qanday sharoit kuchliroq ta’sir etadi:
+ bozor iqtisodiyoti sharoiti; 
+ an’anaviy iqtisodiyot sharoiti;
+ markazlashtirilgan iqtisodiyot sharoiti,
+ hamma iqtisodiy sistemalar.
+Agar sanoatda bir necha yirik korporatsiyalar hukumronlik qilsa, unda tarmoqda raqobat:
+ baho yuzasidan kuchli bo’ladi;
+ yo’q bo’ladi;
+ samarasiz ishlab chiqarishni vujudga kelishiga olib keladi;
+ bahosiz raqobat.
+Bozor talablariga korxonaning moslashishining samarali usullari:
+ korxonaning raqobatdoshligini boshqaruvi
+ mahsulotning raqobatdoshligi
+ diversifikatsiya
+ servis, upakovka
+Makro-mikro muxit ko’rsatkichlarining korxona faolitiga ta’siri 
+Korxona biznes faoliyat strategiyasini ishlab chiqishga yordam beradi 
+  Korxona faoliyatida haridorni ayni bir vaqtda tovarlarni  to’la muayyan baho bo’yicha sotib olishga tayyorligiga
+   Haridor korxona tovarlarini olishni hohlaydi, lekin  ololmaydi.
+  Potensialli iste’molchilarning tovarni sotib olish strategiyasini yaratishga imkon berishi.
+Ichki muhitning xususiyatlari
+ korxona faoliyatiga bog’liq bo’lgan ma’lumotlar; 
+ korxonaga bog’liq bo’lmagan ma’lumotlar to’plamining o’zgarishi;
+ tashki muxitga bog’liq bo’lgan ma’lumotlar;
+ hammasi to’g’ri.
+Raqobat sharoitlari va turlari
+ monopolistik, monopsonistik va sof raqobat
+ o’rta muddatli raqobat;
+ davriy raqobat;
+ to’g’ri javob yo’q.
+Raqobatdoshlikka ta’sir etuvchi omillar va to’siqlar
+ barcha to’g’ri
+ valyuta kursini o’zgarishi, 
+ makro muxitni o’zgarishi;
+ savdo siyosati, bojxona soliklari va soliklar;
+Tashki muxitni tarkibiy elementlari
+ iqtisodiy, ilmiy-texnik, siyosiy, demografik va x.k. ;
+ iqtisodiy, ilmiy-texnik, siyosiy, demografik, xamkorlar va x.k.;
+ iqtisodiy, ilmiy-texnik, siyosiy, demografik, firma strukturasi va x.k.;
+ hammasi noto’g’ri
+Bozor iqtisodiyotida pul va resurslar oqimlari ta’minlovchi mexanizm:
+ Bozor rivojlanishi.
+ Xaridorlarning extiyoji.
+ Davlat buyurtmalari.
+Tashqi iqtisodiy munosabtlar.
+Korxona faoliyatining samaradorligiga qanday omillar ta’sir etadi?
+Ichki va tashqi omillar
+ijobiy va salbiy omillar
+Samaradorlik faqat ichki omillarga bog’liq
+samaradorlik faqat tashqi omillarga bog’liq
+Uy xo‘jaliklarining asosiy belgisi:
+ O‘zining iste’moli uchun mahsulot ishlab chiqaradi
+Uy-joy qurish bilan shug‘ullanuvchi tadbirkorlar.
+Korxonasi uy hududida joylashgan tadbirkorlar.
+Fermer xo‘jaliklari.
+Iqtisodiy birliklar asosiy klassifikatsiyalanishi:
+ Xususiy korxonalar, davlat korxonalari, uy xo‘jaliklari.
+ Uy xo‘jaliklari, korxonalar, davlat muassasalari.
+Fermer xo‘jaliklari, supermarketlar va bank muassasalari.
+To'g'ri javob yo'q.
+Uy xo‘jaliklari qanday vazifani bajaradi:
+Hamma javob to‘g‘ri.  
+Korxonalar ist’emol mahsulotlarini xarid etadi.
+Korxona egalari sifatida ishtirok etadi.
+ Korxonalar uchun kapital va mehnat resurslarini yetkazib turadi.
+Stress bu :
+inglizcha so’zdan olingan bo’lib, asabiylik, keskinlik degan ma’noni anglatadi.
+Ishchi xodimlarni rivojlantirish bo’yicha tadbirlari majmui
+bu ishlash, boshqarishdagi o’ziga xos yo’l, usul ma’nosini anglatadi.
+Lotincha so’z bo’lib, narsalar tarkibiy qismlarining o’zaro bog’liq ravishda joylashishi, tuzilishini bildiradi
+Strategiya bu –
+grekcha «strategos» iborasidan olingan bo’lib, «general san’ati» ma’nosini bildiradi.
+Lotincha so’z bo’lib, narsalar tarkibiy qismlarining o’zaro bog’liq ravishda joylashishi, tuzilishini bildiradi.
+Ishchi xodimlarni rivojlantirish bo’yicha tadbirlari majmui
+bu ishlash, boshqarishdagi o’ziga xos yo’l, usul ma’nosini anglatadi.
+Iqtisodiy resurslarning yangicha tarkiblanishi:
+ Moddiy resurslar, xizmat, huquq va tadbirkorlik qobiliyati.
+ Mehnat, kapital, suv va tadbirkorlik qobiliyati.
+Moddiy resurslar, mehnat resurslari, suv resurslari va moliya resurslari.
+Infrastruktura, moliya, ishlab chiqarish texnologiyalari. 
+Iqtisodiy resurslarning an’anaviy tarkiblanishi:
+ Mehnat, kapital, yer va tadbirkorlik qobiliyati.
+ Moddiy resurslar, xizmat, huquqshunoslik va tadbirkorlik qobiliyati.
+ Moddiy resurslar, mehnat resurslari, suv resurslari va moliya resurslari.
+Infrastruktura, moliya, ishlab chiqarish texnologiyalari. 
+Iqtisodiy resurslarga bo‘lgan foydalanish huquqi quyidagi daromad tarkiblanishini anglatadi:
+ Renta, foiz, ish xaqi va foyda.
+ Yalpi daromad, foyda va cheklangan tushum.
+ Korxona daromadi, sof foyda va balanslangan foyda.
+Hamma javob to‘g‘ri.
+O‘zbekistonda tabirkorlikni ifodalovchi asosiy qonun:
+ “Tadbirkorlik faoliyati erkinliklarining kafolati to‘g‘risida” .  
+ “Fermyer xo‘jaliklari to‘risida”.
+ “Tadbirkorlik to‘g‘risida”.
+ “Ma’suliyati cheklangan hamda qo‘shimcha ma’suliyatli jamiyatlar to‘g‘risida”.
+Innovatsion faoliyatning bosh ishtirokchisi
+Inson
+yangi goyalar
+investitsiya
+fan
+Demografik jixatlarga kuyidagilardan kaysi biri kiradi:
+tadbirkorning yoshi va jinsi
+urf-odatlar
+axolining turmush darajasi va yashash sharoiti
+axolining ijtimoiy-iktisodiy, bilim darajalari
+Iqtisodiy usullar xodimlarning shaxsiy manfaatlariga nima orqali  ta’sir ko‘rsatadi?
+ish haqi, mukofot, jarimalar
+to‘g‘ri qilingan tanqid
+narx-navo
+intizom
+Xalqaro kompaniyalarning tashkil etilishiga quyidagilardan qaysi biri ko'prok ta’sir ko'rsatadi
+geografik joylashuv  va tovar
+Demografiya
+ijtimoiy jixatlar
+xodimlar
+Korxonalarning kattaligi asosan quyidagi ko‘rsatkichlarga bog‘liq:
+ barcha  javob to‘g‘ri.
+Sarmoya etilgan kapital hajmi.
+Qo‘shilgan qiymat salmog‘i.
+ Band bo‘lgan ishchi va xizmatchilar soni, sotuvlar hajmi.
+Tovar-bu......................
+ ishlab chiqaruvchi faoliyatining iste’molchiga shartnoma bo‘yicha sotish uchun mo‘ljallangan mahsuli, shu jumladan import mahsuloti.
+ ishlab chiqaruvchi faoliyatining iste’molchiga shartnoma bo‘yicha sotish uchun mo‘ljallangan mahsuli.
+maslahatlar byermasdan faqat bitimni bozorga chiqaruvchi brokyer hisoblanadi.  
+ xususiy shaxs bevosita birjada bitimlarni amalga oshirish huquqiga ega emas.
+Internet do‘konning  oddiy savdodan ajratib turuvchi jihati keltirilgan qatorni ko‘rsating.
+ unda tovar va xizmatlarni ko‘proq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida maksimal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+ unda tovar va xizmatlarni ko‘proq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida minimal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+ unda tovar va xizmatlarni kamroq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida minimal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+ unda xizmatlarni kamroq sonda taqdim etish va iste’molchilarni xarid haqida qaror qabul qilish uchun bu tovarlar haqida minimal darajada axborot bilan ta’minlash imkoniga ega bo‘ladi.
+Tovarni xaridorga etkazib berishning nechta  usuli mavjud
+ 5 ta
+ 6 ta
+ 7 ta
+ 4 ta
+Biznes  jarayonlarining  moliyaviy menejmenti qaysi  munosabatlarni ifodalaydi?
+ Hammasi
+ Korhona - korhona
+ Korxona - shahs
+ Davlat - korhona
+Biznes   jarayonlarining  moliyaviy menejmenti :
+ Korhonaning  moliyaviy holati bilan  chambarchas  bog‘liq
+Ishlab  chiqarish  faoliyatini  boshqaradi
+Savdoni to‘g‘ri tashqil  etishga  ta’sir ko‘rsatadi
+Kadrlarni  tanlash  va  tayyorlashga  ta’sir  qo‘rsatadi
+Biznes  faoliyatining  moliyaviy natijasini ifodalovchi asosiy ko‘rsatkichini ko‘rsating.
+ Foyda
+Tannarh
+ Narh
+Realizatsiya
+Mahsulot tannarhi  quyidagilardan  tashkil topadi:
+ Barchasi to‘g‘ri
+Moddiy ,  mehnat  va boshqa  harajatlar 
+Ma’lum  davr  harajatlari  , tasodifiy harajatlar
+Moliyaviy  faoliyat bilan bog‘liq harajatlar
+Boshqaruv piramidasining cho‘qqisida kim turadi?
+rahbar
+bosh mutaxassis
+texnik ijrochi
+sex boshligi 
+Biznes samaradorligini  o‘stirishning  asosiy  yo‘nalishlari   qaysilar? 
+  Ilg‘or texnologiya , zamonaviy   uskunalar , xom-oshyo va materiallarning  yangi  turlaridan   foydalanish.
+ Asosiy  fondlar  va aylanma  mablag’‘lardan  yahshiroq   foydalanish
+Mehnatni  tashkil  qilishning  samarali  yo‘llaridan  va menejment  amaliyotining  ilg‘or   yutuqlaridan foydalanish 
+Barchasi to‘g‘ri
+Investitsiyalarning iqtisodiy mazmuniga ko‘ra quyidagi turlari mavjud:
+ Real, moliyaviy, intellectual
+moliya, bugaltyeriya
+investitsiya, kapital
+kredit, kapital
+Iqtisodiy atama va tushunchaga aylangan «investitsiya» so‘zi qaysi tilidan kirib kelgan.
+ lotin
+ fransuz
+ ingliz
+fors
+Investitsiyalar atamasini adabiyotlarda aynan qanday  ma’nolarda qo‘llash holatlari ko‘p uchraydi.
+ «kapital qo‘yilmalar», «kapital» tushunchalari bilan
+«kapital», «amonat» tushunchalari bilan
+«moliya», «kapital» tushunchalari bilan
+ «omonat» «kredit» tushunchalari bilan
+Boshqaruv tushunchasining paydo bo‘lishi nima bilan bo‘g‘liqdir?
+ odamlarni yoki jamoa mehnat faoliyatini bir joyga jamlash 
+ maxsus tashkilotchilik, ma’muriyat, Iqtisodiyot va boshqa
+ ishlab chiqarish vazifalarini yo’qlash
+ boshqaruv apparatini bunyod qilish
+Motivatsiya – bu…
+maqsadga erishish yo‘lidagi ishga har birining o‘zida shaxsiy ehtiyoji  bo‘lgan kishi yoki kishilar guruhi istaklari  
+uzaro boglik elementlar yigindisi
+xulq-atvor usul  va uslublarining yig‘indisi
+o‘zaro bir-biri bilan alokador elementlar yig‘indisi
+Ixtiro natijasida  nima yaratiladi?
+  Yangi usul taklif etiladi
+  Masalaning echimi taklif etiladi
+  Biror bir muammo hal etiladi
+  muhim yangiliklar yaratiladi
+Innovatsiyalar asri  qachondan boshlangan?
+ XX asrning 1-yarmi 
+ XXI asrning 2-yarmi
+ XXI asrning 1-yarmi
+ XX asrning oxiri
+Innovatsiya jarayonini birinchi marotaba ilmiy asoslagan olim?
+ I. SHumpetyer 
+ T.Veblen
+ J.K.Gelbreyt
+ Jon Meynard Keyns
+Inson intellektining asosiy omillari:
+ Tug‘ma iste’dod, bilim va axborotga ega bo‘lish
+ Insonning sog‘ligi va daromadlari miqdori
+ Jo‘shqin faoliyati va faol harakati
+ Yaratilgan imkoniyatlar va iqtisodiy vaziyat
+Hozirgi davrda iqtisodiyotning qaysi yo‘nalishiga ustuvorlik berilmoqda?
+ Raqobatbardosh texnologik iqtisodiyotga
+ Qishloq xo‘jaligi ustuvor bo‘lgan iqtisodiyotga
+ Xizmat ko‘satish ustuvor bo‘lgan iqtisodiyotga
+ Xom-ashyo etishtirishga ixtisoslashgan iqtisodiyotga
+Intellektual mulk huquqi – bu?
+ Aqliy faoliyat natijasiga tegishli huquq
+  Inson hayoti xavfsizligiga tegishli huquq
+  Mehnat qilishga bo‘lgan huquq
+  Tadbirkorlik faoliyati huquqi
+Insonning innovatorlik xususiyatlari nimalarda namoyon bo‘ladi?
+ Insonning yangilik yaratishi qobiliyati va intilishi 
+ Insonning faolligi va dunyoqarashi
+ Insonning mehnat qilish layoqati
+ Insoning mulkdorligi va uni ishlatish imkoniyatlari 
+Zamonaviy iqtisodiyotda har qanday mamlakatning ijtimoiy-iqtisodiy rivojlanishini xal qiluvchi omil sifatida qaraladi
+ Innovatsiya 
+ Fan-texnika
+ Kapital
+ Ishlab chiqarish
+Innovatsion loyihaning samaradorligi nimadan iborat?
+ Ishlab chiqarish hajmlarining o‘sishidan olingan samaradan 
+ Yangiliklarni ishlab chiqarishga joriy etishdan tushgan foydadan
+ Firmaning umumiy rivojlanishidan
+ Rejalar to‘plamidan olgan foydadan 
+Qanday  innovatsiyalar eng yaxshi o‘rganilgan innovatsiyalar deb hisoblaniladi?
+ Texnologik 
+ Geologik
+ Fizik
+ Arxitektura
+Yuqori texnologiyalar bozoridagi raqobat kurashiga muvaffaqiyatli qo‘shilib kelayotgan davlatlar qaysi javobda to‘g‘ri berilgan?
+ Janubiy Koreya, Singapur, Gonkong 
+ O‘zbekiston, Rossiya, Xindiston
+ Turkiya, Xindiston, Rossiya
+ Xitoy, Braziliya, Ozarbayjon
+Intellekt deganda nimani tushunasiz?
+ inson aqliy qobiliyati va muxitni ongda aks etishi
+ insonning etuklik darajasi
+ insonning jismoniy qobiliyati
+  insonning aqliy qobiliyatiga berilgan baho 
+Intellekt bilan bog‘liq bo‘lmagan omillar?
+ odamning jinsi va jismoniy imkoniyatlari
+ insonning bilimi va uni boyitib borishi
+ insonning xayotiy tajribasi
+ voqea va xodisalarni o‘zlashtirish
+Masalaga har tamonlama yondashish bilan tadbirkor quyidagilardan  qaysi birini  o‘zida rivojlantiradi?
+ ijodiy echimlar
+ amaliy dalillar
+ keraksiz nizolar
+ kutilmagan natijalar
+Kompaniyaning barcha faoliyatlari  va ularning bir-birlari bilan qanday munosabatda bo‘lishlari nima deb ataladi?
+ biznes opyeratsiyalari
+ samaradorlik standartlari
+ aloqa maqsadlari
+ kerakli natijalar
+Nima uchun korxonalar samarali ishlab chiqarishga  ega bo‘lishlari muhim?
+ raqobatbardosh bo‘lishlari uchun
+ moslashuvchan bo‘lishlari uchun
+ xodimlarga xaq to‘lash uchun
+ resurslarni sotib olish uchun 
+Kompaniyani o‘z biznes jarayonlarini  o‘zgartirishga olib kelishi  mumkin bo‘lgan  asosiy tashqi  omillardan biri bu?
+ raqobat
+ o‘sish uchun intilish 
+ xodimlar ma’naviy ruhining kamligi
+ yuqori ish xaqi
+Quyidagilardan qaysi birini taklif qilish orqali biznes veb-saytining  mijozlarga xizmat ko‘rsatishi ta’minlanadi?
+ mahsulot, hizmat yangiliklari, ko‘p beriladigan savollar saxifasi va onlayn  yordam paneli
+  bepul tarqatish, elektron pochta imkoniyatlari va kredit ruxsatnomalari
+ suhbat bo‘limlari, hisob raqamlari va moliyaviy  ma’lumot
+ hisob raqamlarni onlayn ko‘rsatish, savdo  hisobotlari va bepul  telefon raqami 
+Mijozlarni qo’llab quvvatlash hizmati tomonidan foydalanilgan mijozlar bilan munosabatni qurish ilk kanali qaysi? 
+ Pochta
+ Elektron pochta
+ Telefon 
+ Internet 
+CRM loyixasini joriy etish jarayonining ajralmas qismi hisoblanuvchi bosqichni tanlang: 
+ xodimlarni o’qitish
+ Ma’lumotlar konvertatsiyasi
+ CRM tizimini qo’llab quvvatlash
+ to‘g‘ri javob yo‘q
+CRM tizimini joriy etishda menejerda salbiy munosabat uyg’otuvchi sababni ko’rsating:
+dasturning murakkab intyerfeysi
+aloqa kanallarining yomonligi
+  mijozlar haqida ma’lumotlar yo’qligi
+ma’lumotni tizimga kiritish
+Aksiya egalari kim deb nomlanadi
+ barcha javoblar to‘g‘ri
+ iqtisodiyotni tartiblash va qiymatni tovar shaklidan pul shakliga aylantirish funksiyalari
+ mamlakatlar, xalqlar o‘rtasida iqtisodiy hamkorlikni o‘rnatish funksiyasi
+ ishlab chiqarish bilan iste’molni bog‘lash va ishlab chiqarishni yangilashga shart-  sharoit hozirlash funksiyalari
+"Bozor iqtisodiyoti"ni qanday tushunasiz?
+tashkilot xissadorlari
+Ekspertlar
+tashkilot a’zolari
+kuzatuvchilar
+Bozorlarning qanday turlarini bilasiz?
+ barchasi to’g’ri; 
+ Ishlab chiqarish omillari (resurslari) bozorini;
+ Moliyaviy bozorni;
+ Mahsulot va xizmatlar bozori;
+"Korxona (firm ishlab chiqarish imkoniyatlari" deganda nimani tushunasiz?
+ Korxona (firmning maksimum darajada mahsulot ishlab chiqarishni (xizmat qilishni) tushuniladi; 
+ Korxona (firmning minimum darajada mahsulot sotishni tushuniladi;
+ hammasi to’g’ri;
+ tog’ri javob yoq
+"Mahsulotlarga bo’lgan talab" deganda nimani tushunasiz?
+ Iste’molchilarning sotib olish imkoniyati asosida ma’lum vaqt birligida, ma’lum miqdordagi tovarni ma’lum bir baholarda sotib olish xoxishini;
+ Iste’molchilarning ma’lum vaqt birligida, ma’lum miqdordagi tovarni sotib olganliklarni;
+ Ma’lum shaxs, bir toifadagi odamlar yoki umuman axolining ma’lum vaqt birligida, ma’lum miqdordagi tovarni iste’mol qilganliklarini;
+ hammasi to’g’ri;
+Mahsulotga bo‘lgan talabga qaysi omillar ta’sir etadi?
+ Keltirilgan hamma javoblar to’g’ri. 
+ o‘rin almashinuvchi tovarlarning tannarxini o’zgarishi;
+ inflyasiya kutilishi;
+ tovarning narxi va xaridorlarning pul daromadi;
+Talab bahoga nisbatan qanday bog’liqlikga ega?
+ Teskari; 
+ To’g’ri;
+ Bahoga nisbatan bog’liq emas;
+ Hamma javoblar to’g’ri;
+"Taklif" deganda nimani tushunasiz?
+ Sotuvchilarning (ishlab chiqaruvchilarning) ma’lum vaqt birligida, ma’lum baholarda ma’lum miqdordagi tovarlarni sotish xoxishini; 
+ Sotuvchilarning (ishlab chiqaruvchilarning) ma’lum vaqt birligida, ma’lum miqdordagi tovarlarni sotilganligini;
+ Iste’molchilarning ma’lum vaqt birligida, ma’lum miqdordagi iste’mol qilingan tovarlar miqdorini;
+ hammasi to’g’ri;
+Taklif hajmiga qaysi omillar ta’sir etadi?
+ hammasi to’g’ri;
+ Tovarlarni ishlab chiqarish uchun qo‘llanilayotgan texnologiyalariing xususiyati;
+ Davlat soliqlari, dotatsiyalari hajmi, tabiiy shart-sharoitlar;
+ Sotiladigan (taklif etiladigan) tovarlar bahosi;
+Bozor raqobatining turlari:
+ bir necha sotuvchilar bilan bir necha xaridorlar o’rtasidagi oldi-sotdi munosabat; 
+ sof raqobat;
+ monopolistik raqobat;
+ monopolistik, oligopolistik va sof raqobat;
+Ishbilarmonlik muzokaralari –bu
+kamida ikki ishtirok etuvchi umumiy qarorlar yoki murosaga kelishga qaratilgan jarayon;
+xodimlar harakatini muvofiqlashtirish yoki jamoa bo‘lib qaror qabul qilish vositasi;
+ishlab chiqarish muammosi dalillari bilan tanishish
+axborot almashish jarayoni
+O‘z manfaatlari va maqsadlariga erishish uchun tomonlarning qarshi kurashishini ifodalovchi kishilar o‘rtasida o‘zaro ta’sirlashishning alohida turi:
+Nizo
+Shaxs
+Janjal
+Eskalatsiya 
+Nizoni keltirib chiqaruvchi kommunikatsion texnikani ko‘rsating
+salbiy baho berish
+surishtirish
+ma’qullash
+o‘zgacha ifodalash
+Nazorat-bu:
+tashkilot maqsadlariga erishishni ta’minlash vositasi;
+bo‘ysinuvchilarni o‘zlari xohlamagan holatlarni bajarishga majbur qilish;
+rahbarning istagi bo‘yicha harakatlar.
+xamma javoblar tugri
+SWOT taxlili:
+Kuchli, kuchsiz tomonlar, imkoniyatlar va xavf xatar
+Laboratoriyada tekshiruv
+Kengaytirilgan tekshiruv
+Moliyaviy taxlil
+Marketing kommunikatsiyalari majmuasi:
+Reklama, PR, sotishni rag‘batlantirish, shaxsiy sotuv
+Televidenie, pressa, tashqi vitrinalar
+Asosiy kommunikativ o‘lchov birliklari      
+Reklama
+Maqsadga erishish uchun shaxs va guruxlarga o‘z ta’sirini o‘tkazish mahorati:
+etakchilik
+menedjer
+korxona rahbari
+boshqaruvchi
+Tovarning hayotiylik davri
+Bozorga kirish,  o‘sish, etuklik va tushish  
+Tizimlashgan
+Yashirin
+Bozorda faoliyat davri
+Maqsadli auditoriya:
+Firmaning potensial tovar sotib oluvchilari
+Tovar sotib oluvchilar
+Tadqiqotchilar
+Iste’molchilar to‘plami
+Strategiya nima?
+Uzoq muddatli maqsad
+Istiqbolni tadqiq qilish
+O‘rta va uzoq muddatli maqsad
+Maqsadga erishish vositasi
+Korxona xodimlarining o‘z vazifalarini bajarishlarida qaysi  funksiyalar ularga ta’sir etadi :
+Motivatsiya
+Rejalashtirish
+Tashkil etish
+Nazorat
+Tadbirkor  kim?
+Jamoa orasida nisbatan tashabbuskor,  harakatchan,  mulohazali,  yangilikka intiluvchan  shaxs
+Shaxsiy  mehnat faoliyati tarixi;
+Boshqaruv san’ati  va mahorati;
+Odamlarga xolis xizmat qiluvchi;
+Bozor segmentining asosiy ob’ektlari:
+ iste’molchilar;
+ raqobatchilar 
+ sotuvchilar;
+ iste’molchi va sotuvchi
+Menejer  kim?
+Yollanma  professional boshqaruvchi
+O‘z ixtiyoriga ko‘ra o‘ziga tegishli mol-mulkka egalik qiladi
+Xududiy va tarmoq funksiyalari
+Boshqarish san’ati  va mahorati;
+Korxonaning kuchli va zaif tomonlarini aniqlashda:
+ barcha ko‘rsatilgan javoblar noto‘g‘ri
+ to‘g‘ri rejalashtirish texnologiyasiga rioya qilish uchun;
+ natijaviy rejalashtirishni amalga oshirish uchun 
+ nima yuz berayotganini yaxshi anglash uchun
+Tashkilotning tashqi muhiti... bo‘linadi:
+ bevosita va bilvosita ta’sir
+ ikkilamchi va bevosita ta’sir 
+ Sekinlashtirilgan ta’sir
+ to‘g‘ridan-to‘g‘ri va sekinlashtirilgan ta’sir
+Bozor iqtisodiyoti sharoitida qanday korxonalar faoliyat yurgizadi?
+ barcha javoblar to’g’ri; 
+ Kichik va ijara korxonalari;
+ Aksionyerlik va qo’shma korxonalar;
+ Davlat va koopyerativ korxonalari;
+Turli shakldagi korxonalarni rivojlantirish zaruriyati nimada?
+Tovar ishlab chiqaruvchilarning sonini ko’paytirish va shu asosda raqobatli ishlab chiqarishni tashkil etish uchun; 
+Yuqori rentabellika ega bo’lgan korxona shaklini tanlab olish uchun;
+Korxonalar tashkil etiladigan zonalar, rayonlarning tabiiy-iqtisodiy shart sharoitlari turli hilda bo’lganligi uchun;
+ hammasi to’g’ri;
+"Ishlab chiqarish funksiyasi" deganda nimani tushunasiz?
+ Ishlab chiqarish omillarining ishlab chiqarish texnologiyasi va oxirgi natija bilan bog’liqligini; 
+ Ishlab chiqarish omillarining o’zaro bog’liqligini;
+ Mehnat resurslaridan samarali foydalanish;
+ hammasi to’g’ri;
+Tovar sifati – bu
+Tovarning xaridorlar zarur deb bilgan funksional xususiyatlarini yig‘ish.
+Tovar qobiliyati o‘zining funksional ko‘rsatmalarini bajaradi
+Ko‘rinadigan kamchiliklarning bo‘lmasligi
+Iste’mol qiymati
+YAngi mahsulot yaratish jarayonida birinchi bosqich-bu
+G‘oyani yaratish
+Boshqaruv tahlili
+Tovarni konstruksiyalash
+O‘sish
+Tadbirkorning asosiy maqsadi:
+Daromadini maksimallashtirish.
+Ijtimoiy sohani rivojlantirish.
+Infrastrukturani rivojlantirish.
+Aholi daromadlarini oshirish.
+Tadbirkorlik bilan kim shugullanishi mumkin?
+davlat ruyxatidan utgan jismoniy va yuridik shaxslar.
+jismoniy shaxslar;
+yuridik shaxslar;
+barcha fukarolar;
+"Qo‘shimcha harajat" deganda nimani tushunasiz?
+ Qo’shimcha mahsulot birligini ishlab chiqarish uchun sarflangan umumiy harajatlarning o’sgan qismini; 
+ Qo’shimcha mahsulot birligini ishlab chiqarish uchun qo’shimcha tarzda sarflangan asosiy ishlab chiqarish fondlarini;
+ Qo’shimcha mahsulot birligini ishlab chiqarish uchun ishchilarga berilgan qo’shimcha ish haqi;
+ hammasi to’g’ri;
+"Boy berilgan imkoniyatlari harajati" deganda nimani tushunasiz?
+ Ishlab chiqarish resurslaridan altyernativ eng qulay variantlarda foydalanmaganlik okibatidagi yo’qotishni;
+ Mavjud resurslarini korxonalar talon–taroj qilishga yul kuyilganligi okibatida vujudga keladigan zararni;
+ Korxonalarni xorijiy davlatlar bilan fakat xom-ashyo resurslari bilan savdo-sotik qilish okibatida vujudga keladigan ziyonni;
+ hammasi to’g’ri;
+"Raqobat" deganda nimani tushunasiz?
+ Mustaqil tovar ishlab chiqaruvchilar bilan iste’molchilarning o’rtasidagi bozordagi talab va taklif asosidagi munosabatini; 
+ Mustaqil davlatlar o’rtasida tovarlarni qulay sharoitda yaxshi foyda keltiradigan narxda katta hajmda sotishni;
+ Mustaqil tovar ishlab chiqaruvchilar o’rtasida tovarlarni qulay sharoitda ishlab chiqarish va raqobat narxda yaxshi foyda keltiradigan katta hajmda sotishni;
+ hammasi to’g’ri;
+"Dividend" nima?
+ Aksionyerlik jamiyati foydasining aksiya egasining daromadiga aylangan qismi;
+ Aksionyer bulish uchun aksiya sotib olishda tulanadigan pul mablag’i;
+ Bank mablag’laridan foydalanilganligi uchun banklarga tulanadigan ustama (%) pul mablag’i;
+ hammasi to’g’ri;
+"Monopoliya" deganda nimani tushunasiz?
+ Ma’lum turdagi tovarni sotishda tanxo hukmronlik qiluvchi korxona faoliyatiga asoslangan bozor strukturasini; 
+ Iqtisodiyotning bir yoki bir necha tarmoqlarida hukmronlik qilishga asoslangan bozor strukturasini;
+ Bir necha sotuvchilar (ishlab chiqaruvchilar)ning kelishilgan xolda faoliyat yuritishlariga asoslangan bozor strukturasini;
+ hammasi to’g’ri;
+"Biznesmen" so‘zi ilk marotaba qaerda va qachon paydo bo‘lgan?
+Angliyada 18 asrda
+Italiyada 15 asrda
+Osiyoda 16 asrda
+Amerikada 16 asrda
+Marketing miksda 4R nazariyasining asoschisi kim?
+J. Makkarti
+J. Svift
+A. Maslou
+F. Kotler
+Foydani maksimallashtirish kimning manfaatida?
+ Xususiy firmalarning. 
+ Yer egalarining;
+ Ishchilarning;
+ Iste’molchilarning;
+"Xavf-xatar" va "tavakkalchilik" ma’nosini beruvchi so‘zni toping?
+Risk
+Bankrot
+Nizo
+Virus 
+SWOT so‘zidagi harflar qisqartmasining  ma’nosini toping:
+kuchli, kuchsiz, imkoniyat, tahdid
+kuchli, kuchsiz, majburiyat, sharoit
+imkoniyat, zarar, xatar, vakolat
+imkoniyat, kuchsiz, zarar, majburiyat
+Korxonaning asosiy ta’sis hujjati nima?
+Korxona nizomi
+korxona ruxsatnomasi
+korxona kapitali
+korxona shartnomasi
+Monopolistik raqobat: 
+ koʻpgina sotuvchilar oʻxshash boʻlgan, ammo bir xil boʻlmagan tovarlarni taklif qiluvchi bozor turi hisoblanadi 
+ son jixatidan kup bulmagan, bozorga bir xil o’xshash yoki o’rinbosar  tovarlar chiqaradigan firmalarning o’zaro raqobati
+ bozorga xar xil o’xshash yoki o’rinbosar tovarlar chiqaradigan firmalarning o’zaro raqobati
+ to’g’ri javob yo’q
+Tadbirkorning ish quroli nima?
+biznes reja
+ta’sis hujjati
+korxona nizomi
+Kapital
+Biznes rejani kim tayyorlash huquqiga ega?
+tadbirkor, menejer, konsalting tashkiloti
+xodim, biznesmen, ishchi
+rahbar, kotiba, boshqaruvchi
+tadbirkor, mutaxassis, qorovul
+Bilvosita sotish:
+ vositachi orqali sotish  
+ vositachisiz to’g’ridan to’g’ri sotish
+ mustaqil sotish
+ to’g’ri javob yo’q
+Iqtisodga  ta’sir qiluvchi tashqi omillar
+ sotsial, ijtimoiy, huquqiy va x.k.o.
+ firma yoki tarmoq bilan bog‘lik ichki ko’rsatkichlar 
+ kuzatilayotgan xulkning darajalari soni
+ to’g’ri javob yo’q
+Iqtisodga ta’sir qiluvchi ichki omillar
+ firma yoki tarmoq bilan bog’liq ichki ko’rsatkichlar 
+ fan va texnika taraqqiyoti
+ sotsial, ijtimoiy, huquqiy va x.k.o
+ hamma javoblar to’g’ri 
+Marketing - miks nima?
+marketing vositalaridan muvofiqlashgan holda foydalanish
+bozorni tadqiq qilish
+talabni qondirish
+iste’molchini izlash
+Bozor qachon mavjud bo’ladi?
+ haridorlarning ehtiyoji va talablari mavjud bo’lganda;
+ tovarlar reklama qilinganda;
+ tadbirkorlar do’konlar qurganda;
+ tovar va xizmatlarni ayirboshlash jarayonida
+YAkka tartibdagi tadbirkorlikni kim amalga oshiradi?
+jismoniy shaxs
+yuridik shaxs
+tashkilot
+davlat
+Hohish talabga qachon aylanadi?
+ sotib olish imkoniyati bo’lganda;
+ sotib olish imkoniyati bo’lmaganda;
+ talab qondirilganda;
+ehtiyojlik bo’lganda
+Sug‘urtaning qanday usullari mavjud?
+ixtiyoriy yoki majburiy
+umumiy yoki yakka
+xavfli yoki xavfsiz
+tashkiliy yoki individual
+"Risk" so‘zi italyancha qanday ma’noni bildiradi?
+suv ostidagi qoyalik
+suv ostidagi kenglik
+suv ostidagi chuqurlik
+suv ostidagi past tekislik
+Pulning qadrsizlanishi, ishsizlik darajasi, texnologik o‘zgarishlar - bu,......
+iqtisodiy risk
+iqtisodiy inqiroz
+iqtisodiy to‘ntarish
+iqtisodiy qoloqlik
+Iste’molchilar mahsulotlardan o’ziga kerakligini qanday tanlaydilar?
+ narsalarni qiymatini narx orqali solishtirish bilan;
+ anik extiyojlarni kondirishiga qarab;
+ iste’mol qiymati nazarga olin holda;
+ narsalarni ist’emol qiymati solishtiriladi 
+Bozorda xatti-xarakat nimaga asoslanadi?
+ anik maksadga va iste’molchining extiyojiga;
+ atrof-muxit ta’siriga;
+ psixologik omillarga;
+ Hamma javoblar to’g’ri.
+Ehtojlik qachon paydo bo’ladi?
+ hayot faoliyatini saqlab turish uchun zarur boʻlgan narsalarga talab, muhtojlik;
+ bozorga qatnashmaganligi uchun;
+ iste’molchilarni bozorga qatnashish natijasida;
+ sotuvchilar mahsulotlarini bozorga olib kelmagani sababli.
+Muxtojlik sotuvchilarga bog’liqmi?
+ yo’q bog’liq emas;
+ sotuvchilarga bog’liq;
+ xaridorlarning bozorda hohlagan narsalarni topib olmaganligi sababli;
+ bozorda narxlarning baland darajada bo’lganligi sababli.
+A.Maslouning motivatsiya nazariyasi nimaga asoslangan?
+ ehtiyojlikni o’zgarishi asos bo’ladi
+ odamlarni fiziologik holatiga
+ imkoniyatlar tahliliga;
+ hohishning o’zgarishi asos bo’ladi.
+Istiqbolni tadqiq qilish, turli tadbirlarni tahlil qilish san’ati nima deb ataladi?
+Strategiya
+Bashorat
+Motivatsiya
+kon’yunktura
+Bozor iqtisodiyoti sharoitida mahsulot sifati va uning bahosi iste’molchilar uchun qulayligi nima bilan aniqlanadi?
+ raqobatbardoshligi orqali;
+ davlatni tartibga solish tadbirlari orqali;
+ qiymati doimiyligi bilan;
+ tovarni eksport qilish zarurligi bilan.
+Bozorda raqobatchilik oshadi:
+ tovarlarni bahosi past bo’lsa;
+ tovarni bahosi yuqori bo’lsa;
+ agar tovar bahosi doimiy o’zgarmaydigan holda bo’lsa;
+ narxlarning o’zgarishi raqobatbardoshlikka ta’sir qilmaydi.
+"Marketing" atamasi qaerda va qachon vujudga kelgan?
+AQSHda 19 asr boshida
+Angliyada 18 asrda
+Germaniyada 18 asrda
+ tovarlar bozorlari kon’yuktura o’zgarishlariga monopoliyalar ta’sir qilmaydi.
+Mehnat jamoasi –  bu :    
+xodimlarni birgalikda mehnat faoliyatini amalga oshiruvchi birlashmasi.
+boshqaruv vazifalariga erishishni ko‘zda tutuvchi tizimlashtirilgan, ongli birlashmasi.
+boshqaruv va tadbirkorlik sohasida tashkilot va uning a’zolari faoliyatida qo‘llaydigan etik tamoyil va me’yorlar yig‘indisi.
+jamoa a’zolari o'rtasidagi munosabat
+Biznes rejani ishlab chiqishdan asosiy maqsad -... 
+firma faoliyatini kelgusi davr va ayrim olingan davrdagi bozor ehtiyojlari va zaruriy manbaalar olish imkoniyatlaridan kelib chiqishdir.
+chuqur o‘ylab tayyorlangan hujjat.
+ko‘zlangan maqsadga erishish.
+Uzoqqa ko‘zlangan maqsad.
+Raqobatchilar bozori:
+ sotuvchi va xaridorlar ko’pligi bilan farklanadi;
+ bir necha yirik firmalar xukumdorlik qiladigan joy;
+ davlat tomonidan tartibga solinadi.
+ oligopoliya va monopoliyani uziga kiritadi.
+Tadbirkorlik — ...
+bu o`z mulkini ishlatib yoki o`zga mulkidan amalda foydalanib, tovarlar yaratish yoki xizmatlar ko`rsatish.
+Tadbirkorning boyishdan iborat iqtisodiy manfaati hisoblanadi.
+foyda olish orqali erishiladi.
+o`z mulkiga tayanib yoki o`zga mulkini ijaraga olib ishlaydi.
+O’tish davri iqtisodiyotida narxlar qanday belgilanadi?
+Bozor kuchlari tomonidan
+Davlat tomonidan
+Monopoliyalashgan bozor egalaridan
+Markazlashgan kuchlar tomonidan
+Bozor sharoitida raqobatchilik quyidagilar oraligida olib boriladi:
+ ishlab chiqaruvchilar, mahsulotlar va iste’molchilar;
+ ishlab chiqaruvchilar;
+ xaridorlar;
+ ishlab chiqaruvchilar va xaridorlar.
+Bozorning vazifasi nimadan iborat?
+Kafolatlangan sifatli, iste’molchilar talablariga javob beradigan raqobatbardosh mahsulotlar ishlab chiqarish.
+Mahsulot uchun xaridor topish
+Reklama qilish
+Korxona tomonidan ishlab chiqarilgan mahsulotlar sifatini nazorat qilish
+Bozor sharoitida raqobatchilik munosabatlarida kimlar va  nimalar qatnashadi?
+ ishlab chiqaruvchilar, iste’molchilar va mahsulotlar;
+ ishlab chiqaruvchilar;
+ xaridorlar;
+ ishlab chiqaruvchilar va haridorlar.
+Firmaning istiqbolini belgilash, uning kelajagi uchun ahamiyatli chora-tadbirlarni ishlab chiqish bilan
+yuqori pog’onadagi menejerlar shug’ullanadi
+o’rta pog’onadagi menejerlar shug’ullanadi
+quyi pog’onadagi menejerlar shug’ullanadi
+barcha pog’onadagi menejerlar shug’ullanadi
+Firmaning obro’yini o’ylaydigan menejerni …… qiziqtiradi.
+mahsulotning sifati, qadoqlanishi, markirovkasi, hamda iste’molchilarning xavfzizligi
+faqat o’zining foydasini ko’zlash,
+firmaning foydasini oshirishning oson va tez yo’lini topish
+daromadning darajasini pasaytirish
+Firmaning ta’sischilari sifatida …… qatnashadi.
+yuridik va jismoniy shaxslar
+faqat yuridik shaxslar
+faqat jismoniy shaxslar
+firmaning rahbariyati
+Nizom …… tomonidan ishlab chiqiladi. 
+ ta’sischilar
+xokimiyat
+firma direktori
+aksiyadorlar
+Nazorat - bu:
+Tashkilotning muayyan vazifalarini bajarish va maqsadlariga erishishni ta'minlash bo'yicha boshqaruv faoliyati turi;
+Inson faoliyatining turi;
+Tashkilot xodimlarining ishini nazorat qilish;
+Xodimlar tomonidan individual topshiriqlarning bajarilishini nazorat qilish;
+Ichki muhitning xususiyatlari
+ korxona faoliyatiga bog’liq bo’lgan ma’lumotlar; 
+ korxonaga bog’liq bo’lmagan ma’lumotlar to’plamining o’zgarishi;
+ tashki muxitga bog’liq bo’lgan ma’lumotlar;
+ hammasi to’g’ri.
+Axborot -kommunikatsiya sohasiga mansub tashkilotlar faoliyatining yakuniy mahsuloti - bu ….?
+aloqa xizmatlari
+ishlab chiqarish mahsulotlar
+mahsulot va xizmatlar
+to’g’ri javob yo’q
+Raqobatdoshlikka ta’sir etuvchi omillar va to’siqlar
+ barcha to’g’ri
+ valyuta kursini o’zgarishi, 
+ makro muxitni o’zgarishi;
+ savdo siyosati, bojxona soliklari va soliklar;
+SWOT-tahlil – bu:
+ to'rtta pozitsiyadan kelib chiqadigan vaziyatni baholashning bir yo'li:
+bu belgilangan maqsadga erishish uchun qadamlarni qidiradigan strategik tahlil usuli.
+bu operator kompaniyaning tashqi va ichki muhiti elementlarini ketma-ket ko'rib chiqishni va ularning marketing imkoniyatlariga ta'sirini baholashni o'z ichiga oladi.
+hammasi to’g’ri
+Innovatsiya bu:
+yangi mahsulotlarni joriy etish
+yangi rag'batlantirish tizimi
+fundamental ilmiy g'oya
+yangi texnologiyalar ob'ekti
+Innovatsiya atamasi va tushunchasini 1-marta kim va qachon qo’llagan?
+1912-yilda Shumpeter
+1911 -yilda Teylor
+1912-yilda Fayol
+1911-yilda Mak Gregor
+Jamoa oldiga qo'yilgan vazifalarning bajarilishini kim nazorat qilishi kerak ?
+rahbarlar
+Ishchilar
+Mutaxassislar
+Vazirlik
+ Yangi O‘zbekistonning taraqqiyot strategiyasi qaysi yillarga mo’ljallangan?
+2022 — 2026-yillarga
+2017-2022-yillarga
+2022-2025- yillarga
+2017-2021-yillarga
+Axborot lotincha informatio so`zidan olingan bo`lib, qanday ma’noni anglatadi?
+tushuntirish, biror narsani bayon qilish yoki biror narsa yoki hodisa haqidagi ma`lumot ma`nosini anglatadi.
+bu g’oyani tovarga izchil o’zgartirish jarayoni
+bu shaxsiy maqsadlar yoki tashkiliy maqsadlarga erishish uchun o'zini va boshqalarni harakatga undash jarayonidir.
+To’g’ri javob yo’q
+Korxona deganda nimani tushunasiz:
+ Xududiy, texnik va funksional bog‘langan ishlab chiqaruvchi birlik
+Savdo va ishlab chiqarish sohasida yuzaga kelgan iqtisodiy birlik.
+ Ishlab chiqaruvchi tadbirkor.
+Miliyaviy markazlashgan va huquqiy belgilangan iqtisodiy birlik.
+Investitsiya turlari to’g’ri ko’rsatilgan qatorni belgilang?
+real, moliyaviy, intelektual
+noreal,portfel, moliyaviy
+real,portfel,moddiy
+moddiy va ma’naviy
+Axborot deb…..?
+ inson sezgi organlari orqali qabul qiladigan barcha ma`lumotlarga aytiladi
+tashkilot - bu o'z maqsadlariga erishadigan odamlardan iborat yopiq tizim
+tashkiliy maqsadlarga erishish uchun o'zini va boshqalarni harakatga undash jarayonidir
+To’g’ri javob yo’q
+Iqtisodiy resurslarning an’anaviy tarkiblanishi:
+ Mehnat, kapital, yer va tadbirkorlik qobiliyati.
+ Moddiy resurslar, xizmat, huquq va tadbirkorlik qobiliyati.
+ Moddiy resurslar, mehnat resurslari, pul resurslari va moliya resurslari.
+Infrastruktura, moliya, ishlab chiqarish texnologiyalari. 
+“2022-2026 yillarga moʻljallangan Yangi Oʻzbekistonning taraqqiyot strategiyasi nechta bosqichdan iborat?
+5 bosqich
+6 bosqich
+10 bosqich
+7 bosqich
+O‘zbekistonda tabirkorlikni ifodalovchi asosiy qonun:
+ “Tadbirkorlik faoliyati erkinliklarining kafolati to‘g‘risida” .  
+ “Fermyer xo‘jaliklari to‘risida”.
+ “Tadbirkorlik to‘g‘risida”.
+ “Ma’suliyati cheklangan hamda qo‘shimcha ma’suliyatli jamiyatlar to‘g‘risida”.
+Xavf-xatar – bu:
+ korxona rejalari va byudjetini amalga oshirish nohushliklar (muvaffaqiyatsizliklar) ning yuzaga kelish ehtimoli
+biror narsani biron bir sinfga, razryadga yoki toifaga kirishini aniqlash,baholash
+tashkilot oldida turgan masalani yechishda kishining urinishi, harakati, matonati va halolligiga maqsadli yondashish
+bu rahbar, ishchi va boshqa xodimlar orasida muayyan masalalarni xal qilishda tomonlarning bir-biri bilan bir yechimga kela olmaganligi
+Lavozim – bu:
+korxona, muassasa, idora va tashkilotlarda biror rasmiy xizmatni bajarish bilan bog’liq bo’lgan vazifa.
+bu nizoli holatda muvaffaqiyatli chiqishning eng muhim sharti - bu murosaga kela olishlikdir
+bu amalga oshirilishi, hal qilinishi lozim bo’lgan masala, yechilishi lozim bo’lgan, ko’zda tutilgan maqsad.
+bu o’ziga tegishli tarmoqning xo’jalik tizimida boshqarishning eng oliy bo’g’inidir.
+Korxona faoliyatining samaradorligiga qanday omillar ta’sir etadi?
+Ichki va tashqi omillar
+ijobiy va salbiy omillar
+Samaradorlik faqat ichki omillarga bog’liq
+samaradorlik faqat tashqi omillarga bog’liq
+Nizo – bu:
+ rahbar, ishchi va boshqa xodimlar orasida muayyan masalalarni xal qilishda tomonlarning bir-biri bilan bir yechimga kela olmaganligi tufayli vujudga keladigan vaziyatdir
+ishlab chiqarishga tizimli joriy qilinadigan ilm-fan yutuqlari va ilg’or tajribalarga asoslangan mehnatni tashkil etish,
+bu kishilar o’rtasidagi o’zaro axborot almashuvidir
+bu muayyan masalani muhokama etish va oqilona qaror qabul qilish maqsadida uyushtiriladigan majlisdir
+Korxonalarning kattaligi asosan quyidagi ko‘rsatkichlarga bog‘liq:
+ barcha  javob to‘g‘ri.
+Sarmoya etilgan kapital hajmi.
+Qo‘shilgan qiymat salmog‘i.
+ Band bo‘lgan ishchi va xizmatchilar soni, sotuvlar hajmi.
+Qaysi unsurlar rahbar obro’siga putur yetkazadi? 
+byurokratizm, mahalliychilik, balandparvozlik, xushomadguylik, maqtanchoqlik
+bilimsizlik, o’z haq huquqini talab qilishlik, erkparvarlik
+xushchaqchaqlik, samimiyat, soddalik
+xodimlar bilan yaqin munosabatda bo’lishlik va qattiq qo’llik
+Internet orqali tovarlar va xizmatlarning tarqalishi qanday nomlanadi?
+elektron tijorat
+korruptsiya
+xosting
+raqamli iqtisod
 
